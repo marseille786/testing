@@ -1,0 +1,154 @@
+[
+  {
+    "foreign_question": "sugar",
+    "ru_question": "сахар",
+    "foreign_response": "^\\s*sugar\\s*$",
+    "ru_response": "^\\s*сахар\\s*$",
+    "sound": "sugar",
+    "preview": "sugar"
+  },
+  {
+    "foreign_question": "tea",
+    "ru_question": "чай",
+    "foreign_response": "^\\s*tea\\s*$",
+    "ru_response": "^\\s*чай\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "foreign_question": "Any questions?",
+    "ru_question": "Есть вопросы?",
+    "foreign_response": "^\\s*Any questions\\?\\s*$",
+    "ru_response": "^\\s*((Есть|Какие|Любые) вопросы)?\\s*$",
+    "sound": "any_questions-",
+    "preview": "any_questions-"
+  },
+  {
+    "foreign_question": "hello",
+    "ru_question": "привет (более официальный вариант)",
+    "foreign_response": "^\\s*hello\\s*$",
+    "ru_response": "^\\s*привет\\s*$",
+    "sound": "hello",
+    "preview": "hello"
+  },
+  {
+    "foreign_question": "hi",
+    "ru_question": "привет (менее официальный вариант)",
+    "foreign_response": "^\\s*hi\\s*$",
+    "ru_response": "^\\s*привет\\s*$",
+    "sound": "hi",
+    "preview": "hi"
+  },
+  {
+    "foreign_question": "good morning",
+    "ru_question": "привет (более официальный вариант)",
+    "foreign_response": "^\\s*good morning\\s*$",
+    "ru_response": "^\\s*привет\\s*$",
+    "sound": "good_morning",
+    "preview": "good_morning"
+  },
+  {
+    "foreign_question": "good evening",
+    "ru_question": "добрый вечер",
+    "foreign_response": "^\\s*good evening\\s*$",
+    "ru_response": "^\\s*добрый вечер\\s*$",
+    "sound": "good_evening",
+    "preview": "good_evening"
+  },
+  {
+    "foreign_question": "nice to meet you",
+    "ru_question": "",
+    "foreign_response": "^\\s*nice to meet you\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "nice_to_meet_you",
+    "preview": "nice_to_meet_you"
+  },
+  {
+    "foreign_question": "goodbye, see you soon",
+    "ru_question": "До свидания! До скорой встречи!",
+    "foreign_response": "^\\s*goodbye, see you soon\\s*$",
+    "ru_response": "^\\s*(До свидания\\!?[\\,\\.]? )?До скорой встречи\\!?\\.?\\s*$",
+    "sound": "goodbye,_see_you_soon",
+    "preview": "goodbye,_see_you_soon"
+  },
+  {
+    "foreign_question": "What's your name?",
+    "ru_question": "Как тебя зовут?",
+    "foreign_response": "^\\s*What(\\'| i)s your name\\?\\s*$",
+    "ru_response": "^\\s*Как тебя зовут?\\s*$",
+    "sound": "what's_your_name-",
+    "preview": "what's_your_name-"
+  },
+  {
+    "foreign_question": "My name is John.",
+    "ru_question": "Меня зовут Джон.",
+    "foreign_response": "^\\s*My name is John\\.?\\s*$",
+    "ru_response": "^\\s*Меня зовут Джон\\.?\\s*$",
+    "sound": "my_name_is_john",
+    "preview": "my_name_is"
+  },
+  {
+    "foreign_question": "Where are you from?",
+    "ru_question": "От куда ты?",
+    "foreign_response": "^\\s*Where are you from\\?\\s*$",
+    "ru_response": "^\\s*От ?куда ты( приехал)?\\?\\s*$",
+    "sound": "where_are_you_from-",
+    "preview": "where_are_you_from"
+  },
+  {
+    "foreign_question": "I'm from Ukraine.",
+    "ru_question": "Я из Украины.",
+    "foreign_response": "^\\s*I(\\'| a)m from Ukraine\\.?\\s*$",
+    "ru_response": "^\\s*Я (приехал )?из Украины\\.?\\s*$",
+    "sound": "i'm_from_ukraine",
+    "preview": ""
+  },
+  {
+    "foreign_question": "How old are you?",
+    "ru_question": "Сколько тебе лет?",
+    "foreign_response": "^\\s*How old are you\\?\\s*$",
+    "ru_response": "^\\s*Сколько (тебе|вам) лет\\?\\s*$",
+    "sound": "how_old_are_you-",
+    "preview": "how_old_are_you-"
+  },
+  {
+    "foreign_question": "I'm five years old.",
+    "ru_question": "Мне пять лет.",
+    "foreign_response": "^\\s*I(\\'| a)m five years old\\.?\\s*$",
+    "ru_response": "^\\s*Мне пять лет\\.?\\s*$",
+    "sound": "i'm_five_years_old",
+    "preview": "i'm__years_old"
+  },
+  {
+    "foreign_question": "How are you?",
+    "ru_question": "Как дела? (синоним 'What\\'s up?)",
+    "foreign_response": "^\\s*How are you\\?\\s*$",
+    "ru_response": "^\\s*Как дела\\?\\s*$",
+    "sound": "how_are_you-",
+    "preview": ""
+  },
+  {
+    "foreign_question": "What's up?",
+    "ru_question": "Как дела? (синоним 'How are you?)",
+    "foreign_response": "^\\s*What(\\'| i)s up\\?\\s*$",
+    "ru_response": "^\\s*Как дела\\?\\s*$",
+    "sound": "what's_up-",
+    "preview": "how_are_you-"
+  },
+  {
+    "foreign_question": "Fine, thanks",
+    "ru_question": "Хорошо, спасибо (Ответ на вопрос 'Как дела?')",
+    "foreign_response": "^\\s*Fine\\,? thanks\\s*$",
+    "ru_response": "^\\s*Хорошо, спасибо\\s*$",
+    "sound": "fine,_thanks",
+    "preview": "fine,_thanks"
+  },
+  {
+    "foreign_question": "so-so",
+    "ru_question": "так себе",
+    "foreign_response": "^\\s*so\\-so\\s*$",
+    "ru_response": "^\\s*так себе\\s*$",
+    "sound": "so-so",
+    "preview": "so-so"
+  },
+  {
+    "foreign_question": "And you?",
+    "ru_question": "А ты?",
+    "foreign_response": "^\\s*And you\\?\\s*$",
+    "ru_response": "^\\s*А ты\\?\\s*$",
+    "sound": "and_you-",
+    "preview": "and_you-"
+  },
+  {
+    "foreign_question": "That's great!",
+    "ru_question": "Это здорово!",
+    "foreign_response": "^\\s*That(\\'| i)s great\\!?\\s*$",
+    "ru_response": "^\\s*Это здорово\\!?\\s*$",
+    "sound": "that's_great!",
+    "preview": "that's_great!"
+  },
+  {
+    "foreign_question": "That's a pity!",
+    "ru_question": "Жаль!",
+    "foreign_response": "^\\s*That(\\'| is)s a pity\\!?\\s*$",
+    "ru_response": "^\\s*Жаль\\!?\\s*$",
+    "sound": "that's_a_pity!",
+    "preview": "that's_a_pity!"
+  },
+  {
+    "foreign_question": "come in",
+    "ru_question": "заходи",
+    "foreign_response": "^\\s*come in\\s*$",
+    "ru_response": "^\\s*заходи\\s*$",
+    "sound": "come_in",
+    "preview": "come_in"
+  },
+  {
+    "foreign_question": "say hello",
+    "ru_question": "поздороваться",
+    "foreign_response": "^\\s*say hello\\s*$",
+    "ru_response": "^\\s*поздороваться\\s*$",
+    "sound": "say_hello",
+    "preview": "say_hello"
+  },
+  {
+    "foreign_question": "please",
+    "ru_question": "пожалуйста (при просьбе)",
+    "foreign_response": "^\\s*please\\s*$",
+    "ru_response": "^\\s*пожалуйста\\s*$",
+    "sound": "please",
+    "preview": "please"
+  },
+  {
+    "foreign_question": "What do you look like?",
+    "ru_question": "",
+    "foreign_response": "^\\s*What do you look like?\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "See you later!",
+    "ru_question": "До скорого!",
+    "foreign_response": "^\\s*See you later\\!?\\s*$",
+    "ru_response": "^\\s*До скорого\\!?\\s*$",
+    "sound": "see_you_later!",
+    "preview": ""
+  },
+  {
+    "foreign_question": "Are you OK?",
+    "ru_question": "С тобой всё в порядке?",
+    "foreign_response": "^\\s*Are you OK\\?\\s*$",
+    "ru_response": "^\\s*(С тобой всё|Ты) в (порядке|норме)\\?\\s*$",
+    "sound": "are_you_ok-",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  }
+]

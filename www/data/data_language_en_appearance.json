@@ -1,0 +1,178 @@
+[
+  {
+    "foreign_question": "arm",
+    "ru_question": "рука",
+    "foreign_response": "^\\s*arm\\s*$",
+    "ru_response": "^\\s*рука\\s*$",
+    "sound": "arm",
+    "preview": ""
+  },
+  {
+    "foreign_question": "average height",
+    "ru_question": "средний рост",
+    "foreign_response": "^\\s*average height\\s*$",
+    "ru_response": "^\\s*средний рост\\s*$",
+    "sound": "average_height",
+    "preview": ""
+  },
+  {
+    "foreign_question": "black hair",
+    "ru_question": "черные волосы",
+    "foreign_response": "^\\s*black hair\\s*$",
+    "ru_response": "^\\s*черные волосы\\s*$",
+    "sound": "black_hair",
+    "preview": "black_hair"
+  },
+  {
+    "foreign_question": "blond hair",
+    "ru_question": "белые волосы",
+    "foreign_response": "^\\s*blond hair\\s*$",
+    "ru_response": "^\\s*белые волосы\\s*$",
+    "sound": "blond hair",
+    "preview": "blond hair"
+  },
+  {
+    "foreign_question": "blue eyes",
+    "ru_question": "голубые глаза",
+    "foreign_response": "^\\s*blue eyes\\s*$",
+    "ru_response": "^\\s*голубые глаза\\s*$",
+    "sound": "blue_eyes",
+    "preview": "blue_eyes"
+  },
+  {
+    "foreign_question": "boy",
+    "ru_question": "мальчик",
+    "foreign_response": "^\\s*boy\\s*$",
+    "ru_response": "^\\s*мальчик\\s*$",
+    "sound": "boy",
+    "preview": "boy"
+  },
+  {
+    "foreign_question": "brown eyes",
+    "ru_question": "карие глаза",
+    "foreign_response": "^\\s*brown eyes\\s*$",
+    "ru_response": "^\\s*карие глаза\\s*$",
+    "sound": "brown_eyes",
+    "preview": "brown_eyes"
+  },
+  {
+    "foreign_question": "brown hair",
+    "ru_question": "каштановые волосы",
+    "foreign_response": "^\\s*brown hair\\s*$",
+    "ru_response": "^\\s*каштановые волосы\\s*$",
+    "sound": "brown_hair",
+    "preview": "brown_hair"
+  },
+  {
+    "foreign_question": "ear",
+    "ru_question": "ухо",
+    "foreign_response": "^\\s*ear\\s*$",
+    "ru_response": "^\\s*ухо\\s*$",
+    "sound": "ear",
+    "preview": ""
+  },
+  {
+    "foreign_question": "friend",
+    "ru_question": "друг, подруга",
+    "foreign_response": "^\\s*friend\\s*$",
+    "ru_response": "^\\s*(друг|подруга)\\s*$",
+    "sound": "friend",
+    "preview": "friend"
+  },
+  {
+    "foreign_question": "girl",
+    "ru_question": "девушка",
+    "foreign_response": "^\\s*girl\\s*$",
+    "ru_response": "^\\s*девушка\\s*$",
+    "sound": "girl",
+    "preview": "girl"
+  },
+  {
+    "foreign_question": "long hair",
+    "ru_question": "длинные волосы",
+    "foreign_response": "^\\s*long hair\\s*$",
+    "ru_response": "^\\s*длинные волосы\\s*$",
+    "sound": "long_hair",
+    "preview": "long_hair"
+  },
+  {
+    "foreign_question": "long legs",
+    "ru_question": "длинные ноги",
+    "foreign_response": "^\\s*long legs\\s*$",
+    "ru_response": "^\\s*длинные ноги\\s*$",
+    "sound": "long_legs",
+    "preview": ""
+  },
+  {
+    "foreign_question": "man",
+    "ru_question": "мужчина",
+    "foreign_response": "^\\s*man\\s*$",
+    "ru_response": "^\\s*мужчина\\s*$",
+    "sound": "man",
+    "preview": "man"
+  },
+  {
+    "foreign_question": "nose",
+    "ru_question": "нос",
+    "foreign_response": "^\\s*nose\\s*$",
+    "ru_response": "^\\s*нос\\s*$",
+    "sound": "nose",
+    "preview": ""
+  },
+  {
+    "foreign_question": "pretty face",
+    "ru_question": "прелестное лицо",
+    "foreign_response": "^\\s*pretty face\\s*$",
+    "ru_response": "^\\s*(прелестное|милое) лицо\\s*$",
+    "sound": "pretty_face",
+    "preview": ""
+  },
+  {
+    "foreign_question": "short hair",
+    "ru_question": "короткие волосы",
+    "foreign_response": "^\\s*short hair\\s*$",
+    "ru_response": "^\\s*короткие волосы\\s*$",
+    "sound": "short_hair",
+    "preview": "short_hair"
+  },
+  {
+    "foreign_question": "soft skin",
+    "ru_question": "нежная кожа",
+    "foreign_response": "^\\s*soft skin\\s*$",
+    "ru_response": "^\\s*нежная кожа\\s*$",
+    "sound": "soft_skin",
+    "preview": ""
+  },
+  {
+    "foreign_question": "woman",
+    "ru_question": "женщина",
+    "foreign_response": "^\\s*woman\\s*$",
+    "ru_response": "^\\s*женщина\\s*$",
+    "sound": "woman",
+    "preview": "woman"
+  },
+  {
+    "foreign_question": "beard",
+    "ru_question": "борода",
+    "foreign_response": "^\\s*beard\\s*$",
+    "ru_response": "^\\s*борода\\s*$",
+    "sound": "beard",
+    "preview": ""
+  },
+  {
+    "foreign_question": "muscle",
+    "ru_question": "мышца, мускул",
+    "foreign_response": "^\\s*muscle\\s*$",
+    "ru_response": "^\\s*(мышца|мускул)\\s*$",
+    "sound": "muscle",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  }
+]

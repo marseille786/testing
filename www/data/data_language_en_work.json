@@ -1,0 +1,58 @@
+[
+  {
+    "foreign_question": "colleague",
+    "ru_question": "коллега",
+    "foreign_response": "^\\s*colleague\\s*$",
+    "ru_response": "^\\s*коллега\\s*$",
+    "sound": "colleague",
+    "preview": "colleague"
+  },
+  {
+    "foreign_question": "hard work",
+    "ru_question": "трудолюбие",
+    "foreign_response": "^\\s*hard work\\s*$",
+    "ru_response": "^\\s*трудолюбие\\s*$",
+    "sound": "hard_work",
+    "preview": ""
+  },
+  {
+    "foreign_question": "job",
+    "ru_question": "работа (которая приносит деньги)",
+    "foreign_response": "^\\s*job\\s*$",
+    "ru_response": "^\\s*работа\\s*$",
+    "sound": "job",
+    "preview": ""
+  },
+  {
+    "foreign_question": "mistake",
+    "ru_question": "ошибка",
+    "foreign_response": "^\\s*mistake\\s*$",
+    "ru_response": "^\\s*ошибка\\s*$",
+    "sound": "mistake",
+    "preview": ""
+  },
+  {
+    "foreign_question": "restaurant",
+    "ru_question": "ресторан",
+    "foreign_response": "^\\s*restaurant\\s*$",
+    "ru_response": "^\\s*ресторан\\s*$",
+    "sound": "restaurant",
+    "preview": ""
+  },
+  {
+    "foreign_question": "What is your job?",
+    "ru_question": "Кем ты работаешь?",
+    "foreign_response": "^\\s*What(\\'| i)s your job\\?\\s*$",
+    "ru_response": "^\\s*Кем [тв]ы работае(шь|те)\\?\\s*$",
+    "sound": "what_is_your_job-",
+    "preview": "what_is_your_job-"
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  }
+]

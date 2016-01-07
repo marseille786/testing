@@ -1,0 +1,34 @@
+[
+  {
+    "foreign_question": "top",
+    "ru_question": "топик, блузка",
+    "foreign_response": "^\\s*top\\s*$",
+    "ru_response": "^\\s*(топ(ик)?|блузк?а)\\s*$",
+    "sound": "top",
+    "preview": ""
+  },
+  {
+    "foreign_question": "trousers",
+    "ru_question": "брюки, штаны",
+    "foreign_response": "^\\s*trousers\\s*$",
+    "ru_response": "^\\s*(брюки|штаны)\\s*$",
+    "sound": "trousers",
+    "preview": ""
+  },
+  {
+    "foreign_question": "hat",
+    "ru_question": "головной убор",
+    "foreign_response": "^\\s*hat\\s*$",
+    "ru_response": "^\\s*(головной убор|шапка|шляпк?а)\\s*$",
+    "sound": "hat",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  }
+]

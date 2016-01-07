@@ -1,0 +1,42 @@
+[
+  {
+    "foreign_question": "cinema",
+    "ru_question": "кинотеатр",
+    "foreign_response": "^\\s*cinema\\s*$",
+    "ru_response": "^\\s*кинотеатр\\s*$",
+    "sound": "cinema",
+    "preview": ""
+  },
+  {
+    "foreign_question": "hotel",
+    "ru_question": "гостинница, отель",
+    "foreign_response": "^\\s*hotel\\s*$",
+    "ru_response": "^\\s*(гостинн?ица|отель)\\s*$",
+    "sound": "hotel",
+    "preview": ""
+  },
+  {
+    "foreign_question": "park",
+    "ru_question": "парк",
+    "foreign_response": "^\\s*park\\s*$",
+    "ru_response": "^\\s*парк\\s*$",
+    "sound": "park",
+    "preview": ""
+  },
+  {
+    "foreign_question": "restaurant",
+    "ru_question": "ресторан",
+    "foreign_response": "^\\s*restaurant\\s*$",
+    "ru_response": "^\\s*ресторан\\s*$",
+    "sound": "restaurant",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  }
+]

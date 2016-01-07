@@ -1,0 +1,43 @@
+html, body {
+	height: 100%;
+}
+
+body > .container {
+	min-height: 100%;
+	border-left: 1px solid #ddd;
+	border-right: 1px solid #ddd;
+	box-shadow: 0 0 5px #333;;
+}
+
+.row {
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.positive, .negative {
+	display: none;
+}
+
+.positive.active,
+.negative.active {
+	display: block;
+}
+
+.alert {
+	margin-bottom: 0;
+	padding: 6px 15px;
+}
+
+textarea.form-control {
+	height: 200px;
+	resize: none;
+}
+
+#previewQuestion {
+	max-height: 200px;
+	max-width: 100%;
+}
+
+.blockPreview {
+	text-align: center;
+}

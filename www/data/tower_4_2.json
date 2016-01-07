@@ -1,0 +1,162 @@
+[
+  {
+    "foreign_question": "ancient",
+    "ru_question": "древний, старинный",
+    "foreign_response": "^\\s*ancient\\s*$",
+    "ru_response": "^\\s*(древний|старинный)\\s*$",
+    "sound": "ancient",
+    "preview": ""
+  },
+  {
+    "foreign_question": "camping",
+    "ru_question": "кемпинг",
+    "foreign_response": "^\\s*camping\\s*$",
+    "ru_response": "^\\s*кемпинг\\s*$",
+    "sound": "camping",
+    "preview": ""
+  },
+  {
+    "foreign_question": "castle",
+    "ru_question": "замок",
+    "foreign_response": "^\\s*castle\\s*$",
+    "ru_response": "^\\s*замок\\s*$",
+    "sound": "castle",
+    "preview": ""
+  },
+  {
+    "foreign_question": "cave",
+    "ru_question": "пещера",
+    "foreign_response": "^\\s*cave\\s*$",
+    "ru_response": "^\\s*пещера\\s*$",
+    "sound": "cave",
+    "preview": ""
+  },
+  {
+    "foreign_question": "fishing",
+    "ru_question": "рыбалка",
+    "foreign_response": "^\\s*fishing\\s*$",
+    "ru_response": "^\\s*рыбалка\\s*$",
+    "sound": "fishing",
+    "preview": ""
+  },
+  {
+    "foreign_question": "get lost",
+    "ru_question": "теряться, затеряться",
+    "foreign_response": "^\\s*get lost\\s*$",
+    "ru_response": "^\\s*(теряться|затеряться)\\s*$",
+    "sound": "get_lost",
+    "preview": ""
+  },
+  {
+    "foreign_question": "hiking",
+    "ru_question": "пеший туризм",
+    "foreign_response": "^\\s*hiking\\s*$",
+    "ru_response": "^\\s*(пеший|пешеходный) туризм\\s*$",
+    "sound": "hiking",
+    "preview": ""
+  },
+  {
+    "foreign_question": "horse riding",
+    "ru_question": "верховая езда",
+    "foreign_response": "^\\s*horse riding\\s*$",
+    "ru_response": "^\\s*верховая езда\\s*$",
+    "sound": "horse_riding",
+    "preview": ""
+  },
+  {
+    "foreign_question": "It was something else!",
+    "ru_question": "Это было что-то!",
+    "foreign_response": "^\\s*It was something else\\!?\\s*$",
+    "ru_response": "^\\s*Это было что-то( еще)?\\!?\\s*$",
+    "sound": "it_was_something_else",
+    "preview": ""
+  },
+  {
+    "foreign_question": "lake",
+    "ru_question": "lake",
+    "foreign_response": "^\\s*lake\\s*$",
+    "ru_response": "^\\s*lake\\s*$",
+    "sound": "lake",
+    "preview": ""
+  },
+  {
+    "foreign_question": "Looks like it.",
+    "ru_question": "Похоже на то.",
+    "foreign_response": "^\\s*Looks like it\\.?\\s*$",
+    "ru_response": "^\\s*Похоже на э?то\\.?\\s*$",
+    "sound": "looks_like_it",
+    "preview": ""
+  },
+  {
+    "foreign_question": "map",
+    "ru_question": "карта",
+    "foreign_response": "^\\s*map\\s*$",
+    "ru_response": "^\\s*карта\\s*$",
+    "sound": "map",
+    "preview": ""
+  },
+  {
+    "foreign_question": "ruins",
+    "ru_question": "руины, развалины",
+    "foreign_response": "^\\s*ruins\\s*$",
+    "ru_response": "^\\s*(руины|развалины)\\s*$",
+    "sound": "ruins",
+    "preview": ""
+  },
+  {
+    "foreign_question": "sightseeing",
+    "ru_question": "осмотр достопримечательностей",
+    "foreign_response": "^\\s*sightseeing\\s*$",
+    "ru_response": "^\\s*осмотр достопримечательностей\\s*$",
+    "sound": "sightseeing",
+    "preview": ""
+  },
+  {
+    "foreign_question": "souvenir",
+    "ru_question": "сувенир",
+    "foreign_response": "^\\s*souvenir\\s*$",
+    "ru_response": "^\\s*сувенир\\s*$",
+    "sound": "souvenir",
+    "preview": ""
+  },
+  {
+    "foreign_question": "sunbathe",
+    "ru_question": "загорать",
+    "foreign_response": "^\\s*sunbathe\\s*$",
+    "ru_response": "^\\s*загорать\\s*$",
+    "sound": "sunbathe",
+    "preview": ""
+  },
+  {
+    "foreign_question": "taste (v)",
+    "ru_question": "отведать, пробовать на вкус",
+    "foreign_response": "^\\s*taste\\s*$",
+    "ru_response": "^\\s*(отведать|пробовать( на вкус)?)\\s*$",
+    "sound": "taste",
+    "preview": ""
+  },
+  {
+    "foreign_question": "try",
+    "ru_question": "пытаться, пробовать",
+    "foreign_response": "^\\s*try\\s*$",
+    "ru_response": "^\\s*(пытаться|пробовать)\\s*$",
+    "sound": "try",
+    "preview": ""
+  },
+  {
+    "foreign_question": "village",
+    "ru_question": "деревня",
+    "foreign_response": "^\\s*village\\s*$",
+    "ru_response": "^\\s*(деревня|село)\\s*$",
+    "sound": "village",
+    "preview": ""
+  },
+  {
+    "foreign_question": "What now?",
+    "ru_question": "Что теперь?",
+    "foreign_response": "^\\s*What now\\?\\s*$",
+    "ru_response": "^\\s*Что (теперь|сейчас)?\\s*$",
+    "sound": "what_now-",
+    "preview": ""
+  }
+]

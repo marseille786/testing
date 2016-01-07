@@ -1,0 +1,306 @@
+[
+  {
+    "foreign_question": "actress",
+    "ru_question": "актриса",
+    "foreign_response": "^\\s*actress\\s*$",
+    "ru_response": "^\\s*актриса\\s*$",
+    "sound": "actress",
+    "preview": "actress"
+  },
+  {
+    "foreign_question": "as",
+    "ru_question": "как, в качестве",
+    "foreign_response": "^\\s*as\\s*$",
+    "ru_response": "^\\s*(как|в качестве)\\s*$",
+    "sound": "as",
+    "preview": ""
+  },
+  {
+    "foreign_question": "athlete",
+    "ru_question": "атлет, спортсмен, легкоатлет",
+    "foreign_response": "^\\s*athlete\\s*$",
+    "ru_response": "^\\s*(атлет|спортсмен|легкоатлет)\\s*$",
+    "sound": "athlete",
+    "preview": "athlete"
+  },
+  {
+    "foreign_question": "athletics",
+    "ru_question": "легкая атлетика",
+    "foreign_response": "^\\s*athletics\\s*$",
+    "ru_response": "^\\s*легкая атлетика\\s*$",
+    "sound": "athletics",
+    "preview": "athletics"
+  },
+  {
+    "foreign_question": "award",
+    "ru_question": "награда, премия, награждать, присуждать",
+    "foreign_response": "^\\s*award\\s*$",
+    "ru_response": "^\\s*(награда|премия|награждать|присуждать)\\s*$",
+    "sound": "award",
+    "preview": "award"
+  },
+  {
+    "foreign_question": "ballet",
+    "ru_question": "балет",
+    "foreign_response": "^\\s*ballet\\s*$",
+    "ru_response": "^\\s*балет\\s*$",
+    "sound": "ballet",
+    "preview": "ballet"
+  },
+  {
+    "foreign_question": "be born",
+    "ru_question": "родиться, быть рожденным",
+    "foreign_response": "^\\s*be born\\s*$",
+    "ru_response": "^\\s*(родиться|рождаться|быть рожденным)\\s*$",
+    "sound": "be_born",
+    "preview": "be_born"
+  },
+  {
+    "foreign_question": "become",
+    "ru_question": "становиться, стать, делаться",
+    "foreign_response": "^\\s*become\\s*$",
+    "ru_response": "^\\s*(становиться|стать|делаться)\\s*$",
+    "sound": "become",
+    "preview": ""
+  },
+  {
+    "foreign_question": "break",
+    "ru_question": "ломать, нарушать, перерыв, разрыв",
+    "foreign_response": "^\\s*break\\s*$",
+    "ru_response": "^\\s*(ломать|нарушать|перерыв|разрыв|разбить|разбивать)\\s*$",
+    "sound": "break",
+    "preview": "break"
+  },
+  {
+    "foreign_question": "competition",
+    "ru_question": "соревнование, состязание, конкурс",
+    "foreign_response": "^\\s*competition\\s*$",
+    "ru_response": "^\\s*(соревновани[ея]|состязание|конкурс)\\s*$",
+    "sound": "competition",
+    "preview": "competition"
+  },
+  {
+    "foreign_question": "compose",
+    "ru_question": "сочинять, составлять",
+    "foreign_response": "^\\s*compose\\s*$",
+    "ru_response": "^\\s*(сочинять|составлять|составить)\\s*$",
+    "sound": "compose",
+    "preview": "compose"
+  },
+  {
+    "foreign_question": "cup",
+    "ru_question": "кубок, чашка",
+    "foreign_response": "^\\s*cup\\s*$",
+    "ru_response": "^\\s*(кубок|чашка|чаша)\\s*$",
+    "sound": "cup",
+    "preview": "cup"
+  },
+  {
+    "foreign_question": "dancer",
+    "ru_question": "танцор",
+    "foreign_response": "^\\s*dancer\\s*$",
+    "ru_response": "^\\s*танцор\\s*$",
+    "sound": "dancer",
+    "preview": "dancer"
+  },
+  {
+    "foreign_question": "die",
+    "ru_question": "умирать",
+    "foreign_response": "^\\s*die\\s*$",
+    "ru_response": "^\\s*умирать\\s*$",
+    "sound": "die",
+    "preview": "die"
+  },
+  {
+    "foreign_question": "direct",
+    "ru_question": "прямой, непосредственный, направлять, руководить",
+    "foreign_response": "^\\s*direct\\s*$",
+    "ru_response": "^\\s*(прямой|непосредственный|направлять|руководить)\\s*$",
+    "sound": "direct",
+    "preview": "direct"
+  },
+  {
+    "foreign_question": "director",
+    "ru_question": "режиссер",
+    "foreign_response": "^\\s*director\\s*$",
+    "ru_response": "^\\s*режиссер\\s*$",
+    "sound": "director",
+    "preview": "director"
+  },
+  {
+    "foreign_question": "explore",
+    "ru_question": "исследовать, обследовать, изучать",
+    "foreign_response": "^\\s*explore\\s*$",
+    "ru_response": "^\\s*(исследовать|обследовать|изучать)\\s*$",
+    "sound": "explore",
+    "preview": "explore"
+  },
+  {
+    "foreign_question": "gold",
+    "ru_question": "золото, золотой",
+    "foreign_response": "^\\s*gold\\s*$",
+    "ru_response": "^\\s*(золото|золотой)\\s*$",
+    "sound": "gold",
+    "preview": "gold"
+  },
+  {
+    "foreign_question": "long jump",
+    "ru_question": "прыжок в длину",
+    "foreign_response": "^\\s*long jump\\s*$",
+    "ru_response": "^\\s*прыжок в длину\\s*$",
+    "sound": "long_jump",
+    "preview": "long_jump"
+  },
+  {
+    "foreign_question": "medal",
+    "ru_question": "медаль",
+    "foreign_response": "^\\s*medal\\s*$",
+    "ru_response": "^\\s*медаль\\s*$",
+    "sound": "medal",
+    "preview": "medal"
+  },
+  {
+    "foreign_question": "million",
+    "ru_question": "миллион",
+    "foreign_response": "^\\s*million\\s*$",
+    "ru_response": "^\\s*миллион\\s*$",
+    "sound": "million",
+    "preview": "million"
+  },
+  {
+    "foreign_question": "natural",
+    "ru_question": "природный, естественный, натуральный",
+    "foreign_response": "^\\s*natural\\s*$",
+    "ru_response": "^\\s*(природный|естественный|натуральный)\\s*$",
+    "sound": "natural",
+    "preview": "natural"
+  },
+  {
+    "foreign_question": "nobody",
+    "ru_question": "никто",
+    "foreign_response": "^\\s*nobody\\s*$",
+    "ru_response": "^\\s*никто\\s*$",
+    "sound": "nobody",
+    "preview": "nobody"
+  },
+  {
+    "foreign_question": "opera",
+    "ru_question": "опера",
+    "foreign_response": "^\\s*opera\\s*$",
+    "ru_response": "^\\s*опера\\s*$",
+    "sound": "opera",
+    "preview": "opera"
+  },
+  {
+    "foreign_question": "play",
+    "ru_question": "пьеса, играть",
+    "foreign_response": "^\\s*play\\s*$",
+    "ru_response": "^\\s*(пьеса|играть)\\s*$",
+    "sound": "play",
+    "preview": "play"
+  },
+  {
+    "foreign_question": "poor",
+    "ru_question": "бедный",
+    "foreign_response": "^\\s*poor\\s*$",
+    "ru_response": "^\\s*бедный\\s*$",
+    "sound": "poor",
+    "preview": "poor"
+  },
+  {
+    "foreign_question": "producer",
+    "ru_question": "продюсер",
+    "foreign_response": "^\\s*producer\\s*$",
+    "ru_response": "^\\s*продюсер\\s*$",
+    "sound": "producer",
+    "preview": "producer"
+  },
+  {
+    "foreign_question": "record",
+    "ru_question": "запись, рекорд, записывать, регистрировать",
+    "foreign_response": "^\\s*record\\s*$",
+    "ru_response": "^\\s*(запись|рекорд|записывать|регистрировать)\\s*$",
+    "sound": "record",
+    "preview": "record"
+  },
+  {
+    "foreign_question": "relay",
+    "ru_question": "эстафета, передавать",
+    "foreign_response": "^\\s*relay\\s*$",
+    "ru_response": "^\\s*(эстафета|передавать)\\s*$",
+    "sound": "relay",
+    "preview": "relay"
+  },
+  {
+    "foreign_question": "run",
+    "ru_question": "бег, бежать",
+    "foreign_response": "^\\s*run\\s*$",
+    "ru_response": "^\\s*(бег|бежать|бегать)\\s*$",
+    "sound": "run",
+    "preview": "run"
+  },
+  {
+    "foreign_question": "star",
+    "ru_question": "звезда",
+    "foreign_response": "^\\s*star\\s*$",
+    "ru_response": "^\\s*звезда\\s*$",
+    "sound": "star",
+    "preview": "star"
+  },
+  {
+    "foreign_question": "success",
+    "ru_question": "успех",
+    "foreign_response": "^\\s*success\\s*$",
+    "ru_response": "^\\s*успех\\s*$",
+    "sound": "success",
+    "preview": "success"
+  },
+  {
+    "foreign_question": "support",
+    "ru_question": "поддержка, поддерживать",
+    "foreign_response": "^\\s*support\\s*$",
+    "ru_response": "^\\s*(поддержка|поддерживать)\\s*$",
+    "sound": "support",
+    "preview": "support"
+  },
+  {
+    "foreign_question": "take part",
+    "ru_question": "участвовать, принимать участие",
+    "foreign_response": "^\\s*take part\\s*$",
+    "ru_response": "^\\s*(участвовать|принимать участие)\\s*$",
+    "sound": "take_part",
+    "preview": "take_part"
+  },
+  {
+    "foreign_question": "talent",
+    "ru_question": "талант",
+    "foreign_response": "^\\s*talent\\s*$",
+    "ru_response": "^\\s*талант\\s*$",
+    "sound": "talent",
+    "preview": ""
+  },
+  {
+    "foreign_question": "train",
+    "ru_question": "поезд, состав, паровоз, тренироваться",
+    "foreign_response": "^\\s*train\\s*$",
+    "ru_response": "^\\s*(поезд|состав|паровоз|тренироваться)\\s*$",
+    "sound": "train",
+    "preview": "train"
+  },
+  {
+    "foreign_question": "traveller",
+    "ru_question": "путешественник",
+    "foreign_response": "^\\s*traveller\\s*$",
+    "ru_response": "^\\s*путешественник\\s*$",
+    "sound": "traveller",
+    "preview": "traveller"
+  },
+  {
+    "foreign_question": "writer",
+    "ru_question": "писатель",
+    "foreign_response": "^\\s*writer\\s*$",
+    "ru_response": "^\\s*писатель\\s*$",
+    "sound": "writer",
+    "preview": "writer"
+  }
+]

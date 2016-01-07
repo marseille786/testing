@@ -1,0 +1,290 @@
+[
+  {
+    "foreign_question": "because",
+    "ru_question": "потому что",
+    "foreign_response": "^\\s*because\\s*$",
+    "ru_response": "^\\s*потому что\\s*$",
+    "sound": "because",
+    "preview": ""
+  },
+  {
+    "foreign_question": "camel",
+    "ru_question": "верблюд",
+    "foreign_response": "^\\s*camel\\s*$",
+    "ru_response": "^\\s*верблюд\\s*$",
+    "sound": "camel",
+    "preview": "camel"
+  },
+  {
+    "foreign_question": "common",
+    "ru_question": "общий, общее",
+    "foreign_response": "^\\s*common\\s*$",
+    "ru_response": "^\\s*общ(ий|ее)\\s*$",
+    "sound": "common",
+    "preview": ""
+  },
+  {
+    "foreign_question": "connect",
+    "ru_question": "подключение, подключать, соединять",
+    "foreign_response": "^\\s*connect\\s*$",
+    "ru_response": "^\\s*(подключение|подключать|соединять)\\s*$",
+    "sound": "connect",
+    "preview": "connect"
+  },
+  {
+    "foreign_question": "convenient",
+    "ru_question": "удобный",
+    "foreign_response": "^\\s*convenient\\s*$",
+    "ru_response": "^\\s*удобный\\s*$",
+    "sound": "convenient",
+    "preview": ""
+  },
+  {
+    "foreign_question": "dining carriage",
+    "ru_question": "вагон-ресторан",
+    "foreign_response": "^\\s*dining carriage\\s*$",
+    "ru_response": "^\\s*вагон[- ]ресторан\\s*$",
+    "sound": "dining_carriage",
+    "preview": "dining_carriage"
+  },
+  {
+    "foreign_question": "donkey",
+    "ru_question": "осел, ишак",
+    "foreign_response": "^\\s*donkey\\s*$",
+    "ru_response": "^\\s*(осел|ишак)\\s*$",
+    "sound": "donkey",
+    "preview": "donkey"
+  },
+  {
+    "foreign_question": "even",
+    "ru_question": "даже",
+    "foreign_response": "^\\s*even\\s*$",
+    "ru_response": "^\\s*даже\\s*$",
+    "sound": "even",
+    "preview": ""
+  },
+  {
+    "foreign_question": "export",
+    "ru_question": "экспорт, экспортировать",
+    "foreign_response": "^\\s*export\\s*$",
+    "ru_response": "^\\s*(экспорт|экспортировать)\\s*$",
+    "sound": "export",
+    "preview": ""
+  },
+  {
+    "foreign_question": "goods",
+    "ru_question": "товары",
+    "foreign_response": "^\\s*goods\\s*$",
+    "ru_response": "^\\s*товары?\\s*$",
+    "sound": "goods",
+    "preview": "goods"
+  },
+  {
+    "foreign_question": "high",
+    "ru_question": "высокий (по уровню)",
+    "foreign_response": "^\\s*high\\s*$",
+    "ru_response": "^\\s*высокий\\s*$",
+    "sound": "high",
+    "preview": ""
+  },
+  {
+    "foreign_question": "horse",
+    "ru_question": "лошадь, конь",
+    "foreign_response": "^\\s*horse\\s*$",
+    "ru_response": "^\\s*(лошадь|конь)\\s*$",
+    "sound": "horse",
+    "preview": "horse"
+  },
+  {
+    "foreign_question": "import",
+    "ru_question": "импортировать, импорт",
+    "foreign_response": "^\\s*import\\s*$",
+    "ru_response": "^\\s*(импортировать|импорт)\\s*$",
+    "sound": "import",
+    "preview": ""
+  },
+  {
+    "foreign_question": "in fact",
+    "ru_question": "на самом деле, фактически, по сути",
+    "foreign_response": "^\\s*in fact\\s*$",
+    "ru_response": "^\\s*(на самом деле|фактически|по сути|в действительности|по факту)\\s*$",
+    "sound": "in_fact",
+    "preview": ""
+  },
+  {
+    "foreign_question": "include",
+    "ru_question": "подключать, включать",
+    "foreign_response": "^\\s*include\\s*$",
+    "ru_response": "^\\s*(подключать|включать)\\s*$",
+    "sound": "include",
+    "preview": ""
+  },
+  {
+    "foreign_question": "line",
+    "ru_question": "линия, строка",
+    "foreign_response": "^\\s*line\\s*$",
+    "ru_response": "^\\s*(линия|строка)\\s*$",
+    "sound": "line",
+    "preview": "line"
+  },
+  {
+    "foreign_question": "luggage",
+    "ru_question": "багаж",
+    "foreign_response": "^\\s*luggage\\s*$",
+    "ru_response": "^\\s*багаж\\s*$",
+    "sound": "luggage",
+    "preview": "luggage"
+  },
+  {
+    "foreign_question": "luggage carriage",
+    "ru_question": "багажный вагон",
+    "foreign_response": "^\\s*luggage carriage\\s*$",
+    "ru_response": "^\\s*(багажный|грузовой) вагон\\s*$",
+    "sound": "luggage_carriage",
+    "preview": "luggage_carriage"
+  },
+  {
+    "foreign_question": "means of transport",
+    "ru_question": "транспортные средства",
+    "foreign_response": "^\\s*means of transport\\s*$",
+    "ru_response": "^\\s*транспортные средства\\s*$",
+    "sound": "means_of_transport",
+    "preview": "means_of_transport"
+  },
+  {
+    "foreign_question": "merchant",
+    "ru_question": "торговец, купец",
+    "foreign_response": "^\\s*merchant\\s*$",
+    "ru_response": "^\\s*(торговец|купец)\\s*$",
+    "sound": "merchant",
+    "preview": "merchant"
+  },
+  {
+    "foreign_question": "motorway",
+    "ru_question": "автомагистраль, автострада, автотрасса",
+    "foreign_response": "^\\s*motorway\\s*$",
+    "ru_response": "^\\s*(автомагистраль|автострада|автотрасса|дорога|шоссе|трасса|автобан)\\s*$",
+    "sound": "motorway",
+    "preview": "motorway"
+  },
+  {
+    "foreign_question": "mysterious",
+    "ru_question": "загадочный, таинственный, детектив",
+    "foreign_response": "^\\s*mysterious\\s*$",
+    "ru_response": "^\\s*(загадочный|таинственный|детектив)\\s*$",
+    "sound": "mysterious",
+    "preview": "mysterious"
+  },
+  {
+    "foreign_question": "network",
+    "ru_question": "сеть",
+    "foreign_response": "^\\s*network\\s*$",
+    "ru_response": "^\\s*сеть\\s*$",
+    "sound": "network",
+    "preview": "network"
+  },
+  {
+    "foreign_question": "next",
+    "ru_question": "следующий",
+    "foreign_response": "^\\s*next\\s*$",
+    "ru_response": "^\\s*следующий\\s*$",
+    "sound": "next",
+    "preview": ""
+  },
+  {
+    "foreign_question": "novel",
+    "ru_question": "роман",
+    "foreign_response": "^\\s*novel\\s*$",
+    "ru_response": "^\\s*роман\\s*$",
+    "sound": "novel",
+    "preview": "novel"
+  },
+  {
+    "foreign_question": "original",
+    "ru_question": "оригинальный, подлинный",
+    "foreign_response": "^\\s*original\\s*$",
+    "ru_response": "^\\s*(оригинальный|подлинный)\\s*$",
+    "sound": "original",
+    "preview": ""
+  },
+  {
+    "foreign_question": "passenger",
+    "ru_question": "пассажир",
+    "foreign_response": "^\\s*passenger\\s*$",
+    "ru_response": "^\\s*пассажир\\s*$",
+    "sound": "passenger",
+    "preview": "passenger"
+  },
+  {
+    "foreign_question": "possible",
+    "ru_question": "возможное, возможный, вероятное, вероятный",
+    "foreign_response": "^\\s*possible\\s*$",
+    "ru_response": "^\\s*(возможное?|возможный|вероятное|вероятный)\\s*$",
+    "sound": "possible",
+    "preview": ""
+  },
+  {
+    "foreign_question": "railway",
+    "ru_question": "железная дорога",
+    "foreign_response": "^\\s*railway\\s*$",
+    "ru_response": "^\\s*железная дорога\\s*$",
+    "sound": "railway",
+    "preview": "railway"
+  },
+  {
+    "foreign_question": "route",
+    "ru_question": "маршрут, путь",
+    "foreign_response": "^\\s*route\\s*$",
+    "ru_response": "^\\s*(маршрут|путь)\\s*$",
+    "sound": "route",
+    "preview": "route"
+  },
+  {
+    "foreign_question": "silk",
+    "ru_question": "шелк, шелковый",
+    "foreign_response": "^\\s*silk\\s*$",
+    "ru_response": "^\\s*(шелк|шелковый)\\s*$",
+    "sound": "silk",
+    "preview": "silk"
+  },
+  {
+    "foreign_question": "sleeper carriage",
+    "ru_question": "спальный вагон",
+    "foreign_response": "^\\s*sleeper carriage\\s*$",
+    "ru_response": "^\\s*спальный вагон\\s*$",
+    "sound": "slepper_carriage",
+    "preview": "slepper_carriage"
+  },
+  {
+    "foreign_question": "speed",
+    "ru_question": "скорость",
+    "foreign_response": "^\\s*speed\\s*$",
+    "ru_response": "^\\s*(скорость|быстрота)\\s*$",
+    "sound": "speed",
+    "preview": "speed"
+  },
+  {
+    "foreign_question": "system",
+    "ru_question": "система",
+    "foreign_response": "^\\s*system\\s*$",
+    "ru_response": "^\\s*система\\s*$",
+    "sound": "system",
+    "preview": "system"
+  },
+  {
+    "foreign_question": "trade",
+    "ru_question": "торговля, сделка, торговать, торговый",
+    "foreign_response": "^\\s*trade\\s*$",
+    "ru_response": "^\\s*(торговля|сделка|торговать|торговый)\\s*$",
+    "sound": "trade",
+    "preview": "trade"
+  },
+  {
+    "foreign_question": "tradition",
+    "ru_question": "традиция",
+    "foreign_response": "^\\s*tradition\\s*$",
+    "ru_response": "^\\s*традици[яи]\\s*$",
+    "sound": "tradition",
+    "preview": "tradition"
+  }
+]

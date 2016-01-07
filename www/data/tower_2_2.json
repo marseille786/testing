@@ -1,0 +1,306 @@
+[
+  {
+    "foreign_question": "bank",
+    "ru_question": "банк",
+    "foreign_response": "^\\s*bank\\s*$",
+    "ru_response": "^\\s*банк\\s*$",
+    "sound": "bank",
+    "preview": ""
+  },
+  {
+    "foreign_question": "behind",
+    "ru_question": "за, позади, сзади",
+    "foreign_response": "^\\s*behind\\s*$",
+    "ru_response": "^\\s*(за|позади|сзади)\\s*$",
+    "sound": "behind",
+    "preview": ""
+  },
+  {
+    "foreign_question": "between",
+    "ru_question": "между",
+    "foreign_response": "^\\s*between\\s*$",
+    "ru_response": "^\\s*между\\s*$",
+    "sound": "between",
+    "preview": ""
+  },
+  {
+    "foreign_question": "bus stop",
+    "ru_question": "автобусная остановка",
+    "foreign_response": "^\\s*bus stop\\s*$",
+    "ru_response": "^\\s*(автобусная остановка|остановка автобуса)\\s*$",
+    "sound": "bus_stop",
+    "preview": ""
+  },
+  {
+    "foreign_question": "car park",
+    "ru_question": "автопарк, автостоянка",
+    "foreign_response": "^\\s*car park\\s*$",
+    "ru_response": "^\\s*(авто(мобильный )?парк|авто(мобильная )?стоянка)\\s*$",
+    "sound": "car_park",
+    "preview": ""
+  },
+  {
+    "foreign_question": "chemist's",
+    "ru_question": "аптека (синоним 'pharmacy')",
+    "foreign_response": "^\\s*chemist\\'s\\s*$",
+    "ru_response": "^\\s*аптека\\s*$",
+    "sound": "chemist's",
+    "preview": ""
+  },
+  {
+    "foreign_question": "department store",
+    "ru_question": "универмаг, супермаркет (синоним 'supermarket')",
+    "foreign_response": "^\\s*department store\\s*$",
+    "ru_response": "^\\s*универмаг, супермаркет\\s*$",
+    "sound": "department_store",
+    "preview": ""
+  },
+  {
+    "foreign_question": "escalator",
+    "ru_question": "эскалатор",
+    "foreign_response": "^\\s*escalator\\s*$",
+    "ru_response": "^\\s*эскалатор\\s*$",
+    "sound": "escalator",
+    "preview": ""
+  },
+  {
+    "foreign_question": "Excuse me.",
+    "ru_question": "Извините.",
+    "foreign_response": "^\\s*Excuse me\\.?\\s*$",
+    "ru_response": "^\\s*Извините\\.?\\s*$",
+    "sound": "excuse_me",
+    "preview": ""
+  },
+  {
+    "foreign_question": "fast food restaurant",
+    "ru_question": "ресторан быстрого питания",
+    "foreign_response": "^\\s*fast food restaurant\\s*$",
+    "ru_response": "^\\s*ресторан быстрого питания\\s*$",
+    "sound": "fast_food_restaurant",
+    "preview": ""
+  },
+  {
+    "foreign_question": "floor",
+    "ru_question": "пол, этаж",
+    "foreign_response": "^\\s*floor\\s*$",
+    "ru_response": "^\\s*(пол|этаж)\\s*$",
+    "sound": "floor",
+    "preview": ""
+  },
+  {
+    "foreign_question": "go shopping",
+    "ru_question": "идти за покупками, делать покупки",
+    "foreign_response": "^\\s*go shopping\\s*$",
+    "ru_response": "^\\s*(идти за покупками|делать покупки)\\s*$",
+    "sound": "go_shopping",
+    "preview": ""
+  },
+  {
+    "foreign_question": "hungry",
+    "ru_question": "голодный",
+    "foreign_response": "^\\s*hungry\\s*$",
+    "ru_response": "^\\s*голодный\\s*$",
+    "sound": "hungry",
+    "preview": ""
+  },
+  {
+    "foreign_question": "I'm sorry.",
+    "ru_question": "Прости. (Универсальное)",
+    "foreign_response": "^\\s*I(\\'| a)m sorry\\.?\\s*$",
+    "ru_response": "^\\s*(Прости(те)?|Извини(те)?\\.?\\s*$",
+    "sound": "i'm_sorry",
+    "preview": ""
+  },
+  {
+    "foreign_question": "in front of",
+    "ru_question": "перед (чем-то)",
+    "foreign_response": "^\\s*in front of\\s*$",
+    "ru_response": "^\\s*перед\\s*$",
+    "sound": "in_front_of",
+    "preview": ""
+  },
+  {
+    "foreign_question": "left",
+    "ru_question": "левый, лево",
+    "foreign_response": "^\\s*left\\s*$",
+    "ru_response": "^\\s*(левый|лево)\\s*$",
+    "sound": "left",
+    "preview": ""
+  },
+  {
+    "foreign_question": "lift",
+    "ru_question": "лифт",
+    "foreign_response": "^\\s*lift\\s*$",
+    "ru_response": "^\\s*лифт\\s*$",
+    "sound": "lift",
+    "preview": ""
+  },
+  {
+    "foreign_question": "look for",
+    "ru_question": "искать (синоним 'seek')",
+    "foreign_response": "^\\s*look for\\s*$",
+    "ru_response": "^\\s*искать\\s*$",
+    "sound": "look_for",
+    "preview": ""
+  },
+  {
+    "foreign_question": "museum",
+    "ru_question": "музей",
+    "foreign_response": "^\\s*museum\\s*$",
+    "ru_response": "^\\s*музей\\s*$",
+    "sound": "museum",
+    "preview": ""
+  },
+  {
+    "foreign_question": "newsagent's",
+    "ru_question": "газетный киоск",
+    "foreign_response": "^\\s*newsagent\\'s\\s*$",
+    "ru_response": "^\\s*газетный (киоск|ларек)\\s*$",
+    "sound": "newsagent's",
+    "preview": ""
+  },
+  {
+    "foreign_question": "next to",
+    "ru_question": "рядом с",
+    "foreign_response": "^\\s*next to\\s*$",
+    "ru_response": "^\\s*рядом с\\s*$",
+    "sound": "next_to",
+    "preview": ""
+  },
+  {
+    "foreign_question": "office",
+    "ru_question": "офис",
+    "foreign_response": "^\\s*office\\s*$",
+    "ru_response": "^\\s*(офис|бюро|контора)\\s*$",
+    "sound": "office",
+    "preview": ""
+  },
+  {
+    "foreign_question": "opposite",
+    "ru_question": "напротив, противоположный",
+    "foreign_response": "^\\s*opposite\\s*$",
+    "ru_response": "^\\s*(напротив|противоположный)\\s*$",
+    "sound": "opposite",
+    "preview": ""
+  },
+  {
+    "foreign_question": "out of order",
+    "ru_question": "выйти из строя, вышел из строя",
+    "foreign_response": "^\\s*out of order\\s*$",
+    "ru_response": "^\\s*(выйти из строя|вышел из строя)\\s*$",
+    "sound": "out_of_order",
+    "preview": ""
+  },
+  {
+    "foreign_question": "past",
+    "ru_question": "мимо (проходя), прошлый",
+    "foreign_response": "^\\s*past\\s*$",
+    "ru_response": "^\\s*(мимо|прошлый|прошедший)\\s*$",
+    "sound": "past",
+    "preview": ""
+  },
+  {
+    "foreign_question": "phone box",
+    "ru_question": "телефонная будка",
+    "foreign_response": "^\\s*phone box\\s*$",
+    "ru_response": "^\\s*телефонная будка\\s*$",
+    "sound": "phone_box",
+    "preview": ""
+  },
+  {
+    "foreign_question": "petrol station",
+    "ru_question": "заправка, бензоколонка",
+    "foreign_response": "^\\s*petrol station\\s*$",
+    "ru_response": "^\\s*((бензо)?заправка|бензоколонка)\\s*$",
+    "sound": "petrol_station",
+    "preview": ""
+  },
+  {
+    "foreign_question": "post office",
+    "ru_question": "почтовое отделение",
+    "foreign_response": "^\\s*post office\\s*$",
+    "ru_response": "^\\s*(почтовое отделение|почта|почтамп)\\s*$",
+    "sound": "post_office",
+    "preview": ""
+  },
+  {
+    "foreign_question": "right",
+    "ru_question": "право, правильно",
+    "foreign_response": "^\\s*right\\s*$",
+    "ru_response": "^\\s*(право|правильн(о|ый)|правый|верно|точно|прямо)\\s*$",
+    "sound": "right",
+    "preview": ""
+  },
+  {
+    "foreign_question": "sandwich",
+    "ru_question": "бутерброд",
+    "foreign_response": "^\\s*sandwich\\s*$",
+    "ru_response": "^\\s*(бутерброд|с[еэ]ндвич)\\s*$",
+    "sound": "sandwich",
+    "preview": ""
+  },
+  {
+    "foreign_question": "security guard",
+    "ru_question": "охранник",
+    "foreign_response": "^\\s*security guard\\s*$",
+    "ru_response": "^\\s*охранник\\s*$",
+    "sound": "security_guard",
+    "preview": ""
+  },
+  {
+    "foreign_question": "shoe shop",
+    "ru_question": "обувной магазин",
+    "foreign_response": "^\\s*shoe shop\\s*$",
+    "ru_response": "^\\s*(обувной магазин|магазин обуви)\\s*$",
+    "sound": "shoe_shop",
+    "preview": ""
+  },
+  {
+    "foreign_question": "shopping centre",
+    "ru_question": "торговый центр",
+    "foreign_response": "^\\s*shopping centre\\s*$",
+    "ru_response": "^\\s*торговый центр\\s*$",
+    "sound": "shopping_centre",
+    "preview": ""
+  },
+  {
+    "foreign_question": "staff",
+    "ru_question": "персонал, сотрудники",
+    "foreign_response": "^\\s*staff\\s*$",
+    "ru_response": "^\\s*(персонал|сотрудники)\\s*$",
+    "sound": "staff",
+    "preview": ""
+  },
+  {
+    "foreign_question": "toilet",
+    "ru_question": "туалет, унитаз",
+    "foreign_response": "^\\s*toilet\\s*$",
+    "ru_response": "^\\s*(туалет|унитаз)\\s*$",
+    "sound": "toilet",
+    "preview": ""
+  },
+  {
+    "foreign_question": "toy shop",
+    "ru_question": "магазин игрушек",
+    "foreign_response": "^\\s*toy shop\\s*$",
+    "ru_response": "^\\s*(магазин игрушек|игрушечный магазин)\\s*$",
+    "sound": "toy_shop",
+    "preview": ""
+  },
+  {
+    "foreign_question": "traffic light",
+    "ru_question": "светофор",
+    "foreign_response": "^\\s*traffic lights?\\s*$",
+    "ru_response": "^\\s*светофор\\s*$",
+    "sound": "traffic_light",
+    "preview": ""
+  },
+  {
+    "foreign_question": "turn",
+    "ru_question": "поворачивать",
+    "foreign_response": "^\\s*turn\\s*$",
+    "ru_response": "^\\s*поворачивать\\s*$",
+    "sound": "turn",
+    "preview": ""
+  }
+]

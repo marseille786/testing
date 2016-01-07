@@ -1,0 +1,154 @@
+[
+  {
+    "foreign_question": "attractive",
+    "ru_question": "привлекательный",
+    "foreign_response": "^\\s*attractive\\s*$",
+    "ru_response": "^\\s*привлекательн(ый|ая)\\s*$",
+    "sound": "attractive",
+    "preview": ""
+  },
+  {
+    "foreign_question": "champion",
+    "ru_question": "чемпион",
+    "foreign_response": "^\\s*champion\\s*$",
+    "ru_response": "^\\s*чемпион\\s*$",
+    "sound": "champion",
+    "preview": ""
+  },
+  {
+    "foreign_question": "famous",
+    "ru_question": "известный, знаменитый, знаменитость",
+    "foreign_response": "^\\s*famous\\s*$",
+    "ru_response": "^\\s*(известный|знаменитый|знаменитость)\\s*$",
+    "sound": "famous",
+    "preview": ""
+  },
+  {
+    "foreign_question": "fashionable",
+    "ru_question": "модный",
+    "foreign_response": "^\\s*fashionable\\s*$",
+    "ru_response": "^\\s*модный\\s*$",
+    "sound": "fashionable",
+    "preview": ""
+  },
+  {
+    "foreign_question": "friendly",
+    "ru_question": "дружелюбный",
+    "foreign_response": "^\\s*friendly\\s*$",
+    "ru_response": "^\\s*дружелюбный\\s*$",
+    "sound": "friendly",
+    "preview": ""
+  },
+  {
+    "foreign_question": "funny",
+    "ru_question": "веселый",
+    "foreign_response": "^\\s*funny\\s*$",
+    "ru_response": "^\\s*(веселый|смешной|забавный)\\s*$",
+    "sound": "funny",
+    "preview": ""
+  },
+  {
+    "foreign_question": "Guess what?",
+    "ru_question": "Угадай, что?",
+    "foreign_response": "^\\s*Guess what\\?\\s*$",
+    "ru_response": "^\\s*Угадай\\,? что\\?\\s*$",
+    "sound": "guess_what-",
+    "preview": ""
+  },
+  {
+    "foreign_question": "hardworking",
+    "ru_question": "трудолюбивый",
+    "foreign_response": "^\\s*hard ?working\\s*$",
+    "ru_response": "^\\s*трудолюбивый\\s*$",
+    "sound": "hard_working",
+    "preview": ""
+  },
+  {
+    "foreign_question": "kind (adj)",
+    "ru_question": "добрый",
+    "foreign_response": "^\\s*kind\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "kind",
+    "preview": ""
+  },
+  {
+    "foreign_question": "lazy",
+    "ru_question": "ленивый",
+    "foreign_response": "^\\s*lazy\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "lazy",
+    "preview": ""
+  },
+  {
+    "foreign_question": "look at",
+    "ru_question": "смотреть на (v)",
+    "foreign_response": "^\\s*look at\\s*$",
+    "ru_response": "^\\s*смотреть на\\s*$",
+    "sound": "look_at",
+    "preview": ""
+  },
+  {
+    "foreign_question": "news",
+    "ru_question": "новости",
+    "foreign_response": "^\\s*news\\s*$",
+    "ru_response": "^\\s*новост[иь]\\s*$",
+    "sound": "news",
+    "preview": ""
+  },
+  {
+    "foreign_question": "person",
+    "ru_question": "человек, личность, персона",
+    "foreign_response": "^\\s*person\\s*$",
+    "ru_response": "^\\s*(человек|личность|персона)\\s*$",
+    "sound": "person",
+    "preview": ""
+  },
+  {
+    "foreign_question": "quite",
+    "ru_question": "довольно, вполне",
+    "foreign_response": "^\\s*quite\\s*$",
+    "ru_response": "^\\s*(довольно|вполне)\\s*$",
+    "sound": "quite",
+    "preview": ""
+  },
+  {
+    "foreign_question": "rollerblading",
+    "ru_question": "катание на роликовых коньках",
+    "foreign_response": "^\\s*rollerblading\\s*$",
+    "ru_response": "^\\s*(катание|езда) на (роликовых коньках|роликах)\\s*$",
+    "sound": "rollerblading",
+    "preview": ""
+  },
+  {
+    "foreign_question": "rude",
+    "ru_question": "грубый",
+    "foreign_response": "^\\s*rude\\s*$",
+    "ru_response": "^\\s*(грубый|резкий|невоспитанный)\\s*$",
+    "sound": "rude",
+    "preview": ""
+  },
+  {
+    "foreign_question": "serious",
+    "ru_question": "серьезный",
+    "foreign_response": "^\\s*serious\\s*$",
+    "ru_response": "^\\s*серьезный\\s*$",
+    "sound": "serious",
+    "preview": ""
+  },
+  {
+    "foreign_question": "shy",
+    "ru_question": "скромный, застенчивый",
+    "foreign_response": "^\\s*shy\\s*$",
+    "ru_response": "^\\s*(скромный|застенчивый)\\s*$",
+    "sound": "shy",
+    "preview": ""
+  },
+  {
+    "foreign_question": "smart",
+    "ru_question": "умный (синоним 'clever')",
+    "foreign_response": "^\\s*smart\\s*$",
+    "ru_response": "^\\s*умный\\s*$",
+    "sound": "smart",
+    "preview": ""
+  }
+]

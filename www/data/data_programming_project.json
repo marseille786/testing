@@ -1,0 +1,51 @@
+[
+	// GIT
+  {
+    "foreign_question": "Клонирование репозитория из адреса 'SSH' в текущую папку проекта",
+    "ru_question": "git clone SSH",
+    "foreign_response": "^\\s*Клонирование репозитория из адреса 'SSH' в текущую папку проекта\\s*$",
+    "ru_response": "^\\s*git clone SSH\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "Добавление файлов (f) для коммита в репозиторий",
+    "ru_question": "git add f",
+    "foreign_response": "^\\s*Добавление файлов (f) для коммита в репозиторий\\s*$",
+    "ru_response": "^\\s*git add f\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "Коммит файлов измененных файлов которых еще нет на удаленном сервере с комментариями (d)",
+    "ru_question": "git commit -m d",
+    "foreign_response": "^\\s*Коммит файлов измененных файлов которых еще нет на удаленном сервере с комментариями (d)\\s*$",
+    "ru_response": "^\\s*git commit -m d\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "Отправка изменений из репозитория на удаленный репозиторий (origin) в ветку по умолчанию (master)",
+    "ru_question": "git push origin master",
+    "foreign_response": "^\\s*Отправка изменений из репозитория на удаленный репозиторий (origin) в ветку по умолчанию (master)\\s*$",
+    "ru_response": "^\\s*git push origin master\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "Вытягивание свежих изменений из проекта",
+    "ru_question": "git pull",
+    "foreign_response": "^\\s*Вытягивание свежих изменений из проекта\\s*$",
+    "ru_response": "^\\s*git pull\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "foreign_question": "aeroplane",
+    "ru_question": "самолет (синоним plane)",
+    "foreign_response": "^\\s*aeroplane\\s*$",
+    "ru_response": "^\\s*самолет\\s*$",
+    "sound": "aeroplane",
+    "preview": "aeroplane"
+  },
+  {
+    "foreign_question": "be afraid of",
+    "ru_question": "испугаться, быть испуганным (чего-то)",
+    "foreign_response": "^\\s*be afraid of\\s*$",
+    "ru_response": "^\\s*(испугаться|быть испуганным|бояться)\\s*$",
+    "sound": "be_afraid_of",
+    "preview": "be_afraid_of"
+  },
+  {
+    "foreign_question": "bicycle",
+    "ru_question": "велосипед (сининим bike)",
+    "foreign_response": "^\\s*bicycle\\s*$",
+    "ru_response": "^\\s*велосипед\\s*$",
+    "sound": "bicycle",
+    "preview": "bicycle"
+  },
+  {
+    "foreign_question": "bike",
+    "ru_question": "велосипед (сининим bicycle)",
+    "foreign_response": "^\\s*bike\\s*$",
+    "ru_response": "^\\s*велосипед\\s*$",
+    "sound": "bike",
+    "preview": "bike"
+  },
+  {
+    "foreign_question": "brochure",
+    "ru_question": "брошюра",
+    "foreign_response": "^\\s*brochure\\s*$",
+    "ru_response": "^\\s*брошюра\\s*$",
+    "sound": "brochure",
+    "preview": "brochure"
+  },
+  {
+    "foreign_question": "by bus",
+    "ru_question": "автобусом, на автобусе (ехать)",
+    "foreign_response": "^\\s*by bus\\s*$",
+    "ru_response": "^\\s*(автобусом|на автобусе)\\s*$",
+    "sound": "by_bus",
+    "preview": "by_bus"
+  },
+  {
+    "foreign_question": "cheap",
+    "ru_question": "дешево, дешевый",
+    "foreign_response": "^\\s*cheap\\s*$",
+    "ru_response": "^\\s*(дешево|дешевый)\\s*$",
+    "sound": "cheap",
+    "preview": "cheap"
+  },
+  {
+    "foreign_question": "cruise",
+    "ru_question": "круиз",
+    "foreign_response": "^\\s*cruise\\s*$",
+    "ru_response": "^\\s*круиз\\s*$",
+    "sound": "cruise",
+    "preview": "cruise"
+  },
+  {
+    "foreign_question": "ferry",
+    "ru_question": "паром",
+    "foreign_response": "^\\s*ferry\\s*$",
+    "ru_response": "^\\s*паром\\s*$",
+    "sound": "ferry",
+    "preview": "ferry"
+  },
+  {
+    "foreign_question": "get seasick",
+    "ru_question": "морская болезнь",
+    "foreign_response": "^\\s*get seasick\\s*$",
+    "ru_response": "^\\s*морская болезнь\\s*$",
+    "sound": "get_seasick",
+    "preview": "get_seasick"
+  },
+  {
+    "foreign_question": "helicopter",
+    "ru_question": "вертолет",
+    "foreign_response": "^\\s*helicopter\\s*$",
+    "ru_response": "^\\s*вертолет\\s*$",
+    "sound": "helicopter",
+    "preview": "helicopter"
+  },
+  {
+    "foreign_question": "I guess so.",
+    "ru_question": "Я полагаю, что так.",
+    "foreign_response": "^\\s*I guess so\\.?\\s*$",
+    "ru_response": "^\\s*(Я )?(полагаю|думаю|считаю),? что (так|да)\\.?\\s*$",
+    "sound": "i_guess_so",
+    "preview": ""
+  },
+  {
+    "foreign_question": "in that case",
+    "ru_question": "в таком случае",
+    "foreign_response": "^\\s*in that case\\s*$",
+    "ru_response": "^\\s*в таком случае\\s*$",
+    "sound": "in_that_case",
+    "preview": ""
+  },
+  {
+    "foreign_question": "monorail",
+    "ru_question": "монорельс",
+    "foreign_response": "^\\s*monorail\\s*$",
+    "ru_response": "^\\s*монорельс\\s*$",
+    "sound": "monorail",
+    "preview": "monorail"
+  },
+  {
+    "foreign_question": "motorbike",
+    "ru_question": "мотоцикл",
+    "foreign_response": "^\\s*motorbike\\s*$",
+    "ru_response": "^\\s*мотоцикл\\s*$",
+    "sound": "motorbike",
+    "preview": "motorbike"
+  },
+  {
+    "foreign_question": "offer",
+    "ru_question": "предлагать (синоним suggest)",
+    "foreign_response": "^\\s*offer\\s*$",
+    "ru_response": "^\\s*предлагать\\s*$",
+    "sound": "offer",
+    "preview": "offer"
+  },
+  {
+    "foreign_question": "on business",
+    "ru_question": "по делу",
+    "foreign_response": "^\\s*on business\\s*$",
+    "ru_response": "^\\s*по делу\\s*$",
+    "sound": "on_business",
+    "preview": "on_business"
+  },
+  {
+    "foreign_question": "on foot",
+    "ru_question": "пешком",
+    "foreign_response": "^\\s*on foot\\s*$",
+    "ru_response": "^\\s*пешком\\s*$",
+    "sound": "on_foot",
+    "preview": "on_foot"
+  },
+  {
+    "foreign_question": "on holiday",
+    "ru_question": "на выходных",
+    "foreign_response": "^\\s*on holiday\\s*$",
+    "ru_response": "^\\s*на выходных\\s*$",
+    "sound": "on_holiday",
+    "preview": "on_holiday"
+  },
+  {
+    "foreign_question": "out of the question",
+    "ru_question": "не может быть и речи, без вопросов",
+    "foreign_response": "^\\s*out of the question\\s*$",
+    "ru_response": "^\\s*(не может быть и речи|без вопросов)\\s*$",
+    "sound": "out_of_the_question",
+    "preview": ""
+  },
+  {
+    "foreign_question": "ship",
+    "ru_question": "корабль",
+    "foreign_response": "^\\s*ship\\s*$",
+    "ru_response": "^\\s*корабль\\s*$",
+    "sound": "ship",
+    "preview": "ship"
+  },
+  {
+    "foreign_question": "suggest",
+    "ru_question": "предлагать (синоним offer)",
+    "foreign_response": "^\\s*suggest\\s*$",
+    "ru_response": "^\\s*предлагать\\s*$",
+    "sound": "suggest",
+    "preview": "offer"
+  },
+  {
+    "foreign_question": "tour",
+    "ru_question": "тур, турне",
+    "foreign_response": "^\\s*tour\\s*$",
+    "ru_response": "^\\s*(тур|турне)\\s*$",
+    "sound": "tour",
+    "preview": "tour"
+  },
+  {
+    "foreign_question": "What else?",
+    "ru_question": "Что еще?",
+    "foreign_response": "^\\s*What else\\?\\s*$",
+    "ru_response": "^\\s*Что еще\\?\\s*$",
+    "sound": "what_else-",
+    "preview": ""
+  }
+]

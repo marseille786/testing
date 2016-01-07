@@ -1,0 +1,129 @@
+[
+  {
+    "foreign_question": "bag",
+    "ru_question": "сумка",
+    "foreign_response": "^\\s*bag\\s*$",
+    "ru_response": "^\\s*сумка\\s*$",
+    "sound": "bag",
+    "preview": "bag"
+  },
+  {
+    "foreign_question": "ball",
+    "ru_question": "мяч",
+    "foreign_response": "^\\s*ball\\s*$",
+    "ru_response": "^\\s*мяч\\s*$",
+    "sound": "ball",
+    "preview": "ball"
+  },
+  {
+    "foreign_question": "book",
+    "ru_question": "книга",
+    "foreign_response": "^\\s*book\\s*$",
+    "ru_response": "^\\s*книга\\s*$",
+    "sound": "book",
+    "preview": "book"
+  },
+  {
+    "foreign_question": "bowl",
+    "ru_question": "миска",
+    "foreign_response": "^\\s*bowl\\s*$",
+    "ru_response": "^\\s*миска\\s*$",
+    "sound": "bowl",
+    "preview": "bowl"
+  },
+  {
+    "foreign_question": "chair",
+    "ru_question": "стул",
+    "foreign_response": "^\\s*chair\\s*$",
+    "ru_response": "^\\s*стул\\s*$",
+    "sound": "chair",
+    "preview": "chair"
+  },
+  {
+    "foreign_question": "computer",
+    "ru_question": "компьютер",
+    "foreign_response": "^\\s*computer\\s*$",
+    "ru_response": "^\\s*компьютер\\s*$",
+    "sound": "computer",
+    "preview": "computer"
+  },
+  {
+    "foreign_question": "cup",
+    "ru_question": "чашка",
+    "foreign_response": "^\\s*cup\\s*$",
+    "ru_response": "^\\s*чашка\\s*$",
+    "sound": "cup",
+    "preview": "cup__house"
+  },
+  {
+    "foreign_question": "glass",
+    "ru_question": "стакан",
+    "foreign_response": "^\\s*glass\\s*$",
+    "ru_response": "^\\s*стакан\\s*$",
+    "sound": "glass",
+    "preview": "glass"
+  },
+  {
+    "foreign_question": "keys",
+    "ru_question": "ключи",
+    "foreign_response": "^\\s*keys\\s*$",
+    "ru_response": "^\\s*ключи\\s*$",
+    "sound": "keys",
+    "preview": "keys"
+  },
+  {
+    "foreign_question": "notebook",
+    "ru_question": "блокнот, записная книжка",
+    "foreign_response": "^\\s*notebook\\s*$",
+    "ru_response": "^\\s*(блокнот|записная книжка)\\s*$",
+    "sound": "notebook",
+    "preview": "notebook"
+  },
+  {
+    "foreign_question": "pen",
+    "ru_question": "ручка, перо",
+    "foreign_response": "^\\s*pen\\s*$",
+    "ru_response": "^\\s*(ручка|перо)\\s*$",
+    "sound": "pen",
+    "preview": "pen"
+  },
+  {
+    "foreign_question": "plate",
+    "ru_question": "тарелка",
+    "foreign_response": "^\\s*plate\\s*$",
+    "ru_response": "^\\s*тарелка\\s*$",
+    "sound": "plate",
+    "preview": "plate"
+  },
+  {
+    "foreign_question": "table",
+    "ru_question": "стол",
+    "foreign_response": "^\\s*table\\s*$",
+    "ru_response": "^\\s*стол\\s*$",
+    "sound": "table",
+    "preview": "table"
+  },
+  {
+    "foreign_question": "telephone",
+    "ru_question": "телефон (синоним phone)",
+    "foreign_response": "^\\s*telephone\\s*$",
+    "ru_response": "^\\s*телефон\\s*$",
+    "sound": "telephone",
+    "preview": "telephone"
+  },
+  {
+    "foreign_question": "wallet",
+    "ru_question": "бумажник",
+    "foreign_response": "^\\s*wallet\\s*$",
+    "ru_response": "^\\s*(бумажник|кошелек)\\s*$",
+    "sound": "wallet",
+    "preview": "wallet"
+  },  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  }
+]

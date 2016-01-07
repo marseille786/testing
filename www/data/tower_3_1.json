@@ -1,0 +1,213 @@
+[
+  {
+    "foreign_question": "ago",
+    "ru_question": "тому назад",
+    "foreign_response": "^\\s*ago\\s*$",
+    "ru_response": "^\\s*тому назад\\s*$",
+    "sound": "ago",
+    "preview": ""
+  },
+  {
+    "foreign_question": "Art",
+    "ru_question": "искусство",
+    "foreign_response": "^\\s*Art\\s*$",
+    "ru_response": "^\\s*искусство\\s*$",
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "believe",
+    "ru_question": "верить",
+    "foreign_response": "^\\s*believe\\s*$",
+    "ru_response": "^\\s*верить\\s*$",
+    "sound": "believe",
+    "preview": "believe"
+  },
+  {
+    "foreign_question": "Biology",
+    "ru_question": "биология",
+    "foreign_response": "^\\s*Biology\\s*$",
+    "ru_response": "^\\s*биология\\s*$",
+    "sound": "biology",
+    "preview": "biology"
+  },
+  {
+    "foreign_question": "chapter",
+    "ru_question": "глава (книги)",
+    "foreign_response": "^\\s*chapter\\s*$",
+    "ru_response": "^\\s*глава\\s*$",
+    "sound": "chapter",
+    "preview": "chapter"
+  },
+  {
+    "foreign_question": "Chemistry",
+    "ru_question": "химия",
+    "foreign_response": "^\\s*Chemistry\\s*$",
+    "ru_response": "^\\s*химия\\s*$",
+    "sound": "chemistry",
+    "preview": "chemistry"
+  },
+  {
+    "foreign_question": "end",
+    "ru_question": "конец",
+    "foreign_response": "^\\s*end\\s*$",
+    "ru_response": "^\\s*конец\\s*$",
+    "sound": "end",
+    "preview": ""
+  },
+  {
+    "foreign_question": "finish",
+    "ru_question": "заканчивать, конец (правильный глагол)",
+    "foreign_response": "^\\s*finish\\s*$",
+    "ru_response": "^\\s*(заканчивать|конец)\\s*$",
+    "sound": "finish",
+    "preview": "finish"
+  },
+  {
+    "foreign_question": "Geography",
+    "ru_question": "география",
+    "foreign_response": "^\\s*Geography\\s*$",
+    "ru_response": "^\\s*география\\s*$",
+    "sound": "geography",
+    "preview": "geography"
+  },
+  {
+    "foreign_question": "Histiry",
+    "ru_question": "история",
+    "foreign_response": "^\\s*Histiry\\s*$",
+    "ru_response": "^\\s*история\\s*$",
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "Information Technology (IT)",
+    "ru_question": "информационные технологии",
+    "foreign_response": "^\\s*(Information Technology|IT)\\s*$",
+    "ru_response": "^\\s*информационные технологии\\s*$",
+    "sound": "information_technology",
+    "preview": "information_technology"
+  },
+  {
+    "foreign_question": "last night",
+    "ru_question": "прошлой ночью, прошлая ночь",
+    "foreign_response": "^\\s*last night\\s*$",
+    "ru_response": "^\\s*(прошлой ночью|прошлая ночь)\\s*$",
+    "sound": "last_night",
+    "preview": "last_night"
+  },
+  {
+    "foreign_question": "last year",
+    "ru_question": "в прошлом году, прошлый год",
+    "foreign_response": "^\\s*last year\\s*$",
+    "ru_response": "^\\s*(в прошлом году|прошлый год)\\s*$",
+    "sound": "last_year",
+    "preview": "last_year"
+  },
+  {
+    "foreign_question": "Literature",
+    "ru_question": "литература",
+    "foreign_response": "^\\s*Literature\\s*$",
+    "ru_response": "^\\s*литература\\s*$",
+    "sound": "literature",
+    "preview": "literature"
+  },
+  {
+    "foreign_question": "Maths",
+    "ru_question": "математика",
+    "foreign_response": "^\\s*Maths\\s*$",
+    "ru_response": "^\\s*математика\\s*$",
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "over",
+    "ru_question": "над, свыше",
+    "foreign_response": "^\\s*over\\s*$",
+    "ru_response": "^\\s*(над|свыше)\\s*$",
+    "sound": "over",
+    "preview": "over"
+  },
+  {
+    "foreign_question": "Physical Education (PE)",
+    "ru_question": "физкультура",
+    "foreign_response": "^\\s*(Physical Education|PE)\\s*$",
+    "ru_response": "^\\s*физкультура\\s*$",
+    "sound": "physical_education",
+    "preview": "physical_education"
+  },
+  {
+    "foreign_question": "Physics",
+    "ru_question": "физика",
+    "foreign_response": "^\\s*Physics\\s*$",
+    "ru_response": "^\\s*физика\\s*$",
+    "sound": "physics",
+    "preview": "physics"
+  },
+  {
+    "foreign_question": "remember",
+    "ru_question": "помнить, воспоминание",
+    "foreign_response": "^\\s*remember\\s*$",
+    "ru_response": "^\\s*(помнить|запомнить|вспоминать|припоминать|воспоминание)\\s*$",
+    "sound": "remember",
+    "preview": "remember"
+  },
+  {
+    "foreign_question": "secondary school",
+    "ru_question": "средняя школа",
+    "foreign_response": "^\\s*secondary school\\s*$",
+    "ru_response": "^\\s*средняя школа\\s*$",
+    "sound": "secondary_school",
+    "preview": "secondary_school"
+  },
+  {
+    "foreign_question": "start",
+    "ru_question": "начало, начинать (правильный глагол)",
+    "foreign_response": "^\\s*start\\s*$",
+    "ru_response": "^\\s*(начало|старт|начинать|стартовать)\\s*$",
+    "sound": "start",
+    "preview": ""
+  },
+  {
+    "foreign_question": "subject",
+    "ru_question": "предмет, субъект, тема",
+    "foreign_response": "^\\s*subject\\s*$",
+    "ru_response": "^\\s*(предмет|субъект|тема)\\s*$",
+    "sound": "subject",
+    "preview": "subject"
+  },
+  {
+    "foreign_question": "teach",
+    "ru_question": "обучать, преподавать",
+    "foreign_response": "^\\s*teach\\s*$",
+    "ru_response": "^\\s*(обучать|преподавать)\\s*$",
+    "sound": "teach",
+    "preview": "teach"
+  },
+  /*{
+    "foreign_question": "What a small world!",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  },*/
+  {
+    "foreign_question": "yesterday",
+    "ru_question": "вчера",
+    "foreign_response": "^\\s*yesterday\\s*$",
+    "ru_response": "^\\s*вчера\\s*$",
+    "sound": "yesterday",
+    "preview": ""
+  },
+  {
+    "foreign_question": "You're kidding!",
+    "ru_question": "Ты шутишь!",
+    "foreign_response": "^\\s*You('| a)re kidding\\!?\\s*$",
+    "ru_response": "^\\s*Ты шутишь\\!?\\s*$",
+    "sound": "you're_kidding!",
+    "preview": "you're_kidding!"
+  }
+]

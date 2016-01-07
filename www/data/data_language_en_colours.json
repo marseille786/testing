@@ -1,0 +1,98 @@
+[
+  {
+    "foreign_question": "black",
+    "ru_question": "черный",
+    "foreign_response": "^\\s*black\\s*$",
+    "ru_response": "^\\s*черный\\s*$",
+    "sound": "black",
+    "preview": "black"
+  },
+  {
+    "foreign_question": "blue",
+    "ru_question": "",
+    "foreign_response": "^\\s*blue\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "blue",
+    "preview": "blue"
+  },
+  {
+    "foreign_question": "brown",
+    "ru_question": "коричневый",
+    "foreign_response": "^\\s*brown\\s*$",
+    "ru_response": "^\\s*коричневый\\s*$",
+    "sound": "brown",
+    "preview": ""
+  },
+  {
+    "foreign_question": "dark",
+    "ru_question": "темный",
+    "foreign_response": "^\\s*dark\\s*$",
+    "ru_response": "^\\s*темный\\s*$",
+    "sound": "dark",
+    "preview": ""
+  },
+  {
+    "foreign_question": "green",
+    "ru_question": "зеленый",
+    "foreign_response": "^\\s*green\\s*$",
+    "ru_response": "^\\s*зеленый\\s*$",
+    "sound": "green",
+    "preview": "green"
+  },
+  {
+    "foreign_question": "orange",
+    "ru_question": "оранжевый",
+    "foreign_response": "^\\s*orange\\s*$",
+    "ru_response": "^\\s*оранжевый\\s*$",
+    "sound": "orange",
+    "preview": ""
+  },
+  {
+    "foreign_question": "pink",
+    "ru_question": "розовый",
+    "foreign_response": "^\\s*pink\\s*$",
+    "ru_response": "^\\s*розовый\\s*$",
+    "sound": "pink",
+    "preview": "pink"
+  },
+  {
+    "foreign_question": "purple",
+    "ru_question": "фиолетовый",
+    "foreign_response": "^\\s*purple\\s*$",
+    "ru_response": "^\\s*фиолетовый\\s*$",
+    "sound": "purple",
+    "preview": ""
+  },
+  {
+    "foreign_question": "red",
+    "ru_question": "красный",
+    "foreign_response": "^\\s*red\\s*$",
+    "ru_response": "^\\s*красный\\s*$",
+    "sound": "red",
+    "preview": "red"
+  },
+  {
+    "foreign_question": "white",
+    "ru_question": "белый",
+    "foreign_response": "^\\s*white\\s*$",
+    "ru_response": "^\\s*белый\\s*$",
+    "sound": "white",
+    "preview": "white"
+  },
+  {
+    "foreign_question": "yellow",
+    "ru_question": "желтый",
+    "foreign_response": "^\\s*yellow\\s*$",
+    "ru_response": "^\\s*желтый\\s*$",
+    "sound": "yellow",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  }
+]

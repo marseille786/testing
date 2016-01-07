@@ -1,0 +1,322 @@
+[
+	{
+		"foreign_question": "advise",
+		"ru_question": "советовать",
+		"foreign_response": "^\\s*advise\\s*$",
+		"ru_response": "^\\s*советовать\\s*$",
+	  	"sound": "advise",
+	  	"preview": "advise"
+	},
+	{
+		"foreign_question": "answer",
+		"ru_question": "отвечать",
+		"foreign_response": "^\\s*answer\\s*$",
+		"ru_response": "^\\s*отвечать\\s*$",
+	  	"sound": "answer",
+	  	"preview": "answer"
+	},
+	{
+		"foreign_question": "ask",
+		"ru_question": "спрашивать, просить",
+		"foreign_response": "^\\s*ask\\s*$",
+		"ru_response": "^\\s*(спрашивать|просить)\\s*$",
+	  	"sound": "ask",
+	  	"preview": "ask"
+	},
+	{
+		"foreign_question": "believe",
+		"ru_question": "верить",
+		"foreign_response": "^\\s*believe\\s*$",
+		"ru_response": "^\\s*верить\\s*$",
+	  	"sound": "believe",
+	  	"preview": "believe"
+	},
+	{
+		"foreign_question": "call",
+		"ru_question": "звонить",
+		"foreign_response": "^\\s*call\\s*$",
+		"ru_response": "^\\s*звонить\\s*$",
+	  	"sound": "call",
+	  	"preview": "call"
+	},
+	{
+		"foreign_question": "change",
+		"ru_question": "менять",
+		"foreign_response": "^\\s*change\\s*$",
+		"ru_response": "^\\s*(из)?менять\\s*$",
+	  	"sound": "change",
+	  	"preview": "change"
+	},
+	{
+		"foreign_question": "close",
+		"ru_question": "закрывать",
+		"foreign_response": "^\\s*close\\s*$",
+		"ru_response": "^\\s*закрывать\\s*$",
+	  	"sound": "close",
+	  	"preview": "close__v"
+	},
+	{
+		"foreign_question": "copy",
+		"ru_question": "копировать",
+		"foreign_response": "^\\s*copy\\s*$",
+		"ru_response": "^\\s*копировать\\s*$",
+	  	"sound": "copy",
+	  	"preview": "copy"
+	},
+	{
+		"foreign_question": "excuse",
+		"ru_question": "извинять",
+		"foreign_response": "^\\s*excuse\\s*$",
+		"ru_response": "^\\s*извинять\\s*$",
+	  	"sound": "excuse",
+	  	"preview": "excuse"
+	},
+	{
+		"foreign_question": "finish",
+		"ru_question": "заканчивать",
+		"foreign_response": "^\\s*finish\\s*$",
+		"ru_response": "^\\s*заканчивать\\s*$",
+	  	"sound": "finish",
+	  	"preview": "finish"
+	},
+	{
+		"foreign_question": "follow",
+		"ru_question": "следовать",
+		"foreign_response": "^\\s*follow\\s*$",
+		"ru_response": "^\\s*следовать\\s*$",
+	  	"sound": "follow",
+	  	"preview": "follow"
+	},
+	{
+		"foreign_question": "happen",
+		"ru_question": "случаться",
+		"foreign_response": "^\\s*happen\\s*$",
+		"ru_response": "^\\s*случаться\\s*$",
+	  	"sound": "happen",
+	  	"preview": ""
+	},
+	{
+		"foreign_question": "help",
+		"ru_question": "помогать",
+		"foreign_response": "^\\s*help\\s*$",
+		"ru_response": "^\\s*помогать\\s*$",
+	  	"sound": "help",
+	  	"preview": "help"
+	},
+	{
+		"foreign_question": "hope",
+		"ru_question": "надеяться",
+		"foreign_response": "^\\s*hope\\s*$",
+		"ru_response": "^\\s*надеяться\\s*$",
+	  	"sound": "hope",
+	  	"preview": "hope"
+	},
+	{
+		"foreign_question": "like",
+		"ru_question": "нравиться",
+		"foreign_response": "^\\s*like\\s*$",
+		"ru_response": "^\\s*нравиться\\s*$",
+	  	"sound": "like",
+	  	"preview": "like"
+	},
+	{
+		"foreign_question": "listen to",
+		"ru_question": "слушать что-то",
+		"foreign_response": "^\\s*listen to\\s*$",
+		"ru_response": "^\\s*слушать( (что|кого)-то)?\\s*$",
+	  	"sound": "listen_to",
+	  	"preview": "listen_to"
+	},
+	{
+		"foreign_question": "live",
+		"ru_question": "жить",
+		"foreign_response": "^\\s*live\\s*$",
+		"ru_response": "^\\s*жить\\s*$",
+	  	"sound": "live",
+	  	"preview": "live"
+	},
+	{
+		"foreign_question": "look",
+		"ru_question": "смотреть, выглядеть",
+		"foreign_response": "^\\s*look\\s*$",
+		"ru_response": "^\\s*(смотреть|выглядеть)\\s*$",
+	  	"sound": "look",
+	  	"preview": "look"
+	},
+	{
+		"foreign_question": "look at",
+		"ru_question": "смотреть на",
+		"foreign_response": "^\\s*look at\\s*$",
+		"ru_response": "^\\s*смотреть на\\s*$",
+	  	"sound": "look_at",
+	  	"preview": "look"
+	},
+	{
+		"foreign_question": "love",
+		"ru_question": "любить",
+		"foreign_response": "^\\s*love\\s*$",
+		"ru_response": "^\\s*любить\\s*$",
+	  	"sound": "love",
+	  	"preview": "love"
+	},
+	{
+		"foreign_question": "move",
+		"ru_question": "двигать",
+		"foreign_response": "^\\s*move\\s*$",
+		"ru_response": "^\\s*двигать\\s*$",
+	  	"sound": "move",
+	  	"preview": "move"
+	},
+	{
+		"foreign_question": "need",
+		"ru_question": "нуждаться",
+		"foreign_response": "^\\s*need\\s*$",
+		"ru_response": "^\\s*нуждаться\\s*$",
+	  	"sound": "need",
+	  	"preview": "need"
+	},
+	{
+		"foreign_question": "open",
+		"ru_question": "открывать",
+		"foreign_response": "^\\s*open\\s*$",
+		"ru_response": "^\\s*открывать\\s*$",
+	  	"sound": "open",
+	  	"preview": "open"
+	},
+	{
+		"foreign_question": "order",
+		"ru_question": "заказывать",
+		"foreign_response": "^\\s*order\\s*$",
+		"ru_response": "^\\s*заказывать\\s*$",
+	  	"sound": "order",
+	  	"preview": "order__v"
+	},
+	{
+		"foreign_question": "play",
+		"ru_question": "играть",
+		"foreign_response": "^\\s*play\\s*$",
+		"ru_response": "^\\s*играть\\s*$",
+	  	"sound": "play",
+	  	"preview": "play__v"
+	},
+	{
+		"foreign_question": "remember",
+		"ru_question": "помнить",
+		"foreign_response": "^\\s*remember\\s*$",
+		"ru_response": "^\\s*(помнить|запоминать)\\s*$",
+	  	"sound": "remember",
+	  	"preview": "remember"
+	},
+	{
+		"foreign_question": "start",
+		"ru_question": "начинать",
+		"foreign_response": "^\\s*start\\s*$",
+		"ru_response": "^\\s*начинать\\s*$",
+	  	"sound": "start",
+	  	"preview": "start"
+	},
+	{
+		"foreign_question": "stay",
+		"ru_question": "остановиться (где-то)",
+		"foreign_response": "^\\s*stay\\s*$",
+		"ru_response": "^\\s*(остановиться|останавливаться)\\s*$",
+	  	"sound": "stay",
+	  	"preview": "stay"
+	},
+	{
+		"foreign_question": "stop",
+		"ru_question": "останавливать (что-то)",
+		"foreign_response": "^\\s*stop\\s*$",
+		"ru_response": "^\\s*(останавливать|остановить)\\s*$",
+	  	"sound": "stop",
+	  	"preview": "stop"
+	},
+	{
+		"foreign_question": "study",
+		"ru_question": "изучать",
+		"foreign_response": "^\\s*study\\s*$",
+		"ru_response": "^\\s*изучать\\s*$",
+	  	"sound": "study",
+	  	"preview": "study"
+	},
+	{
+		"foreign_question": "thank",
+		"ru_question": "благодарить",
+		"foreign_response": "^\\s*thank\\s*$",
+		"ru_response": "^\\s*благодарить\\s*$",
+	  	"sound": "thank",
+	  	"preview": "thank"
+	},
+	{
+		"foreign_question": "travel",
+		"ru_question": "путешествовать",
+		"foreign_response": "^\\s*travel\\s*$",
+		"ru_response": "^\\s*путешествовать\\s*$",
+	  	"sound": "travel",
+	  	"preview": "travel"
+	},
+	{
+		"foreign_question": "try",
+		"ru_question": "пытаться",
+		"foreign_response": "^\\s*try\\s*$",
+		"ru_response": "^\\s*пытаться\\s*$",
+	  	"sound": "try",
+	  	"preview": "try"
+	},
+	{
+		"foreign_question": "upset",
+		"ru_question": "расстраивать",
+		"foreign_response": "^\\s*upset\\s*$",
+		"ru_response": "^\\s*(расстраивать(ся)?|огорчать(ся)?)\\s*$",
+	  	"sound": "",
+	  	"preview": ""
+	},
+	{
+		"foreign_question": "use",
+		"ru_question": "использовать",
+		"foreign_response": "^\\s*use\\s*$",
+		"ru_response": "^\\s*использовать\\s*$",
+	  	"sound": "use",
+	  	"preview": "use"
+	},
+	{
+		"foreign_question": "wait for",
+		"ru_question": "ждать что-то",
+		"foreign_response": "^\\s*wait for\\s*$",
+		"ru_response": "^\\s*ждать( (что|кого)-то)?\\s*$",
+	  	"sound": "wait_for",
+	  	"preview": "wait_for"
+	},
+	{
+		"foreign_question": "walk",
+		"ru_question": "ходить, гулять, идти пешком",
+		"foreign_response": "^\\s*walk\\s*$",
+		"ru_response": "^\\s*(ходить|гулять|идти пешком)\\s*$",
+	  	"sound": "walk",
+	  	"preview": "walk"
+	},
+	{
+		"foreign_question": "want",
+		"ru_question": "хотеть",
+		"foreign_response": "^\\s*want\\s*$",
+		"ru_response": "^\\s*хотеть\\s*$",
+	  	"sound": "want",
+	  	"preview": "want"
+	},
+	{
+		"foreign_question": "work",
+		"ru_question": "работать",
+		"foreign_response": "^\\s*work\\s*$",
+		"ru_response": "^\\s*работать\\s*$",
+	  	"sound": "work",
+	  	"preview": "work"
+	},
+	{
+		"foreign_question": "worry",
+		"ru_question": "беспокоиться",
+		"foreign_response": "^\\s*worry\\s*$",
+		"ru_response": "^\\s*беспокоиться\\s*$",
+	  	"sound": "worry",
+	  	"preview": "worry"
+	}
+]

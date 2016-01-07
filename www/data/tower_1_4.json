@@ -1,0 +1,235 @@
+[
+  {
+    "foreign_question": "almost",
+    "ru_question": "почти",
+    "foreign_response": "^\\s*almost\\s*$",
+    "ru_response": "^\\s*почти\\s*$",
+    "sound": "almost",
+    "preview": ""
+  },
+  {
+    "foreign_question": "at the moment",
+    "ru_question": "в данный момент, в настоящее время",
+    "foreign_response": "^\\s*at the moment\\s*$",
+    "ru_response": "^\\s*(в данный|на текущий) момент, в (настоящее|текущее) время, в данную минуту\\s*$",
+    "sound": "at_the_moment",
+    "preview": ""
+  },
+  {
+    "foreign_question": "balcony",
+    "ru_question": "балкон",
+    "foreign_response": "^\\s*balcony\\s*$",
+    "ru_response": "^\\s*балкон\\s*$",
+    "sound": "balcony",
+    "preview": ""
+  },
+  {
+    "foreign_question": "bathroom",
+    "ru_question": "ванная комната",
+    "foreign_response": "^\\s*bathroom\\s*$",
+    "ru_response": "^\\s*ванная( комната)?\\s*$",
+    "sound": "bathroom",
+    "preview": ""
+  },
+  {
+    "foreign_question": "both",
+    "ru_question": "оба",
+    "foreign_response": "^\\s*both\\s*$",
+    "ru_response": "^\\s*оба\\s*$",
+    "sound": "both",
+    "preview": ""
+  },
+  {
+    "foreign_question": "busy",
+    "ru_question": "занятой",
+    "foreign_response": "^\\s*busy\\s*$",
+    "ru_response": "^\\s*занят[оы]й\\s*$",
+    "sound": "busy",
+    "preview": ""
+  },
+  {
+    "foreign_question": "cow",
+    "ru_question": "корова",
+    "foreign_response": "^\\s*cow\\s*$",
+    "ru_response": "^\\s*корова\\s*$",
+    "sound": "cow",
+    "preview": ""
+  },
+  {
+    "foreign_question": "day off",
+    "ru_question": "выходной день",
+    "foreign_response": "^\\s*day off\\s*$",
+    "ru_response": "^\\s*выходной( день)?\\s*$",
+    "sound": "day_off",
+    "preview": ""
+  },
+  {
+    "foreign_question": "dining room",
+    "ru_question": "столовая",
+    "foreign_response": "^\\s*dining room\\s*$",
+    "ru_response": "^\\s*столовая\\s*$",
+    "sound": "dining_room",
+    "preview": ""
+  },
+  {
+    "foreign_question": "farm",
+    "ru_question": "ферма",
+    "foreign_response": "^\\s*farm\\s*$",
+    "ru_response": "^\\s*ферма\\s*$",
+    "sound": "farm",
+    "preview": ""
+  },
+  {
+    "foreign_question": "fence",
+    "ru_question": "забор",
+    "foreign_response": "^\\s*fence\\s*$",
+    "ru_response": "^\\s*(забор|ограда)\\s*$",
+    "sound": "fence",
+    "preview": ""
+  },
+  {
+    "foreign_question": "field",
+    "ru_question": "поле",
+    "foreign_response": "^\\s*field\\s*$",
+    "ru_response": "^\\s*поле\\s*$",
+    "sound": "field",
+    "preview": ""
+  },
+  {
+    "foreign_question": "fix",
+    "ru_question": "исправлять",
+    "foreign_response": "^\\s*fix\\s*$",
+    "ru_response": "^\\s*(исправлять|чинить)\\s*$",
+    "sound": "fix",
+    "preview": ""
+  },
+  {
+    "foreign_question": "flower",
+    "ru_question": "цветок",
+    "foreign_response": "^\\s*flower\\s*$",
+    "ru_response": "^\\s*цветок\\s*$",
+    "sound": "flower",
+    "preview": ""
+  },
+  {
+    "foreign_question": "garage",
+    "ru_question": "гараж",
+    "foreign_response": "^\\s*garage\\s*$",
+    "ru_response": "^\\s*гараж\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "garden",
+    "ru_question": "сад",
+    "foreign_response": "^\\s*garden\\s*$",
+    "ru_response": "^\\s*сад\\s*$",
+    "sound": "garage",
+    "preview": ""
+  },
+  {
+    "foreign_question": "kid",
+    "ru_question": "малыш (синоним 'baby')",
+    "foreign_response": "^\\s*kid\\s*$",
+    "ru_response": "^\\s*малыш\\s*$",
+    "sound": "kid",
+    "preview": ""
+  },
+  {
+    "foreign_question": "kitchen",
+    "ru_question": "кухня (помещение)",
+    "foreign_response": "^\\s*kitchen\\s*$",
+    "ru_response": "^\\s*кухня\\s*$",
+    "sound": "kitchen",
+    "preview": ""
+  },
+  {
+    "foreign_question": "laugh (v)",
+    "ru_question": "смеяться",
+    "foreign_response": "^\\s*laugh\\s*$",
+    "ru_response": "^\\s*смеяться\\s*$",
+    "sound": "laugh",
+    "preview": ""
+  },
+  {
+    "foreign_question": "life",
+    "ru_question": "жизнь",
+    "foreign_response": "^\\s*life\\s*$",
+    "ru_response": "^\\s*жизнь\\s*$",
+    "sound": "life",
+    "preview": ""
+  },
+  {
+    "foreign_question": "perfect",
+    "ru_question": "безупречно, идеально",
+    "foreign_response": "^\\s*perfect\\s*$",
+    "ru_response": "^\\s*(безупречно|идеально)\\s*$",
+    "sound": "perfect",
+    "preview": ""
+  },
+  {
+    "foreign_question": "ready",
+    "ru_question": "готов",
+    "foreign_response": "^\\s*ready\\s*$",
+    "ru_response": "^\\s*готов\\s*$",
+    "sound": "ready",
+    "preview": ""
+  },
+  {
+    "foreign_question": "roof",
+    "ru_question": "крыша",
+    "foreign_response": "^\\s*roof\\s*$",
+    "ru_response": "^\\s*(крыша|кров(ля)?)\\s*$",
+    "sound": "roof",
+    "preview": ""
+  },
+  {
+    "foreign_question": "stairs",
+    "ru_question": "лестница",
+    "foreign_response": "^\\s*stairs\\s*$",
+    "ru_response": "^\\s*лестница\\s*$",
+    "sound": "stairs",
+    "preview": ""
+  },
+  {
+    "foreign_question": "study (n)",
+    "ru_question": "рабочий кабинет",
+    "foreign_response": "^\\s*study\\s*$",
+    "ru_response": "^\\s*(рабочий )?кабинет\\s*$",
+    "sound": "study",
+    "preview": ""
+  },
+  {
+    "foreign_question": "these days",
+    "ru_question": "эти дни",
+    "foreign_response": "^\\s*these days\\s*$",
+    "ru_response": "^\\s*эти дни\\s*$",
+    "sound": "these_days",
+    "preview": ""
+  },
+  {
+    "foreign_question": "upset (adj)",
+    "ru_question": "расстроенный",
+    "foreign_response": "^\\s*upset\\s*$",
+    "ru_response": "^\\s*(расстроенн(ый|ая)|огорченн(ый|ая))\\s*$",
+    ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "watch (v)",
+    "ru_question": "смотреть, наблюдать",
+    "foreign_response": "^\\s*watch\\s*$",
+    "ru_response": "^\\s*(смотреть|наблюдать|следить)\\s*$",
+    "sound": "watch",
+    "preview": ""
+  },
+  {
+    "foreign_question": "water (v)",
+    "ru_question": "поливать",
+    "foreign_response": "^\\s*water\\s*$",
+    "ru_response": "^\\s*поливать\\s*$",
+    "sound": "water",
+    "preview": ""
+  }
+]

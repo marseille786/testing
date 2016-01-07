@@ -1,0 +1,258 @@
+[
+  {
+    "foreign_question": "beautiful",
+    "ru_question": "красивый",
+    "foreign_response": "^\\s*beautiful\\s*$",
+    "ru_response": "^\\s*красив(ый|ая)\\s*$",
+    "sound": "beautiful",
+    "preview": ""
+  },
+  {
+    "foreign_question": "cold",
+    "ru_question": "холодный",
+    "foreign_response": "^\\s*cold\\s*$",
+    "ru_response": "^\\s*холодный\\s*$",
+    "sound": "cold",
+    "preview": ""
+  },
+  {
+    "foreign_question": "excited",
+    "ru_question": "восторженный",
+    "foreign_response": "^\\s*excited\\s*$",
+    "ru_response": "^\\s*востроженн(ый|ая)\\s*$",
+    "sound": "excited",
+    "preview": "excited"
+  },
+  {
+    "foreign_question": "happy",
+    "ru_question": "счастливый, счастливая",
+    "foreign_response": "^\\s*happy\\s*$",
+    "ru_response": "^\\s*счастлив(ый|ая)\\s*$",
+    "sound": "happy",
+    "preview": "happy"
+  },
+  {
+    "foreign_question": "hot",
+    "ru_question": "горячий",
+    "foreign_response": "^\\s*hot\\s*$",
+    "ru_response": "^\\s*горяч(ий|ая)\\s*$",
+    "sound": "hot",
+    "preview": ""
+  },
+  {
+    "foreign_question": "married",
+    "ru_question": "женат, замужем",
+    "foreign_response": "^\\s*married\\s*$",
+    "ru_response": "^\\s*женат, замуж(ем|яя)\\s*$",
+    "sound": "married",
+    "preview": "married"
+  },
+  {
+    "foreign_question": "old",
+    "ru_question": "пожилой, старый",
+    "foreign_response": "^\\s*old\\s*$",
+    "ru_response": "^\\s*(пожил(ой|ая)|стар(ый|ая))\\s*$",
+    "sound": "old",
+    "preview": "old"
+  },
+  {
+    "foreign_question": "pretty",
+    "ru_question": "хорошенький, прелестный",
+    "foreign_response": "^\\s*pretty\\s*$",
+    "ru_response": "^\\s*(хорошеньк(ий|ая)|прелестн(ый|ая)|мил(ый|ая)|миленьк(ий|ая))\\s*$",
+    "sound": "pretty",
+    "preview": ""
+  },
+  {
+    "foreign_question": "ready",
+    "ru_question": "готов (быть готовым)",
+    "foreign_response": "^\\s*ready\\s*$",
+    "ru_response": "^\\s*готов\\s*$",
+    "sound": "ready",
+    "preview": ""
+  },
+  {
+    "foreign_question": "rude",
+    "ru_question": "грубый",
+    "foreign_response": "^\\s*rude\\s*$",
+    "ru_response": "^\\s*грубый\\s*$",
+    "sound": "rude",
+    "preview": ""
+  },
+  {
+    "foreign_question": "sad",
+    "ru_question": "грустный",
+    "foreign_response": "^\\s*sad\\s*$",
+    "ru_response": "^\\s*грустн(ый|ая)\\s*$",
+    "sound": "sad",
+    "preview": "sad"
+  },
+  {
+    "foreign_question": "short",
+    "ru_question": "невысокий, низкий",
+    "foreign_response": "^\\s*short\\s*$",
+    "ru_response": "^\\s*(невысок(ий|ая)|низк(ий|ая)|коротк(ий|ая)|маленьк(ий|ая))\\s*$",
+    "sound": "short",
+    "preview": "short"
+  },
+  {
+    "foreign_question": "silly",
+    "ru_question": "глупый (синоним stupid)",
+    "foreign_response": "^\\s*silly\\s*$",
+    "ru_response": "^\\s*глупый\\s*$",
+    "sound": "silly",
+    "preview": ""
+  },
+  {
+    "foreign_question": "single",
+    "ru_question": "холостой, незамужняя",
+    "foreign_response": "^\\s*single\\s*$",
+    "ru_response": "^\\s*(холостой|незамужняя|одинок(ий|ая))\\s*$",
+    "sound": "single",
+    "preview": "single"
+  },
+  {
+    "foreign_question": "stupid",
+    "ru_question": "глупый (синоним silly)",
+    "foreign_response": "^\\s*stupid\\s*$",
+    "ru_response": "^\\s*глупый\\s*$",
+    "sound": "stupid",
+    "preview": ""
+  },
+  {
+    "foreign_question": "tall",
+    "ru_question": "высокий",
+    "foreign_response": "^\\s*tall\\s*$",
+    "ru_response": "^\\s*высок(ий|ая)\\s*$",
+    "sound": "tall",
+    "preview": "tall"
+  },
+  {
+    "foreign_question": "thin",
+    "ru_question": "худой, тонкий",
+    "foreign_response": "^\\s*thin\\s*$",
+    "ru_response": "^\\s*(худ(ой|ая)|тонк(ий|ая)|тощ(ий|ая))\\s*$",
+    "sound": "thin",
+    "preview": ""
+  },
+  {
+    "foreign_question": "tired",
+    "ru_question": "усталый, уставший",
+    "foreign_response": "^\\s*tired\\s*$",
+    "ru_response": "^\\s*(устал(ый|ая)|уставш(ий|ая))\\s*$",
+    "sound": "tired",
+    "preview": "tired"
+  },
+  {
+    "foreign_question": "weak",
+    "ru_question": "слабый, хилый",
+    "foreign_response": "^\\s*weak\\s*$",
+    "ru_response": "^\\s*(слаб(ый|ая)|хил(ый|ая))\\s*$",
+    "sound": "weak",
+    "preview": ""
+  },
+  {
+    "foreign_question": "wrong",
+    "ru_question": "неправильный, ошибочный",
+    "foreign_response": "^\\s*wrong\\s*$",
+    "ru_response": "^\\s*(неправильн(ый|ая)|ошибочн(ый|ая))\\s*$",
+    "sound": "wrong",
+    "preview": ""
+  },
+  {
+    "foreign_question": "young",
+    "ru_question": "молодой, юный",
+    "foreign_response": "^\\s*young\\s*$",
+    "ru_response": "^\\s*(молод(ой|ая)|юн(ый|ая))\\s*$",
+    "sound": "young",
+    "preview": "young"
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  }
+]

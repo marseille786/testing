@@ -1,0 +1,90 @@
+[
+  {
+    "foreign_question": "brother",
+    "ru_question": "брат",
+    "foreign_response": "^\\s*brother\\s*$",
+    "ru_response": "^\\s*брат\\s*$",
+    "sound": "brother",
+    "preview": "brother"
+  },
+  {
+    "foreign_question": "dad",
+    "ru_question": "папа",
+    "foreign_response": "^\\s*dad\\s*$",
+    "ru_response": "^\\s*папа\\s*$",
+    "sound": "dad",
+    "preview": "father"
+  },
+  {
+    "foreign_question": "father",
+    "ru_question": "отец",
+    "foreign_response": "^\\s*father\\s*$",
+    "ru_response": "^\\s*отец\\s*$",
+    "sound": "father",
+    "preview": "father"
+  },
+  {
+    "foreign_question": "girlfriend",
+    "ru_question": "девушка, подруга (для парня)",
+    "foreign_response": "^\\s*girlfriend\\s*$",
+    "ru_response": "^\\s*девушка, подруга\\s*$",
+    "sound": "girlfriend",
+    "preview": ""
+  },
+  {
+    "foreign_question": "grandfather",
+    "ru_question": "дедушка",
+    "foreign_response": "^\\s*grandfather\\s*$",
+    "ru_response": "^\\s*дед(ушка)?\\s*$",
+    "sound": "grandfather",
+    "preview": "grandfather"
+  },
+  {
+    "foreign_question": "grandmother",
+    "ru_question": "бабушка",
+    "foreign_response": "^\\s*grandmother\\s*$",
+    "ru_response": "^\\s*бабушка\\s*$",
+    "sound": "grandmother",
+    "preview": "grandmother"
+  },
+  {
+    "foreign_question": "mother",
+    "ru_question": "мать",
+    "foreign_response": "^\\s*mother\\s*$",
+    "ru_response": "^\\s*мать\\s*$",
+    "sound": "mother",
+    "preview": "mother"
+  },
+  {
+    "foreign_question": "mum",
+    "ru_question": "мама",
+    "foreign_response": "^\\s*mum\\s*$",
+    "ru_response": "^\\s*мама\\s*$",
+    "sound": "mum",
+    "preview": "mother"
+  },
+  {
+    "foreign_question": "sister",
+    "ru_question": "сестра",
+    "foreign_response": "^\\s*sister\\s*$",
+    "ru_response": "^\\s*сестра\\s*$",
+    "sound": "sister",
+    "preview": ""
+  },
+  {
+    "foreign_question": "son",
+    "ru_question": "сын",
+    "foreign_response": "^\\s*son\\s*$",
+    "ru_response": "^\\s*сын\\s*$",
+    "sound": "son",
+    "preview": "son"
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  }
+]

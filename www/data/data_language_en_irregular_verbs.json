@@ -1,0 +1,578 @@
+[
+	{
+		"foreign_question": "be was/were been",
+		"ru_question": "быть",
+		"foreign_response": "^\\s*be[, ]+was\\/were[, ]+been\\s*$",
+		"ru_response": "^\\s*быть\\s*$",
+	  	"sound": "be_was_were_been",
+	  	"preview": ""
+	},
+	{
+		"foreign_question": "become, became, become",
+		"ru_question": "становиться",
+		"foreign_response": "^\\s*become[, ]+became[, ]+become\\s*$",
+		"ru_response": "^\\s*становиться\\s*$",
+	  	"sound": "become_became_become",
+	  	"preview": "become"
+	},
+	{
+		"foreign_question": "begin, began, begun",
+		"ru_question": "начинать",
+		"foreign_response": "^\\s*begin[, ]+began[, ]+begun\\s*$",
+		"ru_response": "^\\s*начинать\\s*$",
+	  	"sound": "begin_began_begun",
+	  	"preview": "begin"
+	},
+	{
+		"foreign_question": "blow, blew, blown",
+		"ru_question": "дуть",
+		"foreign_response": "^\\s*blow[, ]+blew[, ]+blown\\s*$",
+		"ru_response": "^\\s*дуть\\s*$",
+	  	"sound": "blow_blew_blown",
+	  	"preview": "blow"
+	},
+	{
+		"foreign_question": "break, broke, broken",
+		"ru_question": "ломать, разбивать",
+		"foreign_response": "^\\s*break[, ]+broke[, ]+broken\\s*$",
+		"ru_response": "^\\s*(с?ломать|разби(ва)?ть)\\s*$",
+	  	"sound": "break_broke_broken",
+	  	"preview": "break"
+	},
+	{
+		"foreign_question": "bring, brought, brought",
+		"ru_question": "приносить",
+		"foreign_response": "^\\s*bring[, ]+brought[, ]+brought\\s*$",
+		"ru_response": "^\\s*приносить\\s*$",
+	  	"sound": "bring_brought_brought",
+	  	"preview": "bring"
+	},
+	{
+		"foreign_question": "build, built, built",
+		"ru_question": "строить",
+		"foreign_response": "^\\s*build[, ]+built[, ]+built\\s*$",
+		"ru_response": "^\\s*строить\\s*$",
+	  	"sound": "build_built_built",
+	  	"preview": "build"
+	},
+	{
+		"foreign_question": "buy, bought, bought",
+		"ru_question": "покупать",
+		"foreign_response": "^\\s*buy[, ]+bought[, ]+bought\\s*$",
+		"ru_response": "^\\s*покупать\\s*$",
+	  	"sound": "buy_bought_bought",
+	  	"preview": "buy"
+	},
+	{
+		"foreign_question": "catch, caught, caught",
+		"ru_question": "ловить",
+		"foreign_response": "^\\s*catch[, ]+caught[, ]+caught\\s*$",
+		"ru_response": "^\\s*ловить\\s*$",
+	  	"sound": "catch_caught_caught",
+	  	"preview": "catch"
+	},
+	{
+		"foreign_question": "choose, chose, chosen",
+		"ru_question": "выбирать",
+		"foreign_response": "^\\s*choose[, ]+chose[, ]+chosen\\s*$",
+		"ru_response": "^\\s*выбирать\\s*$",
+	  	"sound": "choose_chose_chosen",
+	  	"preview": "choose"
+	},
+	{
+		"foreign_question": "come, came, come",
+		"ru_question": "приходить",
+		"foreign_response": "^\\s*come[, ]+came[, ]+come\\s*$",
+		"ru_response": "^\\s*приходить\\s*$",
+	  	"sound": "come_came_come",
+	  	"preview": "come"
+	},
+	{
+		"foreign_question": "cost, cost, cost",
+		"ru_question": "стоить",
+		"foreign_response": "^\\s*cost[, ]+cost[, ]+cost\\s*$",
+		"ru_response": "^\\s*стоить\\s*$",
+	  	"sound": "cost_cost_cost",
+	  	"preview": "cost"
+	},
+	{
+		"foreign_question": "do, did, done",
+		"ru_question": "делать",
+		"foreign_response": "^\\s*do[, ]+did[, ]+done\\s*$",
+		"ru_response": "^\\s*делать\\s*$",
+	  	"sound": "do_did_done",
+	  	"preview": "do"
+	},
+	{
+		"foreign_question": "draw, drew, drawn",
+		"ru_question": "чертить, рисовать",
+		"foreign_response": "^\\s*draw[, ]+drew[, ]+drawn\\s*$",
+		"ru_response": "^\\s*(чертить|рисовать)\\s*$",
+	  	"sound": "draw_drew_drawn",
+	  	"preview": "draw"
+	},
+	{
+		"foreign_question": "drink, drank, drunk",
+		"ru_question": "пить",
+		"foreign_response": "^\\s*drink[, ]+drank[, ]+drunk\\s*$",
+		"ru_response": "^\\s*пить\\s*$",
+	  	"sound": "drink_drank_drunk",
+	  	"preview": "drink"
+	},
+	{
+		"foreign_question": "drive, drove, driven",
+		"ru_question": "водить, ездить (на автомобиле)",
+		"foreign_response": "^\\s*drive[, ]+drove[, ]+driven\\s*$",
+		"ru_response": "^\\s*(водить|ездить)\\s*$",
+	  	"sound": "drive_drove_driven",
+	  	"preview": "drive"
+	},
+	{
+		"foreign_question": "eat, ate, eaten",
+		"ru_question": "есть, кушать",
+		"foreign_response": "^\\s*eat[, ]+ate[, ]+eaten\\s*$",
+		"ru_response": "^\\s*(есть|кушать)\\s*$",
+	  	"sound": "eat_ate_eaten",
+	  	"preview": "eat"
+	},
+	{
+		"foreign_question": "fall, fell, fallen",
+		"ru_question": "падать",
+		"foreign_response": "^\\s*fall[, ]+fell[, ]+fallen\\s*$",
+		"ru_response": "^\\s*падать\\s*$",
+	  	"sound": "fall_fell_fallen",
+	  	"preview": "fall"
+	},
+	{
+		"foreign_question": "feed, fed, fed",
+		"ru_question": "кормить",
+		"foreign_response": "^\\s*feed[, ]+fed[, ]+fed\\s*$",
+		"ru_response": "^\\s*кормить\\s*$",
+	  	"sound": "feed_fed_fed",
+	  	"preview": "feed"
+	},
+	{
+		"foreign_question": "feel, felt, felt",
+		"ru_question": "чувствовать",
+		"foreign_response": "^\\s*feel[, ]+felt[, ]+felt\\s*$",
+		"ru_response": "^\\s*чувствовать\\s*$",
+	  	"sound": "feel_felt_felt",
+	  	"preview": "feel"
+	},
+	{
+		"foreign_question": "fight, fought, fought",
+		"ru_question": "драться",
+		"foreign_response": "^\\s*fight[, ]+fought[, ]+fought\\s*$",
+		"ru_response": "^\\s*(драться|бороться|сражаться|воевать|биться)\\s*$",
+	  	"sound": "fight_fought_fought",
+	  	"preview": "fight"
+	},
+	{
+		"foreign_question": "find, found, found",
+		"ru_question": "находить",
+		"foreign_response": "^\\s*find[, ]+found[, ]+found\\s*$",
+		"ru_response": "^\\s*находить\\s*$",
+	  	"sound": "find_found_found",
+	  	"preview": "find"
+	},
+	{
+		"foreign_question": "fly, flew, flown",
+		"ru_question": "летать",
+		"foreign_response": "^\\s*fly[, ]+flew[, ]+flown\\s*$",
+		"ru_response": "^\\s*лет[ае]ть\\s*$",
+	  	"sound": "fly_flew_flown",
+	  	"preview": "fly"
+	},
+	{
+		"foreign_question": "forget, forgot, forgotten",
+		"ru_question": "забывать",
+		"foreign_response": "^\\s*forget[, ]+forgot[, ]+forgotten\\s*$",
+		"ru_response": "^\\s*забывать\\s*$",
+	  	"sound": "forget_forgot_forgotten",
+	  	"preview": "forget"
+	},
+	{
+		"foreign_question": "get, got, got",
+		"ru_question": "получать",
+		"foreign_response": "^\\s*get[, ]+got[, ]+got\\s*$",
+		"ru_response": "^\\s*получать\\s*$",
+	  	"sound": "get_got_got",
+	  	"preview": "get"
+	},
+	{
+		"foreign_question": "give, gave, given",
+		"ru_question": "давать",
+		"foreign_response": "^\\s*give[, ]+gave[, ]+given\\s*$",
+		"ru_response": "^\\s*давать\\s*$",
+	  	"sound": "give_gave_given",
+	  	"preview": "give"
+	},
+	{
+		"foreign_question": "go, went, gone",
+		"ru_question": "идти, ехать",
+		"foreign_response": "^\\s*go[, ]+went[, ]+gone\\s*$",
+		"ru_response": "^\\s*(идти|ехать)\\s*$",
+	  	"sound": "go_went_gone",
+	  	"preview": "go"
+	},
+	{
+		"foreign_question": "grow, grew, grown",
+		"ru_question": "расти",
+		"foreign_response": "^\\s*grow[, ]+grew[, ]+grown\\s*$",
+		"ru_response": "^\\s*расти\\s*$",
+	  	"sound": "grow_grew_grown",
+	  	"preview": "grow"
+	},
+	{
+		"foreign_question": "hang, hung, hung",
+		"ru_question": "висеть",
+		"foreign_response": "^\\s*hang[, ]+hung[, ]+hung\\s*$",
+		"ru_response": "^\\s*висеть\\s*$",
+	  	"sound": "hang_hung_hung",
+	  	"preview": "hang"
+	},
+	{
+		"foreign_question": "have, had, had",
+		"ru_question": "иметь",
+		"foreign_response": "^\\s*have[, ]+had[, ]+had\\s*$",
+		"ru_response": "^\\s*иметь\\s*$",
+	  	"sound": "have_had_had",
+	  	"preview": "have"
+	},
+	{
+		"foreign_question": "hear, heard, heard",
+		"ru_question": "слышать",
+		"foreign_response": "^\\s*hear[, ]+heard[, ]+heard\\s*$",
+		"ru_response": "^\\s*слышать\\s*$",
+	  	"sound": "hear_heard_heard",
+	  	"preview": "hear"
+	},
+	{
+		"foreign_question": "hide, hid, hidden",
+		"ru_question": "скрывать, прятать",
+		"foreign_response": "^\\s*hide[, ]+hid[, ]+hidden\\s*$",
+		"ru_response": "^\\s*(скрывать|прятать)\\s*$",
+	  	"sound": "hide_hid_hidden",
+	  	"preview": "hide"
+	},
+	{
+		"foreign_question": "hit, hit, hit",
+		"ru_question": "бить, поражать",
+		"foreign_response": "^\\s*hit[, ]+hit[, ]+hit\\s*$",
+		"ru_response": "^\\s*(бить|поражать|ударять)\\s*$",
+	  	"sound": "hit_hit_hit",
+	  	"preview": "hit"
+	},
+	{
+		"foreign_question": "hurt, hurt, hurt",
+		"ru_question": "повреждать, причинять боль",
+		"foreign_response": "^\\s*hurt[, ]+hurt[, ]+hurt\\s*$",
+		"ru_response": "^\\s*(повреждать|причинять боль)\\s*$",
+	  	"sound": "hurt_hurt_hurt",
+	  	"preview": "hurt"
+	},
+	{
+		"foreign_question": "keep, kept, kept",
+		"ru_question": "хранить, сохранять, держать",
+		"foreign_response": "^\\s*keep[, ]+kept[, ]+kept\\s*$",
+		"ru_response": "^\\s*(хранить|сохранять|держать)\\s*$",
+	  	"sound": "keep_kept_kept",
+	  	"preview": "keep"
+	},
+	{
+		"foreign_question": "know, knew, known",
+		"ru_question": "знать",
+		"foreign_response": "^\\s*know[, ]+knew[, ]+known\\s*$",
+		"ru_response": "^\\s*знать\\s*$",
+	  	"sound": "know_knew_known",
+	  	"preview": "know"
+	},
+	{
+		"foreign_question": "leave, left, left",
+		"ru_question": "покидать, оставлять, уходить",
+		"foreign_response": "^\\s*leave[, ]+left[, ]+left\\s*$",
+		"ru_response": "^\\s*(покидать|оставлять|уходить)\\s*$",
+	  	"sound": "leave_left_left",
+	  	"preview": "leave"
+	},
+	{
+		"foreign_question": "lend, lent, lent",
+		"ru_question": "одалживать, давать в долг",
+		"foreign_response": "^\\s*lend[, ]+lent[, ]+lent\\s*$",
+		"ru_response": "^\\s*(одалживать|давать в долг)\\s*$",
+	  	"sound": "lend_lent_lent",
+	  	"preview": "lend"
+	},
+	{
+		"foreign_question": "let, let, let",
+		"ru_question": "позволять",
+		"foreign_response": "^\\s*let[, ]+let[, ]+let\\s*$",
+		"ru_response": "^\\s*позволять\\s*$",
+	  	"sound": "let_let_let",
+	  	"preview": "let"
+	},
+	{
+		"foreign_question": "lose, lost, lost",
+		"ru_question": "терять",
+		"foreign_response": "^\\s*lose[, ]+lost[, ]+lost\\s*$",
+		"ru_response": "^\\s*терять\\s*$",
+	  	"sound": "lose_lost_lost",
+	  	"preview": "lose"
+	},
+	{
+		"foreign_question": "make, made, made",
+		"ru_question": "делать, производить",
+		"foreign_response": "^\\s*make[, ]+made[, ]+made\\s*$",
+		"ru_response": "^\\s*(делать|производить)\\s*$",
+	  	"sound": "make_made_made",
+	  	"preview": "make"
+	},
+	{
+		"foreign_question": "mean, meant, meant",
+		"ru_question": "иметь ввиду, означать",
+		"foreign_response": "^\\s*mean[, ]+meant[, ]+meant\\s*$",
+		"ru_response": "^\\s*(иметь ввиду|означать|значить|подразумевать)\\s*$",
+	  	"sound": "mean_meant_meant",
+	  	"preview": ""
+	},
+	{
+		"foreign_question": "meet, met, met",
+		"ru_question": "встретить",
+		"foreign_response": "^\\s*meet[, ]+met[, ]+met\\s*$",
+		"ru_response": "^\\s*(встретить|встречать)(ся)?\\s*$",
+	  	"sound": "meet_met_met",
+	  	"preview": "meet"
+	},
+	{
+		"foreign_question": "pay, paid, paid",
+		"ru_question": "платить",
+		"foreign_response": "^\\s*pay[, ]+paid[, ]+paid\\s*$",
+		"ru_response": "^\\s*платить\\s*$",
+	  	"sound": "pay_paid_paid",
+	  	"preview": "pay"
+	},
+	{
+		"foreign_question": "put, put, put",
+		"ru_question": "класть, ставить, помещать",
+		"foreign_response": "^\\s*put[, ]+put[, ]+put\\s*$",
+		"ru_response": "^\\s*(класть|ставить|помещать|(по)?ложить)\\s*$",
+	  	"sound": "put_put_put",
+	  	"preview": "put"
+	},
+	{
+		"foreign_question": "read, read, read",
+		"ru_question": "читать",
+		"foreign_response": "^\\s*read[, ]+read[, ]+read\\s*$",
+		"ru_response": "^\\s*читать\\s*$",
+	  	"sound": "read_read_read",
+	  	"preview": "read"
+	},
+	{
+		"foreign_question": "ride, rode, ridden",
+		"ru_question": "ездить верхом",
+		"foreign_response": "^\\s*ride[, ]+rode[, ]+ridden\\s*$",
+		"ru_response": "^\\s*(ездить|ехать|кататься)( верхом|на (велосипеде|мотоцикле))?\\s*$",
+	  	"sound": "ride_rode_ridden",
+	  	"preview": "ride"
+	},
+	{
+		"foreign_question": "ring, rang, rung",
+		"ru_question": "звонить, звенеть",
+		"foreign_response": "^\\s*ring[, ]+rang[, ]+rung\\s*$",
+		"ru_response": "^\\s*(звонить|звенеть)\\s*$",
+	  	"sound": "ring_rang_rung",
+	  	"preview": "ring"
+	},
+	{
+		"foreign_question": "run, ran, run",
+		"ru_question": "бежать",
+		"foreign_response": "^\\s*run[, ]+ran[, ]+run\\s*$",
+		"ru_response": "^\\s*(бежать|бегать)\\s*$",
+	  	"sound": "run_ran_run",
+	  	"preview": "run"
+	},
+	{
+		"foreign_question": "say, said, said",
+		"ru_question": "сказать",
+		"foreign_response": "^\\s*say[, ]+said[, ]+said\\s*$",
+		"ru_response": "^\\s*сказать\\s*$",
+	  	"sound": "say_said_said",
+	  	"preview": "say"
+	},
+	{
+		"foreign_question": "see, saw, seen",
+		"ru_question": "видеть",
+		"foreign_response": "^\\s*see[, ]+saw[, ]+seen\\s*$",
+		"ru_response": "^\\s*видеть\\s*$",
+	  	"sound": "see_saw_seen",
+	  	"preview": "see"
+	},
+	{
+		"foreign_question": "sell, sold, sold",
+		"ru_question": "продавать",
+		"foreign_response": "^\\s*sell[, ]+sold[, ]+sold\\s*$",
+		"ru_response": "^\\s*продавать\\s*$",
+	  	"sound": "sell_sold_sold",
+	  	"preview": "sell"
+	},
+	{
+		"foreign_question": "send, sent, sent",
+		"ru_question": "отправлять, посылать",
+		"foreign_response": "^\\s*send[, ]+sent[, ]+sent\\s*$",
+		"ru_response": "^\\s*(отправлять|посылать|отправить|послать)\\s*$",
+	  	"sound": "send_sent_sent",
+	  	"preview": "send"
+	},
+	{
+		"foreign_question": "show, showed, shown",
+		"ru_question": "показать",
+		"foreign_response": "^\\s*show[, ]+showed[, ]+shown\\s*$",
+		"ru_response": "^\\s*(показать|показывать)\\s*$",
+	  	"sound": "show_showed_shown",
+	  	"preview": "show__verb"
+	},
+	{
+		"foreign_question": "sing, sang, sung",
+		"ru_question": "петь",
+		"foreign_response": "^\\s*sing[, ]+sang[, ]+sung\\s*$",
+		"ru_response": "^\\s*петь\\s*$",
+	  	"sound": "sing_sang_sung",
+	  	"preview": "sing"
+	},
+	{
+		"foreign_question": "sit, sat, sat",
+		"ru_question": "сидеть",
+		"foreign_response": "^\\s*sit[, ]+sat[, ]+sat\\s*$",
+		"ru_response": "^\\s*сидеть\\s*$",
+	  	"sound": "sit_sat_sat",
+	  	"preview": "sit"
+	},
+	{
+		"foreign_question": "sleep, slept, slept",
+		"ru_question": "спать",
+		"foreign_response": "^\\s*sleep[, ]+slept[, ]+slept\\s*$",
+		"ru_response": "^\\s*спать\\s*$",
+	  	"sound": "sleep_slept_slept",
+	  	"preview": "sleep"
+	},
+	{
+		"foreign_question": "speak, spoke, spoken",
+		"ru_question": "говорить (на языке)",
+		"foreign_response": "^\\s*speak[, ]+spoke[, ]+spoken\\s*$",
+		"ru_response": "^\\s*(говорить|разговаривать)\\s*$",
+	  	"sound": "speak_spoke_spoken",
+	  	"preview": "speak"
+	},
+	{
+		"foreign_question": "spend, spent, spent",
+		"ru_question": "тратить, проводить (время, деньги)",
+		"foreign_response": "^\\s*spend[, ]+spent[, ]+spent\\s*$",
+		"ru_response": "^\\s*(тратить|проводить)( время| деньги)?\\s*$",
+	  	"sound": "spend_spent_spent",
+	  	"preview": "spend"
+	},
+	{
+		"foreign_question": "stand, stood, stood",
+		"ru_question": "стоять",
+		"foreign_response": "^\\s*stand[, ]+stood[, ]+stood\\s*$",
+		"ru_response": "^\\s*стоять\\s*$",
+	  	"sound": "stand_stood_stood",
+	  	"preview": "stand"
+	},
+	{
+		"foreign_question": "steal, stole, stolen",
+		"ru_question": "красть, воровать",
+		"foreign_response": "^\\s*steal[, ]+stole[, ]+stolen\\s*$",
+		"ru_response": "^\\s*(у?красть|воровать)\\s*$",
+	  	"sound": "steal_stole_stolen",
+	  	"preview": "steal"
+	},
+	{
+		"foreign_question": "swim, swam, swum",
+		"ru_question": "плавать",
+		"foreign_response": "^\\s*swim[, ]+swam[, ]+swum\\s*$",
+		"ru_response": "^\\s*(плавать|плыть)\\s*$",
+	  	"sound": "swim_swam_swum",
+	  	"preview": "swim"
+	},
+	{
+		"foreign_question": "take, took, taken",
+		"ru_question": "взять, брать",
+		"foreign_response": "^\\s*take[, ]+took[, ]+taken\\s*$",
+		"ru_response": "^\\s*(взять|брать)\\s*$",
+	  	"sound": "take_took_taken",
+	  	"preview": "take"
+	},
+	{
+		"foreign_question": "teach, taught, taught",
+		"ru_question": "обучать",
+		"foreign_response": "^\\s*teach[, ]+taught[, ]+taught\\s*$",
+		"ru_response": "^\\s*(учить|обучать)\\s*$",
+	  	"sound": "teach_taught_taught",
+	  	"preview": "teach"
+	},
+	{
+		"foreign_question": "tell, told, told",
+		"ru_question": "рассказывать",
+		"foreign_response": "^\\s*tell[, ]+told[, ]+told\\s*$",
+		"ru_response": "^\\s*рассказ(ыв)?ать\\s*$",
+	  	"sound": "tell_told_told",
+	  	"preview": "tell"
+	},
+	{
+		"foreign_question": "think, thought, thought",
+		"ru_question": "думать",
+		"foreign_response": "^\\s*think[, ]+thought[, ]+thought\\s*$",
+		"ru_response": "^\\s*думать\\s*$",
+	  	"sound": "think_thought_thought",
+	  	"preview": "think"
+	},
+	{
+		"foreign_question": "throw, threw, thrown",
+		"ru_question": "бросать",
+		"foreign_response": "^\\s*throw[, ]+threw[, ]+thrown\\s*$",
+		"ru_response": "^\\s*(бросать|бросить|кидать|кинуть)\\s*$",
+	  	"sound": "throw_threw_thrown",
+	  	"preview": "throw"
+	},
+	{
+		"foreign_question": "understand, understood, understood",
+		"ru_question": "понимать",
+		"foreign_response": "^\\s*understand[, ]+understood[, ]+understood\\s*$",
+		"ru_response": "^\\s*понимать\\s*$",
+	  	"sound": "understand_understood_understood",
+	  	"preview": "understand"
+	},
+	{
+		"foreign_question": "wake, woke, woken",
+		"ru_question": "разбудить, просыпаться",
+		"foreign_response": "^\\s*wake[, ]+woke[, ]+woken\\s*$",
+		"ru_response": "^\\s*((раз)?будить|просыпаться)\\s*$",
+	  	"sound": "wake_woke_woken",
+	  	"preview": "wake"
+	},
+	{
+		"foreign_question": "wear, wore, worn",
+		"ru_question": "носить (одежду)",
+		"foreign_response": "^\\s*wear[, ]+wore[, ]+worn\\s*$",
+		"ru_response": "^\\s*носить\\s*$",
+	  	"sound": "wear_wore_worn",
+	  	"preview": "wear"
+	},
+	{
+		"foreign_question": "win, won, won",
+		"ru_question": "побеждать, выигрывать",
+		"foreign_response": "^\\s*win[, ]+won[, ]+won\\s*$",
+		"ru_response": "^\\s*(побе(жда|ди)ть|выигр(ыв)?ать)\\s*$",
+	  	"sound": "win_won_won",
+	  	"preview": "win"
+	},
+	{
+		"foreign_question": "write, wrote, written",
+		"ru_question": "писать",
+		"foreign_response": "^\\s*write[, ]+wrote[, ]+written\\s*$",
+		"ru_response": "^\\s*писать\\s*$",
+	  	"sound": "write_wrote_written",
+	  	"preview": "write"
+	}
+]

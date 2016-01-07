@@ -1,0 +1,186 @@
+[
+  {
+    "foreign_question": "beat",
+    "ru_question": "бить, удар",
+    "foreign_response": "^\\s*beat\\s*$",
+    "ru_response": "^\\s*(бить|удар)\\s*$",
+    "sound": "beat",
+    "preview": "beat"
+  },
+  {
+    "foreign_question": "believe it or not",
+    "ru_question": "хочешь верь, хочешь нет",
+    "foreign_response": "^\\s*believe it or not\\s*$",
+    "ru_response": "^\\s*хочешь верь, хочешь нет\\s*$",
+    "sound": "believe_it_or_not",
+    "preview": ""
+  },
+  {
+    "foreign_question": "championship",
+    "ru_question": "чемпионат, первенство",
+    "foreign_response": "^\\s*championship\\s*$",
+    "ru_response": "^\\s*(чемпионат|первенство)\\s*$",
+    "sound": "championship",
+    "preview": "championship"
+  },
+  {
+    "foreign_question": "coach",
+    "ru_question": "тренер",
+    "foreign_response": "^\\s*coach\\s*$",
+    "ru_response": "^\\s*тренер\\s*$",
+    "sound": "coach",
+    "preview": "coach"
+  },
+  {
+    "foreign_question": "court",
+    "ru_question": "корт, ухаживать",
+    "foreign_response": "^\\s*court\\s*$",
+    "ru_response": "^\\s*(корт|ухаживать)\\s*$",
+    "sound": "court",
+    "preview": "court"
+  },
+  {
+    "foreign_question": "disappointed",
+    "ru_question": "разочарованный, разочаровавшийся",
+    "foreign_response": "^\\s*disappointed\\s*$",
+    "ru_response": "^\\s*(разочарованный|разочаровавшийся)\\s*$",
+    "sound": "disappointed",
+    "preview": "disappointed"
+  },
+  {
+    "foreign_question": "early",
+    "ru_question": "рано, ранний",
+    "foreign_response": "^\\s*early\\s*$",
+    "ru_response": "^\\s*(рано|ранний)\\s*$",
+    "sound": "early",
+    "preview": "early"
+  },
+  {
+    "foreign_question": "expect",
+    "ru_question": "ожидать, рассчитывать",
+    "foreign_response": "^\\s*expect\\s*$",
+    "ru_response": "^\\s*(ожидать|рассчитывать)\\s*$",
+    "sound": "expect",
+    "preview": "expect"
+  },
+  {
+    "foreign_question": "game",
+    "ru_question": "игра, игровой",
+    "foreign_response": "^\\s*game\\s*$",
+    "ru_response": "^\\s*(игра|игровой)\\s*$",
+    "sound": "game",
+    "preview": "game"
+  },
+  {
+    "foreign_question": "go wild",
+    "ru_question": "неиствовать",
+    "foreign_response": "^\\s*go wild\\s*$",
+    "ru_response": "^\\s*неиствовать\\s*$",
+    "sound": "go_wild",
+    "preview": "go_wild"
+  },
+  {
+    "foreign_question": "happen",
+    "ru_question": "происходить, случаться",
+    "foreign_response": "^\\s*happen\\s*$",
+    "ru_response": "^\\s*(происходить|случаться)\\s*$",
+    "sound": "happen",
+    "preview": ""
+  },
+  {
+    "foreign_question": "match",
+    "ru_question": "матч, совпадение, соответствовать, совпадать",
+    "foreign_response": "^\\s*match\\s*$",
+    "ru_response": "^\\s*(матч|совпадение|соответствовать|совпадать)\\s*$",
+    "sound": "match",
+    "preview": "match"
+  },
+  {
+    "foreign_question": "part",
+    "ru_question": "часть, доля",
+    "foreign_response": "^\\s*part\\s*$",
+    "ru_response": "^\\s*(часть|доля)\\s*$",
+    "sound": "part",
+    "preview": "part"
+  },
+  {
+    "foreign_question": "player",
+    "ru_question": "игрок, плеер",
+    "foreign_response": "^\\s*player\\s*$",
+    "ru_response": "^\\s*(игрок|плеер)\\s*$",
+    "sound": "player",
+    "preview": "player"
+  },
+  {
+    "foreign_question": "point",
+    "ru_question": "точка, балл, пункт",
+    "foreign_response": "^\\s*point\\s*$",
+    "ru_response": "^\\s*(точка|балл|пункт)\\s*$",
+    "sound": "point",
+    "preview": "point"
+  },
+  {
+    "foreign_question": "race",
+    "ru_question": "гонка, гонки",
+    "foreign_response": "^\\s*race\\s*$",
+    "ru_response": "^\\s*(гонка|гонки)\\s*$",
+    "sound": "race",
+    "preview": "race"
+  },
+  {
+    "foreign_question": "rugby",
+    "ru_question": "регби",
+    "foreign_response": "^\\s*rugby\\s*$",
+    "ru_response": "^\\s*регби\\s*$",
+    "sound": "rugby",
+    "preview": "rugby"
+  },
+  {
+    "foreign_question": "score",
+    "ru_question": "счет, количество очков, забивать (гол)",
+    "foreign_response": "^\\s*score\\s*$",
+    "ru_response": "^\\s*(счет|количество очков|забивать( гол)?)\\s*$",
+    "sound": "score",
+    "preview": "score"
+  },
+  {
+    "foreign_question": "second",
+    "ru_question": "секунда",
+    "foreign_response": "^\\s*second\\s*$",
+    "ru_response": "^\\s*секунда\\s*$",
+    "sound": "second",
+    "preview": "second"
+  },
+  {
+    "foreign_question": "table tennis",
+    "ru_question": "настольный теннис",
+    "foreign_response": "^\\s*table tennis\\s*$",
+    "ru_response": "^\\s*настольный теннис\\s*$",
+    "sound": "table_tennis",
+    "preview": "table_tennis"
+  },
+  {
+    "foreign_question": "Tell me about it!",
+    "ru_question": "Расскажи мне об этом!",
+    "foreign_response": "^\\s*Tell me about it\\!?\\s*$",
+    "ru_response": "^\\s*Расскажи мне об этом\\!?\\s*$",
+    "sound": "tell_me_about_it!",
+    "preview": ""
+  },
+  {
+    "foreign_question": "throw",
+    "ru_question": "бросок, бросать",
+    "foreign_response": "^\\s*throw\\s*$",
+    "ru_response": "^\\s*(бросок|бросать)\\s*$",
+    "sound": "throw",
+    "preview": "throw"
+  },
+  {
+    "foreign_question": "win",
+    "ru_question": "победа, выигрыш, выигрывать, побеждать",
+    "foreign_response": "^\\s*win\\s*$",
+    "ru_response": "^\\s*(победа|выигрыш|выигрывать|побеждать)\\s*$",
+    "sound": "win",
+    "preview": "win"
+  }
+]

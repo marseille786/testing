@@ -1,0 +1,210 @@
+[
+  {
+    "foreign_question": "already",
+    "ru_question": "уже",
+    "foreign_response": "^\\s*already\\s*$",
+    "ru_response": "^\\s*уже\\s*$",
+    "sound": "already",
+    "preview": ""
+  },
+  {
+    "foreign_question": "cable",
+    "ru_question": "кабель, трос, канат",
+    "foreign_response": "^\\s*cable\\s*$",
+    "ru_response": "^\\s*(кабель|трос|канат)\\s*$",
+    "sound": "cable",
+    "preview": ""
+  },
+  {
+    "foreign_question": "check (v)",
+    "ru_question": "проверять",
+    "foreign_response": "^\\s*check\\s*$",
+    "ru_response": "^\\s*проверять\\s*$",
+    "sound": "check",
+    "preview": ""
+  },
+  {
+    "foreign_question": "connect",
+    "ru_question": "подключать, соединять (связь)",
+    "foreign_response": "^\\s*connect\\s*$",
+    "ru_response": "^\\s*(подключать|соединять)\\s*$",
+    "sound": "connect",
+    "preview": ""
+  },
+  {
+    "foreign_question": "download",
+    "ru_question": "скачивать",
+    "foreign_response": "^\\s*download\\s*$",
+    "ru_response": "^\\s*(скачивать|скачать|загружать)\\s*$",
+    "sound": "download",
+    "preview": ""
+  },
+  {
+    "foreign_question": "everywhere",
+    "ru_question": "везде",
+    "foreign_response": "^\\s*everywhere\\s*$",
+    "ru_response": "^\\s*(везде|всюду)\\s*$",
+    "sound": "everywhere",
+    "preview": ""
+  },
+  {
+    "foreign_question": "external",
+    "ru_question": "внешний, наружный",
+    "foreign_response": "^\\s*external\\s*$",
+    "ru_response": "^\\s*(внешний|наружный)\\s*$",
+    "sound": "external",
+    "preview": ""
+  },
+  {
+    "foreign_question": "file",
+    "ru_question": "файл",
+    "foreign_response": "^\\s*file\\s*$",
+    "ru_response": "^\\s*файл\\s*$",
+    "sound": "file",
+    "preview": ""
+  },
+  {
+    "foreign_question": "hard drive (n)",
+    "ru_question": "жесткий диск",
+    "foreign_response": "^\\s*hard drive\\s*$",
+    "ru_response": "^\\s*жесткий диск\\s*$",
+    "sound": "hard_drive",
+    "preview": ""
+  },
+  {
+    "foreign_question": "information",
+    "ru_question": "информация",
+    "foreign_response": "^\\s*information\\s*$",
+    "ru_response": "^\\s*информация\\s*$",
+    "sound": "information",
+    "preview": ""
+  },
+  {
+    "foreign_question": "install",
+    "ru_question": "устанавливать (программу)",
+    "foreign_response": "^\\s*install\\s*$",
+    "ru_response": "^\\s*устанавливать\\s*$",
+    "sound": "install",
+    "preview": ""
+  },
+  {
+    "foreign_question": "memory stick",
+    "ru_question": "карта памяти",
+    "foreign_response": "^\\s*memory stick\\s*$",
+    "ru_response": "^\\s*карта памяти\\s*$",
+    "sound": "memory_stick",
+    "preview": ""
+  },
+  {
+    "foreign_question": "monitor",
+    "ru_question": "монитор",
+    "foreign_response": "^\\s*monitor\\s*$",
+    "ru_response": "^\\s*монитор\\s*$",
+    "sound": "monitor",
+    "preview": ""
+  },
+  {
+    "foreign_question": "mouse pad",
+    "ru_question": "коврик для мыши",
+    "foreign_response": "^\\s*mouse pad\\s*$",
+    "ru_response": "^\\s*коврик для мыши\\s*$",
+    "sound": "mouse_pad",
+    "preview": ""
+  },
+  {
+    "foreign_question": "on mute",
+    "ru_question": "беззвучный режим",
+    "foreign_response": "^\\s*on mute\\s*$",
+    "ru_response": "^\\s*беззвучный режим\\s*$",
+    "sound": "on_mute",
+    "preview": ""
+  },
+  {
+    "foreign_question": "print",
+    "ru_question": "печатать",
+    "foreign_response": "^\\s*print\\s*$",
+    "ru_response": "^\\s*(рас|на)?печатать\\s*$",
+    "sound": "print",
+    "preview": ""
+  },
+  {
+    "foreign_question": "printer",
+    "ru_question": "принтер",
+    "foreign_response": "^\\s*printer\\s*$",
+    "ru_response": "^\\s*принтер\\s*$",
+    "sound": "printer",
+    "preview": ""
+  },
+  {
+    "foreign_question": "program",
+    "ru_question": "программа",
+    "foreign_response": "^\\s*program(me)?\\s*$",
+    "ru_response": "^\\s*программа\\s*$",
+    "sound": "program",
+    "preview": ""
+  },
+  {
+    "foreign_question": "save",
+    "ru_question": "сохранять, спасать",
+    "foreign_response": "^\\s*save\\s*$",
+    "ru_response": "^\\s*(сохран[яи]ть|спас(ать|ти))\\s*$",
+    "sound": "save",
+    "preview": ""
+  },
+  {
+    "foreign_question": "sound",
+    "ru_question": "звук, звучать",
+    "foreign_response": "^\\s*sound\\s*$",
+    "ru_response": "^\\s*(звук|звучать)\\s*$",
+    "sound": "sound",
+    "preview": ""
+  },
+  {
+    "foreign_question": "speaker",
+    "ru_question": "оратор, спикер",
+    "foreign_response": "^\\s*speaker\\s*$",
+    "ru_response": "^\\s*(оратор|спикер)\\s*$",
+    "sound": "speaker",
+    "preview": ""
+  },
+  {
+    "foreign_question": "still",
+    "ru_question": "все еще, до сих пор",
+    "foreign_response": "^\\s*still\\s*$",
+    "ru_response": "^\\s*((все )?еще|до сих пор)\\s*$",
+    "sound": "still",
+    "preview": ""
+  },
+  {
+    "foreign_question": "turn off",
+    "ru_question": "выключать",
+    "foreign_response": "^\\s*turn off\\s*$",
+    "ru_response": "^\\s*выключ[аи]ть\\s*$",
+    "sound": "turn_off",
+    "preview": ""
+  },
+  {
+    "foreign_question": "turn on",
+    "ru_question": "включать",
+    "foreign_response": "^\\s*turn on\\s*$",
+    "ru_response": "^\\s*включ[иа]ть\\s*$",
+    "sound": "turn_on",
+    "preview": ""
+  },
+  {
+    "foreign_question": "volume control",
+    "ru_question": "регулятор громкости",
+    "foreign_response": "^\\s*volume control\\s*$",
+    "ru_response": "^\\s*(контроль|регулятор) громкости\\s*$",
+    "sound": "volume_control",
+    "preview": ""
+  },
+  {
+    "foreign_question": "yet",
+    "ru_question": "все же, однако",
+    "foreign_response": "^\\s*yet\\s*$",
+    "ru_response": "^\\s*(все же|однако)\\s*$",
+    "sound": "yet",
+    "preview": ""
+  }
+]

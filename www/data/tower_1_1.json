@@ -1,0 +1,378 @@
+[
+  {
+    "foreign_question": "about",
+    "ru_question": "около, приблизительно, о, об",
+    "foreign_response": "^\\s*about\\s*$",
+    "ru_response": "^\\s*(около|приблизительно|о|об)\\s*$",
+    "sound": "about",
+    "preview": "about"
+  },
+  {
+    "foreign_question": "age",
+    "ru_question": "возраст, век, эпоха",
+    "foreign_response": "^\\s*age\\s*$",
+    "ru_response": "^\\s*(возраст|век|эпоха)\\s*$",
+    "sound": "age",
+    "preview": "age"
+  },
+  {
+    "foreign_question": "all",
+    "ru_question": "все",
+    "foreign_response": "^\\s*all\\s*$",
+    "ru_response": "^\\s*все\\s*$",
+    "sound": "all",
+    "preview": "all"
+  },
+  {
+    "foreign_question": "also",
+    "ru_question": "также",
+    "foreign_response": "^\\s*also\\s*$",
+    "ru_response": "^\\s*(так ?же|тоже)\\s*$",
+    "sound": "also",
+    "preview": "also"
+  },
+  {
+    "foreign_question": "anyway",
+    "ru_question": "так или иначе, в любом случае",
+    "foreign_response": "^\\s*anyway\\s*$",
+    "ru_response": "^\\s*(так или иначе|в любом случае|во всяком случае)\\s*$",
+    "sound": "anyway",
+    "preview": "anyway"
+  },
+  {
+    "foreign_question": "at all",
+    "ru_question": "вообще, совсем",
+    "foreign_response": "^\\s*at all\\s*$",
+    "ru_response": "^\\s*(вообще|совсем)\\s*$",
+    "sound": "at_all",
+    "preview": "at_all"
+  },
+  {
+    "foreign_question": "aunt",
+    "ru_question": "тетя",
+    "foreign_response": "^\\s*aunt\\s*$",
+    "ru_response": "^\\s*тет(я|ка)\\s*$",
+    "sound": "aunt",
+    "preview": "aunt"
+  },
+  {
+    "foreign_question": "blond",
+    "ru_question": "блондин",
+    "foreign_response": "^\\s*blond\\s*$",
+    "ru_response": "^\\s*(блондин|русый|белокурый|светлый)\\s*$",
+    "sound": "blond",
+    "preview": "blond"
+  },
+  {
+    "foreign_question": "blonde",
+    "ru_question": "блондинка",
+    "foreign_response": "^\\s*blonde\\s*$",
+    "ru_response": "^\\s*(блондинка|русая|белокурая|светлая)\\s*$",
+    "sound": "blonde",
+    "preview": "blonde"
+  },
+  {
+    "foreign_question": "chubby",
+    "ru_question": "круглолицый",
+    "foreign_response": "^\\s*chubby\\s*$",
+    "ru_response": "^\\s*круглолицый\\s*$",
+    "sound": "chubby",
+    "preview": "chubby"
+  },
+  {
+    "foreign_question": "cousin",
+    "ru_question": "кузен, кузина, двоюродный брат, двоюродная сестра",
+    "foreign_response": "^\\s*cousin\\s*$",
+    "ru_response": "^\\s*(кузен|кузина|двоюродный брат|двоюродная сестра)\\s*$",
+    "sound": "cousin",
+    "preview": "cousin"
+  },
+  {
+    "foreign_question": "curly",
+    "ru_question": "кудрявый",
+    "foreign_response": "^\\s*curly\\s*$",
+    "ru_response": "^\\s*кудрявый, кучерявый, курчавый, вьющийся\\s*$",
+    "sound": "curly",
+    "preview": "curly"
+  },
+  {
+    "foreign_question": "dance",
+    "ru_question": "танцевать",
+    "foreign_response": "^\\s*dance\\s*$",
+    "ru_response": "^\\s*танцевать\\s*$",
+    "sound": "dance",
+    "preview": "dance"
+  },
+  {
+    "foreign_question": "dark",
+    "ru_question": "темный",
+    "foreign_response": "^\\s*dark\\s*$",
+    "ru_response": "^\\s*темный\\s*$",
+    "sound": "dark",
+    "preview": "dark"
+  },
+  {
+    "foreign_question": "daughter",
+    "ru_question": "дочь",
+    "foreign_response": "^\\s*daughter\\s*$",
+    "ru_response": "^\\s*(дочь|дочка)\\s*$",
+    "sound": "daughter",
+    "preview": "daughter"
+  },
+  {
+    "foreign_question": "dear",
+    "ru_question": "дорогой (при обращении)",
+    "foreign_response": "^\\s*dear\\s*$",
+    "ru_response": "^\\s*дорогой\\s*$",
+    "sound": "dear",
+    "preview": "dear"
+  },
+  {
+    "foreign_question": "family",
+    "ru_question": "семья",
+    "foreign_response": "^\\s*family\\s*$",
+    "ru_response": "^\\s*семья\\s*$",
+    "sound": "family",
+    "preview": "family"
+  },
+  {
+    "foreign_question": "favourite",
+    "ru_question": "любимый",
+    "foreign_response": "^\\s*favourite\\s*$",
+    "ru_response": "^\\s*любимый\\s*$",
+    "sound": "favourite",
+    "preview": "favourite"
+  },
+  {
+    "foreign_question": "female",
+    "ru_question": "женский",
+    "foreign_response": "^\\s*female\\s*$",
+    "ru_response": "^\\s*женский\\s*$",
+    "sound": "female",
+    "preview": "female"
+  },
+  {
+    "foreign_question": "free time",
+    "ru_question": "свободное время",
+    "foreign_response": "^\\s*free time\\s*$",
+    "ru_response": "^\\s*свободное время\\s*$",
+    "sound": "free_time",
+    "preview": "free_time"
+  },
+  {
+    "foreign_question": "granddaughter",
+    "ru_question": "внучка",
+    "foreign_response": "^\\s*granddaughter\\s*$",
+    "ru_response": "^\\s*внучка\\s*$",
+    "sound": "granddaughter",
+    "preview": "granddaughter"
+  },
+  {
+    "foreign_question": "grandfather",
+    "ru_question": "дедушка",
+    "foreign_response": "^\\s*grandfather\\s*$",
+    "ru_response": "^\\s*дедушка\\s*$",
+    "sound": "grandfather",
+    "preview": "grandfather"
+  },
+  {
+    "foreign_question": "grandmother",
+    "ru_question": "бабушка",
+    "foreign_response": "^\\s*grandmother\\s*$",
+    "ru_response": "^\\s*бабушка\\s*$",
+    "sound": "grandmother",
+    "preview": "grandmother"
+  },
+  {
+    "foreign_question": "grandson",
+    "ru_question": "внук",
+    "foreign_response": "^\\s*grandson\\s*$",
+    "ru_response": "^\\s*внук\\s*$",
+    "sound": "grandson",
+    "preview": "grandson"
+  },
+  {
+    "foreign_question": "hard",
+    "ru_question": "тяжелый, жесткий",
+    "foreign_response": "^\\s*hard\\s*$",
+    "ru_response": "^\\s*(тяжелый|жесткий)\\s*$",
+    "sound": "hard",
+    "preview": "hard"
+  },
+  {
+    "foreign_question": "husband",
+    "ru_question": "муж",
+    "foreign_response": "^\\s*husband\\s*$",
+    "ru_response": "^\\s*муж\\s*$",
+    "sound": "husband",
+    "preview": "husband"
+  },
+  {
+    "foreign_question": "long",
+    "ru_question": "длинный, долгий",
+    "foreign_response": "^\\s*long\\s*$",
+    "ru_response": "^\\s*(длинный|долгий)\\s*$",
+    "sound": "long",
+    "preview": "long"
+  },
+  {
+    "foreign_question": "look like",
+    "ru_question": "выглядеть как",
+    "foreign_response": "^\\s*look like\\s*$",
+    "ru_response": "^\\s*(выглядеть как|быть похожим на|походить на)\\s*$",
+    "sound": "look_like",
+    "preview": "look_like"
+  },
+  {
+    "foreign_question": "male",
+    "ru_question": "мужской",
+    "foreign_response": "^\\s*male\\s*$",
+    "ru_response": "^\\s*мужской\\s*$",
+    "sound": "male",
+    "preview": "male"
+  },
+  {
+    "foreign_question": "medium-length",
+    "ru_question": "средняя длина",
+    "foreign_response": "^\\s*medium-length\\s*$",
+    "ru_response": "^\\s*средняя длина\\s*$",
+    "sound": "medium-length",
+    "preview": "medium-length"
+  },
+  {
+    "foreign_question": "music shop",
+    "ru_question": "музыкальный магазин",
+    "foreign_response": "^\\s*music shop\\s*$",
+    "ru_response": "^\\s*музыкальный магазин\\s*$",
+    "sound": "music_shop",
+    "preview": "music_shop"
+  },
+  {
+    "foreign_question": "nationality",
+    "ru_question": "национальность",
+    "foreign_response": "^\\s*nationality\\s*$",
+    "ru_response": "^\\s*национальность\\s*$",
+    "sound": "nationality",
+    "preview": "nationality"
+  },
+  {
+    "foreign_question": "paint",
+    "ru_question": "красить, краска",
+    "foreign_response": "^\\s*paint\\s*$",
+    "ru_response": "^\\s*(красить|краска)\\s*$",
+    "sound": "paint",
+    "preview": "paint"
+  },
+  {
+    "foreign_question": "Science",
+    "ru_question": "наука",
+    "foreign_response": "^\\s*Science\\s*$",
+    "ru_response": "^\\s*наука\\s*$",
+    "sound": "science",
+    "preview": "science"
+  },
+  {
+    "foreign_question": "short",
+    "ru_question": "короткий",
+    "foreign_response": "^\\s*short\\s*$",
+    "ru_response": "^\\s*короткий\\s*$",
+    "sound": "short",
+    "preview": "short"
+  },
+  {
+    "foreign_question": "slim",
+    "ru_question": "тонкий, стройный",
+    "foreign_response": "^\\s*slim\\s*$",
+    "ru_response": "^\\s*(тонкий|стройный|худой)\\s*$",
+    "sound": "slim",
+    "preview": "slim"
+  },
+  {
+    "foreign_question": "son",
+    "ru_question": "сын",
+    "foreign_response": "^\\s*son\\s*$",
+    "ru_response": "^\\s*сын\\s*$",
+    "sound": "son",
+    "preview": "son"
+  },
+  {
+    "foreign_question": "straight",
+    "ru_question": "прямо, сразу",
+    "foreign_response": "^\\s*straight\\s*$",
+    "ru_response": "^\\s*(прямо|сразу|немедленно)\\s*$",
+    "sound": "straight",
+    "preview": "straight"
+  },
+  {
+    "foreign_question": "subject",
+    "ru_question": "предмет, субъект",
+    "foreign_response": "^\\s*subject\\s*$",
+    "ru_response": "^\\s*(предмет|субъект|тема)\\s*$",
+    "sound": "subject",
+    "preview": "subject"
+  },
+  {
+    "foreign_question": "Take care.",
+    "ru_question": "Береги себя.",
+    "foreign_response": "^\\s*Take care\\.?\\s*$",
+    "ru_response": "^\\s*Береги себя\\.?\\s*$",
+    "sound": "take_care",
+    "preview": "take_care"
+  },
+  {
+    "foreign_question": "tall",
+    "ru_question": "высокий",
+    "foreign_response": "^\\s*tall\\s*$",
+    "ru_response": "^\\s*высокий\\s*$",
+    "sound": "tall",
+    "preview": "tall"
+  },
+  {
+    "foreign_question": "That's all.",
+    "ru_question": "Это все.",
+    "foreign_response": "^\\s*That(\\'| i)s all\\.?\\s*$",
+    "ru_response": "^\\s*Это все\\.?\\s*$",
+    "sound": "that's_all",
+    "preview": "that's_all"
+  },
+  {
+    "foreign_question": "uncle",
+    "ru_question": "дядя",
+    "foreign_response": "^\\s*uncle\\s*$",
+    "ru_response": "^\\s*дядя\\s*$",
+    "sound": "uncle",
+    "preview": "uncle"
+  },
+  {
+    "foreign_question": "wavy",
+    "ru_question": "волнистый",
+    "foreign_response": "^\\s*wavy\\s*$",
+    "ru_response": "^\\s*волнистый\\s*$",
+    "sound": "wavy",
+    "preview": "wavy"
+  },
+  {
+    "foreign_question": "wife",
+    "ru_question": "жена",
+    "foreign_response": "^\\s*wife\\s*$",
+    "ru_response": "^\\s*жена\\s*$",
+    "sound": "wife",
+    "preview": "wife"
+  },
+  {
+    "foreign_question": "with",
+    "ru_question": "с (с кем-то)",
+    "foreign_response": "^\\s*with\\s*$",
+    "ru_response": "^\\s*с\\s*$",
+    "sound": "with",
+    "preview": "with"
+  },
+  {
+    "foreign_question": "year",
+    "ru_question": "год",
+    "foreign_response": "^\\s*year\\s*$",
+    "ru_response": "^\\s*год\\s*$",
+    "sound": "year",
+    "preview": "year"
+  }
+]

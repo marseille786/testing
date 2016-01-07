@@ -1,0 +1,243 @@
+[
+  {
+    "foreign_question": "another",
+    "ru_question": "другой (с артиклем)",
+    "foreign_response": "^\\s*another\\s*$",
+    "ru_response": "^\\s*другой\\s*$",
+    "sound": "another",
+    "preview": ""
+  },
+  {
+    "foreign_question": "back",
+    "ru_question": "назад",
+    "foreign_response": "^\\s*back\\s*$",
+    "ru_response": "^\\s*назад\\s*$",
+    "sound": "back",
+    "preview": "back"
+  },
+  {
+    "foreign_question": "backpack",
+    "ru_question": "рюкзак",
+    "foreign_response": "^\\s*backpack\\s*$",
+    "ru_response": "^\\s*рюкзак\\s*$",
+    "sound": "backpack",
+    "preview": "backpack"
+  },
+  {
+    "foreign_question": "bag",
+    "ru_question": "сумка",
+    "foreign_response": "^\\s*bag\\s*$",
+    "ru_response": "^\\s*сумка\\s*$",
+    "sound": "bag",
+    "preview": "bag"
+  },
+  {
+    "foreign_question": "be like that",
+    "ru_question": "быть таким",
+    "foreign_response": "^\\s*be like that\\s*$",
+    "ru_response": "^\\s*быть таким\\s*$",
+    "sound": "be_like_that",
+    "preview": "be_like_that"
+  },
+  {
+    "foreign_question": "borrow",
+    "ru_question": "брать в долг, одалживать",
+    "foreign_response": "^\\s*borrow\\s*$",
+    "ru_response": "^\\s*(брать в долг|одалживать)\\s*$",
+    "sound": "borrow",
+    "preview": "borrow"
+  },
+  {
+    "foreign_question": "box",
+    "ru_question": "коробка, ящик",
+    "foreign_response": "^\\s*box\\s*$",
+    "ru_response": "^\\s*(коробка|ящик)\\s*$",
+    "sound": "box",
+    "preview": "box"
+  },
+  {
+    "foreign_question": "briefcase",
+    "ru_question": "кожаный портфель",
+    "foreign_response": "^\\s*briefcase\\s*$",
+    "ru_response": "^\\s*(кожаный )?портфель\\s*$",
+    "sound": "briefcase",
+    "preview": "briefcase"
+  },
+  {
+    "foreign_question": "Come on!",
+    "ru_question": "Давай!",
+    "foreign_response": "^\\s*Come on\\!?\\s*$",
+    "ru_response": "^\\s*Давай\\!?\\s*$",
+    "sound": "come_on!",
+    "preview": "come_on!"
+  },
+  {
+    "foreign_question": "earphones",
+    "ru_question": "наушники",
+    "foreign_response": "^\\s*earphones\\s*$",
+    "ru_response": "^\\s*наушники\\s*$",
+    "sound": "earphones",
+    "preview": "earphones"
+  },
+  {
+    "foreign_question": "for",
+    "ru_question": "для",
+    "foreign_response": "^\\s*for\\s*$",
+    "ru_response": "^\\s*для\\s*$",
+    "sound": "for",
+    "preview": "for"
+  },
+  {
+    "foreign_question": "gift",
+    "ru_question": "подарок (синоним present)",
+    "foreign_response": "^\\s*gift\\s*$",
+    "ru_response": "^\\s*подарок\\s*$",
+    "sound": "gift",
+    "preview": "gift"
+  },
+  {
+    "foreign_question": "guess",
+    "ru_question": "угадывать, предполагать",
+    "foreign_response": "^\\s*guess\\s*$",
+    "ru_response": "^\\s*(угадывать|предполагать)\\s*$",
+    "sound": "guess",
+    "preview": "guess"
+  },
+  {
+    "foreign_question": "handbag",
+    "ru_question": "дамская сумка",
+    "foreign_response": "^\\s*handbag\\s*$",
+    "ru_response": "^\\s*(дамская |женская )?(сумка|сумочка)\\s*$",
+    "sound": "handbag",
+    "preview": "handbag"
+  },
+  {
+    "foreign_question": "laptop",
+    "ru_question": "ноутбук",
+    "foreign_response": "^\\s*laptop\\s*$",
+    "ru_response": "^\\s*ноутбук\\s*$",
+    "sound": "laptop",
+    "preview": "laptop"
+  },
+  {
+    "foreign_question": "little",
+    "ru_question": "мало (с исчисляемыми), маленький",
+    "foreign_response": "^\\s*little\\s*$",
+    "ru_response": "^\\s*(мало|маленький|небольшой)\\s*$",
+    "sound": "little",
+    "preview": "little"
+  },
+  {
+    "foreign_question": "maybe",
+    "ru_question": "может быть",
+    "foreign_response": "^\\s*maybe\\s*$",
+    "ru_response": "^\\s*может быть\\s*$",
+    "sound": "maybe",
+    "preview": "maybe"
+  },
+  {
+    "foreign_question": "MP3 player",
+    "ru_question": "MP3 плеер",
+    "foreign_response": "^\\s*MP3 player\\s*$",
+    "ru_response": "^\\s*MP3 плеер\\s*$",
+    "sound": "mp3_player",
+    "preview": "mp3_player"
+  },
+  {
+    "foreign_question": "need",
+    "ru_question": "нуждаться",
+    "foreign_response": "^\\s*need\\s*$",
+    "ru_response": "^\\s*нуждаться\\s*$",
+    "sound": "need",
+    "preview": "need"
+  },
+  {
+    "foreign_question": "No way!",
+    "ru_question": "Ни за что!",
+    "foreign_response": "^\\s*No way\\!?\\s*$",
+    "ru_response": "^\\s*Ни за что\\!?\\s*$",
+    "sound": "no_way!",
+    "preview": "no_way!"
+  },
+  {
+    "foreign_question": "now",
+    "ru_question": "сейчас",
+    "foreign_response": "^\\s*now\\s*$",
+    "ru_response": "^\\s*сейчас\\s*$",
+    "sound": "now",
+    "preview": "now"
+  },
+  {
+    "foreign_question": "purse",
+    "ru_question": "дамский кошелек, сумочка",
+    "foreign_response": "^\\s*purse\\s*$",
+    "ru_response": "^\\s*(дамск(ий|ая)|женск(ая|ий)) (кошелек|сумочка|сумка)\\s*$",
+    /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "smartphone",
+    "ru_question": "смартфон",
+    "foreign_response": "^\\s*smartphone\\s*$",
+    "ru_response": "^\\s*смартфон\\s*$",
+    "sound": "smartphone",
+    "preview": "smartphone"
+  },
+  {
+    "foreign_question": "sunglasses",
+    "ru_question": "солнечные очки",
+    "foreign_response": "^\\s*sunglasses\\s*$",
+    "ru_response": "^\\s*(солнечные|солнцезащитные) очки\\s*$",
+    "sound": "sunglasses",
+    "preview": "sunglasses"
+  },
+  {
+    "foreign_question": "sure (adj)",
+    "ru_question": "конечно (синоним 'of course')",
+    "foreign_response": "^\\s*sure\\s*$",
+    "ru_response": "^\\s*конечно\\s*$",
+    "sound": "sure",
+    "preview": "sure"
+  },
+  {
+    "foreign_question": "thing",
+    "ru_question": "вещь",
+    "foreign_response": "^\\s*thing\\s*$",
+    "ru_response": "^\\s*вещь\\s*$",
+    "sound": "thing",
+    "preview": "thing"
+  },
+  {
+    "foreign_question": "wallet",
+    "ru_question": "бумажник",
+    "foreign_response": "^\\s*wallet\\s*$",
+    "ru_response": "^\\s*бумажник\\s*$",
+    "sound": "wallet",
+    "preview": "wallet"
+  },
+  {
+    "foreign_question": "Well, ...",
+    "ru_question": "Хорошо, ...",
+    "foreign_response": "^\\s*Well(\\,? ?\\.\\.\\.)?\\s*$",
+    "ru_response": "^\\s*Хорошо(\\,? ?\\.\\.\\.)?\\s*$",
+    "sound": "well",
+    "preview": "well"
+  },
+  {
+    "foreign_question": "What colour is it?",
+    "ru_question": "Какой это цвет?",
+    "foreign_response": "^\\s*What colou?r is it\\?\\s*$",
+    "ru_response": "^\\s*Какой это цвет\\?\\s*$",
+    "sound": "what_colour_is_it-",
+    "preview": "what_colour_is_it-"
+  },
+  {
+    "foreign_question": "whose",
+    "ru_question": "чей",
+    "foreign_response": "^\\s*whose\\s*$",
+    "ru_response": "^\\s*(чей|чья|чье|чьи)\\s*$",
+    "sound": "whose",
+    "preview": "whose"
+  }
+]

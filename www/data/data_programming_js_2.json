@@ -1,0 +1,199 @@
+[
+  // Типы свойств
+  {
+    "foreign_question": "(Типы свойств) Внутренний атрибут свойства объекта. Указывает, можно ли удалить свойство при помощи оператора 'delete' или изменить атрибуты свойства. (Default == true)",
+    "ru_question": "[[Configurable]]",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\[\\[\\s*Configurable\\s*\\]\\]\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Типы свойств) Внутренний атрибут свойства объекта. Указывает, будет ли свойство возвращаться в циклах 'for-in' (Default == true)",
+    "ru_question": "[[Enumerable]]",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\[\\[\\s*Enumerable\\s*\\]\\]\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Типы свойств) Внутренний атрибут свойства объекта. Указывает, можно ли изменить значение свойства. (Default == true)",
+    "ru_question": "[[Writable]]",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\[\\[\\s*Writable\\s*\\]\\]\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Типы свойств) Внутренний атрибут свойства объекта. Содержит фактические данные. (Default == undefined)",
+    "ru_question": "[[Value]]",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\[\\[\\s*Value\\s*\\]\\]\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Типы свойств) Метод. Позволяет изменить или задать внутренний атрибут (атрибут со значениями в виде объекта - l) свойства (p), объекта (o)",
+    "ru_question": "Object.defineProperty(o, p, l)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*Object\\.defineProperty\\s*\\(\\s*o\\s*,\\s*p\\s*,\\s*l\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Типы свойств) Метод. Позволяет изменить или задать несколько свойств (список свойств в виде объекта - l) объекта (o)",
+    "ru_question": "Object.defineProperties(o, l)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*Object\\.defineProperties\\s*\\(\\s*o\\s*,\\s*l\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Типы свойств) Внутренний атрибут свойства объекта с функциями доступа. Указывает, можно ли удалить свойство при помощи оператора 'delete' (Default == true)",
+    "ru_question": "[[Configurable]]",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\[\\[\\s*Configurable\\s*\\]\\]\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Типы свойств) Внутренний атрибут свойства объекта с функциями доступа. Указывает, будет ли свойство возвращаться в циклах 'for-in' (Default == true)",
+    "ru_question": "[[Enumerable]]",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\[\\[\\s*Enumerable\\s*\\]\\]\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Типы свойств) Внутренний метод свойства объекта с функциями доступа. Функция, вызываемая при чтении свойства. По умолчанию имеет значение 'undefined'",
+    "ru_question": "[[Get]]",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\[\\[\\s*Get\\s*\\]\\]\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Типы свойств) Внутренний метод свойства объекта с функциями доступа. Функция, вызываемая при записи свойства. По умолчанию имеет значение 'undefined'",
+    "ru_question": "[[Set]]",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\[\\[\\s*Set\\s*\\]\\]\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Типы свойств) Метод для создания свойств доступа при чтении в объекте (o), свойстве (p), свойства доступа определяются функцией (f) в старых браузерах",
+    "ru_question": "o.__defineGetter__(p, f)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*o\\.__defineGetter__\\s*\\(\\s*p\\s*,\\s*f\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Типы свойств) Метод для создания свойств доступа при записи в объекте (o), свойстве (p), свойства доступа определяются функцией (f) в старых браузерах",
+    "ru_question": "o.__defineSetter__(p, f)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*o\\.__defineSetter__\\s*\\(\\s*p\\s*,\\s*f\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Типы свойств) Метод. Позволяет получить дескрипторы конкретного свойства (p) объекта (o). Результат возвращаться в виде объекта",
+    "ru_question": "Object.getOwnPropertyDescriptor(o, p)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*Object\\.getOwnPropertyDescriptor\\s*\\(\\s*o\\s*,\\s*p\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  // Создание объектов
+  {
+    "foreign_question": "(Создание объектов) Паттерн проектирования 'Фабрика'. В функции (f), в которой описывается создание объекта (o), в качестве аргумента передается свойство (a), которому в функции присваиваем значение (v), и еще там описываем метод (m) данного объекта, который выводит в консоль значение свойства данного объекта (a)",
+    "ru_question": "function f(a) {\\n\\tvar o = new Object();\\n\\to.a = v;\\n\\to.m = function() {\\n\\t\\tconsole.log(this.a);\\n\\t};\\n\\treturn o;\\n}",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*function\\s+f\\s*\\(\\s*a\\s*\\)\\s*\\{\\s*var\\s+o\\s*=\\s*new\\s+Object\\s*\\(\\s*\\)\\s*;\\s*o\\.a\\s*=\\s*v\\s*;\\s*o\\.m\\s*=\\s*function\\s*\\(\\s*\\)\\s*\\{\\s*console\\.log\\s*\\(\\s*this\\.a\\s*\\)\\s*;\\s*\\}\\s*;\\s*return\\s+o\\s*;\\s*\\}\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Создание объектов) Паттерн проектирования 'Конструктор'. В функцию-конструктор (F), в которой описывается создание объекта, в качестве аргумента передается свойство (a), и еще там описываем метод (m) данного объекта, который выводит в консоль значение свойства (a) данного объекта",
+    "ru_question": "function F(a) {\\n\\tthis.a = a;\\n\\tthis.m = function() {\\n\\t\\tconsole.log(this.a);\\n\\t}\\n\\t}",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*function\\s+F\\s*\\(\\s*a\\s*\\)\\s*\\{\\s*this\\.a\\s*=\\s*a\\s*\\;\\s*this\\.m\\s*=\\s*function\\s*\\(\\s*\\)\\s*\\{\\s*console\\.log\\s*\\(\\s*this\\.a\\s*\\)\\s*;\\s*}\\s*\\;?\\s*}\\s*\\;?\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Создание объектов) Паттерн проектирования 'Прототип'. Передается свойство (a), и описываем метод (m) данного объекта, который выводит в консоль значение свойства (a) данного объекта",
+    "ru_question": "function F() {}\\nF.prototype.a = a;\\nF.prototype.m = function() {\\n\\tconsole.log(this.a);\\n}",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*
+		function\\s+F\\s*\\(\\s*\\)\\s*\\{\\s*\\}\\s*\\;?\\s*
+		F\\.prototype\\.a\\s*=\\s*a\\s*\\;\\s*
+		F\\.prototype\\.m\\s*=\\s*function\\s*\\(\\s*\\)\\s*\\{\\s*console\\.log\\s*\\(\\s*this\\.a\\s*)\\s*\\;\\s*\\}\\s*\\;?\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "Внутренний указатель экземпляра объекта на прототип конструктора",
+    "ru_question": "[[Prototype]]",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\[\\[\\s*Prototype\\s*\\]\\]\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "Свойство экземпляра объекта, содержащее ссылку на прототип конструктора",
+    "ru_question": "__proto__",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*__proto__\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "Метод объекта, который возвращает значение [[Prototype]] для экземпляра объкта (p). (ES5)",
+    "ru_question": "Object.getPrototypeOf(p)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*Object\\.getPrototypeOf\\s*\\(\\s*p\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "Оператор, возвращает true, если свойство с указанным именем (p) имеется у экземляра (o) или у прототипа объекта",
+    "ru_question": "p in o",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*p\\s+in\\s+o\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "Метод объекта, возвращает массив перечисляемых свойств экземляра (o) объекта (IE9+)",
+    "ru_question": "Object.keys(o)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*Object\\.keys\\s*\\(\\s*o\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "Метод объекта, возвращает массив перечисляемых и неперечисляемых свойств экземляра (o) объекта (IE9+)",
+    "ru_question": "Object.getOwnPropertyNames(o)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*Object\\.getOwnPropertyNames\\s*\\(\\s*o\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Создание объектов) Альтернативный синтаксис прототипов. Свойства и методы в прототип передаются в ввиде объекта. Передается свойство (a) со значением (v), и описываем метод (m) данного объекта, который выводит в консоль значение свойства (a) данного объекта. При данном варианте теряется связь с конструктором. Восстановите связь с ним",
+    "ru_question": "function F() {}\\nF.prototype = {\\n\\tconstructor: F,\\n\\ta: v,\\n\\tm: function() {\\n\\t\\tconsole.log(this.a);\\n\\t}\\n};",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*function\\s+F\\s*\\(\\s*\\)\\s*\\{\\s*\\}\\s*\\;?\\s*F\\.prototype\\s*=\\s*\\{\\s*constructor\\s*\\:\\s*F\\s*,\\s*a\\s*:\\s*v\\s*,\\s*m\\s*:\\s*function\\s*\\(\\s*\\)\\s*\\{\\s*console\\.log\\s*\\(\\s*this\\.a\\s*\\)\\s*\\;?\\s*\\}\\s*\\}\\s*\\;?\\s*$",
+    "sound": "",
+    "preview": ""
+  }/*,
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  }*/
+]

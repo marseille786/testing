@@ -1,0 +1,18 @@
+[
+  {
+    "foreign_question": "fit",
+    "ru_question": "спортивная форма",
+    "foreign_response": "^\\s*fit\\s*$",
+    "ru_response": "^\\s*(спортивная )?форма\\s*$",
+    "sound": "fit",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  }
+]

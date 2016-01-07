@@ -1,0 +1,290 @@
+[
+  {
+    "foreign_question": "advice",
+    "ru_question": "совет",
+    "foreign_response": "^\\s*advice\\s*$",
+    "ru_response": "^\\s*совет\\s*$",
+    "sound": "advice",
+    "preview": ""
+  },
+  {
+    "foreign_question": "carry",
+    "ru_question": "нести (в руках)",
+    "foreign_response": "^\\s*carry\\s*$",
+    "ru_response": "^\\s*(нести|носить)\\s*$",
+    "sound": "carry",
+    "preview": ""
+  },
+  {
+    "foreign_question": "connect",
+    "ru_question": "соединять, подключать",
+    "foreign_response": "^\\s*connect\\s*$",
+    "ru_response": "^\\s*(соединять|подключать)\\s*$",
+    "sound": "connect",
+    "preview": "connect"
+  },
+  {
+    "foreign_question": "decide",
+    "ru_question": "принимать решение, решать",
+    "foreign_response": "^\\s*decide\\s*$",
+    "ru_response": "^\\s*(принимать решение|решать)\\s*$",
+    "sound": "decide",
+    "preview": ""
+  },
+  {
+    "foreign_question": "DVD player",
+    "ru_question": "DVD плеер",
+    "foreign_response": "^\\s*DVD player\\s*$",
+    "ru_response": "^\\s*DVD плеер\\s*$",
+    "sound": "dvd_player",
+    "preview": ""
+  },
+  {
+    "foreign_question": "easy",
+    "ru_question": "легко (что-то сделать)",
+    "foreign_response": "^\\s*easy\\s*$",
+    "ru_response": "^\\s*легко\\s*$",
+    "sound": "easy",
+    "preview": ""
+  },
+  {
+    "foreign_question": "fast",
+    "ru_question": "быстро, скоро, быстрый, скорый",
+    "foreign_response": "^\\s*fast\\s*$",
+    "ru_response": "^\\s*(быстро|скоро|быстрый|скорый)\\s*$",
+    "sound": "fast",
+    "preview": ""
+  },
+  {
+    "foreign_question": "heavy",
+    "ru_question": "тяжелый",
+    "foreign_response": "^\\s*heavy\\s*$",
+    "ru_response": "^\\s*тяжелый\\s*$",
+    "sound": "heavy",
+    "preview": ""
+  },
+  {
+    "foreign_question": "How much is it?",
+    "ru_question": "Сколько это стоит?",
+    "foreign_response": "^\\s*How much is it\\?\\s*$",
+    "ru_response": "^\\s*Сколько это стоит\\?\\s*$",
+    "sound": "how_much_is_it-",
+    "preview": ""
+  },
+  {
+    "foreign_question": "I'm afraid ...",
+    "ru_question": "Я боюсь (чего-то)",
+    "foreign_response": "^\\s*I'm afraid( ?\\.\\.\\. ?)?\\.?\\s*$",
+    "ru_response": "^\\s*Я боюсь\\s*$",
+    "sound": "i'm_afraid",
+    "preview": ""
+  },
+  {
+    "foreign_question": "inch",
+    "ru_question": "дюйм, дюймовый",
+    "foreign_response": "^\\s*inch\\s*$",
+    "ru_response": "^\\s*(дюйм|дюймовый)\\s*$",
+    "sound": "inch",
+    "preview": ""
+  },
+  {
+    "foreign_question": "keyboard",
+    "ru_question": "клавиатура",
+    "foreign_response": "^\\s*keyboard\\s*$",
+    "ru_response": "^\\s*клавиатура\\s*$",
+    "sound": "keyboard",
+    "preview": ""
+  },
+  {
+    "foreign_question": "light (adj)",
+    "ru_question": "легкий (по весу)",
+    "foreign_response": "^\\s*light\\s*$",
+    "ru_response": "^\\s*легкий\\s*$",
+    "sound": "light",
+    "preview": ""
+  },
+  {
+    "foreign_question": "memory space",
+    "ru_question": "плата памяти, оперативная память (в компьютере)",
+    "foreign_response": "^\\s*memory space\\s*$",
+    "ru_response": "^\\s*(плата( оперативной)? памяти|оперативка|оперативная память)\\s*$",
+    "sound": "memory_space",
+    "preview": ""
+  },
+  {
+    "foreign_question": "minute",
+    "ru_question": "минута",
+    "foreign_response": "^\\s*minute\\s*$",
+    "ru_response": "^\\s*минута\\s*$",
+    "sound": "minute",
+    "preview": ""
+  },
+  {
+    "foreign_question": "mobile",
+    "ru_question": "мобильный, передвижной(adj)",
+    "foreign_response": "^\\s*mobile\\s*$",
+    "ru_response": "^\\s*(мобильный|передвижной)\\s*$",
+    "sound": "mobile",
+    "preview": ""
+  },
+  {
+    "foreign_question": "model",
+    "ru_question": "модель",
+    "foreign_response": "^\\s*model\\s*$",
+    "ru_response": "^\\s*модель\\s*$",
+    "sound": "model",
+    "preview": ""
+  },
+  {
+    "foreign_question": "money",
+    "ru_question": "деньги",
+    "foreign_response": "^\\s*money\\s*$",
+    "ru_response": "^\\s*деньги\\s*$",
+    "sound": "money",
+    "preview": ""
+  },
+  {
+    "foreign_question": "mouse",
+    "ru_question": "мышь",
+    "foreign_response": "^\\s*mouse\\s*$",
+    "ru_response": "^\\s*мышь\\s*$",
+    "sound": "mouse",
+    "preview": ""
+  },
+  {
+    "foreign_question": "netbook",
+    "ru_question": "нетбук",
+    "foreign_response": "^\\s*netbook\\s*$",
+    "ru_response": "^\\s*нетбук\\s*$",
+    "sound": "netbook",
+    "preview": ""
+  },
+  {
+    "foreign_question": "online",
+    "ru_question": "онлайн, интерактивный",
+    "foreign_response": "^\\s*online\\s*$",
+    "ru_response": "^\\s*(онлайн|интерактивный)\\s*$",
+    "sound": "online",
+    "preview": ""
+  },
+  {
+    "foreign_question": "only",
+    "ru_question": "только",
+    "foreign_response": "^\\s*only\\s*$",
+    "ru_response": "^\\s*(только|лишь|всего)\\s*$",
+    "sound": "only",
+    "preview": ""
+  },
+  {
+    "foreign_question": "pence",
+    "ru_question": "пенс, пенни",
+    "foreign_response": "^\\s*pence\\s*$",
+    "ru_response": "^\\s*(пенс|пенни)\\s*$",
+    "sound": "pence",
+    "preview": ""
+  },
+  {
+    "foreign_question": "perfect",
+    "ru_question": "идеальный, безупречный",
+    "foreign_response": "^\\s*perfect\\s*$",
+    "ru_response": "^\\s*(идеальн(ый|о)|безупречн(ый|о))\\s*$",
+    "sound": "perfect",
+    "preview": ""
+  },
+  {
+    "foreign_question": "pound",
+    "ru_question": "фунт стерлингов",
+    "foreign_response": "^\\s*pound\\s*$",
+    "ru_response": "^\\s*фунт( стерлингов)?\\s*$",
+    "sound": "pound",
+    "preview": ""
+  },
+  {
+    "foreign_question": "pretty",
+    "ru_question": "хорошенький, прелестный",
+    "foreign_response": "^\\s*pretty\\s*$",
+    "ru_response": "^\\s*(хорошеньк(ий|ая)|прелестн(ый|ая)|мил(ый|ая)|миленьк(ий|ая))\\s*$",
+    "sound": "pretty",
+    "preview": ""
+  },
+  {
+    "foreign_question": "screen",
+    "ru_question": "экран",
+    "foreign_response": "^\\s*screen\\s*$",
+    "ru_response": "^\\s*экран\\s*$",
+    "sound": "screen",
+    "preview": ""
+  },
+  {
+    "foreign_question": "shop assistant",
+    "ru_question": "продавец (синоним 'seller')",
+    "foreign_response": "^\\s*shop assistant\\s*$",
+    "ru_response": "^\\s*продавец\\s*$",
+    "sound": "shop_assistant",
+    "preview": ""
+  },
+  {
+    "foreign_question": "tablet",
+    "ru_question": "планшет",
+    "foreign_response": "^\\s*tablet\\s*$",
+    "ru_response": "^\\s*планшет\\s*$",
+    "sound": "tablet",
+    "preview": ""
+  },
+  {
+    "foreign_question": "Take your time.",
+    "ru_question": "Не торопитесь, Не спешите.",
+    "foreign_response": "^\\s*Take your time\\.?\\s*$",
+    "ru_response": "^\\s*Не (торопитесь|спешите)\\.?\\s*$",
+    "sound": "take_your_time",
+    "preview": ""
+  },
+  {
+    "foreign_question": "technology",
+    "ru_question": "технология",
+    "foreign_response": "^\\s*technology\\s*$",
+    "ru_response": "^\\s*технологи[яи]\\s*$",
+    "sound": "technology",
+    "preview": ""
+  },
+  {
+    "foreign_question": "That sounds good.",
+    "ru_question": "Это звучит неплохо.",
+    "foreign_response": "^\\s*That sounds good\\.?\\s*$",
+    "ru_response": "^\\s*(Это )?звучит (неплохо|хорошо)\\.?\\s*$",
+    "sound": "that_sounds_good",
+    "preview": ""
+  },
+  {
+    "foreign_question": "touch",
+    "ru_question": "прикосновение, касаться",
+    "foreign_response": "^\\s*touch\\s*$",
+    "ru_response": "^\\s*(прикосновение|касаться)\\s*$",
+    "sound": "touch",
+    "preview": ""
+  },
+  {
+    "foreign_question": "USB port",
+    "ru_question": "USB порт",
+    "foreign_response": "^\\s*USB port\\s*$",
+    "ru_response": "^\\s*USB( порт)?\\s*$",
+    "sound": "usb_port",
+    "preview": ""
+  },
+  {
+    "foreign_question": "video camera",
+    "ru_question": "видеокамера",
+    "foreign_response": "^\\s*video camera\\s*$",
+    "ru_response": "^\\s*видеокамера\\s*$",
+    "sound": "video_camera",
+    "preview": ""
+  },
+  {
+    "foreign_question": "wireless",
+    "ru_question": "беспроводной",
+    "foreign_response": "^\\s*wireless\\s*$",
+    "ru_response": "^\\s*беспроводной\\s*$",
+    "sound": "wireless",
+    "preview": ""
+  }
+]

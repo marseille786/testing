@@ -1,0 +1,1170 @@
+[
+  {
+    "foreign_question": "(Javascript в HTML) Тег, содержимое которого отображается, если в браузере не включен Javascript",
+    "ru_question": "noscript",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*noscript\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Javascript в HTML) Атрибут тега <script> сигнализирует браузеру, что загрузку сценария можно начать немедленно, но его выполнение следует отложить до события DOMContentLoaded, перед которым он выполняется. Скрипты выполняются в порядке подключения",
+    "ru_question": "defer",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*defer\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Javascript в HTML) Атрибут тега <script> сигнализирует браузеру, что загрузку сценария можно начать немедленно, но его выполнение следует отложить до события DOMContentLoaded, перед которым он выполняется. Скрипты выполняются асинхронно",
+    "ru_question": "async",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*async\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "команда включения строгого режима",
+    "ru_question": "use strict",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*use strict\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "Оператор возвращающий тип данных переменной (v) в строковом виде",
+    "ru_question": "typeof v",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*typeof\\s*\\(?\\s*v\\s*\\)?\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "Функция для преобразования переменной (v) в логический тип данных",
+    "ru_question": "Boolean(v)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*Boolean\\s*\\(\\s*v\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  // Работа с числами
+  {
+    "foreign_question": "(Работа с числами) Число (n) в восьмеричном формате",
+    "ru_question": "0n",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*0n\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Работа с числами) Число (n) в шестнадцатеричном формате",
+    "ru_question": "0xn",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*0[xX]n\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Работа с числами) Свойство, содержащее наименьшее возможное число",
+    "ru_question": "Number.MIN_VALUE",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*Number\\.MIN_VALUE\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Работа с числами) Свойство, содержащее наибольшее возможное число",
+    "ru_question": "Number.MAX_VALUE",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*Number\\.MAX_VALUE\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Работа с числами) Любое положительное число, большее максимально возможного значения",
+    "ru_question": "Infinity",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*Infinity\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Работа с числами) Любое отрицательное число, меньшее максимально возможного значения",
+    "ru_question": "-Infinity",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\-Infinity\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Работа с числами) Специальное числовое значение 'не число'",
+    "ru_question": "NaN",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*NaN\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Работа с числами) Функция, пытается преобразовать переменную (n) число. Если это удается - возвращает TRUE, если нет - FALSE",
+    "ru_question": "isNaN(n)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*isNaN\\s*\\(\\s*n\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Работа с числами) Функция преобразования переменной (v) в число",
+    "ru_question": "Number(v)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*Number\\s*\\(\\s*v\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Работа с числами) Функция преобразования строки (v) в целое число в (n)-й системе исчисления",
+    "ru_question": "parseInt(v, n)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*parseInt\\s*\\(\\s*v\\s*,\\s*n\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Работа с числами) Функция преобразования строки (v) в дробное число",
+    "ru_question": "parseFloat(v)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*parseFloat\\s*\\(\\s*v\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Работа с числами) Метод числа (n), возвращает число как строку с указанным количеством (l) знаков после запятой",
+    "ru_question": "n.toFixed(l)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*n\\.toFixed\\s*\\(\\s*l\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Работа с числами) Метод числа (n), возвращает строку с числом в экспоненциальной записи. Прини­мает один аргумент - количество выводимых знаков после точки (l)",
+    "ru_question": "n.toExponential(l)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*n\\.toExponential\\s*\\(\\s*l\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Работа с числами) Метод числа (n), возвращает строковое представление числа с фиксированным количеством знаков (l) или в экспоненциальной записи в зависимости от того, в чем больше смысла",
+    "ru_question": "n.toPrecision(l)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*n\\.toPrecision\\s*\\(\\s*l\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  // Работа со строками
+  {
+    "foreign_question": "(Работа со строками) Свойство содержащее длину строки (s)",
+    "ru_question": "s.length",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*s\\.length\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Работа со строками) Метод. Возвращает подстроку из строки (s) начиная с позиции (b), заканчивая позицией перед (e). Не поддерживает отрицательных значений",
+    "ru_question": "s.substring(b, e)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*s\\.substring\\s*\\(\\s*b\\s*,\\s*e\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Работа со строками) Метод. Возвращает подстроку из строки (s) начиная с позиции (b), заканчивая позицией перед (e). Поддерживает отрицательные значения",
+    "ru_question": "s.slice(b, e)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*s\\.slice\\s*\\(\\s*b\\s*,\\s*e\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Работа со строками) Метод. Возвращает подстроку из строки (s) начиная с позиции (b) с количеством символов (l)",
+    "ru_question": "s.substr(b, l)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*s\\.substr\\s*\\(\\s*b\\s*,\\s*l\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Работа со строками) Метод. Возвращает символ из строки (s) позиции (n)",
+    "ru_question": "s.charAt(n)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*s\\.charAt\\s*\\(\\s*n\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Работа со строками) Метод. Возвращает код символа из строки (s) позиции (n)",
+    "ru_question": "s.charCodeAt(n)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*s\\.charCodeAt\\s*\\(\\s*n\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Работа со строками) Метод. Склеивает строку (s) с указанной в качестве аргумента строкой (s2) и возвращает результат",
+    "ru_question": "s.concat(s2)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*s\\.concat\\s*\\(\\s*s2\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Работа со строками) Метод. Ищет подстроку (s2) в строке (s), поиск ведется с начала строки. Возвращает первую позицию вхождения подстроки в данную строку",
+    "ru_question": "s.indexOf(s2)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*s\\.indexOf\\s*\\(\\s*s2\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Работа со строками) Метод. Ищет подстроку (s2) в строке (s), поиск ведется с конца строки. Возвращает первую позицию вхождения подстроки в данную строку",
+    "ru_question": "s.lastIndexOf(s2)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*s\\.lastIndexOf\\s*\\(\\s*s2\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Работа со строками) Метод. Создает копию строки (s), удаляет все на­чальные и конечные проб ельные символы, а затем возвращает результат",
+    "ru_question": "s.trim()",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*s\\.trim\\s*\\(\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Работа со строками) Метод. Приводит строку (s) к верхнему режиму",
+    "ru_question": "s.toUpperCase()",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*s\\.toUpperCase\\s*\\(\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Работа со строками) Метод. Приводит строку (s) к нижнему режиму",
+    "ru_question": "s.toLowerCase()",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*s\\.toLowerCase\\s*\\(\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Работа со строками) Метод. Действие аналогичное методу (exec) для регулярных выражений на соответсвие строки (s) с шаблоном (p)",
+    "ru_question": "s.match(p)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*s\\.match\\s*\\(\\s*p\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Работа со строками) Метод. Возвращает индекс первого вхождения шаблона (p) в строку (s)",
+    "ru_question": "s.search(p)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*s\\.search\\s*\\(\\s*p\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Работа со строками) Метод. Заменяет в строке (s) подстроку или шаблон (p) на подстроку (s2)",
+    "ru_question": "s.replace(p, s2)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*s\\.replace\\s*\\(\\s*p\\s*,\\s*s2\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Работа со строками) Метод. Разбиение строки (s) по разделителю (s2) в массив",
+    "ru_question": "s.split(s2)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*s\\.split\\s*\\(\\s*s2\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Работа со строками) Метод. Принимает один или несколько кодов символов (c) и возвращает их в виде строки",
+    "ru_question": "String.fromCharCode(c)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*String\\.fromCharCode\\s*\\(\\s*c\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Работа со строками) Метод. Кодирует строку (s) в удобоваримый для браузера вид",
+    "ru_question": "encodeURIComponent(s)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*encodeURIComponent\\s*\\(\\s*s\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Работа со строками) Метод. Раскодирует строку (s) из удобоваримого формата браузера в читабельный вид",
+    "ru_question": "decodeURIComponent(s)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*decodeURIComponent\\s*\\(\\s*s\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Работа со строками) Метод. Выполняет принятую строку (s) как javascript-код",
+    "ru_question": "eval(s)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*eval\\s*\\(\\s*s\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  // Работа с объектами
+  {
+    "foreign_question": "(Работа с объектами) Метод глобального объекта. Возвращает простейшее значение объекта (o)",
+    "ru_question": "o.valueOf()",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*o\\.valueOf\\s*\\(\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Работа с объектами) Метод глобального объекта. Возвращает строковое представление объекта (o)",
+    "ru_question": "o.toString()",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*o\\.toString\\s*\\(\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Работа с объектами) Свойство объекта, содержащее в себе ссылку на конструктор объекта (o)",
+    "ru_question": "o.constructor",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*o\\.constructor\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Работа с объектами) Свойство объекта, указывает, есть ли у объекта (o) (не у прототипа) данное свойство (p)",
+    "ru_question": "o.hasOwnProperty(p)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*o\\.hasOwnProperty\\s*\\(\\s*p\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Работа с объектами) Свойство объекта, определяет, является ли объект (o1) прототипом другого объекта (o2)",
+    "ru_question": "o1.isPrototypeOf(o2)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*o1\\.isPrototypeOf\\s*\\(\\s*o2\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Работа с объектами) Свойство объекта (o), указывает, можно ли перебирать данное свойство (p) в инструкции for-in",
+    "ru_question": "o.propertyIsEnumerable(p)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*o\\.propertyIsEnumerable\\s*\\(\\s*p\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Работа с объектами) Свойство объекта, возвращает строковое представление объекта (o) в соответствии с региональными настройками среды выполнения",
+    "ru_question": "o.toLocaleString()",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*o\\.toLocaleString\\s*\\(\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  // Операторы
+  {
+    "foreign_question": "(Операторы) Оператор, преобразующий строку (s) в число",
+    "ru_question": "+s",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\+s\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Операторы) Логический оператор отрицания",
+    "ru_question": "!",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\!\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Операторы) Оператор, приводящий переменную (v) к логическому типу",
+    "ru_question": "!!v",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\!\\!v\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Операторы) Логический оператор 'и'",
+    "ru_question": "&&",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\&\\&\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Операторы) Логический оператор 'или'",
+    "ru_question": "||",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\|\\|\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Операторы) Оператор позволяющий выполнить в одной инструкции более одной опе­рации",
+    "ru_question": ",",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\,\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Инструкции) Немедленно завершает цикл, передавая управление следующей инструкции после цикла",
+    "ru_question": "break",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*break\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Инструкции) Завершает только текущую итерацию цикла, начиная новую",
+    "ru_question": "continue",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*continue\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Работа с функциями) Инструкция, возвращающая результат функции и завершающая ее выполнение",
+    "ru_question": "return",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*return\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Работа с функциями) Псевдомассив аргументов функции",
+    "ru_question": "arguments",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*arguments\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Ссылочные типы данных) Оператор возвращает true, если переменная (o) - экземпляр конкретного ссылочного типа (t), определяемого по его цепочке прототипов",
+    "ru_question": "o instanceof t",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*o\\s+instanceof\\s+t\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Ссылочные типы) Создание массива (а) с пустыми элементами и длиной (n)",
+    "ru_question": "var a = new Array(n)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*var\\s+a\\s*=\\s*new\\s+Array\\s*\\(\\s*n\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Ссылочные типы) метод, позволяющий наверняка узнать, является ли конкретное значение (v) мас­сивом, независимо от того, в каком глобальном контексте выполнения оно было создано",
+    "ru_question": "Array.isArray(v)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*Array\\.isArray\\s*\\(\\s*v\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Методы преобразования массивов) Метод, возвращает строку из элементов массива (a), разделенных запятой",
+    "ru_question": "a.toString()",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*a\\.toString\\s*\\(\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Методы преобразования массивов) Метод, возвращает строку из элементов массива (a), разделенных разделителем (s)",
+    "ru_question": "a.join(s)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*a\\.join\\s*\\(\\s*s\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Методы для работы с массивом) Свойство, содержит длину массива (a)",
+    "ru_question": "a.length",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*a\\.length\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Методы для работы с массивом) Метод. Добавляет элемент (e) в конец массива (a). Возвращает новую длину массива (a)",
+    "ru_question": "a.push(e)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*a\\.push\\s*\\(\\s*e\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Методы для работы с массивом) Метод. Удаляет последний элемент из массива (а). Возвращает удаленный элемент",
+    "ru_question": "a.pop()",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*a\\.pop\\s*\\(\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Методы для работы с массивом) Метод. Добавляет элемент (e) в начало массива (a). Возвращает новую длину массива (a)",
+    "ru_question": "a.unshift(e)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*a\\.unshift\\s*\\(\\s*e\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Методы для работы с массивом) Метод. Удаляет первый элемент из массива (а). Возвращает удаленный элемент",
+    "ru_question": "a.shift()",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*a\\.shift\\s*\\(\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Методы для работы с массивом) Метод. Изменяет порядок следования элементов в массиве (a) на обратный",
+    "ru_question": "a.reverse()",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*a\\.reverse\\s*\\(\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Методы для работы с массивом) Метод. Сотрирует элементы массива (a) в соответствии с функцией (f)",
+    "ru_question": "a.sort(f)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*a\\.sort\\s*\\(\\s*f\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Методы для работы с массивом) Метод. Склеивает с массивом (a) соответственно массивы (b) и (c). Возвращает результирующий массив",
+    "ru_question": "a.concat(b, c)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*a\\.concat\\s*\\(\\s*b\\s*,\\s*c\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Методы для работы с массивом) Массив. Берет из массива (a) элементы, начиная с позиции (b) и заканчивая элементом перед позицией (e) из возвращает из них новый массив",
+    "ru_question": "a.slice(b, e)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*a\\.slice\\s*\\(\\s*b\\s*,\\s*e\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Методы для работы с массивом) Метод. Ищет элемент (e) в массиве (a), поиск ведется с начала. Возвращает позицию найденного элемента",
+    "ru_question": "a.indexOf(e)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*a\\.indexOf\\s*\\(\\s*e\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Методы для работы с массивом) Метод. Ищет элемент (e) в массиве (a), поиск ведется с конца. Возвращает позицию найденного элемента",
+    "ru_question": "a.lastIndexOf(e)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*a\\.lastIndexOf\\s*\\(\\s*e\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Методы перебора элементов массива) Метод. Выполняет полученную функцию (f) для каждого элемента массива (a) и воз­вращает true, если она возвратила true для каждого элемента",
+    "ru_question": "a.every(f)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*a\\.every\\s*\\(\\s*f\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Методы перебора элементов массива) Метод. Выполняет полученную функцию (f) для каждого элемента массива (a) и возвращает массив всех элементов, для которых она возвратила true",
+    "ru_question": "a.filter(f)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*a\\.filter\\s*\\(\\s*f\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Методы перебора элементов массива) Метод. Выполняет полученную функцию (f) для каждого элемента массива (a), но не возвращает никакого значения",
+    "ru_question": "a.forEach(f)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*a\\.forEach\\s*\\(\\s*f\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Методы перебора элементов массива) Метод. Выполняет полученную функцию (f) для каждого элемента массива (a) и воз­вращает массив с результатами каждого вызова функции",
+    "ru_question": "a.map(f)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*a\\.map\\(\\s*f\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Методы перебора элементов массива) Метод. Выполняет полученную функцию (f) для каждого элемента массива (a) и возвращает true, если она возвратила true хотя бы для одного элемента",
+    "ru_question": "a.some(f)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*a\\.some\\s*\\(\\s*f\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Методы редукции массивов) Метод. Перебирает все элементы в массиве (а), формируя на их основе с помощью функции (f) единственное возвращаемое значение. Делает это от первого элемента к последнему",
+    "ru_question": "a.reduce(f)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*a\\.reduce\\s*\\(\\s*f\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Методы редукции массивов) Метод. Перебирает все элементы в массиве (а), формируя на их основе с помощью функции (f) единственное возвращаемое значение. Делает это от последнего элемента к первому",
+    "ru_question": "a.reduceRight(f)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*a\\.reduceRight\\s*\\(\\s*f\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  // Date
+  {
+    "foreign_question": "(Date) Создание объекта даты (d) с временной точкой на момент времени создания",
+    "ru_question": "var d = new Date()",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*var\\s+d\\s*=\\s*new\\s+Date\\s*\\(\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Date) Метод объекта даты принимает строковое представление даты (s) и пытается преоб­разовать его в дату в миллисекундах",
+    "ru_question": "Date.parse(s)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*Date\\.parse\\s*\\(\\s*s\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Date) Создание объекта даты (d) с переданной временной точкой (m)",
+    "ru_question": "var d = new Date(m)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*var\\s+d\\s*=\\s*new\\s+Date\\s*\\(\\s*m\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Date) Создание объекта даты (d) с переданными данными (l)",
+    "ru_question": "var d = new Date(l)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*var\\s+d\\s*=\\s*new\\s+Date\\s*\\(\\s*l\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Date) Метод объекта даты который возвращает дату и время его выполнения в миллисекундах",
+    "ru_question": "Date.now()",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*Date\\.now\\s*\\(\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Date) Метод. Возвращает дату и время из объекта (d) в строковом виде",
+    "ru_question": "d.toString()",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*d\\.toString\\s*\\(\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Date) Метод. Возвращает дату и время из объекта (d) с учетом логального временного пояса в строковом виде",
+    "ru_question": "d.toLocaleString()",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*d\\.toLocaleString\\s*\\(\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Date) Метод объекта(d). Выводит день недели, месяц, день месяца и год в формате, за­ висящем от реализации",
+    "ru_question": "d.toDateString()",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*d\\.toDateString\\s*\\(\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Date) Метод объекта(d). Выводит часы, минуты, секунды и часовой пояс в формате, зависящем от реализации",
+    "ru_question": "d.toTimeString()",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*d\\.toTimeString\\s*\\(\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Date) Метод объекта(d). Выводит день недели, месяц, день месяца и год в формате, зависящем от реализации и региональных параметров",
+    "ru_question": "d.toLocaleDateString()",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*d\\.toLocaleDateString\\s*\\(\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Date) Метод объекта(d). Выводит часы, минуты и секунды в формате, зависящем от реализации и региональных параметров",
+    "ru_question": "d.toLocaleTimeString()",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*d\\.toLocaleTimeString\\s*\\(\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Date) Метод объекта(d). Выводит полную UТС-дату в формате, зависящем от реализации",
+    "ru_question": "d.toUTCString()",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*d\\.toUTCString\\s*\\(\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Date) Метод объекта(d). Возвращает представление даты в миллисекундах; то же, что и valueOf()",
+    "ru_question": "d.getTime()",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*d\\.getTime\\s*\\(\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Date) Метод объекта(d). Задает представление даты в миллисекундах (m), изменяя тем самым всю дату",
+    "ru_question": "d.setTime(m)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*d\\.setTime\\s*\\(\\s*m\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Date) Метод объекта(d). Возвращает четырехзначный год",
+    "ru_question": "d.getFullYear()",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*d\\.getFullYear\\s*\\(\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Date) Метод объекта(d). Возвращает четырехзначный год даты в формате UTC",
+    "ru_question": "d.getUTCFullYear()",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*d\\.getUTCFullYear\\s*\\(\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Date) Метод объекта(d). Задает год даты (y). Значение года должно содержать четыре цифры",
+    "ru_question": "d.setFullYear(y)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*d\\.setFullYear\\s*\\(\\s*y\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Date) Метод объекта(d). Задает год даты (y) в формате UTC. Значение года должно со­держать четыре цифры",
+    "ru_question": "d.setUTCFullYear(y)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*d\\.setUTCFullYear\\s*\\(\\s*y\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Date) Метод объекта(d). Возвращает месяц даты",
+    "ru_question": "d.getMonth()",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*d\\.getMonth\\s*\\(\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Date) Метод объекта(d). Возвращает месяц даты в формате UTC",
+    "ru_question": "d.getUTCMonth()",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*d\\.getUTCMonth\\s*\\(\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Date) Метод объекта(d). Задает месяц даты (m) с отсчетом от 0",
+    "ru_question": "d.setMonth(m)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*d\\.setMonth\\s*\\(\\s*m\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Date) Метод объекта(d). Задает месяц даты (m) в формате UTC с отсчетом от 0",
+    "ru_question": "d.setUTCMonth(m)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*d\\.setUTCMonth\\s*\\(\\s*m\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Date) Метод объекта(d). Возвращает день месяца даты (от 1 до 31)",
+    "ru_question": "d.getDate()",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*d\\.getDate\\s*\\(\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Date) Метод объекта(d). Возвращает день месяца даты в формате UTC (от 1 до 31)",
+    "ru_question": "d.getUTCDate()",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*d\\.getUTCDate\\s*\\(\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Date) Метод объекта(d). Задает день месяца (n) для даты",
+    "ru_question": "d.setDate(n)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*d\\.setDate\\s*\\(\\s*n\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Date) Метод объекта(d). Задает день месяца (n) для даты в формате UTC",
+    "ru_question": "d.setUTCDate(n)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*d\\.setUTCDate\\s*\\(\\s*n\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Date) Метод объекта(d). Возвращает день недели даты как число",
+    "ru_question": "d.getDay()",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*d\\.getDay\\s*\\(\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Date) Метод объекта(d). Возвращает день недели даты в формате UTC как число",
+    "ru_question": "d.getUTCDay()",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*d\\.getUTCDay\\s*\\(\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Date) Метод объекта(d). Возвращает час даты как число от 0 до 23",
+    "ru_question": "d.getHours()",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*d\\.getHours\\s*\\(\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Date) Метод объекта(d). Возвращает час даты в формате UTC как число от 0 до 23",
+    "ru_question": "d.getUTCHours()",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*d\\.getUTCHours\\s*\\(\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Date) Метод объекта(d). Задает час даты (h)",
+    "ru_question": "d.setHours(h)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*d\\.setHours\\s*\\(\\s*h\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Date) Метод объекта(d). Задает час даты (h) в формате UTC",
+    "ru_question": "d.setUTCHours(h)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*d\\.setUTCHours\\s*\\(\\s*h\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Date) Метод объекта(d). Возвращает минуты даты как число от 0 до 59",
+    "ru_question": "d.getMinutes()",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*d\\.getMinutes\\s*\\(\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Date) Метод объекта(d). Возвращает минуты даты в формате UTC как число от 0 до 59",
+    "ru_question": "d.getUTCMinutes()",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*d\\.getUTCMinutes\\s*\\(\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Date) Метод объекта(d). Задает минуты даты (m)",
+    "ru_question": "d.setMinutes(m)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*d\\.setMinutes\\s*\\(\\s*m\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Date) Метод объекта(d). Задает минуты даты в формате UTC (m)",
+    "ru_question": "d.setUTCMinutes(m)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*d\\.setUTCMinutes\\s*\\(\\s*m\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Date) Метод объекта(d). Возвращает секунды даты как число от 0 до 59",
+    "ru_question": "d.getSeconds()",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*d\\.getSeconds\\s*\\(\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Date) Метод объекта(d). Возвращает секунды даты в формате UTC как число от 0 до 59",
+    "ru_question": "d.getUTCSeconds()",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*d\\.getUTCSeconds\\s*\\(\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Date) Метод объекта(d). Задает секунды даты (s)",
+    "ru_question": "d.setSeconds(s)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*d\\.setSeconds\\s*\\(\\s*s\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Date) Метод объекта(d). Задает секунды даты в формате UTC (s)",
+    "ru_question": "d.setUTCSeconds(s)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*d\\.setUTCSeconds\\s*\\(\\s*s\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Date) Метод объекта(d). Возвращает миллисекунды даты",
+    "ru_question": "d.getMilliseconds()",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*d\\.getMilliseconds\\s*\\(\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Date) Метод объекта(d). Возвращает миллисекунды даты в формате UTC",
+    "ru_question": "d.getUTCMilliseconds()",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*d\\.getUTCMilliseconds\\s*\\(\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Date) Метод объекта(d). Задает миллисекунды даты (m)",
+    "ru_question": "d.setMilliseconds(m)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*d\\.setMilliseconds\\s*\\(\\s*m\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Date) Метод объекта(d). Задает миллисекунды даты в формате UTC (m)",
+    "ru_question": "d.setUTCMilliseconds(m)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*d\\.setUTCMilliseconds\\s*\\(\\s*m\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Date) Метод объекта(d). Возвращает количество минут, на которое локальный часо­вой пояс отстоит от UТС",
+    "ru_question": "d.getTimeZoneOffset()",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*d\\.getTimeZoneOffset\\s*\\(\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  // RegExp
+  {
+    "foreign_question": "(RegExp) Метод регулярного выражения. Принимает строку (s), к которой нужно применить шаблон (p), и возвращает массив. Первым элементом массива является строка, соответствующая всему шаблону, а любые дополнительные элементы представляют захваченные группы в выражении",
+    "ru_question": "p.exec(s)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*p\\.exec\\s*\\(\\s*s\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(RegExp) Метод регулярного выражения. Проверяет соответсвие принимаемой строка (s) шаблону (p). Возвращает логический тип данных",
+    "ru_question": "p.test(s)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*p\\.test\\s*\\(\\s*s\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  // Functions
+  {
+    "foreign_question": "(Functions) Свойство псевдомассива аргументов. Содержит в себе указатель на функцию, которой принадлежит этот псевдомассив (не работает в строгом режиме)",
+    "ru_question": "arguments.callee",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*arguments\\.callee\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Functions) Специальный объект, который ссылается на объект контекста, в котором выполняется данная функция",
+    "ru_question": "this",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*this\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Functions) Свойство объекта функции (f), содержит ссылку на функцию, которая вызвала текущую функцию",
+    "ru_question": "f.caller",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*f\\.caller\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Functions) Свойство функции (f). Содержит в себе количество ожидаемых аргументов",
+    "ru_question": "f.length",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*f\\.length\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Functions) Свойство функции (f). В нем располагаются все методы экземпляров ссылочных типов",
+    "ru_question": "f.prototype",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*f\\.prototype\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Functions) Метод функции (f). Выполняет функцию как метод объекта (o). Аргументы (a), (b) передаются в виде списка через запятую",
+    "ru_question": "f.call(o, a, b)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*f\\.call\\s*\\(\\s*o\\s*,\\s*a\\s*,\\s*b\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Functions) Метод функции (f). Выполняет функцию как метод объекта (o). Аргументы (a), (b) передаются в виде массива",
+    "ru_question": "f.apply(o, [a, b])",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*f\\.apply\\s*\\(\\s*o\\s*,\\s*\\[\\s*a\\s*,\\s*b\\s*\\]\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Functions) Метод функции (f). Создает новый экземпляр функции, значение this которого привязано к объекту (o), переданному в качестве аргумента",
+    "ru_question": "f.bind(o)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*f\\.bind\\s*\\(\\s*o\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  // Math
+  {
+    "foreign_question": "(Math) Число ПИ",
+    "ru_question": "Math.PI",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*Math\\.PI\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Math) Максимальное значение из набора чисел (a), (b) и (c)",
+    "ru_question": "Math.max(a, b, c)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*Math\\.max\\s*\\(\\s*a\\s*,\\s*b\\s*,\\s*c\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Math) Минимальное значение из набора чисел (a), (b) и (c)",
+    "ru_question": "Math.min(a, b, c)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*Math\\.min\\s*\\(\\s*a\\s*,\\s*b\\s*,\\s*c\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Math) Округляет число (n) вверх до ближайшего целого числа",
+    "ru_question": "Math.ceil(n)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*Math\\.ceil\\s*\\(\\s*n\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Math) Округляет число (n) вниз до ближайшего целого числа",
+    "ru_question": "Math.floor(n)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*Math\\.floor\\s*\\(\\s*n\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Math) Округляет число (n) до ближайшего целого числа",
+    "ru_question": "Math.round(n)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*Math\\.round\\s*\\(\\s*n\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Math) Генерирует случайное число в диапазоне (0,1]",
+    "ru_question": "Math.random()",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*Math\\.random\\s*\\(\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Math) Возвращает абсолютное значение числа (n)",
+    "ru_question": "Math.abs(n)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*Math\\.abs\\s*\\(\\s*n\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Math) Возводит число (n) в степень (e)",
+    "ru_question": "Math.pow(n, e)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*Math\\.pow\\s*\\(\\s*n\\s*,\\s*e\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "(Math) Возвращает корень квадратный из числа (n)",
+    "ru_question": "Math.sqrt(n)",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*Math\\.sqrt\\s*\\(\\s*n\\s*\\)\\s*$",
+    "sound": "",
+    "preview": ""
+  }
+]

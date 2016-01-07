@@ -1,0 +1,346 @@
+[
+  {
+    "foreign_question": "above",
+    "ru_question": "выше",
+    "foreign_response": "^\\s*above\\s*$",
+    "ru_response": "^\\s*выше\\s*$",
+    "sound": "above",
+    "preview": "above"
+  },
+  {
+    "foreign_question": "always",
+    "ru_question": "всегда",
+    "foreign_response": "^\\s*always\\s*$",
+    "ru_response": "^\\s*всегда\\s*$",
+    "sound": "always",
+    "preview": "always"
+  },
+  {
+    "foreign_question": "at the time",
+    "ru_question": "в то время",
+    "foreign_response": "^\\s*at the time\\s*$",
+    "ru_response": "^\\s*в то время\\s*$",
+    "sound": "at_the_time",
+    "preview": "at_the_time"
+  },
+  {
+    "foreign_question": "be sick of",
+    "ru_question": "болеть (чем-то)",
+    "foreign_response": "^\\s*be sick of\\s*$",
+    "ru_response": "^\\s*болеть\\s*$",
+    "sound": "be_sick_of",
+    "preview": "be_sick_of"
+  },
+  {
+    "foreign_question": "brush",
+    "ru_question": "кисть, щетка",
+    "foreign_response": "^\\s*brush\\s*$",
+    "ru_response": "^\\s*(кисть|щетка)\\s*$",
+    "sound": "brush",
+    "preview": "brush"
+  },
+  {
+    "foreign_question": "cafe",
+    "ru_question": "кафе",
+    "foreign_response": "^\\s*cafe\\s*$",
+    "ru_response": "^\\s*кафе\\s*$",
+    "sound": "cafe",
+    "preview": "cafe"
+  },
+  {
+    "foreign_question": "clean",
+    "ru_question": "чистить",
+    "foreign_response": "^\\s*clean\\s*$",
+    "ru_response": "^\\s*чистить\\s*$",
+    "sound": "clean",
+    "preview": "clean"
+  },
+  {
+    "foreign_question": "do homework",
+    "ru_question": "делать домашнюю работу",
+    "foreign_response": "^\\s*do homework\\s*$",
+    "ru_response": "^\\s*делать домашнюю работу\\s*$",
+    "sound": "do_homework",
+    "preview": "do_homework"
+  },
+  {
+    "foreign_question": "do the washing-up",
+    "ru_question": "мыть посуду",
+    "foreign_response": "^\\s*do the washing-up\\s*$",
+    "ru_response": "^\\s*мыть посуду\\s*$",
+    "sound": "do_the_washing-up",
+    "preview": "do_the_washing-up"
+  },
+  {
+    "foreign_question": "during",
+    "ru_question": "в течение, во время, в продолжение",
+    "foreign_response": "^\\s*during\\s*$",
+    "ru_response": "^\\s*(в течение|во время|в продолжение)\\s*$",
+    "sound": "during",
+    "preview": "during"
+  },
+  {
+    "foreign_question": "enjoy",
+    "ru_question": "наслаждаться",
+    "foreign_response": "^\\s*enjoy\\s*$",
+    "ru_response": "^\\s*(наслаждаться|получать удовольствие)\\s*$",
+    "sound": "enjoy",
+    "preview": "enjoy"
+  },
+  {
+    "foreign_question": "every",
+    "ru_question": "каждый",
+    "foreign_response": "^\\s*every\\s*$",
+    "ru_response": "^\\s*каждый\\s*$",
+    "sound": "every",
+    "preview": "every"
+  },
+  {
+    "foreign_question": "flat",
+    "ru_question": "квартира (брит)",
+    "foreign_response": "^\\s*flat\\s*$",
+    "ru_response": "^\\s*квартира\\s*$",
+    "sound": "flat",
+    "preview": "flat"
+  },
+  {
+    "foreign_question": "floor",
+    "ru_question": "пол, этаж",
+    "foreign_response": "^\\s*floor\\s*$",
+    "ru_response": "^\\s*(пол|этаж)\\s*$",
+    "sound": "floor",
+    "preview": "floor"
+  },
+  {
+    "foreign_question": "from",
+    "ru_question": "из, от",
+    "foreign_response": "^\\s*from\\s*$",
+    "ru_response": "^\\s*(из|от)\\s*$",
+    "sound": "from",
+    "preview": "from"
+  },
+  {
+    "foreign_question": "hang out",
+    "ru_question": "тусоваться, зависать",
+    "foreign_response": "^\\s*hang out\\s*$",
+    "ru_response": "^\\s*(тусоваться|зависать)\\s*$",
+    "sound": "hang_out",
+    "preview": "hang_out"
+  },
+  {
+    "foreign_question": "hate",
+    "ru_question": "ненавидеть",
+    "foreign_response": "^\\s*hate\\s*$",
+    "ru_response": "^\\s*ненавидеть\\s*$",
+    "sound": "hate",
+    "preview": "hate"
+  },
+  {
+    "foreign_question": "have a shower",
+    "ru_question": "принимать душ",
+    "foreign_response": "^\\s*have a shower\\s*$",
+    "ru_response": "^\\s*принимать душ\\s*$",
+    "sound": "have_a_shower",
+    "preview": "have_a_shower"
+  },
+  {
+    "foreign_question": "help",
+    "ru_question": "помогать, помощь",
+    "foreign_response": "^\\s*help\\s*$",
+    "ru_response": "^\\s*помогать, помощь\\s*$",
+    "sound": "help",
+    "preview": "help"
+  },
+  {
+    "foreign_question": "How often...?",
+    "ru_question": "Как на счет...?",
+    "foreign_response": "^\\s*How often\\?\\s*$",
+    "ru_response": "^\\s*Как на счет( ?\\.\\.\\.)? ?\\?\\s*$",
+    "sound": "how_often-",
+    "preview": "how_often-"
+  },
+  {
+    "foreign_question": "never",
+    "ru_question": "никогда",
+    "foreign_response": "^\\s*never\\s*$",
+    "ru_response": "^\\s*никогда\\s*$",
+    "sound": "never",
+    "preview": "never"
+  },
+  {
+    "foreign_question": "newspaper",
+    "ru_question": "газета",
+    "foreign_response": "^\\s*newspaper\\s*$",
+    "ru_response": "^\\s*газета\\s*$",
+    "sound": "newspaper",
+    "preview": "newspaper"
+  },
+  {
+    "foreign_question": "often",
+    "ru_question": "часто",
+    "foreign_response": "^\\s*often\\s*$",
+    "ru_response": "^\\s*часто\\s*$",
+    "sound": "often",
+    "preview": "often"
+  },
+  {
+    "foreign_question": "once",
+    "ru_question": "однажды",
+    "foreign_response": "^\\s*once\\s*$",
+    "ru_response": "^\\s*однажды\\s*$",
+    "sound": "once",
+    "preview": "once"
+  },
+  {
+    "foreign_question": "place",
+    "ru_question": "место",
+    "foreign_response": "^\\s*place\\s*$",
+    "ru_response": "^\\s*место\\s*$",
+    "sound": "place",
+    "preview": "place"
+  },
+  {
+    "foreign_question": "play",
+    "ru_question": "играть, пьеса",
+    "foreign_response": "^\\s*play\\s*$",
+    "ru_response": "^\\s*(играть|пьеса)\\s*$",
+    "sound": "play",
+    "preview": "play"
+  },
+  {
+    "foreign_question": "rarely",
+    "ru_question": "редко",
+    "foreign_response": "^\\s*rarely\\s*$",
+    "ru_response": "^\\s*(редко|иногда|нечасто|изредка)\\s*$",
+    "sound": "rarely",
+    "preview": "rarely"
+  },
+  {
+    "foreign_question": "smell",
+    "ru_question": "пахнуть, нюхать, запах, обоняние",
+    "foreign_response": "^\\s*smell\\s*$",
+    "ru_response": "^\\s*(пахнуть|нюхать|запах|обоняние)\\s*$",
+    "sound": "smell",
+    "preview": "smell"
+  },
+  {
+    "foreign_question": "sometimes",
+    "ru_question": "иногда, временами",
+    "foreign_response": "^\\s*sometimes?\\s*$",
+    "ru_response": "^\\s*(иногда|временами)\\s*$",
+    "sound": "sometimes",
+    "preview": "sometimes"
+  },
+  {
+    "foreign_question": "study",
+    "ru_question": "изучать",
+    "foreign_response": "^\\s*study\\s*$",
+    "ru_response": "^\\s*изучать\\s*$",
+    "sound": "study",
+    "preview": "study"
+  },
+  {
+    "foreign_question": "take out",
+    "ru_question": "вывозить, выносить",
+    "foreign_response": "^\\s*take out\\s*$",
+    "ru_response": "^\\s*(вывозить|выносить|вывезти|вынести)\\s*$",
+    "sound": "take_out",
+    "preview": "take_out"
+  },
+  {
+    "foreign_question": "take out the rubbish",
+    "ru_question": "выносить мусор",
+    "foreign_response": "^\\s*take out the rubbish\\s*$",
+    "ru_response": "^\\s*выносить мусор\\s*$",
+    "sound": "take_out_the_rubbish",
+    "preview": "take_out_the_rubbish"
+  },
+  {
+    "foreign_question": "teenager",
+    "ru_question": "подросток",
+    "foreign_response": "^\\s*teenager\\s*$",
+    "ru_response": "^\\s*подросток\\s*$",
+    "sound": "teenager",
+    "preview": "teenager"
+  },
+  {
+    "foreign_question": "then",
+    "ru_question": "потом",
+    "foreign_response": "^\\s*then\\s*$",
+    "ru_response": "^\\s*(потом|затем)\\s*$",
+    "sound": "then",
+    "preview": "then"
+  },
+  {
+    "foreign_question": "three times",
+    "ru_question": "три раза",
+    "foreign_response": "^\\s*three times\\s*$",
+    "ru_response": "^\\s*три раза\\s*$",
+    "sound": "three_times",
+    "preview": "three_times"
+  },
+  {
+    "foreign_question": "tidy",
+    "ru_question": "убирать, прибирать",
+    "foreign_response": "^\\s*tidy\\s*$",
+    "ru_response": "^\\s*(убирать|прибирать)\\s*$",
+    "sound": "tidy",
+    "preview": "tidy"
+  },
+  {
+    "foreign_question": "till",
+    "ru_question": "до, пока, не раньше (синоним until)",
+    "foreign_response": "^\\s*till\\s*$",
+    "ru_response": "^\\s*(до|пока|не раньше)\\s*$",
+    "sound": "till",
+    "preview": "till"
+  },
+  {
+    "foreign_question": "twice",
+    "ru_question": "дважды",
+    "foreign_response": "^\\s*twice\\s*$",
+    "ru_response": "^\\s*дважды\\s*$",
+    "sound": "twice",
+    "preview": "twice"
+  },
+  {
+    "foreign_question": "until",
+    "ru_question": "до, пока, не раньше (синоним till)",
+    "foreign_response": "^\\s*until\\s*$",
+    "ru_response": "^\\s*(до|пока|не раньше)\\s*$",
+    "sound": "until",
+    "preview": "until"
+  },
+  {
+    "foreign_question": "usually",
+    "ru_question": "обычно",
+    "foreign_response": "^\\s*usually\\s*$",
+    "ru_response": "^\\s*(обычно|как правило)\\s*$",
+    "sound": "usually",
+    "preview": "usually"
+  },
+  {
+    "foreign_question": "video game",
+    "ru_question": "видео игра",
+    "foreign_response": "^\\s*video game\\s*$",
+    "ru_response": "^\\s*видео игра\\s*$",
+    "sound": "video_game",
+    "preview": "video_game"
+  },
+  {
+    "foreign_question": "wake up",
+    "ru_question": "просыпаться",
+    "foreign_response": "^\\s*wake up\\s*$",
+    "ru_response": "^\\s*(просыпаться|простнуться)\\s*$",
+    "sound": "wake_up",
+    "preview": "wake_up"
+  },
+  {
+    "foreign_question": "wash",
+    "ru_question": "мыть",
+    "foreign_response": "^\\s*wash\\s*$",
+    "ru_response": "^\\s*мыть\\s*$",
+    "sound": "wash",
+    "preview": "wash"
+  }
+]

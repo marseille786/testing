@@ -1,0 +1,34 @@
+[
+  {
+    "foreign_question": "Quick!",
+    "ru_question": "Скорей!",
+    "foreign_response": "^\\s*Quick\\!?\\s*$",
+    "ru_response": "^\\s*Скорей\\!?\\s*$",
+    "sound": "quick",
+    "preview": ""
+  },
+  {
+    "foreign_question": "silly",
+    "ru_question": "глупо",
+    "foreign_response": "^\\s*silly\\s*$",
+    "ru_response": "^\\s*глупо\\s*$",
+    "sound": "silly",
+    "preview": ""
+  },
+  {
+    "foreign_question": "really",
+    "ru_question": "действительно, на самом деле",
+    "foreign_response": "^\\s*really\\s*$",
+    "ru_response": "^\\s*(действительно|на самом деле|реально)\\s*$",
+    "sound": "really",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  }
+]

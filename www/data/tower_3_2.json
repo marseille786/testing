@@ -1,0 +1,178 @@
+[
+  {
+    "foreign_question": "Business Management",
+    "ru_question": "Управление бизнесом",
+    "foreign_response": "^\\s*Business Management\\s*$",
+    "ru_response": "^\\s*Управление бизнесом\\s*$",
+    "sound": "business_management",
+    "preview": "business_management"
+  },
+  {
+    "foreign_question": "come back",
+    "ru_question": "возвращаться",
+    "foreign_response": "^\\s*come back\\s*$",
+    "ru_response": "^\\s*возвращаться\\s*$",
+    "sound": "come_back",
+    "preview": "come_back"
+  },
+  {
+    "foreign_question": "course",
+    "ru_question": "курс",
+    "foreign_response": "^\\s*course\\s*$",
+    "ru_response": "^\\s*курс\\s*$",
+    "sound": "course",
+    "preview": "course"
+  },
+  {
+    "foreign_question": "degree",
+    "ru_question": "учебная степень, степень, уровень, градус",
+    "foreign_response": "^\\s*degree\\s*$",
+    "ru_response": "^\\s*(учебная степень|степень|уровень|градус)\\s*$",
+    "sound": "degree",
+    "preview": "degree"
+  },
+  {
+    "foreign_question": "do a course",
+    "ru_question": "сделать курс",
+    "foreign_response": "^\\s*do a course\\s*$",
+    "ru_response": "^\\s*с?делать курс\\s*$",
+    "sound": "do_a_course",
+    "preview": "do_a_course"
+  },
+  {
+    "foreign_question": "dormitory",
+    "ru_question": "общежитие",
+    "foreign_response": "^\\s*dormitory\\s*$",
+    "ru_response": "^\\s*общежитие\\s*$",
+    "sound": "dormitory",
+    "preview": "dormitory"
+  },
+  {
+    "foreign_question": "exam",
+    "ru_question": "экзамен",
+    "foreign_response": "^\\s*exam\\s*$",
+    "ru_response": "^\\s*экзамен\\s*$",
+    "sound": "exam",
+    "preview": "exam"
+  },
+  {
+    "foreign_question": "exchange programme",
+    "ru_question": "программа обмена",
+    "foreign_response": "^\\s*exchange programme\\s*$",
+    "ru_response": "^\\s*программа обмена\\s*$",
+    "sound": "exchange_programme",
+    "preview": "exchange_programme"
+  },
+  {
+    "foreign_question": "explain",
+    "ru_question": "объяснять",
+    "foreign_response": "^\\s*explain\\s*$",
+    "ru_response": "^\\s*объяснять\\s*$",
+    "sound": "explain",
+    "preview": "explain"
+  },
+  {
+    "foreign_question": "fail",
+    "ru_question": "провал, неудача, терпеть неудачу",
+    "foreign_response": "^\\s*fail\\s*$",
+    "ru_response": "^\\s*(провал|неудача|терпеть неудачу)\\s*$",
+    "sound": "fail",
+    "preview": "fail"
+  },
+  {
+    "foreign_question": "Good for you!",
+    "ru_question": "Повезло тебе!, Везет тебе!",
+    "foreign_response": "^\\s*Good for you\\!?\\s*$",
+    "ru_response": "^\\s*(Повезло тебе\\!?|Везет тебе\\!?)\\s*$",
+    "sound": "good_for_you!",
+    "preview": "good_for_you!"
+  },
+  {
+    "foreign_question": "interesting",
+    "ru_question": "интересный, интересно",
+    "foreign_response": "^\\s*interesting\\s*$",
+    "ru_response": "^\\s*(интересный|интересно)\\s*$",
+    "sound": "interesting",
+    "preview": ""
+  },
+  {
+    "foreign_question": "Long time no see!",
+    "ru_question": "Давно не виделись!",
+    "foreign_response": "^\\s*Long time no see\\!?\\s*$",
+    "ru_response": "^\\s*Давно не виделись\\!?\\s*$",
+    "sound": "long_time_no_see!",
+    "preview": ""
+  },
+  {
+    "foreign_question": "Modern Languages",
+    "ru_question": "Современные языки",
+    "foreign_response": "^\\s*Modern Languages\\s*$",
+    "ru_response": "^\\s*Современные языки\\s*$",
+    "sound": "modern_languages",
+    "preview": ""
+  },
+  {
+    "foreign_question": "pass",
+    "ru_question": "передача, проход, проходить, передавать",
+    "foreign_response": "^\\s*pass\\s*$",
+    "ru_response": "^\\s*(передача|проход|проходить|передавать)\\s*$",
+    "sound": "pass",
+    "preview": "pass"
+  },
+  {
+    "foreign_question": "Poetry",
+    "ru_question": "поэзия",
+    "foreign_response": "^\\s*Poetry\\s*$",
+    "ru_response": "^\\s*поэзия\\s*$",
+    "sound": "poetry",
+    "preview": "poetry"
+  },
+  {
+    "foreign_question": "souvenir",
+    "ru_question": "сувенир",
+    "foreign_response": "^\\s*souvenir\\s*$",
+    "ru_response": "^\\s*сувенир\\s*$",
+    "sound": "souvenir",
+    "preview": "souvenir"
+  },
+  {
+    "foreign_question": "specialise in",
+    "ru_question": "специализироваться в",
+    "foreign_response": "^\\s*specialise in\\s*$",
+    "ru_response": "^\\s*специализироваться в\\s*$",
+    "sound": "specialise_in",
+    "preview": ""
+  },
+  {
+    "foreign_question": "stay",
+    "ru_question": "оставаться, остановиться",
+    "foreign_response": "^\\s*stay\\s*$",
+    "ru_response": "^\\s*(оставаться|остановиться)\\s*$",
+    "sound": "stay",
+    "preview": ""
+  },
+  {
+    "foreign_question": "test",
+    "ru_question": "тест, контрольная работа",
+    "foreign_response": "^\\s*test\\s*$",
+    "ru_response": "^\\s*(тест|контрольная работа)\\s*$",
+    "sound": "test",
+    "preview": "test"
+  },
+  {
+    "foreign_question": "university",
+    "ru_question": "университет",
+    "foreign_response": "^\\s*university\\s*$",
+    "ru_response": "^\\s*университет\\s*$",
+    "sound": "university",
+    "preview": "university"
+  },
+  {
+    "foreign_question": "You're right.",
+    "ru_question": "Ты прав.",
+    "foreign_response": "^\\s*You('| a)re right\\.?\\s*$",
+    "ru_response": "^\\s*(Ты прав|Вы правы)\\.?\\s*$",
+    "sound": "you're_right",
+    "preview": ""
+  }
+]

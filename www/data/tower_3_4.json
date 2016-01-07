@@ -1,0 +1,282 @@
+[
+  {
+    "foreign_question": "actor",
+    "ru_question": "актер",
+    "foreign_response": "^\\s*actor\\s*$",
+    "ru_response": "^\\s*(актер|артист)\\s*$",
+    "sound": "actor",
+    "preview": "actor"
+  },
+  {
+    "foreign_question": "add",
+    "ru_question": "добавлять",
+    "foreign_response": "^\\s*add\\s*$",
+    "ru_response": "^\\s*(добавлять|добавить)\\s*$",
+    "sound": "add",
+    "preview": "add"
+  },
+  {
+    "foreign_question": "artist",
+    "ru_question": "художник",
+    "foreign_response": "^\\s*artist\\s*$",
+    "ru_response": "^\\s*художник\\s*$",
+    "sound": "artist",
+    "preview": "artist"
+  },
+  {
+    "foreign_question": "bachelor's degree",
+    "ru_question": "степень бакалавра",
+    "foreign_response": "^\\s*bachelor\\'s degree\\s*$",
+    "ru_response": "^\\s*(степень|диплом) бакалавра\\s*$",
+    "sound": "bachelor's_degree",
+    "preview": "bachelor's_degree"
+  },
+  {
+    "foreign_question": "band",
+    "ru_question": "группа, банда",
+    "foreign_response": "^\\s*band\\s*$",
+    "ru_response": "^\\s*(группа|банда)\\s*$",
+    "sound": "band",
+    "preview": "band"
+  },
+  {
+    "foreign_question": "business",
+    "ru_question": "бизнес, дело",
+    "foreign_response": "^\\s*business\\s*$",
+    "ru_response": "^\\s*(бизнес|дело)\\s*$",
+    "sound": "business",
+    "preview": ""
+  },
+  {
+    "foreign_question": "career",
+    "ru_question": "карьера",
+    "foreign_response": "^\\s*career\\s*$",
+    "ru_response": "^\\s*карьера\\s*$",
+    "sound": "career",
+    "preview": "career"
+  },
+  {
+    "foreign_question": "chance",
+    "ru_question": "шанс, возможность",
+    "foreign_response": "^\\s*chance\\s*$",
+    "ru_response": "^\\s*(шанс|возможность)\\s*$",
+    "sound": "chance",
+    "preview": "chance"
+  },
+  {
+    "foreign_question": "commercial",
+    "ru_question": "коммерческий, реклама",
+    "foreign_response": "^\\s*commercial\\s*$",
+    "ru_response": "^\\s*(коммерческий|реклама)\\s*$",
+    "sound": "commercial",
+    "preview": "commercial"
+  },
+  {
+    "foreign_question": "company",
+    "ru_question": "компания, фирма",
+    "foreign_response": "^\\s*company\\s*$",
+    "ru_response": "^\\s*(компания|фирма)\\s*$",
+    "sound": "company",
+    "preview": "company"
+  },
+  {
+    "foreign_question": "firefighter",
+    "ru_question": "пожарный",
+    "foreign_response": "^\\s*firefighter\\s*$",
+    "ru_response": "^\\s*(пожарный|пожарник)\\s*$",
+    "sound": "firefighter",
+    "preview": "firefighter"
+  },
+  {
+    "foreign_question": "future",
+    "ru_question": "будущее, будущий",
+    "foreign_response": "^\\s*future\\s*$",
+    "ru_response": "^\\s*(будущее|будущий)\\s*$",
+    "sound": "future",
+    "preview": "future"
+  },
+  {
+    "foreign_question": "go on",
+    "ru_question": "продолжать, продолжаться (синоним continue)",
+    "foreign_response": "^\\s*go on\\s*$",
+    "ru_response": "^\\s*(продолжать|продолжаться)\\s*$",
+    "sound": "go_on",
+    "preview": ""
+  },
+  {
+    "foreign_question": "graduate",
+    "ru_question": "выпускник",
+    "foreign_response": "^\\s*graduate\\s*$",
+    "ru_response": "^\\s*выпускник\\s*$",
+    "sound": "graduate",
+    "preview": "graduate"
+  },
+  {
+    "foreign_question": "graduation",
+    "ru_question": "градация, окончание учебного заведения, получение ученой степени",
+    "foreign_response": "^\\s*graduation\\s*$",
+    "ru_response": "^\\s*(градация|окончание учебного заведения|получение ученой степени)\\s*$",
+    "sound": "graduation",
+    "preview": "graduation"
+  },
+  {
+    "foreign_question": "graphic designer",
+    "ru_question": "графический дизайнер",
+    "foreign_response": "^\\s*graphic designer\\s*$",
+    "ru_response": "^\\s*графический дизайнер\\s*$",
+    "sound": "graphic_designer",
+    "preview": "graphic_designer"
+  },
+  {
+    "foreign_question": "in the future",
+    "ru_question": "в будущем, в дальнейшем",
+    "foreign_response": "^\\s*in the future\\s*$",
+    "ru_response": "^\\s*(в будущем|в дальнейшем)\\s*$",
+    "sound": "in_the_future",
+    "preview": "in_the_future"
+  },
+  {
+    "foreign_question": "journalist",
+    "ru_question": "журналист",
+    "foreign_response": "^\\s*journalist\\s*$",
+    "ru_response": "^\\s*журналист\\s*$",
+    "sound": "journalist",
+    "preview": "journalist"
+  },
+  {
+    "foreign_question": "loan",
+    "ru_question": "заем",
+    "foreign_response": "^\\s*loan\\s*$",
+    "ru_response": "^\\s*заем\\s*$",
+    "sound": "loan",
+    "preview": "loan"
+  },
+  {
+    "foreign_question": "local",
+    "ru_question": "местный",
+    "foreign_response": "^\\s*local\\s*$",
+    "ru_response": "^\\s*местный\\s*$",
+    "sound": "local",
+    "preview": "local"
+  },
+  {
+    "foreign_question": "musician",
+    "ru_question": "музыкант",
+    "foreign_response": "^\\s*musician\\s*$",
+    "ru_response": "^\\s*музыкант\\s*$",
+    "sound": "musician",
+    "preview": "musician"
+  },
+  {
+    "foreign_question": "owner",
+    "ru_question": "владелец, хозяин, собственник",
+    "foreign_response": "^\\s*owner\\s*$",
+    "ru_response": "^\\s*(владелец|хозяин|собственник)\\s*$",
+    "sound": "owner",
+    "preview": "owner"
+  },
+  {
+    "foreign_question": "photographer",
+    "ru_question": "фотограф",
+    "foreign_response": "^\\s*photographer\\s*$",
+    "ru_response": "^\\s*фотограф\\s*$",
+    "sound": "photographer",
+    "preview": "photographer"
+  },
+  {
+    "foreign_question": "photography",
+    "ru_question": "фотография",
+    "foreign_response": "^\\s*photography\\s*$",
+    "ru_response": "^\\s*фотография\\s*$",
+    "sound": "photography",
+    "preview": "photography"
+  },
+  {
+    "foreign_question": "pilot",
+    "ru_question": "пилот, летчик",
+    "foreign_response": "^\\s*pilot\\s*$",
+    "ru_response": "^\\s*(пилот|летчик)\\s*$",
+    "sound": "pilot",
+    "preview": "pilot"
+  },
+  {
+    "foreign_question": "police officer",
+    "ru_question": "полицейский (синоним policeman)",
+    "foreign_response": "^\\s*police officer\\s*$",
+    "ru_response": "^\\s*полицейский\\s*$",
+    "sound": "police_officer",
+    "preview": "police_officer"
+  },
+  {
+    "foreign_question": "professional",
+    "ru_question": "профессионал, профессиональный",
+    "foreign_response": "^\\s*professional\\s*$",
+    "ru_response": "^\\s*(профессионал|профессиональный)\\s*$",
+    "sound": "professional",
+    "preview": "professional"
+  },
+  {
+    "foreign_question": "professor",
+    "ru_question": "профессор, преподаватель",
+    "foreign_response": "^\\s*professor\\s*$",
+    "ru_response": "^\\s*(профессор|преподаватель)\\s*$",
+    "sound": "professor",
+    "preview": "professor"
+  },
+  {
+    "foreign_question": "put together",
+    "ru_question": "соединять, составить, собирать",
+    "foreign_response": "^\\s*put together\\s*$",
+    "ru_response": "^\\s*(соединять|составить|собирать)\\s*$",
+    "sound": "put_together",
+    "preview": "put_together"
+  },
+  {
+    "foreign_question": "singer",
+    "ru_question": "певец",
+    "foreign_response": "^\\s*singer\\s*$",
+    "ru_response": "^\\s*певец\\s*$",
+    "sound": "singer",
+    "preview": "singer"
+  },
+  {
+    "foreign_question": "something",
+    "ru_question": "что-нибудь",
+    "foreign_response": "^\\s*something\\s*$",
+    "ru_response": "^\\s*что-нибудь\\s*$",
+    "sound": "somethings",
+    "preview": ""
+  },
+  {
+    "foreign_question": "successful",
+    "ru_question": "успешный",
+    "foreign_response": "^\\s*successful\\s*$",
+    "ru_response": "^\\s*успешный\\s*$",
+    "sound": "successful",
+    "preview": "successful"
+  },
+  {
+    "foreign_question": "term",
+    "ru_question": "четверть, семестр, часть учебного процесса",
+    "foreign_response": "^\\s*term\\s*$",
+    "ru_response": "^\\s*(четверть|семестр|часть учебного процесса)\\s*$",
+    "sound": "term",
+    "preview": "term"
+  },
+  {
+    "foreign_question": "wedding",
+    "ru_question": "свадьба, бракосочетание",
+    "foreign_response": "^\\s*wedding\\s*$",
+    "ru_response": "^\\s*(свадьба|бракосочетание|венчание|женитьба)\\s*$",
+    "sound": "wedding",
+    "preview": "wedding"
+  },
+  {
+    "foreign_question": "You never know!",
+    "ru_question": "Ты никогда не узнаешь!",
+    "foreign_response": "^\\s*You never know\\!?\\s*$",
+    "ru_response": "^\\s*Ты никогда не узнаешь\\!?\\s*$",
+    "sound": "you_never_know!",
+    "preview": ""
+  }
+]
