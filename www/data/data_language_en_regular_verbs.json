@@ -268,8 +268,8 @@
 		"ru_question": "расстраивать",
 		"foreign_response": "^\\s*upset\\s*$",
 		"ru_response": "^\\s*(расстраивать(ся)?|огорчать(ся)?)\\s*$",
-	  	"sound": "",
-	  	"preview": ""
+	  	"sound": "upset",
+	  	"preview": "upset"
 	},
 	{
 		"foreign_question": "use",
