@@ -5,7 +5,7 @@
     "foreign_response": "^\\s*advice\\s*$",
     "ru_response": "^\\s*совет\\s*$",
     "sound": "advice",
-    "preview": ""
+    "preview": "advice"
   },
   {
     "foreign_question": "carry",
@@ -13,7 +13,7 @@
     "foreign_response": "^\\s*carry\\s*$",
     "ru_response": "^\\s*(нести|носить)\\s*$",
     "sound": "carry",
-    "preview": ""
+    "preview": "carry"
   },
   {
     "foreign_question": "connect",
@@ -29,7 +29,7 @@
     "foreign_response": "^\\s*decide\\s*$",
     "ru_response": "^\\s*(принимать решение|решать)\\s*$",
     "sound": "decide",
-    "preview": ""
+    "preview": "decide"
   },
   {
     "foreign_question": "DVD player",
@@ -37,7 +37,7 @@
     "foreign_response": "^\\s*DVD player\\s*$",
     "ru_response": "^\\s*DVD плеер\\s*$",
     "sound": "dvd_player",
-    "preview": ""
+    "preview": "dvd_player"
   },
   {
     "foreign_question": "easy",
@@ -45,7 +45,7 @@
     "foreign_response": "^\\s*easy\\s*$",
     "ru_response": "^\\s*легко\\s*$",
     "sound": "easy",
-    "preview": ""
+    "preview": "easy"
   },
   {
     "foreign_question": "fast",
@@ -53,15 +53,15 @@
     "foreign_response": "^\\s*fast\\s*$",
     "ru_response": "^\\s*(быстро|скоро|быстрый|скорый)\\s*$",
     "sound": "fast",
-    "preview": ""
+    "preview": "fast"
   },
   {
     "foreign_question": "heavy",
-    "ru_question": "тяжелый",
+    "ru_question": "тяжелый (синоним hard)",
     "foreign_response": "^\\s*heavy\\s*$",
     "ru_response": "^\\s*тяжелый\\s*$",
     "sound": "heavy",
-    "preview": ""
+    "preview": "heavy"
   },
   {
     "foreign_question": "How much is it?",
@@ -69,7 +69,7 @@
     "foreign_response": "^\\s*How much is it\\?\\s*$",
     "ru_response": "^\\s*Сколько это стоит\\?\\s*$",
     "sound": "how_much_is_it-",
-    "preview": ""
+    "preview": "how_much_is_it-"
   },
   {
     "foreign_question": "I'm afraid ...",
@@ -77,7 +77,7 @@
     "foreign_response": "^\\s*I'm afraid( ?\\.\\.\\. ?)?\\.?\\s*$",
     "ru_response": "^\\s*Я боюсь\\s*$",
     "sound": "i'm_afraid",
-    "preview": ""
+    "preview": "i'm_afraid"
   },
   {
     "foreign_question": "inch",
@@ -85,7 +85,7 @@
     "foreign_response": "^\\s*inch\\s*$",
     "ru_response": "^\\s*(дюйм|дюймовый)\\s*$",
     "sound": "inch",
-    "preview": ""
+    "preview": "inch"
   },
   {
     "foreign_question": "keyboard",
@@ -93,7 +93,7 @@
     "foreign_response": "^\\s*keyboard\\s*$",
     "ru_response": "^\\s*клавиатура\\s*$",
     "sound": "keyboard",
-    "preview": ""
+    "preview": "keyboard"
   },
   {
     "foreign_question": "light (adj)",
@@ -101,7 +101,7 @@
     "foreign_response": "^\\s*light\\s*$",
     "ru_response": "^\\s*легкий\\s*$",
     "sound": "light",
-    "preview": ""
+    "preview": "light"
   },
   {
     "foreign_question": "memory space",
@@ -109,7 +109,7 @@
     "foreign_response": "^\\s*memory space\\s*$",
     "ru_response": "^\\s*(плата( оперативной)? памяти|оперативка|оперативная память)\\s*$",
     "sound": "memory_space",
-    "preview": ""
+    "preview": "memory_space"
   },
   {
     "foreign_question": "minute",
@@ -117,15 +117,15 @@
     "foreign_response": "^\\s*minute\\s*$",
     "ru_response": "^\\s*минута\\s*$",
     "sound": "minute",
-    "preview": ""
+    "preview": "minute"
   },
   {
     "foreign_question": "mobile",
-    "ru_question": "мобильный, передвижной(adj)",
+    "ru_question": "мобильный, передвижной (adj)",
     "foreign_response": "^\\s*mobile\\s*$",
     "ru_response": "^\\s*(мобильный|передвижной)\\s*$",
     "sound": "mobile",
-    "preview": ""
+    "preview": "mobile"
   },
   {
     "foreign_question": "model",
@@ -133,7 +133,7 @@
     "foreign_response": "^\\s*model\\s*$",
     "ru_response": "^\\s*модель\\s*$",
     "sound": "model",
-    "preview": ""
+    "preview": "model"
   },
   {
     "foreign_question": "money",
@@ -141,7 +141,7 @@
     "foreign_response": "^\\s*money\\s*$",
     "ru_response": "^\\s*деньги\\s*$",
     "sound": "money",
-    "preview": ""
+    "preview": "money"
   },
   {
     "foreign_question": "mouse",
@@ -149,7 +149,7 @@
     "foreign_response": "^\\s*mouse\\s*$",
     "ru_response": "^\\s*мышь\\s*$",
     "sound": "mouse",
-    "preview": ""
+    "preview": "mouse"
   },
   {
     "foreign_question": "netbook",
@@ -157,7 +157,7 @@
     "foreign_response": "^\\s*netbook\\s*$",
     "ru_response": "^\\s*нетбук\\s*$",
     "sound": "netbook",
-    "preview": ""
+    "preview": "netbook"
   },
   {
     "foreign_question": "online",
@@ -165,7 +165,7 @@
     "foreign_response": "^\\s*online\\s*$",
     "ru_response": "^\\s*(онлайн|интерактивный)\\s*$",
     "sound": "online",
-    "preview": ""
+    "preview": "online"
   },
   {
     "foreign_question": "only",
@@ -173,7 +173,7 @@
     "foreign_response": "^\\s*only\\s*$",
     "ru_response": "^\\s*(только|лишь|всего)\\s*$",
     "sound": "only",
-    "preview": ""
+    "preview": "only"
   },
   {
     "foreign_question": "pence",
@@ -181,7 +181,7 @@
     "foreign_response": "^\\s*pence\\s*$",
     "ru_response": "^\\s*(пенс|пенни)\\s*$",
     "sound": "pence",
-    "preview": ""
+    "preview": "pence"
   },
   {
     "foreign_question": "perfect",
@@ -189,7 +189,7 @@
     "foreign_response": "^\\s*perfect\\s*$",
     "ru_response": "^\\s*(идеальн(ый|о)|безупречн(ый|о))\\s*$",
     "sound": "perfect",
-    "preview": ""
+    "preview": "perfect"
   },
   {
     "foreign_question": "pound",
@@ -197,15 +197,15 @@
     "foreign_response": "^\\s*pound\\s*$",
     "ru_response": "^\\s*фунт( стерлингов)?\\s*$",
     "sound": "pound",
-    "preview": ""
+    "preview": "pound"
   },
   {
     "foreign_question": "pretty",
     "ru_question": "хорошенький, прелестный",
     "foreign_response": "^\\s*pretty\\s*$",
-    "ru_response": "^\\s*(хорошеньк(ий|ая)|прелестн(ый|ая)|мил(ый|ая)|миленьк(ий|ая))\\s*$",
+    "ru_response": "^\\s*(хорошеньк(ий|ая)|прелестн(ый|ая)|мил(ый|ая)|миленьк(ий|ая)|миловидн(ый|ая))\\s*$",
     "sound": "pretty",
-    "preview": ""
+    "preview": "pretty"
   },
   {
     "foreign_question": "screen",
@@ -213,7 +213,7 @@
     "foreign_response": "^\\s*screen\\s*$",
     "ru_response": "^\\s*экран\\s*$",
     "sound": "screen",
-    "preview": ""
+    "preview": "screen"
   },
   {
     "foreign_question": "shop assistant",
@@ -221,7 +221,7 @@
     "foreign_response": "^\\s*shop assistant\\s*$",
     "ru_response": "^\\s*продавец\\s*$",
     "sound": "shop_assistant",
-    "preview": ""
+    "preview": "shop_assistant"
   },
   {
     "foreign_question": "tablet",
@@ -229,15 +229,15 @@
     "foreign_response": "^\\s*tablet\\s*$",
     "ru_response": "^\\s*планшет\\s*$",
     "sound": "tablet",
-    "preview": ""
+    "preview": "tablet"
   },
   {
     "foreign_question": "Take your time.",
     "ru_question": "Не торопитесь, Не спешите.",
-    "foreign_response": "^\\s*Take your time\\.?\\s*$",
+    "foreign_response": "^\\s*(Take your time|Don't hurry)\\.?\\s*$",
     "ru_response": "^\\s*Не (торопитесь|спешите)\\.?\\s*$",
     "sound": "take_your_time",
-    "preview": ""
+    "preview": "take_your_time"
   },
   {
     "foreign_question": "technology",
@@ -245,7 +245,7 @@
     "foreign_response": "^\\s*technology\\s*$",
     "ru_response": "^\\s*технологи[яи]\\s*$",
     "sound": "technology",
-    "preview": ""
+    "preview": "technology"
   },
   {
     "foreign_question": "That sounds good.",
@@ -253,7 +253,7 @@
     "foreign_response": "^\\s*That sounds good\\.?\\s*$",
     "ru_response": "^\\s*(Это )?звучит (неплохо|хорошо)\\.?\\s*$",
     "sound": "that_sounds_good",
-    "preview": ""
+    "preview": "that_sounds_good"
   },
   {
     "foreign_question": "touch",
@@ -261,7 +261,7 @@
     "foreign_response": "^\\s*touch\\s*$",
     "ru_response": "^\\s*(прикосновение|касаться)\\s*$",
     "sound": "touch",
-    "preview": ""
+    "preview": "touch"
   },
   {
     "foreign_question": "USB port",
@@ -269,7 +269,7 @@
     "foreign_response": "^\\s*USB port\\s*$",
     "ru_response": "^\\s*USB( порт)?\\s*$",
     "sound": "usb_port",
-    "preview": ""
+    "preview": "usb_port"
   },
   {
     "foreign_question": "video camera",
@@ -277,7 +277,7 @@
     "foreign_response": "^\\s*video camera\\s*$",
     "ru_response": "^\\s*видеокамера\\s*$",
     "sound": "video_camera",
-    "preview": ""
+    "preview": "video_camera"
   },
   {
     "foreign_question": "wireless",
@@ -285,6 +285,6 @@
     "foreign_response": "^\\s*wireless\\s*$",
     "ru_response": "^\\s*беспроводной\\s*$",
     "sound": "wireless",
-    "preview": ""
+    "preview": "wireless"
   }
 ]

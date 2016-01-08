@@ -5,16 +5,15 @@
     "foreign_response": "^\\s*ago\\s*$",
     "ru_response": "^\\s*тому назад\\s*$",
     "sound": "ago",
-    "preview": ""
+    "preview": "ago"
   },
   {
     "foreign_question": "Art",
     "ru_question": "искусство",
     "foreign_response": "^\\s*Art\\s*$",
     "ru_response": "^\\s*искусство\\s*$",
-    //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-    "sound": "",
-    "preview": ""
+    "sound": "art",
+    "preview": "art"
   },
   {
     "foreign_question": "believe",
@@ -54,7 +53,7 @@
     "foreign_response": "^\\s*end\\s*$",
     "ru_response": "^\\s*конец\\s*$",
     "sound": "end",
-    "preview": ""
+    "preview": "end"
   },
   {
     "foreign_question": "finish",
@@ -73,13 +72,12 @@
     "preview": "geography"
   },
   {
-    "foreign_question": "Histiry",
+    "foreign_question": "History",
     "ru_question": "история",
-    "foreign_response": "^\\s*Histiry\\s*$",
+    "foreign_response": "^\\s*History\\s*$",
     "ru_response": "^\\s*история\\s*$",
-    //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-    "sound": "",
-    "preview": ""
+    "sound": "history",
+    "preview": "history"
   },
   {
     "foreign_question": "Information Technology (IT)",
@@ -118,9 +116,8 @@
     "ru_question": "математика",
     "foreign_response": "^\\s*Maths\\s*$",
     "ru_response": "^\\s*математика\\s*$",
-    //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-    "sound": "",
-    "preview": ""
+    "sound": "maths",
+    "preview": "maths"
   },
   {
     "foreign_question": "over",
@@ -168,7 +165,7 @@
     "foreign_response": "^\\s*start\\s*$",
     "ru_response": "^\\s*(начало|старт|начинать|стартовать)\\s*$",
     "sound": "start",
-    "preview": ""
+    "preview": "start"
   },
   {
     "foreign_question": "subject",
@@ -186,21 +183,13 @@
     "sound": "teach",
     "preview": "teach"
   },
-  /*{
-    "foreign_question": "What a small world!",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
-  },*/
   {
     "foreign_question": "yesterday",
     "ru_question": "вчера",
     "foreign_response": "^\\s*yesterday\\s*$",
     "ru_response": "^\\s*вчера\\s*$",
     "sound": "yesterday",
-    "preview": ""
+    "preview": "yesterday"
   },
   {
     "foreign_question": "You're kidding!",

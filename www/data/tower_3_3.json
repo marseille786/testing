@@ -13,7 +13,7 @@
     "foreign_response": "^\\s*believe it or not\\s*$",
     "ru_response": "^\\s*хочешь верь, хочешь нет\\s*$",
     "sound": "believe_it_or_not",
-    "preview": ""
+    "preview": "believe_it_or_not"
   },
   {
     "foreign_question": "championship",
@@ -85,7 +85,7 @@
     "foreign_response": "^\\s*happen\\s*$",
     "ru_response": "^\\s*(происходить|случаться)\\s*$",
     "sound": "happen",
-    "preview": ""
+    "preview": "happen"
   },
   {
     "foreign_question": "match",
@@ -162,10 +162,10 @@
   {
     "foreign_question": "Tell me about it!",
     "ru_question": "Расскажи мне об этом!",
-    "foreign_response": "^\\s*Tell me about it\\!?\\s*$",
+    "foreign_response": "^\\s*Tell me about (it|that)\\!?\\s*$",
     "ru_response": "^\\s*Расскажи мне об этом\\!?\\s*$",
     "sound": "tell_me_about_it!",
-    "preview": ""
+    "preview": "tell_me_about_it!"
   },
   {
     "foreign_question": "throw",

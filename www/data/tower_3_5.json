@@ -5,7 +5,7 @@
     "foreign_response": "^\\s*because\\s*$",
     "ru_response": "^\\s*потому что\\s*$",
     "sound": "because",
-    "preview": ""
+    "preview": "because"
   },
   {
     "foreign_question": "camel",
@@ -21,7 +21,7 @@
     "foreign_response": "^\\s*common\\s*$",
     "ru_response": "^\\s*общ(ий|ее)\\s*$",
     "sound": "common",
-    "preview": ""
+    "preview": "common"
   },
   {
     "foreign_question": "connect",
@@ -37,7 +37,7 @@
     "foreign_response": "^\\s*convenient\\s*$",
     "ru_response": "^\\s*удобный\\s*$",
     "sound": "convenient",
-    "preview": ""
+    "preview": "convenient"
   },
   {
     "foreign_question": "dining carriage",
@@ -61,7 +61,7 @@
     "foreign_response": "^\\s*even\\s*$",
     "ru_response": "^\\s*даже\\s*$",
     "sound": "even",
-    "preview": ""
+    "preview": "even"
   },
   {
     "foreign_question": "export",
@@ -69,7 +69,7 @@
     "foreign_response": "^\\s*export\\s*$",
     "ru_response": "^\\s*(экспорт|экспортировать)\\s*$",
     "sound": "export",
-    "preview": ""
+    "preview": "export"
   },
   {
     "foreign_question": "goods",
@@ -85,7 +85,7 @@
     "foreign_response": "^\\s*high\\s*$",
     "ru_response": "^\\s*высокий\\s*$",
     "sound": "high",
-    "preview": ""
+    "preview": "high"
   },
   {
     "foreign_question": "horse",
@@ -101,7 +101,7 @@
     "foreign_response": "^\\s*import\\s*$",
     "ru_response": "^\\s*(импортировать|импорт)\\s*$",
     "sound": "import",
-    "preview": ""
+    "preview": "import"
   },
   {
     "foreign_question": "in fact",
@@ -109,7 +109,7 @@
     "foreign_response": "^\\s*in fact\\s*$",
     "ru_response": "^\\s*(на самом деле|фактически|по сути|в действительности|по факту)\\s*$",
     "sound": "in_fact",
-    "preview": ""
+    "preview": "in_fact"
   },
   {
     "foreign_question": "include",
@@ -117,7 +117,7 @@
     "foreign_response": "^\\s*include\\s*$",
     "ru_response": "^\\s*(подключать|включать)\\s*$",
     "sound": "include",
-    "preview": ""
+    "preview": "include"
   },
   {
     "foreign_question": "line",
@@ -189,7 +189,7 @@
     "foreign_response": "^\\s*next\\s*$",
     "ru_response": "^\\s*следующий\\s*$",
     "sound": "next",
-    "preview": ""
+    "preview": "next"
   },
   {
     "foreign_question": "novel",
@@ -205,7 +205,7 @@
     "foreign_response": "^\\s*original\\s*$",
     "ru_response": "^\\s*(оригинальный|подлинный)\\s*$",
     "sound": "original",
-    "preview": ""
+    "preview": "original"
   },
   {
     "foreign_question": "passenger",
@@ -221,7 +221,7 @@
     "foreign_response": "^\\s*possible\\s*$",
     "ru_response": "^\\s*(возможное?|возможный|вероятное|вероятный)\\s*$",
     "sound": "possible",
-    "preview": ""
+    "preview": "possible"
   },
   {
     "foreign_question": "railway",

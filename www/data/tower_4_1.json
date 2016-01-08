@@ -10,7 +10,7 @@
   {
     "foreign_question": "be afraid of",
     "ru_question": "испугаться, быть испуганным (чего-то)",
-    "foreign_response": "^\\s*be afraid of\\s*$",
+    "foreign_response": "^\\s*be afraid( of)?\\s*$",
     "ru_response": "^\\s*(испугаться|быть испуганным|бояться)\\s*$",
     "sound": "be_afraid_of",
     "preview": "be_afraid_of"
@@ -56,6 +56,14 @@
     "preview": "cheap"
   },
   {
+    "foreign_question": "cicle",
+    "ru_question": "езда на велосипеде",
+    "foreign_response": "^\\s*cicle\\s*$",
+    "ru_response": "^\\s*езда на велосипеде\\s*$",
+    "sound": "cicle",
+    "preview": "cicle"
+  },
+  {
     "foreign_question": "cruise",
     "ru_question": "круиз",
     "foreign_response": "^\\s*cruise\\s*$",
@@ -72,12 +80,12 @@
     "preview": "ferry"
   },
   {
-    "foreign_question": "get seasick",
+    "foreign_question": "seasick",
     "ru_question": "морская болезнь",
-    "foreign_response": "^\\s*get seasick\\s*$",
+    "foreign_response": "^\\s*seasick\\s*$",
     "ru_response": "^\\s*морская болезнь\\s*$",
-    "sound": "get_seasick",
-    "preview": "get_seasick"
+    "sound": "seasick",
+    "preview": "seasick"
   },
   {
     "foreign_question": "helicopter",
@@ -93,7 +101,7 @@
     "foreign_response": "^\\s*I guess so\\.?\\s*$",
     "ru_response": "^\\s*(Я )?(полагаю|думаю|считаю),? что (так|да)\\.?\\s*$",
     "sound": "i_guess_so",
-    "preview": ""
+    "preview": "i_guess_so"
   },
   {
     "foreign_question": "in that case",
@@ -101,7 +109,7 @@
     "foreign_response": "^\\s*in that case\\s*$",
     "ru_response": "^\\s*в таком случае\\s*$",
     "sound": "in_that_case",
-    "preview": ""
+    "preview": "in_that_case"
   },
   {
     "foreign_question": "monorail",
@@ -157,7 +165,15 @@
     "foreign_response": "^\\s*out of the question\\s*$",
     "ru_response": "^\\s*(не может быть и речи|без вопросов)\\s*$",
     "sound": "out_of_the_question",
-    "preview": ""
+    "preview": "out_of_the_question"
+  },
+  {
+    "foreign_question": "ridden a motorbike",
+    "ru_question": "езда на мотоцикле",
+    "foreign_response": "^\\s*ridden a motorbike\\s*$",
+    "ru_response": "^\\s*езда на мотоцикле\\s*$",
+    "sound": "ridden a motorbike",
+    "preview": "ridden a motorbike"
   },
   {
     "foreign_question": "ship",
@@ -189,6 +205,6 @@
     "foreign_response": "^\\s*What else\\?\\s*$",
     "ru_response": "^\\s*Что еще\\?\\s*$",
     "sound": "what_else-",
-    "preview": ""
+    "preview": "what_else-"
   }
 ]

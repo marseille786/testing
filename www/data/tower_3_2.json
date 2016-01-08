@@ -93,7 +93,7 @@
     "foreign_response": "^\\s*interesting\\s*$",
     "ru_response": "^\\s*(интересный|интересно)\\s*$",
     "sound": "interesting",
-    "preview": ""
+    "preview": "interesting"
   },
   {
     "foreign_question": "Long time no see!",
@@ -101,7 +101,7 @@
     "foreign_response": "^\\s*Long time no see\\!?\\s*$",
     "ru_response": "^\\s*Давно не виделись\\!?\\s*$",
     "sound": "long_time_no_see!",
-    "preview": ""
+    "preview": "long_time_no_see!"
   },
   {
     "foreign_question": "Modern Languages",
@@ -109,7 +109,7 @@
     "foreign_response": "^\\s*Modern Languages\\s*$",
     "ru_response": "^\\s*Современные языки\\s*$",
     "sound": "modern_languages",
-    "preview": ""
+    "preview": "modern_languages"
   },
   {
     "foreign_question": "pass",
@@ -141,7 +141,7 @@
     "foreign_response": "^\\s*specialise in\\s*$",
     "ru_response": "^\\s*специализироваться в\\s*$",
     "sound": "specialise_in",
-    "preview": ""
+    "preview": "specialise_in"
   },
   {
     "foreign_question": "stay",
@@ -149,7 +149,7 @@
     "foreign_response": "^\\s*stay\\s*$",
     "ru_response": "^\\s*(оставаться|остановиться)\\s*$",
     "sound": "stay",
-    "preview": ""
+    "preview": "stay"
   },
   {
     "foreign_question": "test",
@@ -173,6 +173,6 @@
     "foreign_response": "^\\s*You('| a)re right\\.?\\s*$",
     "ru_response": "^\\s*(Ты прав|Вы правы)\\.?\\s*$",
     "sound": "you're_right",
-    "preview": ""
+    "preview": "you're_right"
   }
 ]

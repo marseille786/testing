@@ -26,7 +26,7 @@
   {
     "foreign_question": "Can you repeat that?",
     "ru_question": "Можете ли вы повторить?",
-    "foreign_response": "^\\s*Can you repeat that\\?\\s*$",
+    "foreign_response": "^\\s*Can you repeat( that)?\\?\\s*$",
     "ru_response": "^\\s*Можете ли вы повторить\\?\\s*$",
     "sound": "can_you_repeat_that-",
     "preview": "can_you_repeat_that-"
@@ -114,17 +114,9 @@
   {
     "foreign_question": "What does this word mean?",
     "ru_question": "Что значит это слово?",
-    "foreign_response": "^\\s*What does this word mean\\?\\s*$",
+    "foreign_response": "^\\s*What does (this|that|the) word mean\\?\\s*$",
     "ru_response": "^\\s*Что (значит|означает) это слово\\?\\s*$",
     "sound": "what_does_this_word_mean-",
     "preview": "what_does_this_word_mean-"
-  },
-  {
-    "foreign_question": "What's the answer to that question?",
-    "ru_question": "Какой ответ на этот вопрос?",
-    "foreign_response": "^\\s*What(\\'| i)s the answer to that question\\?\\s*$",
-    "ru_response": "^\\s*Како[йв] ответ на этот вопрос\\?\\s*$",
-    "sound": "what's_the_answer_to_that_question-",
-    "preview": "what's_the_answer_to_that_question-"
   }
 ]

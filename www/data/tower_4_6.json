@@ -5,7 +5,7 @@
     "foreign_response": "^\\s*adventure\\s*$",
     "ru_response": "^\\s*приключение\\s*$",
     "sound": "adventure",
-    "preview": ""
+    "preview": "adventure"
   },
   {
     "foreign_question": "bungee jumping",
@@ -13,7 +13,7 @@
     "foreign_response": "^\\s*bungee jumping\\s*$",
     "ru_response": "^\\s*(прыж(ки|ок)|прыгать) с тарзанки\\s*$",
     "sound": "bungee_jumping",
-    "preview": ""
+    "preview": "bungee_jumping"
   },
   {
     "foreign_question": "deep",
@@ -21,7 +21,7 @@
     "foreign_response": "^\\s*deep\\s*$",
     "ru_response": "^\\s*глубоко\\s*$",
     "sound": "deep",
-    "preview": ""
+    "preview": "deep"
   },
   {
     "foreign_question": "definitely",
@@ -29,7 +29,7 @@
     "foreign_response": "^\\s*definitely\\s*$",
     "ru_response": "^\\s*(определенно|точно|несомненно)\\s*$",
     "sound": "definitely",
-    "preview": ""
+    "preview": "definitely"
   },
   {
     "foreign_question": "excited",
@@ -37,7 +37,7 @@
     "foreign_response": "^\\s*excited\\s*$",
     "ru_response": "^\\s*(в восторге|восторженный)\\s*$",
     "sound": "excited",
-    "preview": ""
+    "preview": "excited"
   },
   {
     "foreign_question": "excitement",
@@ -45,7 +45,7 @@
     "foreign_response": "^\\s*excitement\\s*$",
     "ru_response": "^\\s*(восторг|волнение|возбуждение)\\s*$",
     "sound": "excitement",
-    "preview": ""
+    "preview": "excitement"
   },
   {
     "foreign_question": "extreme sports",
@@ -53,7 +53,7 @@
     "foreign_response": "^\\s*extreme sports\\s*$",
     "ru_response": "^\\s*(экстремальные виды спорта|экстримальный спорт)\\s*$",
     "sound": "extreme_sports",
-    "preview": ""
+    "preview": "extreme_sports"
   },
   {
     "foreign_question": "glacier",
@@ -61,7 +61,7 @@
     "foreign_response": "^\\s*glacier\\s*$",
     "ru_response": "^\\s*ледник\\s*$",
     "sound": "glacier",
-    "preview": ""
+    "preview": "glacier"
   },
   {
     "foreign_question": "incredible",
@@ -69,7 +69,7 @@
     "foreign_response": "^\\s*incredible\\s*$",
     "ru_response": "^\\s*невероятный, потрясающий\\s*$",
     "sound": "incredible",
-    "preview": ""
+    "preview": "incredible"
   },
   {
     "foreign_question": "kayaking",
@@ -77,7 +77,7 @@
     "foreign_response": "^\\s*kayaking\\s*$",
     "ru_response": "^\\s*каякинг\\s*$",
     "sound": "kayaking",
-    "preview": ""
+    "preview": "kayaking"
   },
   {
     "foreign_question": "look for",
@@ -85,7 +85,7 @@
     "foreign_response": "^\\s*look for\\s*$",
     "ru_response": "^\\s*искать\\s*$",
     "sound": "look_for",
-    "preview": ""
+    "preview": "look_for"
   },
   {
     "foreign_question": "mountain biking",
@@ -93,7 +93,7 @@
     "foreign_response": "^\\s*mountain biking\\s*$",
     "ru_response": "^\\s*(катание|езда) на горных велосипедах\\s*$",
     "sound": "mountain_biking",
-    "preview": ""
+    "preview": "mountain_biking"
   },
   {
     "foreign_question": "mountain climbing",
@@ -101,7 +101,7 @@
     "foreign_response": "^\\s*mountain climbing\\s*$",
     "ru_response": "^\\s*скалолазание\\s*$",
     "sound": "mountain_climbing",
-    "preview": ""
+    "preview": "mountain_climbing"
   },
   {
     "foreign_question": "return",
@@ -109,7 +109,7 @@
     "foreign_response": "^\\s*return\\s*$",
     "ru_response": "^\\s*(возвращать|вернуть)\\s*$",
     "sound": "return",
-    "preview": ""
+    "preview": "return"
   },
   {
     "foreign_question": "scuba diving",
@@ -117,7 +117,7 @@
     "foreign_response": "^\\s*scuba diving\\s*$",
     "ru_response": "^\\s*(подводное плавание|дайвинг) с аквалангом\\s*$",
     "sound": "scuba_diving",
-    "preview": ""
+    "preview": "scuba_diving"
   },
   {
     "foreign_question": "so far",
@@ -125,7 +125,7 @@
     "foreign_response": "^\\s*so far\\s*$",
     "ru_response": "^\\s*(достаточно далеко|так далеко)\\s*$",
     "sound": "so_far",
-    "preview": ""
+    "preview": "so_far"
   },
   {
     "foreign_question": "surfing",
@@ -133,7 +133,7 @@
     "foreign_response": "^\\s*surfing\\s*$",
     "ru_response": "^\\s*серфинг\\s*$",
     "sound": "surfing",
-    "preview": ""
+    "preview": "surfing"
   },
   {
     "foreign_question": "take pictures",
@@ -141,7 +141,7 @@
     "foreign_response": "^\\s*take pictures\\s*$",
     "ru_response": "^\\s*фотографировать\\s*$",
     "sound": "take_pictures",
-    "preview": ""
+    "preview": "take_pictures"
   },
   {
     "foreign_question": "tomorrow",
@@ -149,7 +149,7 @@
     "foreign_response": "^\\s*tomorrow\\s*$",
     "ru_response": "^\\s*завтра\\s*$",
     "sound": "tomorrow",
-    "preview": ""
+    "preview": "tomorrow"
   },
   {
     "foreign_question": "unbelievable",
@@ -157,7 +157,7 @@
     "foreign_response": "^\\s*unbelievable\\s*$",
     "ru_response": "^\\s*невероятн(о|ый)\\s*$",
     "sound": "unbelievable",
-    "preview": ""
+    "preview": "unbelievable"
   },
   {
     "foreign_question": "usual",
@@ -165,7 +165,7 @@
     "foreign_response": "^\\s*usual\\s*$",
     "ru_response": "^\\s*обычный\\s*$",
     "sound": "usual",
-    "preview": ""
+    "preview": "usual"
   },
   {
     "foreign_question": "waterskiing",
@@ -173,7 +173,7 @@
     "foreign_response": "^\\s*water ?skiing\\s*$",
     "ru_response": "^\\s*(водные лыжи|катание на водных лыжах)\\s*$",
     "sound": "waterskiing",
-    "preview": ""
+    "preview": "waterskiing"
   },
   {
     "foreign_question": "windsurfing",
@@ -181,6 +181,6 @@
     "foreign_response": "^\\s*windsurfing\\s*$",
     "ru_response": "^\\s*виндсерфинг\\s*$",
     "sound": "windsurfing",
-    "preview": ""
+    "preview": "windsurfing"
   }
 ]

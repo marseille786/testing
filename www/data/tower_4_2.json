@@ -5,7 +5,7 @@
     "foreign_response": "^\\s*ancient\\s*$",
     "ru_response": "^\\s*(древний|старинный)\\s*$",
     "sound": "ancient",
-    "preview": ""
+    "preview": "ancient"
   },
   {
     "foreign_question": "camping",
@@ -13,7 +13,7 @@
     "foreign_response": "^\\s*camping\\s*$",
     "ru_response": "^\\s*кемпинг\\s*$",
     "sound": "camping",
-    "preview": ""
+    "preview": "camping"
   },
   {
     "foreign_question": "castle",
@@ -21,7 +21,7 @@
     "foreign_response": "^\\s*castle\\s*$",
     "ru_response": "^\\s*замок\\s*$",
     "sound": "castle",
-    "preview": ""
+    "preview": "castle"
   },
   {
     "foreign_question": "cave",
@@ -29,7 +29,7 @@
     "foreign_response": "^\\s*cave\\s*$",
     "ru_response": "^\\s*пещера\\s*$",
     "sound": "cave",
-    "preview": ""
+    "preview": "cave"
   },
   {
     "foreign_question": "fishing",
@@ -37,7 +37,7 @@
     "foreign_response": "^\\s*fishing\\s*$",
     "ru_response": "^\\s*рыбалка\\s*$",
     "sound": "fishing",
-    "preview": ""
+    "preview": "fishing"
   },
   {
     "foreign_question": "get lost",
@@ -45,7 +45,7 @@
     "foreign_response": "^\\s*get lost\\s*$",
     "ru_response": "^\\s*(теряться|затеряться)\\s*$",
     "sound": "get_lost",
-    "preview": ""
+    "preview": "get_lost"
   },
   {
     "foreign_question": "hiking",
@@ -53,7 +53,7 @@
     "foreign_response": "^\\s*hiking\\s*$",
     "ru_response": "^\\s*(пеший|пешеходный) туризм\\s*$",
     "sound": "hiking",
-    "preview": ""
+    "preview": "hiking"
   },
   {
     "foreign_question": "horse riding",
@@ -61,31 +61,23 @@
     "foreign_response": "^\\s*horse riding\\s*$",
     "ru_response": "^\\s*верховая езда\\s*$",
     "sound": "horse_riding",
-    "preview": ""
-  },
-  {
-    "foreign_question": "It was something else!",
-    "ru_question": "Это было что-то!",
-    "foreign_response": "^\\s*It was something else\\!?\\s*$",
-    "ru_response": "^\\s*Это было что-то( еще)?\\!?\\s*$",
-    "sound": "it_was_something_else",
-    "preview": ""
+    "preview": "horse_riding"
   },
   {
     "foreign_question": "lake",
-    "ru_question": "lake",
+    "ru_question": "озеро",
     "foreign_response": "^\\s*lake\\s*$",
-    "ru_response": "^\\s*lake\\s*$",
+    "ru_response": "^\\s*озеро\\s*$",
     "sound": "lake",
-    "preview": ""
+    "preview": "lake"
   },
   {
     "foreign_question": "Looks like it.",
     "ru_question": "Похоже на то.",
-    "foreign_response": "^\\s*Looks like it\\.?\\s*$",
+    "foreign_response": "^\\s*Looks like (it|that)\\.?\\s*$",
     "ru_response": "^\\s*Похоже на э?то\\.?\\s*$",
     "sound": "looks_like_it",
-    "preview": ""
+    "preview": "looks_like_it"
   },
   {
     "foreign_question": "map",
@@ -93,7 +85,15 @@
     "foreign_response": "^\\s*map\\s*$",
     "ru_response": "^\\s*карта\\s*$",
     "sound": "map",
-    "preview": ""
+    "preview": "map"
+  },
+  {
+    "foreign_question": "ruin (v)",
+    "ru_question": "разрушать",
+    "foreign_response": "^\\s*ruin\\s*$",
+    "ru_response": "^\\s*разрушать\\s*$",
+    "sound": "ruin",
+    "preview": "ruin"
   },
   {
     "foreign_question": "ruins",
@@ -101,7 +101,15 @@
     "foreign_response": "^\\s*ruins\\s*$",
     "ru_response": "^\\s*(руины|развалины)\\s*$",
     "sound": "ruins",
-    "preview": ""
+    "preview": "ruins"
+  },
+  {
+    "foreign_question": "sight",
+    "ru_question": "достопримечательность",
+    "foreign_response": "^\\s*sight\\s*$",
+    "ru_response": "^\\s*достопримечательность\\s*$",
+    "sound": "sight",
+    "preview": "sight"
   },
   {
     "foreign_question": "sightseeing",
@@ -109,7 +117,7 @@
     "foreign_response": "^\\s*sightseeing\\s*$",
     "ru_response": "^\\s*осмотр достопримечательностей\\s*$",
     "sound": "sightseeing",
-    "preview": ""
+    "preview": "sightseeing"
   },
   {
     "foreign_question": "souvenir",
@@ -117,7 +125,7 @@
     "foreign_response": "^\\s*souvenir\\s*$",
     "ru_response": "^\\s*сувенир\\s*$",
     "sound": "souvenir",
-    "preview": ""
+    "preview": "souvenir"
   },
   {
     "foreign_question": "sunbathe",
@@ -125,7 +133,7 @@
     "foreign_response": "^\\s*sunbathe\\s*$",
     "ru_response": "^\\s*загорать\\s*$",
     "sound": "sunbathe",
-    "preview": ""
+    "preview": "sunbathe"
   },
   {
     "foreign_question": "taste (v)",
@@ -133,7 +141,7 @@
     "foreign_response": "^\\s*taste\\s*$",
     "ru_response": "^\\s*(отведать|пробовать( на вкус)?)\\s*$",
     "sound": "taste",
-    "preview": ""
+    "preview": "taste"
   },
   {
     "foreign_question": "try",
@@ -141,7 +149,7 @@
     "foreign_response": "^\\s*try\\s*$",
     "ru_response": "^\\s*(пытаться|пробовать)\\s*$",
     "sound": "try",
-    "preview": ""
+    "preview": "try"
   },
   {
     "foreign_question": "village",
@@ -149,7 +157,7 @@
     "foreign_response": "^\\s*village\\s*$",
     "ru_response": "^\\s*(деревня|село)\\s*$",
     "sound": "village",
-    "preview": ""
+    "preview": "village"
   },
   {
     "foreign_question": "What now?",
@@ -157,6 +165,6 @@
     "foreign_response": "^\\s*What now\\?\\s*$",
     "ru_response": "^\\s*Что (теперь|сейчас)?\\s*$",
     "sound": "what_now-",
-    "preview": ""
+    "preview": "what_now-"
   }
 ]

@@ -45,7 +45,7 @@
     "foreign_response": "^\\s*business\\s*$",
     "ru_response": "^\\s*(бизнес|дело)\\s*$",
     "sound": "business",
-    "preview": ""
+    "preview": "business"
   },
   {
     "foreign_question": "career",
@@ -101,7 +101,7 @@
     "foreign_response": "^\\s*go on\\s*$",
     "ru_response": "^\\s*(продолжать|продолжаться)\\s*$",
     "sound": "go_on",
-    "preview": ""
+    "preview": "go_on"
   },
   {
     "foreign_question": "graduate",
@@ -245,7 +245,7 @@
     "foreign_response": "^\\s*something\\s*$",
     "ru_response": "^\\s*что-нибудь\\s*$",
     "sound": "somethings",
-    "preview": ""
+    "preview": "somethings"
   },
   {
     "foreign_question": "successful",
@@ -277,6 +277,6 @@
     "foreign_response": "^\\s*You never know\\!?\\s*$",
     "ru_response": "^\\s*Ты никогда не узнаешь\\!?\\s*$",
     "sound": "you_never_know!",
-    "preview": ""
+    "preview": "you_never_know!"
   }
 ]

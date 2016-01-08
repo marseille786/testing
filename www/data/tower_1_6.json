@@ -5,7 +5,7 @@
     "foreign_response": "^\\s*attractive\\s*$",
     "ru_response": "^\\s*привлекательн(ый|ая)\\s*$",
     "sound": "attractive",
-    "preview": ""
+    "preview": "attractive"
   },
   {
     "foreign_question": "champion",
@@ -13,7 +13,7 @@
     "foreign_response": "^\\s*champion\\s*$",
     "ru_response": "^\\s*чемпион\\s*$",
     "sound": "champion",
-    "preview": ""
+    "preview": "champion"
   },
   {
     "foreign_question": "famous",
@@ -21,7 +21,7 @@
     "foreign_response": "^\\s*famous\\s*$",
     "ru_response": "^\\s*(известный|знаменитый|знаменитость)\\s*$",
     "sound": "famous",
-    "preview": ""
+    "preview": "famous"
   },
   {
     "foreign_question": "fashionable",
@@ -29,7 +29,7 @@
     "foreign_response": "^\\s*fashionable\\s*$",
     "ru_response": "^\\s*модный\\s*$",
     "sound": "fashionable",
-    "preview": ""
+    "preview": "fashionable"
   },
   {
     "foreign_question": "friendly",
@@ -37,7 +37,7 @@
     "foreign_response": "^\\s*friendly\\s*$",
     "ru_response": "^\\s*дружелюбный\\s*$",
     "sound": "friendly",
-    "preview": ""
+    "preview": "friendly"
   },
   {
     "foreign_question": "funny",
@@ -45,7 +45,7 @@
     "foreign_response": "^\\s*funny\\s*$",
     "ru_response": "^\\s*(веселый|смешной|забавный)\\s*$",
     "sound": "funny",
-    "preview": ""
+    "preview": "funny"
   },
   {
     "foreign_question": "Guess what?",
@@ -53,7 +53,7 @@
     "foreign_response": "^\\s*Guess what\\?\\s*$",
     "ru_response": "^\\s*Угадай\\,? что\\?\\s*$",
     "sound": "guess_what-",
-    "preview": ""
+    "preview": "guess_what-"
   },
   {
     "foreign_question": "hardworking",
@@ -61,7 +61,7 @@
     "foreign_response": "^\\s*hard ?working\\s*$",
     "ru_response": "^\\s*трудолюбивый\\s*$",
     "sound": "hard_working",
-    "preview": ""
+    "preview": "hard_working"
   },
   {
     "foreign_question": "kind (adj)",
@@ -69,7 +69,7 @@
     "foreign_response": "^\\s*kind\\s*$",
     "ru_response": "^\\s*\\s*$",
     "sound": "kind",
-    "preview": ""
+    "preview": "kind"
   },
   {
     "foreign_question": "lazy",
@@ -77,15 +77,15 @@
     "foreign_response": "^\\s*lazy\\s*$",
     "ru_response": "^\\s*\\s*$",
     "sound": "lazy",
-    "preview": ""
+    "preview": "lazy"
   },
   {
-    "foreign_question": "look at",
-    "ru_question": "смотреть на (v)",
+    "foreign_question": "look at (v)",
+    "ru_question": "смотреть на",
     "foreign_response": "^\\s*look at\\s*$",
     "ru_response": "^\\s*смотреть на\\s*$",
     "sound": "look_at",
-    "preview": ""
+    "preview": "look_at"
   },
   {
     "foreign_question": "news",
@@ -93,7 +93,7 @@
     "foreign_response": "^\\s*news\\s*$",
     "ru_response": "^\\s*новост[иь]\\s*$",
     "sound": "news",
-    "preview": ""
+    "preview": "news"
   },
   {
     "foreign_question": "person",
@@ -101,7 +101,7 @@
     "foreign_response": "^\\s*person\\s*$",
     "ru_response": "^\\s*(человек|личность|персона)\\s*$",
     "sound": "person",
-    "preview": ""
+    "preview": "person"
   },
   {
     "foreign_question": "quite",
@@ -109,7 +109,7 @@
     "foreign_response": "^\\s*quite\\s*$",
     "ru_response": "^\\s*(довольно|вполне)\\s*$",
     "sound": "quite",
-    "preview": ""
+    "preview": "quite"
   },
   {
     "foreign_question": "rollerblading",
@@ -117,7 +117,7 @@
     "foreign_response": "^\\s*rollerblading\\s*$",
     "ru_response": "^\\s*(катание|езда) на (роликовых коньках|роликах)\\s*$",
     "sound": "rollerblading",
-    "preview": ""
+    "preview": "rollerblading"
   },
   {
     "foreign_question": "rude",
@@ -125,7 +125,7 @@
     "foreign_response": "^\\s*rude\\s*$",
     "ru_response": "^\\s*(грубый|резкий|невоспитанный)\\s*$",
     "sound": "rude",
-    "preview": ""
+    "preview": "rude"
   },
   {
     "foreign_question": "serious",
@@ -133,7 +133,7 @@
     "foreign_response": "^\\s*serious\\s*$",
     "ru_response": "^\\s*серьезный\\s*$",
     "sound": "serious",
-    "preview": ""
+    "preview": "serious"
   },
   {
     "foreign_question": "shy",
@@ -141,7 +141,7 @@
     "foreign_response": "^\\s*shy\\s*$",
     "ru_response": "^\\s*(скромный|застенчивый)\\s*$",
     "sound": "shy",
-    "preview": ""
+    "preview": "shy"
   },
   {
     "foreign_question": "smart",
@@ -149,6 +149,6 @@
     "foreign_response": "^\\s*smart\\s*$",
     "ru_response": "^\\s*умный\\s*$",
     "sound": "smart",
-    "preview": ""
+    "preview": "smart"
   }
 ]

@@ -32,14 +32,6 @@
     "preview": "bag"
   },
   {
-    "foreign_question": "be like that",
-    "ru_question": "быть таким",
-    "foreign_response": "^\\s*be like that\\s*$",
-    "ru_response": "^\\s*быть таким\\s*$",
-    "sound": "be_like_that",
-    "preview": "be_like_that"
-  },
-  {
     "foreign_question": "borrow",
     "ru_question": "брать в долг, одалживать",
     "foreign_response": "^\\s*borrow\\s*$",
@@ -173,8 +165,8 @@
     "foreign_response": "^\\s*purse\\s*$",
     "ru_response": "^\\s*(дамск(ий|ая)|женск(ая|ий)) (кошелек|сумочка|сумка)\\s*$",
     /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-    "sound": "",
-    "preview": ""
+    "sound": "purse",
+    "preview": "purse"
   },
   {
     "foreign_question": "smartphone",
@@ -194,7 +186,7 @@
   },
   {
     "foreign_question": "sure (adj)",
-    "ru_question": "конечно (синоним 'of course')",
+    "ru_question": "конечно (синоним 'of course, certanly')",
     "foreign_response": "^\\s*sure\\s*$",
     "ru_response": "^\\s*конечно\\s*$",
     "sound": "sure",
@@ -218,7 +210,7 @@
   },
   {
     "foreign_question": "Well, ...",
-    "ru_question": "Хорошо, ...",
+    "ru_question": "Хорошо, ... (Слово-паразит)",
     "foreign_response": "^\\s*Well(\\,? ?\\.\\.\\.)?\\s*$",
     "ru_response": "^\\s*Хорошо(\\,? ?\\.\\.\\.)?\\s*$",
     "sound": "well",

@@ -13,7 +13,7 @@
     "foreign_response": "^\\s*as\\s*$",
     "ru_response": "^\\s*(как|в качестве)\\s*$",
     "sound": "as",
-    "preview": ""
+    "preview": "as"
   },
   {
     "foreign_question": "athlete",
@@ -61,7 +61,7 @@
     "foreign_response": "^\\s*become\\s*$",
     "ru_response": "^\\s*(становиться|стать|делаться)\\s*$",
     "sound": "become",
-    "preview": ""
+    "preview": "become"
   },
   {
     "foreign_question": "break",
@@ -277,7 +277,7 @@
     "foreign_response": "^\\s*talent\\s*$",
     "ru_response": "^\\s*талант\\s*$",
     "sound": "talent",
-    "preview": ""
+    "preview": "talent"
   },
   {
     "foreign_question": "train",

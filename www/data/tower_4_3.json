@@ -5,7 +5,7 @@
     "foreign_response": "^\\s*already\\s*$",
     "ru_response": "^\\s*уже\\s*$",
     "sound": "already",
-    "preview": ""
+    "preview": "already"
   },
   {
     "foreign_question": "cable",
@@ -13,7 +13,7 @@
     "foreign_response": "^\\s*cable\\s*$",
     "ru_response": "^\\s*(кабель|трос|канат)\\s*$",
     "sound": "cable",
-    "preview": ""
+    "preview": "cable"
   },
   {
     "foreign_question": "check (v)",
@@ -21,7 +21,7 @@
     "foreign_response": "^\\s*check\\s*$",
     "ru_response": "^\\s*проверять\\s*$",
     "sound": "check",
-    "preview": ""
+    "preview": "check"
   },
   {
     "foreign_question": "connect",
@@ -29,7 +29,7 @@
     "foreign_response": "^\\s*connect\\s*$",
     "ru_response": "^\\s*(подключать|соединять)\\s*$",
     "sound": "connect",
-    "preview": ""
+    "preview": "connect"
   },
   {
     "foreign_question": "download",
@@ -37,7 +37,7 @@
     "foreign_response": "^\\s*download\\s*$",
     "ru_response": "^\\s*(скачивать|скачать|загружать)\\s*$",
     "sound": "download",
-    "preview": ""
+    "preview": "download"
   },
   {
     "foreign_question": "everywhere",
@@ -45,7 +45,7 @@
     "foreign_response": "^\\s*everywhere\\s*$",
     "ru_response": "^\\s*(везде|всюду)\\s*$",
     "sound": "everywhere",
-    "preview": ""
+    "preview": "everywhere"
   },
   {
     "foreign_question": "external",
@@ -53,7 +53,7 @@
     "foreign_response": "^\\s*external\\s*$",
     "ru_response": "^\\s*(внешний|наружный)\\s*$",
     "sound": "external",
-    "preview": ""
+    "preview": "external"
   },
   {
     "foreign_question": "file",
@@ -61,7 +61,7 @@
     "foreign_response": "^\\s*file\\s*$",
     "ru_response": "^\\s*файл\\s*$",
     "sound": "file",
-    "preview": ""
+    "preview": "file"
   },
   {
     "foreign_question": "hard drive (n)",
@@ -69,7 +69,7 @@
     "foreign_response": "^\\s*hard drive\\s*$",
     "ru_response": "^\\s*жесткий диск\\s*$",
     "sound": "hard_drive",
-    "preview": ""
+    "preview": "hard_drive"
   },
   {
     "foreign_question": "information",
@@ -77,7 +77,7 @@
     "foreign_response": "^\\s*information\\s*$",
     "ru_response": "^\\s*информация\\s*$",
     "sound": "information",
-    "preview": ""
+    "preview": "information"
   },
   {
     "foreign_question": "install",
@@ -85,7 +85,7 @@
     "foreign_response": "^\\s*install\\s*$",
     "ru_response": "^\\s*устанавливать\\s*$",
     "sound": "install",
-    "preview": ""
+    "preview": "install"
   },
   {
     "foreign_question": "memory stick",
@@ -93,7 +93,7 @@
     "foreign_response": "^\\s*memory stick\\s*$",
     "ru_response": "^\\s*карта памяти\\s*$",
     "sound": "memory_stick",
-    "preview": ""
+    "preview": "memory_stick"
   },
   {
     "foreign_question": "monitor",
@@ -101,7 +101,7 @@
     "foreign_response": "^\\s*monitor\\s*$",
     "ru_response": "^\\s*монитор\\s*$",
     "sound": "monitor",
-    "preview": ""
+    "preview": "monitor"
   },
   {
     "foreign_question": "mouse pad",
@@ -109,7 +109,7 @@
     "foreign_response": "^\\s*mouse pad\\s*$",
     "ru_response": "^\\s*коврик для мыши\\s*$",
     "sound": "mouse_pad",
-    "preview": ""
+    "preview": "mouse_pad"
   },
   {
     "foreign_question": "on mute",
@@ -117,7 +117,7 @@
     "foreign_response": "^\\s*on mute\\s*$",
     "ru_response": "^\\s*беззвучный режим\\s*$",
     "sound": "on_mute",
-    "preview": ""
+    "preview": "on_mute"
   },
   {
     "foreign_question": "print",
@@ -125,7 +125,7 @@
     "foreign_response": "^\\s*print\\s*$",
     "ru_response": "^\\s*(рас|на)?печатать\\s*$",
     "sound": "print",
-    "preview": ""
+    "preview": "print"
   },
   {
     "foreign_question": "printer",
@@ -133,7 +133,7 @@
     "foreign_response": "^\\s*printer\\s*$",
     "ru_response": "^\\s*принтер\\s*$",
     "sound": "printer",
-    "preview": ""
+    "preview": "printer"
   },
   {
     "foreign_question": "program",
@@ -141,7 +141,7 @@
     "foreign_response": "^\\s*program(me)?\\s*$",
     "ru_response": "^\\s*программа\\s*$",
     "sound": "program",
-    "preview": ""
+    "preview": "program"
   },
   {
     "foreign_question": "save",
@@ -149,7 +149,7 @@
     "foreign_response": "^\\s*save\\s*$",
     "ru_response": "^\\s*(сохран[яи]ть|спас(ать|ти))\\s*$",
     "sound": "save",
-    "preview": ""
+    "preview": "save"
   },
   {
     "foreign_question": "sound",
@@ -157,7 +157,7 @@
     "foreign_response": "^\\s*sound\\s*$",
     "ru_response": "^\\s*(звук|звучать)\\s*$",
     "sound": "sound",
-    "preview": ""
+    "preview": "sound"
   },
   {
     "foreign_question": "speaker",
@@ -165,7 +165,7 @@
     "foreign_response": "^\\s*speaker\\s*$",
     "ru_response": "^\\s*(оратор|спикер)\\s*$",
     "sound": "speaker",
-    "preview": ""
+    "preview": "speaker"
   },
   {
     "foreign_question": "still",
@@ -173,7 +173,7 @@
     "foreign_response": "^\\s*still\\s*$",
     "ru_response": "^\\s*((все )?еще|до сих пор)\\s*$",
     "sound": "still",
-    "preview": ""
+    "preview": "still"
   },
   {
     "foreign_question": "turn off",
@@ -181,7 +181,7 @@
     "foreign_response": "^\\s*turn off\\s*$",
     "ru_response": "^\\s*выключ[аи]ть\\s*$",
     "sound": "turn_off",
-    "preview": ""
+    "preview": "turn_off"
   },
   {
     "foreign_question": "turn on",
@@ -189,7 +189,7 @@
     "foreign_response": "^\\s*turn on\\s*$",
     "ru_response": "^\\s*включ[иа]ть\\s*$",
     "sound": "turn_on",
-    "preview": ""
+    "preview": "turn_on"
   },
   {
     "foreign_question": "volume control",
@@ -197,7 +197,7 @@
     "foreign_response": "^\\s*volume control\\s*$",
     "ru_response": "^\\s*(контроль|регулятор) громкости\\s*$",
     "sound": "volume_control",
-    "preview": ""
+    "preview": "volume_control"
   },
   {
     "foreign_question": "yet",
@@ -205,6 +205,6 @@
     "foreign_response": "^\\s*yet\\s*$",
     "ru_response": "^\\s*(все же|однако)\\s*$",
     "sound": "yet",
-    "preview": ""
+    "preview": "yet"
   }
 ]

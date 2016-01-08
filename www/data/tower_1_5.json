@@ -5,7 +5,7 @@
     "foreign_response": "^\\s*again\\s*$",
     "ru_response": "^\\s*(опять|снова|вновь|еще раз)\\s*$",
     "sound": "again",
-    "preview": ""
+    "preview": "again"
   },
   {
     "foreign_question": "armchair",
@@ -13,7 +13,7 @@
     "foreign_response": "^\\s*armchair\\s*$",
     "ru_response": "^\\s*кресло\\s*$",
     "sound": "armchair",
-    "preview": ""
+    "preview": "armchair"
   },
   {
     "foreign_question": "awful",
@@ -21,7 +21,7 @@
     "foreign_response": "^\\s*awful\\s*$",
     "ru_response": "^\\s*ужасный\\s*$",
     "sound": "awful",
-    "preview": ""
+    "preview": "awful"
   },
   {
     "foreign_question": "bookcase",
@@ -29,7 +29,7 @@
     "foreign_response": "^\\s*bookcase\\s*$",
     "ru_response": "^\\s*книжный шкаф\\s*$",
     "sound": "bookcase",
-    "preview": ""
+    "preview": "bookcase"
   },
   {
     "foreign_question": "bored",
@@ -37,7 +37,7 @@
     "foreign_response": "^\\s*bored\\s*$",
     "ru_response": "^\\s*скучающий\\s*$",
     "sound": "bored",
-    "preview": ""
+    "preview": "bored"
   },
   {
     "foreign_question": "bright",
@@ -45,7 +45,7 @@
     "foreign_response": "^\\s*bright\\s*$",
     "ru_response": "^\\s*яркий\\s*$",
     "sound": "bright",
-    "preview": ""
+    "preview": "bright"
   },
   {
     "foreign_question": "Come on in.",
@@ -53,7 +53,7 @@
     "foreign_response": "^\\s*Come( on)? in\\.?\\s*$",
     "ru_response": "^\\s*Заходи(те)?\\.?\\s*$",
     "sound": "come_on_in",
-    "preview": ""
+    "preview": "come_on_in"
   },
   {
     "foreign_question": "cooker",
@@ -61,7 +61,7 @@
     "foreign_response": "^\\s*cooker\\s*$",
     "ru_response": "^\\s*(кухонная )?плита\\s*$",
     "sound": "cooker",
-    "preview": ""
+    "preview": "cooker"
   },
   {
     "foreign_question": "curtain",
@@ -69,7 +69,7 @@
     "foreign_response": "^\\s*curtain\\s*$",
     "ru_response": "^\\s*занавеска\\s*$",
     "sound": "curtain",
-    "preview": ""
+    "preview": "curtain"
   },
   {
     "foreign_question": "decide",
@@ -77,15 +77,15 @@
     "foreign_response": "^\\s*decide\\s*$",
     "ru_response": "^\\s*(принимать решение|решать)\\s*$",
     "sound": "decide",
-    "preview": ""
+    "preview": "decide"
   },
   {
     "foreign_question": "desk",
-    "ru_question": "(письменный|рабочий) стол",
+    "ru_question": "письменный стол",
     "foreign_response": "^\\s*desk\\s*$",
     "ru_response": "^\\s*(письменный|рабочий) стол\\s*$",
     "sound": "desk",
-    "preview": ""
+    "preview": "desk"
   },
   {
     "foreign_question": "fridge",
@@ -93,7 +93,7 @@
     "foreign_response": "^\\s*fridge\\s*$",
     "ru_response": "^\\s*холодильник\\s*$",
     "sound": "fridge",
-    "preview": ""
+    "preview": "fridge"
   },
   {
     "foreign_question": "furniture",
@@ -105,11 +105,11 @@
   },
   {
     "foreign_question": "How about...?",
-    "ru_question": "Как на счет",
-    "foreign_response": "^\\s*How about( ?\\.\\.\\.)?\\?\\s*$",
+    "ru_question": "Как на счет...?",
+    "foreign_response": "^\\s*How (about|often)( ?\\.\\.\\.)?\\?\\s*$",
     "ru_response": "^\\s*Как на счет( ?\\.\\.\\.)?\\?\\s*$",
     "sound": "how_about-",
-    "preview": ""
+    "preview": "furniture"
   },
   {
     "foreign_question": "I don't think so.",
@@ -117,7 +117,7 @@
     "foreign_response": "^\\s*I don\\'t think so\\.?\\s*$",
     "ru_response": "^\\s*Я не думаю\\,? что так\\.?\\s*$",
     "sound": "i_don't_think_so",
-    "preview": ""
+    "preview": "i_don't_think_so"
   },
   {
     "foreign_question": "idea",
@@ -125,7 +125,7 @@
     "foreign_response": "^\\s*idea\\s*$",
     "ru_response": "^\\s*идея\\s*$",
     "sound": "idea",
-    "preview": ""
+    "preview": "idea"
   },
   {
     "foreign_question": "lamp",
@@ -133,15 +133,15 @@
     "foreign_response": "^\\s*lamp\\s*$",
     "ru_response": "^\\s*лампа\\s*$",
     "sound": "lamp",
-    "preview": ""
+    "preview": "lamp"
   },
   {
     "foreign_question": "make a change",
     "ru_question": "изменить",
-    "foreign_response": "^\\s*make a change\\s*$",
+    "foreign_response": "^\\s*(make a )?change\\s*$",
     "ru_response": "^\\s*изменить\\s*$",
     "sound": "make_a_change",
-    "preview": ""
+    "preview": "make_a_change"
   },
   {
     "foreign_question": "mirror",
@@ -149,7 +149,7 @@
     "foreign_response": "^\\s*mirror\\s*$",
     "ru_response": "^\\s*зеркало\\s*$",
     "sound": "mirror",
-    "preview": ""
+    "preview": "mirror"
   },
   {
     "foreign_question": "painting",
@@ -157,7 +157,7 @@
     "foreign_response": "^\\s*painting\\s*$",
     "ru_response": "^\\s*(живопись|картина)\\s*$",
     "sound": "painting",
-    "preview": ""
+    "preview": "painting"
   },
   {
     "foreign_question": "poster",
@@ -165,7 +165,7 @@
     "foreign_response": "^\\s*poster\\s*$",
     "ru_response": "^\\s*(плакат|постер)\\s*$",
     "sound": "poster",
-    "preview": ""
+    "preview": "poster"
   },
   {
     "foreign_question": "rearrange",
@@ -173,7 +173,7 @@
     "foreign_response": "^\\s*rearrange\\s*$",
     "ru_response": "^\\s*(перестанавливать|перестановка)\\s*$",
     "sound": "rearrange",
-    "preview": ""
+    "preview": "rearrange"
   },
   {
     "foreign_question": "rug",
@@ -181,7 +181,7 @@
     "foreign_response": "^\\s*rug\\s*$",
     "ru_response": "^\\s*ковер\\s*$",
     "sound": "rug",
-    "preview": ""
+    "preview": "rug"
   },
   {
     "foreign_question": "sofa",
@@ -189,7 +189,7 @@
     "foreign_response": "^\\s*sofa\\s*$",
     "ru_response": "^\\s*диван\\s*$",
     "sound": "sofa",
-    "preview": ""
+    "preview": "sofa"
   },
   {
     "foreign_question": "take a look",
@@ -197,15 +197,7 @@
     "foreign_response": "^\\s*take a look\\s*$",
     "ru_response": "^\\s*взглянуть\\s*$",
     "sound": "take_a_look",
-    "preview": ""
-  },
-  {
-    "foreign_question": "that sort of thing",
-    "ru_question": "Что-то в этом роде",
-    "foreign_response": "^\\s*that sort of thing\\s*$",
-    "ru_response": "^\\s*что-то в этом роде\\s*$",
-    "sound": "that_sort_of_thing",
-    "preview": ""
+    "preview": "take_a_look"
   },
   {
     "foreign_question": "That's a good idea.",
@@ -213,7 +205,7 @@
     "foreign_response": "^\\s*That(\\'| i)s a good idea\\.?\\s*$",
     "ru_response": "^\\s*Это хорошая идея\\.?\\s*$",
     "sound": "that's_a_good_idea",
-    "preview": ""
+    "preview": "that's_a_good_idea"
   },
   {
     "foreign_question": "ugly",
@@ -221,7 +213,7 @@
     "foreign_response": "^\\s*ugly\\s*$",
     "ru_response": "^\\s*уродливый\\s*$",
     "sound": "ugly",
-    "preview": ""
+    "preview": "ugly"
   },
   {
     "foreign_question": "wall",
@@ -229,7 +221,7 @@
     "foreign_response": "^\\s*wall\\s*$",
     "ru_response": "^\\s*стена\\s*$",
     "sound": "wall",
-    "preview": ""
+    "preview": "wall"
   },
   {
     "foreign_question": "wallpaper",
@@ -237,7 +229,7 @@
     "foreign_response": "^\\s*wallpaper\\s*$",
     "ru_response": "^\\s*обои\\s*$",
     "sound": "wallpaper",
-    "preview": ""
+    "preview": "wallpaper"
   },
   {
     "foreign_question": "wardrobe",
@@ -245,7 +237,7 @@
     "foreign_response": "^\\s*wardrobe\\s*$",
     "ru_response": "^\\s*гардероб\\s*$",
     "sound": "wardrobe",
-    "preview": ""
+    "preview": "wardrobe"
   },
   {
     "foreign_question": "washing machine",
@@ -253,7 +245,7 @@
     "foreign_response": "^\\s*washing machine\\s*$",
     "ru_response": "^\\s*стиральная машина\\s*$",
     "sound": "washing_machine",
-    "preview": ""
+    "preview": "washing_machine"
   },
   {
     "foreign_question": "Why don't you...?",
@@ -261,6 +253,6 @@
     "foreign_response": "^\\s*Why don\\'t you( ?\\.\\.\\.)?\\?\\s*$",
     "ru_response": "^\\s*Почему бы вам не( ?\\.\\.\\.)?\\?\\s*$",
     "sound": "why_don't_you-",
-    "preview": ""
+    "preview": "why_don't_you-"
   }
 ]

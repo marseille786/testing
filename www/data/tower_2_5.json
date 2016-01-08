@@ -5,7 +5,7 @@
     "foreign_response": "^\\s*amusement park\\s*$",
     "ru_response": "^\\s*парк развлечений\\s*$",
     "sound": "amusement_park",
-    "preview": ""
+    "preview": "amusement_park"
   },
   {
     "foreign_question": "animal",
@@ -13,7 +13,7 @@
     "foreign_response": "^\\s*animal\\s*$",
     "ru_response": "^\\s*животное\\s*$",
     "sound": "animal",
-    "preview": ""
+    "preview": "animal"
   },
   {
     "foreign_question": "around",
@@ -21,7 +21,7 @@
     "foreign_response": "^\\s*around\\s*$",
     "ru_response": "^\\s*(вокруг|около)\\s*$",
     "sound": "around",
-    "preview": ""
+    "preview": "around"
   },
   {
     "foreign_question": "avenue",
@@ -29,7 +29,7 @@
     "foreign_response": "^\\s*avenue\\s*$",
     "ru_response": "^\\s*проспект\\s*$",
     "sound": "avenue",
-    "preview": ""
+    "preview": "avenue"
   },
   {
     "foreign_question": "bowling alley",
@@ -37,16 +37,15 @@
     "foreign_response": "^\\s*bowling alley\\s*$",
     "ru_response": "^\\s*кегельбан\\s*$",
     "sound": "bowling_alley",
-    "preview": ""
+    "preview": "bowling_alley"
   },
   {
     "foreign_question": "cape",
     "ru_question": "мыс",
     "foreign_response": "^\\s*cape\\s*$",
     "ru_response": "^\\s*мыс\\s*$",
-    ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-    "sound": "",
-    "preview": ""
+    "sound": "cape",
+    "preview": "cape"
   },
   {
     "foreign_question": "centre",
@@ -54,7 +53,7 @@
     "foreign_response": "^\\s*centre\\s*$",
     "ru_response": "^\\s*центр\\s*$",
     "sound": "centre",
-    "preview": ""
+    "preview": "centre"
   },
   {
     "foreign_question": "cinema",
@@ -62,7 +61,7 @@
     "foreign_response": "^\\s*cinema\\s*$",
     "ru_response": "^\\s*кинотеатр\\s*$",
     "sound": "cinema",
-    "preview": ""
+    "preview": "cinema"
   },
   {
     "foreign_question": "different",
@@ -70,7 +69,7 @@
     "foreign_response": "^\\s*different\\s*$",
     "ru_response": "^\\s*раз(лич)?ный\\s*$",
     "sound": "different",
-    "preview": ""
+    "preview": "different"
   },
   {
     "foreign_question": "discover",
@@ -78,7 +77,7 @@
     "foreign_response": "^\\s*discover\\s*$",
     "ru_response": "^\\s*(обнаружи(ва)?ть|откры(ва)?ть|(с)?делать открытие)\\s*$",
     "sound": "discover",
-    "preview": ""
+    "preview": "discover"
   },
   {
     "foreign_question": "dolphin",
@@ -86,7 +85,7 @@
     "foreign_response": "^\\s*dolphin\\s*$",
     "ru_response": "^\\s*дельфин\\s*$",
     "sound": "dolphin",
-    "preview": ""
+    "preview": "dolphin"
   },
   {
     "foreign_question": "down",
@@ -94,7 +93,7 @@
     "foreign_response": "^\\s*down\\s*$",
     "ru_response": "^\\s*вниз( по)?\\s*$",
     "sound": "down",
-    "preview": ""
+    "preview": "down"
   },
   {
     "foreign_question": "event",
@@ -102,7 +101,7 @@
     "foreign_response": "^\\s*event\\s*$",
     "ru_response": "^\\s*(мероприятие|событие)\\s*$",
     "sound": "event",
-    "preview": ""
+    "preview": "event"
   },
   {
     "foreign_question": "exciting",
@@ -110,7 +109,7 @@
     "foreign_response": "^\\s*exciting\\s*$",
     "ru_response": "^\\s*(захватывающий|волнующий|возбуждающий)\\s*$",
     "sound": "exciting",
-    "preview": ""
+    "preview": "exciting"
   },
   {
     "foreign_question": "exit",
@@ -126,7 +125,7 @@
     "foreign_response": "^\\s*extra\\s*$",
     "ru_response": "^\\s*(дополнительный|добавочный|лишний|экстра)\\s*$",
     "sound": "extra",
-    "preview": ""
+    "preview": "exit"
   },
   {
     "foreign_question": "from",
@@ -134,7 +133,7 @@
     "foreign_response": "^\\s*from\\s*$",
     "ru_response": "^\\s*(из|от)\\s*$",
     "sound": "from",
-    "preview": ""
+    "preview": "from"
   },
   {
     "foreign_question": "group",
@@ -142,7 +141,7 @@
     "foreign_response": "^\\s*group\\s*$",
     "ru_response": "^\\s*группа\\s*$",
     "sound": "group",
-    "preview": ""
+    "preview": "group"
   },
   {
     "foreign_question": "guest",
@@ -150,7 +149,7 @@
     "foreign_response": "^\\s*guest\\s*$",
     "ru_response": "^\\s*гость\\s*$",
     "sound": "guest",
-    "preview": ""
+    "preview": "guest"
   },
   {
     "foreign_question": "incredible",
@@ -158,7 +157,7 @@
     "foreign_response": "^\\s*incredible\\s*$",
     "ru_response": "^\\s*невероятный\\s*$",
     "sound": "incredible",
-    "preview": ""
+    "preview": "incredible"
   },
   {
     "foreign_question": "Internet cafe",
@@ -166,7 +165,7 @@
     "foreign_response": "^\\s*Internet cafe\\s*$",
     "ru_response": "^\\s*интернет кафе\\s*$",
     "sound": "internet_cafe",
-    "preview": ""
+    "preview": "internet_cafe"
   },
   {
     "foreign_question": "into",
@@ -174,7 +173,7 @@
     "foreign_response": "^\\s*into\\s*$",
     "ru_response": "^\\s*(внутрь|в)\\s*$",
     "sound": "into",
-    "preview": ""
+    "preview": "into"
   },
   {
     "foreign_question": "learn",
@@ -182,7 +181,7 @@
     "foreign_response": "^\\s*learn\\s*$",
     "ru_response": "^\\s*(учиться|учить)\\s*$",
     "sound": "learn",
-    "preview": ""
+    "preview": "learn"
   },
   {
     "foreign_question": "miss (v)",
@@ -190,7 +189,7 @@
     "foreign_response": "^\\s*miss\\s*$",
     "ru_response": "^\\s*(скучать|промах(ива|ну)ться|(про)?мазать)\\s*$",
     "sound": "miss",
-    "preview": ""
+    "preview": "miss"
   },
   {
     "foreign_question": "mystery",
@@ -198,7 +197,7 @@
     "foreign_response": "^\\s*mystery\\s*$",
     "ru_response": "^\\s*(таинственный|детектив(ный роман)?)\\s*$",
     "sound": "mystery",
-    "preview": ""
+    "preview": "mystery"
   },
   {
     "foreign_question": "number",
@@ -206,7 +205,7 @@
     "foreign_response": "^\\s*number\\s*$",
     "ru_response": "^\\s*номер\\s*$",
     "sound": "number",
-    "preview": ""
+    "preview": "number"
   },
   {
     "foreign_question": "No.",
@@ -214,15 +213,15 @@
     "foreign_response": "^\\s*No\\.\\s*$",
     "ru_response": "^\\s*номер\\s*$",
     "sound": "number",
-    "preview": ""
+    "preview": "number"
   },
   {
     "foreign_question": "onto",
-    "ru_question": "onto (синоним 'on')",
+    "ru_question": "на (синоним 'on')",
     "foreign_response": "^\\s*onto\\s*$",
-    "ru_response": "^\\s*onto\\s*$",
+    "ru_response": "^\\s*на\\s*$",
     "sound": "onto",
-    "preview": ""
+    "preview": "onto"
   },
   {
     "foreign_question": "organise",
@@ -230,7 +229,7 @@
     "foreign_response": "^\\s*organise\\s*$",
     "ru_response": "^\\s*организо(вы)?вать\\s*$",
     "sound": "organise",
-    "preview": ""
+    "preview": "organise"
   },
   {
     "foreign_question": "out of",
@@ -238,7 +237,7 @@
     "foreign_response": "^\\s*out of\\s*$",
     "ru_response": "^\\s*(снаружи|из)\\s*$",
     "sound": "out_of",
-    "preview": ""
+    "preview": "out_of"
   },
   {
     "foreign_question": "penguin",
@@ -246,7 +245,7 @@
     "foreign_response": "^\\s*penguin\\s*$",
     "ru_response": "^\\s*пингвин\\s*$",
     "sound": "penguin",
-    "preview": ""
+    "preview": "penguin"
   },
   {
     "foreign_question": "roller coaster",
@@ -254,7 +253,7 @@
     "foreign_response": "^\\s*roller coaster\\s*$",
     "ru_response": "^\\s*американские горки\\s*$",
     "sound": "roller_coaster",
-    "preview": ""
+    "preview": "roller_coaster"
   },
   {
     "foreign_question": "sea",
@@ -262,7 +261,7 @@
     "foreign_response": "^\\s*sea\\s*$",
     "ru_response": "^\\s*море\\s*$",
     "sound": "sea",
-    "preview": ""
+    "preview": "sea"
   },
   {
     "foreign_question": "shark",
@@ -270,7 +269,7 @@
     "foreign_response": "^\\s*shark\\s*$",
     "ru_response": "^\\s*акула\\s*$",
     "sound": "shark",
-    "preview": ""
+    "preview": "shark"
   },
   {
     "foreign_question": "skating rink",
@@ -278,7 +277,7 @@
     "foreign_response": "^\\s*skating rink\\s*$",
     "ru_response": "^\\s*каток\\s*$",
     "sound": "skating_rink",
-    "preview": ""
+    "preview": "skating_rink"
   },
   {
     "foreign_question": "special",
@@ -286,7 +285,7 @@
     "foreign_response": "^\\s*special\\s*$",
     "ru_response": "^\\s*(специальный|особ(енн)?ый)\\s*$",
     "sound": "special",
-    "preview": ""
+    "preview": "special"
   },
   {
     "foreign_question": "sports stadium",
@@ -294,7 +293,7 @@
     "foreign_response": "^\\s*sports stadium\\s*$",
     "ru_response": "^\\s*стадион\\s*$",
     "sound": "sports_stadium",
-    "preview": ""
+    "preview": "sports_stadium"
   },
   {
     "foreign_question": "through",
@@ -302,15 +301,15 @@
     "foreign_response": "^\\s*through\\s*$",
     "ru_response": "^\\s*(через|сквозь|сквозной|прямой)\\s*$",
     "sound": "through",
-    "preview": ""
+    "preview": "through"
   },
   {
     "foreign_question": "to",
-    "ru_question": "к, до (по направлению куда-то)",
+    "ru_question": "к, до (по направлению куда-то) (синоним towards)",
     "foreign_response": "^\\s*to\\s*$",
     "ru_response": "^\\s*(к|до)\\s*$",
     "sound": "to",
-    "preview": ""
+    "preview": "to"
   },
   {
     "foreign_question": "towards",
@@ -318,7 +317,7 @@
     "foreign_response": "^\\s*towards\\s*$",
     "ru_response": "^\\s*(в направлении|по направлению|к)\\s*$",
     "sound": "towards",
-    "preview": ""
+    "preview": "towards"
   },
   {
     "foreign_question": "trip",
@@ -326,7 +325,7 @@
     "foreign_response": "^\\s*trip\\s*$",
     "ru_response": "^\\s*поездка\\s*$",
     "sound": "trip",
-    "preview": ""
+    "preview": "trip"
   },
   {
     "foreign_question": "up",
@@ -334,7 +333,7 @@
     "foreign_response": "^\\s*up\\s*$",
     "ru_response": "^\\s*вверх\\s*$",
     "sound": "up",
-    "preview": ""
+    "preview": "up"
   },
   {
     "foreign_question": "whale",
@@ -342,7 +341,7 @@
     "foreign_response": "^\\s*whale\\s*$",
     "ru_response": "^\\s*кит\\s*$",
     "sound": "whale",
-    "preview": ""
+    "preview": "whale"
   },
   {
     "foreign_question": "world",
@@ -350,6 +349,6 @@
     "foreign_response": "^\\s*world\\s*$",
     "ru_response": "^\\s*(мир|мировой)\\s*$",
     "sound": "world",
-    "preview": ""
+    "preview": "world"
   }
 ]

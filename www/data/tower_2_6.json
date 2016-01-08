@@ -5,7 +5,7 @@
     "foreign_response": "^\\s*airport\\s*$",
     "ru_response": "^\\s*аэропорт\\s*$",
     "sound": "airport",
-    "preview": ""
+    "preview": "airport"
   },
   {
     "foreign_question": "arrive",
@@ -13,7 +13,7 @@
     "foreign_response": "^\\s*arrive\\s*$",
     "ru_response": "^\\s*(прибы(ва)?ть|прие(зж|х)ать)\\s*$",
     "sound": "arrive",
-    "preview": ""
+    "preview": "arrive"
   },
   {
     "foreign_question": "city centre",
@@ -21,7 +21,7 @@
     "foreign_response": "^\\s*(city centre|centre of city)\\s*$",
     "ru_response": "^\\s*городской центр\\s*$",
     "sound": "city_centre",
-    "preview": ""
+    "preview": "city_centre"
   },
   {
     "foreign_question": "delayed",
@@ -29,16 +29,15 @@
     "foreign_response": "^\\s*delayed\\s*$",
     "ru_response": "^\\s*(задержанный|замедленный)\\s*$",
     "sound": "delayed",
-    "preview": ""
+    "preview": "delayed"
   },
   {
     "foreign_question": "flatmate",
     "ru_question": "сосед по квартире, сожитель",
     "foreign_response": "^\\s*flatmate\\s*$",
     "ru_response": "^\\s*(сосед по квартире|сожитель)\\s*$",
-    /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-    "sound": "",
-    "preview": ""
+    "sound": "flatmate",
+    "preview": "flatmate"
   },
   {
     "foreign_question": "flight",
@@ -46,15 +45,15 @@
     "foreign_response": "^\\s*flight\\s*$",
     "ru_response": "^\\s*(рейс|полет)\\s*$",
     "sound": "flight",
-    "preview": ""
+    "preview": "flight"
   },
   {
     "foreign_question": "foreigner",
     "ru_question": "иностранец",
     "foreign_response": "^\\s*foreigner\\s*$",
     "ru_response": "^\\s*иностранец\\s*$",
-    "sound": "",
-    "preview": ""
+    "sound": "foreigner",
+    "preview": "foreigner"
   },
   {
     "foreign_question": "greetings",
@@ -62,7 +61,7 @@
     "foreign_response": "^\\s*greetings\\s*$",
     "ru_response": "^\\s*привет\\s*$",
     "sound": "greetings",
-    "preview": ""
+    "preview": "greetings"
   },
   {
     "foreign_question": "harbour",
@@ -70,7 +69,7 @@
     "foreign_response": "^\\s*harbour\\s*$",
     "ru_response": "^\\s*гавань\\s*$",
     "sound": "harbour",
-    "preview": ""
+    "preview": "harbour"
   },
   {
     "foreign_question": "hope",
@@ -78,7 +77,7 @@
     "foreign_response": "^\\s*hope\\s*$",
     "ru_response": "^\\s*(надеяться|надежда)\\s*$",
     "sound": "hope",
-    "preview": ""
+    "preview": "hope"
   },
   {
     "foreign_question": "hotel",
@@ -86,7 +85,7 @@
     "foreign_response": "^\\s*hotel\\s*$",
     "ru_response": "^\\s*(отель|гостинн?ица)\\s*$",
     "sound": "hotel",
-    "preview": ""
+    "preview": "hotel"
   },
   {
     "foreign_question": "invite",
@@ -94,7 +93,7 @@
     "foreign_response": "^\\s*invite\\s*$",
     "ru_response": "^\\s*(приглашать|привлекать)\\s*$",
     "sound": "invite",
-    "preview": ""
+    "preview": "invite"
   },
   {
     "foreign_question": "Let me know.",
@@ -102,7 +101,7 @@
     "foreign_response": "^\\s*Let me know\\.?\\s*$",
     "ru_response": "^\\s*Дай(те)? (мне )?знать\\.?\\s*$",
     "sound": "let_me_know",
-    "preview": ""
+    "preview": "let_me_know"
   },
   {
     "foreign_question": "nothing",
@@ -110,7 +109,7 @@
     "foreign_response": "^\\s*nothing\\s*$",
     "ru_response": "^\\s*ничего\\s*$",
     "sound": "nothing",
-    "preview": ""
+    "preview": "nothing"
   },
   {
     "foreign_question": "on holiday",
@@ -118,24 +117,23 @@
     "foreign_response": "^\\s*on holiday\\s*$",
     "ru_response": "^\\s*(на выходных|в отпуске)\\s*$",
     "sound": "on_holiday",
-    "preview": ""
+    "preview": "on_holiday"
   },
   {
     "foreign_question": "pick up",
     "ru_question": "подбирать, подобрать",
     "foreign_response": "^\\s*pick up\\s*$",
     "ru_response": "^\\s*(подбирать|подобрать)\\s*$",
-    "sound": "pick up",
-    "preview": ""
+    "sound": "pick_up",
+    "preview": "pick_up"
   },
   {
     "foreign_question": "subway",
     "ru_question": "метро (амер)",
     "foreign_response": "^\\s*subway\\s*$",
     "ru_response": "^\\s*метро\\s*$",
-    ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-    "sound": "",
-    "preview": ""
+    "sound": "subway",
+    "preview": "subway"
   },
   {
     "foreign_question": "Take care.",
@@ -143,7 +141,7 @@
     "foreign_response": "^\\s*Take care\\.?\\s*$",
     "ru_response": "^\\s*(Береги себя|Берегись)\\.?\\s*$",
     "sound": "take_care",
-    "preview": ""
+    "preview": "take_care"
   },
   {
     "foreign_question": "taxi rank",
@@ -151,7 +149,7 @@
     "foreign_response": "^\\s*taxi rank\\s*$",
     "ru_response": "^\\s*стоянка такси\\s*$",
     "sound": "taxi_rank",
-    "preview": ""
+    "preview": "taxi_rank"
   },
   {
     "foreign_question": "tired",
@@ -159,7 +157,7 @@
     "foreign_response": "^\\s*tired\\s*$",
     "ru_response": "^\\s*(усталый|уставший)\\s*$",
     "sound": "tired",
-    "preview": ""
+    "preview": "tired"
   },
   {
     "foreign_question": "train station",
@@ -167,7 +165,7 @@
     "foreign_response": "^\\s*train station\\s*$",
     "ru_response": "^\\s*железнодорожная станция\\s*$",
     "sound": "train_station",
-    "preview": ""
+    "preview": "train_station"
   },
   {
     "foreign_question": "underground station",
@@ -175,7 +173,7 @@
     "foreign_response": "^\\s*underground station\\s*$",
     "ru_response": "^\\s*станция метро\\s*$",
     "sound": "underground_station",
-    "preview": ""
+    "preview": "underground_station"
   },
   {
     "foreign_question": "wonderful",
@@ -183,6 +181,6 @@
     "foreign_response": "^\\s*wonderful\\s*$",
     "ru_response": "^\\s*(замечательно|замечательный)\\s*$",
     "sound": "wonderful",
-    "preview": ""
+    "preview": "wonderful"
   }
 ]

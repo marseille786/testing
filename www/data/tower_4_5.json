@@ -5,7 +5,7 @@
     "foreign_response": "^\\s*all year round\\s*$",
     "ru_response": "^\\s*круглый год\\s*$",
     "sound": "all_year_round",
-    "preview": ""
+    "preview": "all_year_round"
   },
   {
     "foreign_question": "bird",
@@ -13,7 +13,7 @@
     "foreign_response": "^\\s*bird\\s*$",
     "ru_response": "^\\s*птица\\s*$",
     "sound": "bird",
-    "preview": ""
+    "preview": "bird"
   },
   {
     "foreign_question": "border",
@@ -21,7 +21,7 @@
     "foreign_response": "^\\s*border\\s*$",
     "ru_response": "^\\s*граница\\s*$",
     "sound": "border",
-    "preview": ""
+    "preview": "border"
   },
   {
     "foreign_question": "desert",
@@ -29,7 +29,7 @@
     "foreign_response": "^\\s*desert\\s*$",
     "ru_response": "^\\s*(пустыня|дезертировать)\\s*$",
     "sound": "desert",
-    "preview": ""
+    "preview": "desert"
   },
   {
     "foreign_question": "east",
@@ -37,7 +37,7 @@
     "foreign_response": "^\\s*east\\s*$",
     "ru_response": "^\\s*восток\\s*$",
     "sound": "east",
-    "preview": ""
+    "preview": "east"
   },
   {
     "foreign_question": "equator",
@@ -45,7 +45,7 @@
     "foreign_response": "^\\s*equator\\s*$",
     "ru_response": "^\\s*экватор\\s*$",
     "sound": "equator",
-    "preview": ""
+    "preview": "equator"
   },
   {
     "foreign_question": "giraffe",
@@ -53,7 +53,7 @@
     "foreign_response": "^\\s*giraffe\\s*$",
     "ru_response": "^\\s*жирафа?\\s*$",
     "sound": "giraffe",
-    "preview": ""
+    "preview": "giraffe"
   },
   {
     "foreign_question": "ice",
@@ -61,7 +61,7 @@
     "foreign_response": "^\\s*ice\\s*$",
     "ru_response": "^\\s*лед\\s*$",
     "sound": "ice",
-    "preview": ""
+    "preview": "ice"
   },
   {
     "foreign_question": "impressive",
@@ -69,7 +69,7 @@
     "foreign_response": "^\\s*impressive\\s*$",
     "ru_response": "^\\s*впечатляющий\\s*$",
     "sound": "impressive",
-    "preview": ""
+    "preview": "impressive"
   },
   {
     "foreign_question": "island",
@@ -77,7 +77,7 @@
     "foreign_response": "^\\s*island\\s*$",
     "ru_response": "^\\s*остров\\s*$",
     "sound": "island",
-    "preview": ""
+    "preview": "island"
   },
   {
     "foreign_question": "lion",
@@ -85,7 +85,7 @@
     "foreign_response": "^\\s*lion\\s*$",
     "ru_response": "^\\s*лев\\s*$",
     "sound": "lion",
-    "preview": ""
+    "preview": "lion"
   },
   {
     "foreign_question": "mountain range",
@@ -93,7 +93,7 @@
     "foreign_response": "^\\s*mountain range\\s*$",
     "ru_response": "^\\s*горный хребет\\s*$",
     "sound": "mountain_range",
-    "preview": ""
+    "preview": "mountain_range"
   },
   {
     "foreign_question": "national park",
@@ -101,7 +101,7 @@
     "foreign_response": "^\\s*national park\\s*$",
     "ru_response": "^\\s*национальный парк\\s*$",
     "sound": "national_park",
-    "preview": ""
+    "preview": "national_park"
   },
   {
     "foreign_question": "north",
@@ -109,7 +109,7 @@
     "foreign_response": "^\\s*north\\s*$",
     "ru_response": "^\\s*север\\s*$",
     "sound": "north",
-    "preview": ""
+    "preview": "north"
   },
   {
     "foreign_question": "ocean",
@@ -117,7 +117,7 @@
     "foreign_response": "^\\s*ocean\\s*$",
     "ru_response": "^\\s*океан\\s*$",
     "sound": "ocean",
-    "preview": ""
+    "preview": "ocean"
   },
   {
     "foreign_question": "off the coast",
@@ -125,7 +125,7 @@
     "foreign_response": "^\\s*off the coast\\s*$",
     "ru_response": "^\\s*от побережья\\s*$",
     "sound": "off_the_coast",
-    "preview": ""
+    "preview": "off_the_coast"
   },
   {
     "foreign_question": "rich",
@@ -133,7 +133,7 @@
     "foreign_response": "^\\s*rich\\s*$",
     "ru_response": "^\\s*богатый\\s*$",
     "sound": "rich",
-    "preview": ""
+    "preview": "rich"
   },
   {
     "foreign_question": "river",
@@ -141,7 +141,7 @@
     "foreign_response": "^\\s*river\\s*$",
     "ru_response": "^\\s*река\\s*$",
     "sound": "river",
-    "preview": ""
+    "preview": "river"
   },
   {
     "foreign_question": "safari",
@@ -149,15 +149,15 @@
     "foreign_response": "^\\s*safari\\s*$",
     "ru_response": "^\\s*сафари\\s*$",
     "sound": "safari",
-    "preview": ""
+    "preview": "safari"
   },
   {
-    "foreign_question": "sight",
+    "foreign_question": "sight (не достопримечательности)",
     "ru_question": "взгляд, зрение",
     "foreign_response": "^\\s*sight\\s*$",
     "ru_response": "^\\s*(взгляд|зрение)\\s*$",
     "sound": "sight",
-    "preview": ""
+    "preview": "sight"
   },
   {
     "foreign_question": "snow",
@@ -165,7 +165,7 @@
     "foreign_response": "^\\s*snow\\s*$",
     "ru_response": "^\\s*снег\\s*$",
     "sound": "snow",
-    "preview": ""
+    "preview": "snow"
   },
   {
     "foreign_question": "south",
@@ -173,7 +173,7 @@
     "foreign_response": "^\\s*south\\s*$",
     "ru_response": "^\\s*юг\\s*$",
     "sound": "south",
-    "preview": ""
+    "preview": "south"
   },
   {
     "foreign_question": "unforgettable",
@@ -181,7 +181,7 @@
     "foreign_response": "^\\s*unforgettable\\s*$",
     "ru_response": "^\\s*незабываемый\\s*$",
     "sound": "unforgettable",
-    "preview": ""
+    "preview": "unforgettable"
   },
   {
     "foreign_question": "visitor",
@@ -189,7 +189,7 @@
     "foreign_response": "^\\s*visitor\\s*$",
     "ru_response": "^\\s*посетитель\\s*$",
     "sound": "visitor",
-    "preview": ""
+    "preview": "visitor"
   },
   {
     "foreign_question": "volcano",
@@ -197,7 +197,7 @@
     "foreign_response": "^\\s*volcano\\s*$",
     "ru_response": "^\\s*вулкан\\s*$",
     "sound": "volcano",
-    "preview": ""
+    "preview": "volcano"
   },
   {
     "foreign_question": "waterfall",
@@ -205,7 +205,7 @@
     "foreign_response": "^\\s*waterfall\\s*$",
     "ru_response": "^\\s*водопад\\s*$",
     "sound": "waterfall",
-    "preview": ""
+    "preview": "waterfall"
   },
   {
     "foreign_question": "west (ern)",
@@ -213,7 +213,7 @@
     "foreign_response": "^\\s*west\\s*$",
     "ru_response": "^\\s*запад\\s*$",
     "sound": "west",
-    "preview": ""
+    "preview": "west"
   },
   {
     "foreign_question": "wild",
@@ -221,6 +221,6 @@
     "foreign_response": "^\\s*wild\\s*$",
     "ru_response": "^\\s*дикий\\s*$",
     "sound": "wild",
-    "preview": ""
+    "preview": "wild"
   }
 ]

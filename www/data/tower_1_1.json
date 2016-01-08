@@ -17,7 +17,7 @@
   },
   {
     "foreign_question": "all",
-    "ru_question": "все",
+    "ru_question": "все (не все вместе)",
     "foreign_response": "^\\s*all\\s*$",
     "ru_response": "^\\s*все\\s*$",
     "sound": "all",
@@ -137,7 +137,7 @@
   },
   {
     "foreign_question": "favourite",
-    "ru_question": "любимый",
+    "ru_question": "любимый (не о человеке)",
     "foreign_response": "^\\s*favourite\\s*$",
     "ru_response": "^\\s*любимый\\s*$",
     "sound": "favourite",
@@ -330,7 +330,7 @@
   {
     "foreign_question": "That's all.",
     "ru_question": "Это все.",
-    "foreign_response": "^\\s*That(\\'| i)s all\\.?\\s*$",
+    "foreign_response": "^\\s*(That|It)(\\'| i)s all\\.?\\s*$",
     "ru_response": "^\\s*Это все\\.?\\s*$",
     "sound": "that's_all",
     "preview": "that's_all"

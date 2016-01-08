@@ -18,7 +18,7 @@
   {
     "foreign_question": "at the time",
     "ru_question": "в то время",
-    "foreign_response": "^\\s*at the time\\s*$",
+    "foreign_response": "^\\s*(at|in) (the|that) time\\s*$",
     "ru_response": "^\\s*в то время\\s*$",
     "sound": "at_the_time",
     "preview": "at_the_time"
@@ -58,7 +58,7 @@
   {
     "foreign_question": "do homework",
     "ru_question": "делать домашнюю работу",
-    "foreign_response": "^\\s*do homework\\s*$",
+    "foreign_response": "^\\s*do( the) homework\\s*$",
     "ru_response": "^\\s*делать домашнюю работу\\s*$",
     "sound": "do_homework",
     "preview": "do_homework"
@@ -89,7 +89,7 @@
   },
   {
     "foreign_question": "every",
-    "ru_question": "каждый",
+    "ru_question": "каждый (синоним each)",
     "foreign_response": "^\\s*every\\s*$",
     "ru_response": "^\\s*каждый\\s*$",
     "sound": "every",
@@ -154,7 +154,7 @@
   {
     "foreign_question": "How often...?",
     "ru_question": "Как на счет...?",
-    "foreign_response": "^\\s*How often\\?\\s*$",
+    "foreign_response": "^\\s*How (often|about)\\?\\s*$",
     "ru_response": "^\\s*Как на счет( ?\\.\\.\\.)? ?\\?\\s*$",
     "sound": "how_often-",
     "preview": "how_often-"
@@ -225,7 +225,7 @@
   },
   {
     "foreign_question": "sometimes",
-    "ru_question": "иногда, временами",
+    "ru_question": "иногда, временами (синоним rarely)",
     "foreign_response": "^\\s*sometimes?\\s*$",
     "ru_response": "^\\s*(иногда|временами)\\s*$",
     "sound": "sometimes",
@@ -330,7 +330,7 @@
   {
     "foreign_question": "wake up",
     "ru_question": "просыпаться",
-    "foreign_response": "^\\s*wake up\\s*$",
+    "foreign_response": "^\\s*wake( up)?\\s*$",
     "ru_response": "^\\s*(просыпаться|простнуться)\\s*$",
     "sound": "wake_up",
     "preview": "wake_up"
