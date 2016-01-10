@@ -101,7 +101,7 @@
     "foreign_response": "^\\s*furniture\\s*$",
     "ru_response": "^\\s*мебель\\s*$",
     "sound": "furniture",
-    "preview": ""
+    "preview": "furniture"
   },
   {
     "foreign_question": "How about...?",
@@ -109,7 +109,7 @@
     "foreign_response": "^\\s*How (about|often)( ?\\.\\.\\.)?\\?\\s*$",
     "ru_response": "^\\s*Как на счет( ?\\.\\.\\.)?\\?\\s*$",
     "sound": "how_about-",
-    "preview": "furniture"
+    "preview": "how_about-"
   },
   {
     "foreign_question": "I don't think so.",
@@ -141,7 +141,7 @@
     "foreign_response": "^\\s*(make a )?change\\s*$",
     "ru_response": "^\\s*изменить\\s*$",
     "sound": "make_a_change",
-    "preview": "make_a_change"
+    "preview": "change"
   },
   {
     "foreign_question": "mirror",

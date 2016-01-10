@@ -74,7 +74,7 @@
   {
     "foreign_question": "I'm afraid ...",
     "ru_question": "Я боюсь (чего-то)",
-    "foreign_response": "^\\s*I'm afraid( ?\\.\\.\\. ?)?\\.?\\s*$",
+    "foreign_response": "^\\s*I'm afraid( of)?( ?\\.\\.\\. ?)?\\.?\\s*$",
     "ru_response": "^\\s*Я боюсь\\s*$",
     "sound": "i'm_afraid",
     "preview": "i'm_afraid"

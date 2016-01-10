@@ -60,8 +60,8 @@
     "ru_question": "фасоль",
     "foreign_response": "^\\s*bean\\s*$",
     "ru_response": "^\\s*фасоль\\s*$",
-    "sound": "фасоль",
-    "preview": "фасоль"
+    "sound": "bean",
+    "preview": "bean"
   },
   {
     "foreign_question": "beetroot",
@@ -173,7 +173,7 @@
     "foreign_response": "^\\s*certainly\\s*$",
     "ru_response": "^\\s*(конечно|безусловно)\\s*$",
     "sound": "certainly",
-    "preview": "certainly"
+    "preview": "sure"
   },
   {
     "foreign_question": "cheese",
@@ -453,7 +453,7 @@
     "foreign_response": "^\\s*order\\s*$",
     "ru_response": "^\\s*заказывать\\s*$",
     "sound": "order",
-    "preview": "order"
+    "preview": "order__v"
   },
   {
     "foreign_question": "other",
@@ -667,7 +667,7 @@
     "foreign_question": "vegetable",
     "ru_question": "овощь",
     "foreign_response": "^\\s*vegetable\\s*$",
-    "ru_response": "^\\s*овощь\\s*$",
+    "ru_response": "^\\s*овощь?\\s*$",
     "sound": "vegetable",
     "preview": "vegetable"
   },
@@ -685,7 +685,7 @@
     "foreign_response": "^\\s*water\\s*$",
     "ru_response": "^\\s*вода\\s*$",
     "sound": "water",
-    "preview": "water"
+    "preview": "water__n"
   },
   {
     "foreign_question": "watermelon",

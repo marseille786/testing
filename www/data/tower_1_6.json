@@ -69,7 +69,7 @@
     "foreign_response": "^\\s*kind\\s*$",
     "ru_response": "^\\s*\\s*$",
     "sound": "kind",
-    "preview": "kind"
+    "preview": "kind__adj"
   },
   {
     "foreign_question": "lazy",
@@ -85,7 +85,7 @@
     "foreign_response": "^\\s*look at\\s*$",
     "ru_response": "^\\s*смотреть на\\s*$",
     "sound": "look_at",
-    "preview": "look_at"
+    "preview": "look"
   },
   {
     "foreign_question": "news",

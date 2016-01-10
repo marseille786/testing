@@ -93,7 +93,7 @@
 		"foreign_response": "^\\s*happen\\s*$",
 		"ru_response": "^\\s*случаться\\s*$",
 	  	"sound": "happen",
-	  	"preview": ""
+	  	"preview": "happen"
 	},
 	{
 		"foreign_question": "help",

@@ -113,7 +113,7 @@
   },
   {
     "foreign_question": "in front of",
-    "ru_question": "перед (чем-то)",
+    "ru_question": "перед (чем-то находиться)",
     "foreign_response": "^\\s*in front of\\s*$",
     "ru_response": "^\\s*перед\\s*$",
     "sound": "in_front_of",

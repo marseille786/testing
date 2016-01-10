@@ -197,7 +197,7 @@
     "foreign_response": "^\\s*study\\s*$",
     "ru_response": "^\\s*(рабочий )?кабинет\\s*$",
     "sound": "study",
-    "preview": "study"
+    "preview": "study__n"
   },
   {
     "foreign_question": "these days",

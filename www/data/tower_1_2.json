@@ -58,7 +58,7 @@
   {
     "foreign_question": "do homework",
     "ru_question": "делать домашнюю работу",
-    "foreign_response": "^\\s*do( the) homework\\s*$",
+    "foreign_response": "^\\s*do( the)? homework\\s*$",
     "ru_response": "^\\s*делать домашнюю работу\\s*$",
     "sound": "do_homework",
     "preview": "do_homework"
