@@ -1,0 +1,82 @@
+[
+  {
+    "foreign_question": "here",
+    "ru_question": "здесь, сюда",
+    "foreign_response": "^\\s*here\\s*$",
+    "ru_response": "^\\s*(здесь|сюда)\\s*$",
+    "sound": "here",
+    "preview": "here"
+  },
+  {
+    "foreign_question": "there",
+    "ru_question": "там, туда",
+    "foreign_response": "^\\s*there\\s*$",
+    "ru_response": "^\\s*(там|туда)\\s*$",
+    "sound": "there",
+    "preview": "there"
+  },
+  {
+    "foreign_question": "this",
+    "ru_question": "этот",
+    "foreign_response": "^\\s*this\\s*$",
+    "ru_response": "^\\s*этот\\s*$",
+    "sound": "this",
+    "preview": "this"
+  },
+  {
+    "foreign_question": "that",
+    "ru_question": "тот",
+    "foreign_response": "^\\s*that\\s*$",
+    "ru_response": "^\\s*тот\\s*$",
+    "sound": "that",
+    "preview": "that"
+  },
+  {
+    "foreign_question": "these",
+    "ru_question": "эти",
+    "foreign_response": "^\\s*these\\s*$",
+    "ru_response": "^\\s*эти\\s*$",
+    "sound": "these",
+    "preview": "these"
+  },
+  {
+    "foreign_question": "those",
+    "ru_question": "те",
+    "foreign_response": "^\\s*those\\s*$",
+    "ru_response": "^\\s*те\\s*$",
+    "sound": "those",
+    "preview": "those"
+  },
+  {
+    "foreign_question": "such a",
+    "ru_question": "такой",
+    "foreign_response": "^\\s*such a\\s*$",
+    "ru_response": "^\\s*такой\\s*$",
+    "sound": "such_a",
+    "preview": "such_a"
+  },
+  {
+    "foreign_question": "such",
+    "ru_question": "такие",
+    "foreign_response": "^\\s*such\\s*$",
+    "ru_response": "^\\s*такие\\s*$",
+    "sound": "such",
+    "preview": "such"
+  },
+  {
+    "foreign_question": "the same",
+    "ru_question": "тот самый, те самые",
+    "foreign_response": "^\\s*the same\\s*$",
+    "ru_response": "^\\s*(тот самый|те самые)\\s*$",
+    "sound": "the_same",
+    "preview": "the_same"
+  },
+  {
+    "foreign_question": "another",
+    "ru_question": "другой (с артиклем)",
+    "foreign_response": "^\\s*another\\s*$",
+    "ru_response": "^\\s*другой\\s*$",
+    "sound": "another",
+    "preview": "another"
+  }
+]

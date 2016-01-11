@@ -5,7 +5,7 @@
     "foreign_response": "^\\s*accountant\\s*$",
     "ru_response": "^\\s*бухгалтер\\s*$",
     "sound": "accountant",
-    "preview": ""
+    "preview": "accountant"
   },
   {
     "foreign_question": "chef",
@@ -13,7 +13,7 @@
     "foreign_response": "^\\s*chef\\s*$",
     "ru_response": "^\\s*шеф[- ]повар\\s*$",
     "sound": "chef",
-    "preview": ""
+    "preview": "chef"
   },
   {
     "foreign_question": "cleaner",
@@ -21,7 +21,7 @@
     "foreign_response": "^\\s*cleaner\\s*$",
     "ru_response": "^\\s*уборщи(ца|к)\\s*$",
     "sound": "cleaner",
-    "preview": ""
+    "preview": "cleaner"
   },
   {
     "foreign_question": "doctor",
@@ -37,7 +37,7 @@
     "foreign_response": "^\\s*gardener\\s*$",
     "ru_response": "^\\s*садовник\\s*$",
     "sound": "gardener",
-    "preview": ""
+    "preview": "gardener"
   },
   {
     "foreign_question": "kitchen assistant",
@@ -45,7 +45,7 @@
     "foreign_response": "^\\s*kitchen assistant\\s*$",
     "ru_response": "^\\s*помощник на кухне\\s*$",
     "sound": "kitchen_assistant",
-    "preview": ""
+    "preview": "kitchen_assistant"
   },
   {
     "foreign_question": "lawyer",
@@ -126,13 +126,5 @@
     "ru_response": "^\\s*домохозяйка\\s*$",
     "sound": "housewife",
     "preview": "housewife"
-  },
-  {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
   }
 ]
