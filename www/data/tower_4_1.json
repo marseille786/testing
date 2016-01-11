@@ -172,8 +172,8 @@
     "ru_question": "езда на мотоцикле",
     "foreign_response": "^\\s*ridden a motorbike\\s*$",
     "ru_response": "^\\s*езда на мотоцикле\\s*$",
-    "sound": "ridden a motorbike",
-    "preview": "ridden a motorbike"
+    "sound": "ridden_a_motorbike",
+    "preview": "ridden_a_motorbike"
   },
   {
     "foreign_question": "ship",

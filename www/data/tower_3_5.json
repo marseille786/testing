@@ -113,7 +113,7 @@
   },
   {
     "foreign_question": "include",
-    "ru_question": "подключать, включать",
+    "ru_question": "подключать, включать (в состав)",
     "foreign_response": "^\\s*include\\s*$",
     "ru_response": "^\\s*(подключать|включать)\\s*$",
     "sound": "include",

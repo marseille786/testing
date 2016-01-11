@@ -117,7 +117,7 @@
     "foreign_response": "^\\s*exit\\s*$",
     "ru_response": "^\\s*(выход|выезд)\\s*$",
     "sound": "exit",
-    "preview": ""
+    "preview": "exit"
   },
   {
     "foreign_question": "extra",
@@ -125,7 +125,7 @@
     "foreign_response": "^\\s*extra\\s*$",
     "ru_response": "^\\s*(дополнительный|добавочный|лишний|экстра)\\s*$",
     "sound": "extra",
-    "preview": "exit"
+    "preview": "extra"
   },
   {
     "foreign_question": "from",
@@ -189,7 +189,7 @@
     "foreign_response": "^\\s*miss\\s*$",
     "ru_response": "^\\s*(скучать|промах(ива|ну)ться|(про)?мазать)\\s*$",
     "sound": "miss",
-    "preview": "miss"
+    "preview": "miss__v"
   },
   {
     "foreign_question": "mystery",

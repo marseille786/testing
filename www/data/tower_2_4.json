@@ -21,7 +21,7 @@
     "foreign_response": "^\\s*boots\\s*$",
     "ru_response": "^\\s*(сапоги|ботинки)\\s*$",
     "sound": "boots",
-    "preview": ""
+    "preview": "boots"
   },
   {
     "foreign_question": "bow-tie",

@@ -93,7 +93,7 @@
     "foreign_response": "^\\s*ruin\\s*$",
     "ru_response": "^\\s*разрушать\\s*$",
     "sound": "ruin",
-    "preview": "ruin"
+    "preview": "ruin__v"
   },
   {
     "foreign_question": "ruins",
@@ -101,7 +101,7 @@
     "foreign_response": "^\\s*ruins\\s*$",
     "ru_response": "^\\s*(руины|развалины)\\s*$",
     "sound": "ruins",
-    "preview": "ruins"
+    "preview": "ruin"
   },
   {
     "foreign_question": "sight",

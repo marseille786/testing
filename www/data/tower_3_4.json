@@ -242,10 +242,10 @@
   {
     "foreign_question": "something",
     "ru_question": "что-нибудь",
-    "foreign_response": "^\\s*something\\s*$",
+    "foreign_response": "^\\s*somethings?\\s*$",
     "ru_response": "^\\s*что-нибудь\\s*$",
-    "sound": "somethings",
-    "preview": "somethings"
+    "sound": "something",
+    "preview": "something"
   },
   {
     "foreign_question": "successful",
