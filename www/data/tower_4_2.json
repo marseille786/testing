@@ -98,7 +98,7 @@
   {
     "foreign_question": "ruins",
     "ru_question": "руины, развалины",
-    "foreign_response": "^\\s*ruins\\s*$",
+    "foreign_response": "^\\s*ruins?\\s*$",
     "ru_response": "^\\s*(руины|развалины)\\s*$",
     "sound": "ruins",
     "preview": "ruin"
