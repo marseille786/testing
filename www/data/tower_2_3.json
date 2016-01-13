@@ -105,9 +105,9 @@
   },
   {
     "foreign_question": "memory space",
-    "ru_question": "плата памяти, оперативная память (в компьютере)",
+    "ru_question": "объем памяти (в компьютере)",
     "foreign_response": "^\\s*memory space\\s*$",
-    "ru_response": "^\\s*(плата( оперативной)? памяти|оперативка|оперативная память)\\s*$",
+    "ru_response": "^\\s*объем памяти\\s*$",
     "sound": "memory_space",
     "preview": "memory_space"
   },
