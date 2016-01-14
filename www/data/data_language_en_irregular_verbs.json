@@ -296,6 +296,14 @@
 	  	"preview": "know"
 	},
 	{
+		"foreign_question": "lay, laid, laid",
+		"ru_question": "положить, класть",
+		"foreign_response": "^\\s*lay[, ]+laid[, ]+laid\\s*$",
+		"ru_response": "^\\s*(положить|класть)\\s*$",
+	  	"sound": "lay_laid_laid",
+	  	"preview": "lay"
+	},
+	{
 		"foreign_question": "leave, left, left",
 		"ru_question": "покидать, оставлять, уходить",
 		"foreign_response": "^\\s*leave[, ]+left[, ]+left\\s*$",
@@ -318,6 +326,14 @@
 		"ru_response": "^\\s*позволять\\s*$",
 	  	"sound": "let_let_let",
 	  	"preview": "let"
+	},
+	{
+		"foreign_question": "lie, lay, lain",
+		"ru_question": "лежать",
+		"foreign_response": "^\\s*lie[, ]+lay[, ]+lain\\s*$",
+		"ru_response": "^\\s*лежать\\s*$",
+	  	"sound": "lie_lay_lain",
+	  	"preview": "lie"
 	},
 	{
 		"foreign_question": "lose, lost, lost",
@@ -432,6 +448,22 @@
 	  	"preview": "send"
 	},
 	{
+		"foreign_question": "shake, shook, shaken",
+		"ru_question": "трясти, встряхивать",
+		"foreign_response": "^\\s*shake[, ]+shook[, ]+shaken\\s*$",
+		"ru_response": "^\\s*(трясти|встряхивать)\\s*$",
+	  	"sound": "shake_shook_shaken",
+	  	"preview": "shake"
+	},
+	{
+		"foreign_question": "shoot, shot, shot",
+		"ru_question": "стрелять, снимать на видео",
+		"foreign_response": "^\\s*shoot[, ]+shot[, ]+shot\\s*$",
+		"ru_response": "^\\s*(стрелять|снимать( на видео)?)\\s*$",
+	  	"sound": "shoot_shot_shot",
+	  	"preview": "shoot"
+	},
+	{
 		"foreign_question": "show, showed, shown",
 		"ru_question": "показать",
 		"foreign_response": "^\\s*show[, ]+showed[, ]+shown\\s*$",
@@ -473,9 +505,9 @@
 	},
 	{
 		"foreign_question": "spend, spent, spent",
-		"ru_question": "тратить, проводить (время, деньги)",
+		"ru_question": "тратить, расходовать, проводить время",
 		"foreign_response": "^\\s*spend[, ]+spent[, ]+spent\\s*$",
-		"ru_response": "^\\s*(тратить|проводить)( время| деньги)?\\s*$",
+		"ru_response": "^\\s*(тратить|расходовать|проводить время)\\s*$",
 	  	"sound": "spend_spent_spent",
 	  	"preview": "spend"
 	},

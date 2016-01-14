@@ -16,12 +16,36 @@
 	  	"preview": "answer"
 	},
 	{
+		"foreign_question": "apologize for",
+		"ru_question": "просить прощения за (что-то)(признание ответственности)",
+		"foreign_response": "^\\s*apologize for\\s*$",
+		"ru_response": "^\\s*(просить прощения|приносить извинения|извиняться) за\\s*$",
+	  	"sound": "apologize_for",
+	  	"preview": "apologize_for"
+	},
+	{
+		"foreign_question": "appear",
+		"ru_question": "появляться (напр. появилась луна)",
+		"foreign_response": "^\\s*appear\\s*$",
+		"ru_response": "^\\s*появляться\\s*$",
+	  	"sound": "appear",
+	  	"preview": "appear"
+	},
+	{
 		"foreign_question": "ask",
 		"ru_question": "спрашивать, просить",
 		"foreign_response": "^\\s*ask\\s*$",
 		"ru_response": "^\\s*(спрашивать|просить)\\s*$",
 	  	"sound": "ask",
 	  	"preview": "ask"
+	},
+	{
+		"foreign_question": "attend",
+		"ru_question": "посещать, присутствовать",
+		"foreign_response": "^\\s*attend\\s*$",
+		"ru_response": "^\\s*(посещать|присутствовать)\\s*$",
+	  	"sound": "attend",
+	  	"preview": "attend"
 	},
 	{
 		"foreign_question": "believe",
@@ -48,6 +72,22 @@
 	  	"preview": "change"
 	},
 	{
+		"foreign_question": "check",
+		"ru_question": "проверять",
+		"foreign_response": "^\\s*check\\s*$",
+		"ru_response": "^\\s*проверять\\s*$",
+	  	"sound": "check",
+	  	"preview": "check"
+	},
+	{
+		"foreign_question": "climb",
+		"ru_question": "взбираться, подниматься (на гору)",
+		"foreign_response": "^\\s*climb\\s*$",
+		"ru_response": "^\\s*(взбираться|подниматься|карабкаться|вскарабкиваться)\\s*$",
+	  	"sound": "climb",
+	  	"preview": "climb"
+	},
+	{
 		"foreign_question": "close",
 		"ru_question": "закрывать",
 		"foreign_response": "^\\s*close\\s*$",
@@ -56,12 +96,68 @@
 	  	"preview": "close__v"
 	},
 	{
+		"foreign_question": "cook",
+		"ru_question": "готовить еду",
+		"foreign_response": "^\\s*cook\\s*$",
+		"ru_response": "^\\s*(готовить )?(еду|пищу|поесть|есть)\\s*$",
+	  	"sound": "cook",
+	  	"preview": "cook"
+	},
+	{
 		"foreign_question": "copy",
 		"ru_question": "копировать",
 		"foreign_response": "^\\s*copy\\s*$",
 		"ru_response": "^\\s*копировать\\s*$",
 	  	"sound": "copy",
 	  	"preview": "copy"
+	},
+	{
+		"foreign_question": "cover",
+		"ru_question": "покрывать (напр. покрыть туманом)",
+		"foreign_response": "^\\s*cover\\s*$",
+		"ru_response": "^\\s*(по|на)крывать\\s*$",
+	  	"sound": "cover",
+	  	"preview": "cover"
+	},
+	{
+		"foreign_question": "cry",
+		"ru_question": "плакать",
+		"foreign_response": "^\\s*cry\\s*$",
+		"ru_response": "^\\s*плакать\\s*$",
+	  	"sound": "cry",
+	  	"preview": "cry"
+	},
+	{
+		"foreign_question": "decide",
+		"ru_question": "решать (задачу), принимать решение",
+		"foreign_response": "^\\s*decide\\s*$",
+		"ru_response": "^\\s*(решать|принимать решение)\\s*$",
+	  	"sound": "decide",
+	  	"preview": "decide"
+	},
+	{
+		"foreign_question": "describe",
+		"ru_question": "описывать",
+		"foreign_response": "^\\s*describe\\s*$",
+		"ru_response": "^\\s*описывать\\s*$",
+	  	"sound": "describe",
+	  	"preview": "describe"
+	},
+	{
+		"foreign_question": "dream",
+		"ru_question": "мечтать, видеть сны",
+		"foreign_response": "^\\s*dream\\s*$",
+		"ru_response": "^\\s*(мечтать|видеть сны|сниться)\\s*$",
+	  	"sound": "dream",
+	  	"preview": "dream"
+	},
+	{
+		"foreign_question": "engage",
+		"ru_question": "заниматься (чем-либо)",
+		"foreign_response": "^\\s*engage\\s*$",
+		"ru_response": "^\\s*заниматься\\s*$",
+	  	"sound": "engage",
+	  	"preview": "engage"
 	},
 	{
 		"foreign_question": "excuse",
@@ -110,6 +206,30 @@
 		"ru_response": "^\\s*надеяться\\s*$",
 	  	"sound": "hope",
 	  	"preview": "hope"
+	},
+	{
+		"foreign_question": "hurry",
+		"ru_question": "спешить, торопиться",
+		"foreign_response": "^\\s*hurry\\s*$",
+		"ru_response": "^\\s*(спешить|торопиться)\\s*$",
+	  	"sound": "hurry",
+	  	"preview": "hurry"
+	},
+	{
+		"foreign_question": "jump",
+		"ru_question": "прыгать",
+		"foreign_response": "^\\s*jump\\s*$",
+		"ru_response": "^\\s*прыгать\\s*$",
+	  	"sound": "jump",
+	  	"preview": "jump"
+	},
+	{
+		"foreign_question": "laugh",
+		"ru_question": "смеяться",
+		"foreign_response": "^\\s*laugh\\s*$",
+		"ru_response": "^\\s*смеяться\\s*$",
+	  	"sound": "laugh",
+	  	"preview": "laugh"
 	},
 	{
 		"foreign_question": "like",
@@ -192,6 +312,14 @@
 	  	"preview": "order__v"
 	},
 	{
+		"foreign_question": "plant",
+		"ru_question": "садить (дерево)",
+		"foreign_response": "^\\s*plant\\s*$",
+		"ru_response": "^\\s*садить\\s*$",
+	  	"sound": "plant",
+	  	"preview": "plant"
+	},
+	{
 		"foreign_question": "play",
 		"ru_question": "играть",
 		"foreign_response": "^\\s*play\\s*$",
@@ -206,6 +334,62 @@
 		"ru_response": "^\\s*(помнить|запоминать)\\s*$",
 	  	"sound": "remember",
 	  	"preview": "remember"
+	},
+	{
+		"foreign_question": "prepare",
+		"ru_question": "готовить, подготавливать",
+		"foreign_response": "^\\s*prepare\\s*$",
+		"ru_response": "^\\s*(готовить|подготавливать)\\s*$",
+	  	"sound": "prepare",
+	  	"preview": "prepare"
+	},
+	{
+		"foreign_question": "promise",
+		"ru_question": "обещать",
+		"foreign_response": "^\\s*promise\\s*$",
+		"ru_response": "^\\s*обещать\\s*$",
+	  	"sound": "promise",
+	  	"preview": "promise"
+	},
+	{
+		"foreign_question": "reach",
+		"ru_question": "достигать, добираться",
+		"foreign_response": "^\\s*reach\\s*$",
+		"ru_response": "^\\s*(достигать|добираться)\\s*$",
+	  	"sound": "reach",
+	  	"preview": "reach"
+	},
+	{
+		"foreign_question": "regret",
+		"ru_question": "сожалеть, соболезновать (не несет признания ответственности)",
+		"foreign_response": "^\\s*regret\\s*$",
+		"ru_response": "^\\s*(сожалеть|соболезновать)\\s*$",
+	  	"sound": "regret",
+	  	"preview": "regret"
+	},
+	{
+		"foreign_question": "relax",
+		"ru_question": "расслабляться",
+		"foreign_response": "^\\s*relax\\s*$",
+		"ru_response": "^\\s*расслабляться\\s*$",
+	  	"sound": "relax",
+	  	"preview": "relax"
+	},
+	{
+		"foreign_question": "slamm",
+		"ru_question": "хлопать (дверью)",
+		"foreign_response": "^\\s*slamm\\s*$",
+		"ru_response": "^\\s*хлопать\\s*$",
+	  	"sound": "slamm",
+	  	"preview": "slamm"
+	},
+	{
+		"foreign_question": "spoil",
+		"ru_question": "портить",
+		"foreign_response": "^\\s*spoil\\s*$",
+		"ru_response": "^\\s*портить\\s*$",
+	  	"sound": "spoil",
+	  	"preview": "spoil"
 	},
 	{
 		"foreign_question": "start",
@@ -302,6 +486,14 @@
 		"ru_response": "^\\s*хотеть\\s*$",
 	  	"sound": "want",
 	  	"preview": "want"
+	},
+	{
+		"foreign_question": "watch",
+		"ru_question": "смотреть, наблюдать",
+		"foreign_response": "^\\s*watch\\s*$",
+		"ru_response": "^\\s*(смотреть|наблюдать)\\s*$",
+	  	"sound": "watch",
+	  	"preview": "watch"
 	},
 	{
 		"foreign_question": "work",
