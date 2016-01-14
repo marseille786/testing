@@ -192,6 +192,14 @@
 	  	"preview": "forget"
 	},
 	{
+		"foreign_question": "forgive, forgave, forgiven",
+		"ru_question": "прощать",
+		"foreign_response": "^\\s*forgive[, ]+forgave[, ]+forgiven\\s*$",
+		"ru_response": "^\\s*прощать\\s*$",
+	  	"sound": "forgive_forgave_forgiven",
+	  	"preview": "forgive"
+	},
+	{
 		"foreign_question": "get, got, got",
 		"ru_question": "получать",
 		"foreign_response": "^\\s*get[, ]+got[, ]+got\\s*$",
