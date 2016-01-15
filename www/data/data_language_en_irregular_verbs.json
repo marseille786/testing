@@ -5,7 +5,7 @@
 		"foreign_response": "^\\s*be[, ]+was\\/were[, ]+been\\s*$",
 		"ru_response": "^\\s*быть\\s*$",
 	  	"sound": "be_was_were_been",
-	  	"preview": ""
+	  	"preview": "be"
 	},
 	{
 		"foreign_question": "become, became, become",
@@ -357,7 +357,7 @@
 		"foreign_response": "^\\s*mean[, ]+meant[, ]+meant\\s*$",
 		"ru_response": "^\\s*(иметь ввиду|означать|значить|подразумевать)\\s*$",
 	  	"sound": "mean_meant_meant",
-	  	"preview": ""
+	  	"preview": "mean"
 	},
 	{
 		"foreign_question": "meet, met, met",

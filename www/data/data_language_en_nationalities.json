@@ -1,0 +1,242 @@
+[
+  {
+    "foreign_question": "American",
+    "ru_question": "американский, американец",
+    "foreign_response": "^\\s*American\\s*$",
+    "ru_response": "^\\s*(американский|американец)\\s*$",
+    "sound": "american",
+    "preview": "american"
+  },
+  {
+    "foreign_question": "Argentinian",
+    "ru_question": "аргентинский, аргентинец",
+    "foreign_response": "^\\s*Argentinian\\s*$",
+    "ru_response": "^\\s*(аргентинский|аргентинец)\\s*$",
+    "sound": "argentinian",
+    "preview": "argentinian"
+  },
+  {
+    "foreign_question": "Australian",
+    "ru_question": "австралийский, австралиец",
+    "foreign_response": "^\\s*Australian\\s*$",
+    "ru_response": "^\\s*(австралийский|австралиец)\\s*$",
+    "sound": "australian",
+    "preview": "australian"
+  },
+  {
+    "foreign_question": "Brazilian",
+    "ru_question": "бразильский, бразилец",
+    "foreign_response": "^\\s*Brazilian\\s*$",
+    "ru_response": "^\\s*(бразильский|бразилец)\\s*$",
+    "sound": "brazilian",
+    "preview": "brazilian"
+  },
+  {
+    "foreign_question": "British",
+    "ru_question": "британец, британский",
+    "foreign_response": "^\\s*British\\s*$",
+    "ru_response": "^\\s*(британец|британский)\\s*$",
+    "sound": "british",
+    "preview": "british"
+  },
+  {
+    "foreign_question": "Canadian",
+    "ru_question": "канадский, канадец",
+    "foreign_response": "^\\s*Canadian\\s*$",
+    "ru_response": "^\\s*(канадский|канадец)\\s*$",
+    "sound": "canadian",
+    "preview": "canadian"
+  },
+  {
+    "foreign_question": "Chilean",
+    "ru_question": "чилийский, чилиец",
+    "foreign_response": "^\\s*Chilean\\s*$",
+    "ru_response": "^\\s*(чилийский|чилиец)\\s*$",
+    "sound": "chilean",
+    "preview": "chilean"
+  },
+  {
+    "foreign_question": "Chinese",
+    "ru_question": "китайский, китаец",
+    "foreign_response": "^\\s*Chinese\\s*$",
+    "ru_response": "^\\s*(китайский|китаец)\\s*$",
+    "sound": "chinese",
+    "preview": "chinese"
+  },
+  {
+    "foreign_question": "Colombian",
+    "ru_question": "колумбийский, колумбиец",
+    "foreign_response": "^\\s*Colombian\\s*$",
+    "ru_response": "^\\s*(колумбийский|колумбиец)\\s*$",
+    "sound": "colombian",
+    "preview": "colombian"
+  },
+  {
+    "foreign_question": "Egyptian",
+    "ru_question": "египетский, египтянин",
+    "foreign_response": "^\\s*Egyptian\\s*$",
+    "ru_response": "^\\s*(египетский|египтянин)\\s*$",
+    "sound": "egyptian",
+    "preview": "egyptian"
+  },
+  {
+    "foreign_question": "English",
+    "ru_question": "английский, англичанин",
+    "foreign_response": "^\\s*English\\s*$",
+    "ru_response": "^\\s*(английский|англичанин)\\s*$",
+    "sound": "english",
+    "preview": "english"
+  },
+  {
+    "foreign_question": "French",
+    "ru_question": "французский, француз",
+    "foreign_response": "^\\s*French\\s*$",
+    "ru_response": "^\\s*(французский|француз)\\s*$",
+    "sound": "french",
+    "preview": "french"
+  },
+  {
+    "foreign_question": "German",
+    "ru_question": "немецкий, немец",
+    "foreign_response": "^\\s*German\\s*$",
+    "ru_response": "^\\s*(немецкий|немец)\\s*$",
+    "sound": "german",
+    "preview": "german"
+  },
+  {
+    "foreign_question": "Greek",
+    "ru_question": "греческий, грек",
+    "foreign_response": "^\\s*Greek\\s*$",
+    "ru_response": "^\\s*(греческий|грек)\\s*$",
+    "sound": "greek",
+    "preview": "greek"
+  },
+  {
+    "foreign_question": "Hungarian",
+    "ru_question": "венгерский, венгр",
+    "foreign_response": "^\\s*Hungarian\\s*$",
+    "ru_response": "^\\s*(венгерский|венгр)\\s*$",
+    "sound": "hungarian",
+    "preview": "hungarian"
+  },
+  {
+    "foreign_question": "Irish",
+    "ru_question": "ирландский, ирландец",
+    "foreign_response": "^\\s*Irish\\s*$",
+    "ru_response": "^\\s*(ирландский|ирландец)\\s*$",
+    "sound": "irish",
+    "preview": "irish"
+  },
+  {
+    "foreign_question": "Italian",
+    "ru_question": "итальянский, итальянец",
+    "foreign_response": "^\\s*Italian\\s*$",
+    "ru_response": "^\\s*(итальянский|итальянец)\\s*$",
+    "sound": "italian",
+    "preview": "italian"
+  },
+  {
+    "foreign_question": "Japanese",
+    "ru_question": "японский, японец",
+    "foreign_response": "^\\s*Japanese\\s*$",
+    "ru_response": "^\\s*(японский|японец)\\s*$",
+    "sound": "japanese",
+    "preview": "japanese"
+  },
+  {
+    "foreign_question": "Korean",
+    "ru_question": "корейский, кореец",
+    "foreign_response": "^\\s*Korean\\s*$",
+    "ru_response": "^\\s*(корейский|кореец)\\s*$",
+    "sound": "korean",
+    "preview": "korean"
+  },
+  {
+    "foreign_question": "Mexican",
+    "ru_question": "мексиканский, мексиканец",
+    "foreign_response": "^\\s*Mexican\\s*$",
+    "ru_response": "^\\s*(мексиканский|мексиканец)\\s*$",
+    "sound": "mexican",
+    "preview": "mexican"
+  },
+  {
+    "foreign_question": "nation",
+    "ru_question": "нация",
+    "foreign_response": "^\\s*nation\\s*$",
+    "ru_response": "^\\s*нация\\s*$",
+    "sound": "nation",
+    "preview": "nation"
+  },
+  {
+    "foreign_question": "nationality",
+    "ru_question": "национальность",
+    "foreign_response": "^\\s*nationality\\s*$",
+    "ru_response": "^\\s*национальность\\s*$",
+    "sound": "nationality",
+    "preview": "nationality"
+  },
+  {
+    "foreign_question": "Peruvian",
+    "ru_question": "перуанский, перуанец",
+    "foreign_response": "^\\s*Peruvian\\s*$",
+    "ru_response": "^\\s*(перуанский|перуанец)\\s*$",
+    "sound": "peruvian",
+    "preview": "peruvian"
+  },
+  {
+    "foreign_question": "Polish",
+    "ru_question": "польский, поляк",
+    "foreign_response": "^\\s*Polish\\s*$",
+    "ru_response": "^\\s*(польский|поляк)\\s*$",
+    "sound": "polish",
+    "preview": "polish"
+  },
+  {
+    "foreign_question": "Russian",
+    "ru_question": "русский, россиянин",
+    "foreign_response": "^\\s*Russian\\s*$",
+    "ru_response": "^\\s*(русский|россиянин)\\s*$",
+    "sound": "russian",
+    "preview": "russian"
+  },
+  {
+    "foreign_question": "Scottish",
+    "ru_question": "шотландский, шотландец",
+    "foreign_response": "^\\s*Scottish\\s*$",
+    "ru_response": "^\\s*(шотландский|шотландец)\\s*$",
+    "sound": "scottish",
+    "preview": "scottish"
+  },
+  {
+    "foreign_question": "South African",
+    "ru_question": "южноафриканский, южноафриканец",
+    "foreign_response": "^\\s*South African\\s*$",
+    "ru_response": "^\\s*(южноафриканский|южноафриканец)\\s*$",
+    "sound": "south_african",
+    "preview": "south_african"
+  },
+  {
+    "foreign_question": "Spanish",
+    "ru_question": "испанский, испанец",
+    "foreign_response": "^\\s*Spanish\\s*$",
+    "ru_response": "^\\s*(испанский|испанец)\\s*$",
+    "sound": "spanish",
+    "preview": "spanish"
+  },
+  {
+    "foreign_question": "Turkish",
+    "ru_question": "турецкий, турок",
+    "foreign_response": "^\\s*Turkish\\s*$",
+    "ru_response": "^\\s*(турецкий|турок)\\s*$",
+    "sound": "turkish",
+    "preview": "turkish"
+  },
+  {
+    "foreign_question": "Ukrainian",
+    "ru_question": "украинский, украинец",
+    "foreign_response": "^\\s*Ukrainian\\s*$",
+    "ru_response": "^\\s*(украинский|украинец)\\s*$",
+    "sound": "ukrainian",
+    "preview": "ukrainian"
+  }
+]

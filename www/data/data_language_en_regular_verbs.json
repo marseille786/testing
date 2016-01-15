@@ -56,6 +56,14 @@
 	  	"preview": "believe"
 	},
 	{
+		"foreign_question": "bless",
+		"ru_question": "благословлять",
+		"foreign_response": "^\\s*bless\\s*$",
+		"ru_response": "^\\s*(благословлять|благословить)\\s*$",
+	  	"sound": "bless",
+	  	"preview": "bless"
+	},
+	{
 		"foreign_question": "call",
 		"ru_question": "звонить",
 		"foreign_response": "^\\s*call\\s*$",

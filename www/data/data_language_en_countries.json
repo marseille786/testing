@@ -1,0 +1,250 @@
+[
+  {
+    "foreign_question": "Argentina",
+    "ru_question": "Аргентина",
+    "foreign_response": "^\\s*Argentina\\s*$",
+    "ru_response": "^\\s*Аргентина\\s*$",
+    "sound": "argentina",
+    "preview": "argentina"
+  },
+  {
+    "foreign_question": "Australia",
+    "ru_question": "Австралия",
+    "foreign_response": "^\\s*Australia\\s*$",
+    "ru_response": "^\\s*Австралия\\s*$",
+    "sound": "australia",
+    "preview": "australia"
+  },
+  {
+    "foreign_question": "Brazil",
+    "ru_question": "Бразилия",
+    "foreign_response": "^\\s*Brazil\\s*$",
+    "ru_response": "^\\s*Бразилия\\s*$",
+    "sound": "brazil",
+    "preview": "brazil"
+  },
+  {
+    "foreign_question": "California",
+    "ru_question": "Калифорния",
+    "foreign_response": "^\\s*California\\s*$",
+    "ru_response": "^\\s*Калифорния\\s*$",
+    "sound": "california",
+    "preview": "california"
+  },
+  {
+    "foreign_question": "Canada",
+    "ru_question": "Канада",
+    "foreign_response": "^\\s*Canada\\s*$",
+    "ru_response": "^\\s*Канада\\s*$",
+    "sound": "canada",
+    "preview": "canada"
+  },
+  {
+    "foreign_question": "Chile",
+    "ru_question": "Чили",
+    "foreign_response": "^\\s*Chile\\s*$",
+    "ru_response": "^\\s*Чили\\s*$",
+    "sound": "chile",
+    "preview": "chile"
+  },
+  {
+    "foreign_question": "China",
+    "ru_question": "Китай",
+    "foreign_response": "^\\s*China\\s*$",
+    "ru_response": "^\\s*Китай\\s*$",
+    "sound": "china",
+    "preview": "china"
+  },
+  {
+    "foreign_question": "Colombia",
+    "ru_question": "Колумбия",
+    "foreign_response": "^\\s*Colombia\\s*$",
+    "ru_response": "^\\s*Колумбия\\s*$",
+    "sound": "colombia",
+    "preview": "colombia"
+  },
+  {
+    "foreign_question": "Cyprus",
+    "ru_question": "Кипр",
+    "foreign_response": "^\\s*Cyprus\\s*$",
+    "ru_response": "^\\s*Кипр\\s*$",
+    "sound": "cyprus",
+    "preview": "cyprus"
+  },
+  {
+    "foreign_question": "Egypt",
+    "ru_question": "Египет",
+    "foreign_response": "^\\s*Egypt\\s*$",
+    "ru_response": "^\\s*Египет\\s*$",
+    "sound": "egypt",
+    "preview": "egypt"
+  },
+  {
+    "foreign_question": "England",
+    "ru_question": "Англия",
+    "foreign_response": "^\\s*England\\s*$",
+    "ru_response": "^\\s*Англия\\s*$",
+    "sound": "england",
+    "preview": "england"
+  },
+  {
+    "foreign_question": "France",
+    "ru_question": "Франция",
+    "foreign_response": "^\\s*France\\s*$",
+    "ru_response": "^\\s*Франция\\s*$",
+    "sound": "france",
+    "preview": "france"
+  },
+  {
+    "foreign_question": "Germany",
+    "ru_question": "Германия",
+    "foreign_response": "^\\s*Germany\\s*$",
+    "ru_response": "^\\s*Германия\\s*$",
+    "sound": "germany",
+    "preview": "germany"
+  },
+  {
+    "foreign_question": "Greece",
+    "ru_question": "Греция",
+    "foreign_response": "^\\s*Greece\\s*$",
+    "ru_response": "^\\s*Греция\\s*$",
+    "sound": "greece",
+    "preview": "greece"
+  },
+  {
+    "foreign_question": "Hungary",
+    "ru_question": "Венгрия",
+    "foreign_response": "^\\s*Hungary\\s*$",
+    "ru_response": "^\\s*Венгрия\\s*$",
+    "sound": "hungary",
+    "preview": "hungary"
+  },
+  {
+    "foreign_question": "India",
+    "ru_question": "Индия",
+    "foreign_response": "^\\s*India\\s*$",
+    "ru_response": "^\\s*Индия\\s*$",
+    "sound": "india",
+    "preview": "india"
+  },
+  {
+    "foreign_question": "Ireland",
+    "ru_question": "Ирландия",
+    "foreign_response": "^\\s*Ireland\\s*$",
+    "ru_response": "^\\s*Ирландия\\s*$",
+    "sound": "ireland",
+    "preview": "ireland"
+  },
+  {
+    "foreign_question": "Italy",
+    "ru_question": "Италия",
+    "foreign_response": "^\\s*Italy\\s*$",
+    "ru_response": "^\\s*Италия\\s*$",
+    "sound": "italy",
+    "preview": "italy"
+  },
+  {
+    "foreign_question": "Japan",
+    "ru_question": "Япония",
+    "foreign_response": "^\\s*Japan\\s*$",
+    "ru_response": "^\\s*Япония\\s*$",
+    "sound": "japan",
+    "preview": "japan"
+  },
+  {
+    "foreign_question": "Korea",
+    "ru_question": "Корея",
+    "foreign_response": "^\\s*Korea\\s*$",
+    "ru_response": "^\\s*Корея\\s*$",
+    "sound": "korea",
+    "preview": "korea"
+  },
+  {
+    "foreign_question": "Mexico",
+    "ru_question": "Мексика",
+    "foreign_response": "^\\s*Mexico\\s*$",
+    "ru_response": "^\\s*Мексика\\s*$",
+    "sound": "mexico",
+    "preview": "mexico"
+  },
+  {
+    "foreign_question": "Peru",
+    "ru_question": "Перу",
+    "foreign_response": "^\\s*Peru\\s*$",
+    "ru_response": "^\\s*Перу\\s*$",
+    "sound": "peru",
+    "preview": "peru"
+  },
+  {
+    "foreign_question": "Poland",
+    "ru_question": "Польша",
+    "foreign_response": "^\\s*Poland\\s*$",
+    "ru_response": "^\\s*Польша\\s*$",
+    "sound": "poland",
+    "preview": "poland"
+  },
+  {
+    "foreign_question": "Russia",
+    "ru_question": "Россия",
+    "foreign_response": "^\\s*Russia\\s*$",
+    "ru_response": "^\\s*Россия\\s*$",
+    "sound": "russia",
+    "preview": "russia"
+  },
+  {
+    "foreign_question": "Scotland",
+    "ru_question": "Шотландия",
+    "foreign_response": "^\\s*Scotland\\s*$",
+    "ru_response": "^\\s*Шотландия\\s*$",
+    "sound": "scotland",
+    "preview": "scotland"
+  },
+  {
+    "foreign_question": "South Africa",
+    "ru_question": "Южная Африка",
+    "foreign_response": "^\\s*South Africa\\s*$",
+    "ru_response": "^\\s*Южная Африка\\s*$",
+    "sound": "south_africa",
+    "preview": "south_africa"
+  },
+  {
+    "foreign_question": "Spain",
+    "ru_question": "Испания",
+    "foreign_response": "^\\s*Spain\\s*$",
+    "ru_response": "^\\s*Испания\\s*$",
+    "sound": "spain",
+    "preview": "spain"
+  },
+  {
+    "foreign_question": "Turkey",
+    "ru_question": "Турция",
+    "foreign_response": "^\\s*Turkey\\s*$",
+    "ru_response": "^\\s*Турция\\s*$",
+    "sound": "turkey",
+    "preview": "turkey"
+  },
+  {
+    "foreign_question": "Ukraine",
+    "ru_question": "Украина",
+    "foreign_response": "^\\s*Ukraine\\s*$",
+    "ru_response": "^\\s*Украина\\s*$",
+    "sound": "ukraine",
+    "preview": "ukraine"
+  },
+  {
+    "foreign_question": "United Kingdom (UK)",
+    "ru_question": "Великобритания, Объединенное королевство",
+    "foreign_response": "^\\s*(United Kingdom|UK)\\s*$",
+    "ru_response": "^\\s*(Великобритания|Объединенное королевство)\\s*$",
+    "sound": "united_kingdom",
+    "preview": "united_kingdom"
+  },
+  {
+    "foreign_question": "USA",
+    "ru_question": "США",
+    "foreign_response": "^\\s*USA\\s*$",
+    "ru_response": "^\\s*США\\s*$",
+    "sound": "usa",
+    "preview": "usa"
+  }
+]

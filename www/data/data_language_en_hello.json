@@ -24,6 +24,14 @@
     "preview": "any_questions-"
   },
   {
+    "foreign_question": "bless you (при чихании)",
+    "ru_question": "будь здоров (при чихании)",
+    "foreign_response": "^\\s*bless you\\s*$",
+    "ru_response": "^\\s*будь здоров\\s*$",
+    "sound": "bless_you",
+    "preview": "bless_you"
+  },
+  {
     "foreign_question": "bye",
     "ru_question": "пока, до свидания (универсальное сокращенный вариант)",
     "foreign_response": "^\\s*bye\\s*$",
