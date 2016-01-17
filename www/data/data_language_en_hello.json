@@ -24,6 +24,22 @@
     "preview": "any_questions-"
   },
   {
+    "foreign_question": "best friend",
+    "ru_question": "лучший друг",
+    "foreign_response": "^\\s*best friend\\s*$",
+    "ru_response": "^\\s*лучший друг\\s*$",
+    "sound": "best_friend",
+    "preview": "best_friend"
+  },
+  {
+    "foreign_question": "birthday",
+    "ru_question": "день рождения",
+    "foreign_response": "^\\s*birthday\\s*$",
+    "ru_response": "^\\s*день рождения\\s*$",
+    "sound": "birthday",
+    "preview": "birthday"
+  },
+  {
     "foreign_question": "bless you (при чихании)",
     "ru_question": "будь здоров (при чихании)",
     "foreign_response": "^\\s*bless you\\s*$",
@@ -74,7 +90,7 @@
   {
     "foreign_question": "Fine, thanks",
     "ru_question": "Хорошо, спасибо (Ответ на вопрос 'Как дела?')",
-    "foreign_response": "^\\s*Fine\\,? thanks\\s*$",
+    "foreign_response": "^\\s*Fine\\,? thank(s| you)\\s*$",
     "ru_response": "^\\s*Хорошо, спасибо\\s*$",
     "sound": "fine,_thanks",
     "preview": "fine,_thanks"
@@ -130,7 +146,7 @@
   {
     "foreign_question": "goodbye, see you soon",
     "ru_question": "До свидания! До скорой встречи!",
-    "foreign_response": "^\\s*goodbye, see you soon\\s*$",
+    "foreign_response": "^\\s*goodbye(\\,|\\!|\\.)? see you soon(\\.|\\!)?\\s*$",
     "ru_response": "^\\s*(До свидания\\!?[\\,\\.]? )?До скорой встречи\\!?\\.?\\s*$",
     "sound": "goodbye,_see_you_soon",
     "preview": "goodbye,_see_you_soon"
@@ -153,7 +169,7 @@
   },
   {
     "foreign_question": "How are you?",
-    "ru_question": "Как дела? (синоним 'What\\'s up?)",
+    "ru_question": "Как дела? (синоним 'What's up?)",
     "foreign_response": "^\\s*How are you\\?\\s*$",
     "ru_response": "^\\s*Как дела\\?\\s*$",
     "sound": "how_are_you-",
@@ -205,7 +221,7 @@
     "foreign_response": "^\\s*like\\s*$",
     "ru_response": "^\\s*как( бы)?\\s*$",
     "sound": "like",
-    "preview": "like"
+    "preview": "like_as"
   },
   {
     "foreign_question": "meeting",
@@ -284,12 +300,12 @@
     "ru_question": "увидимся",
     "foreign_response": "^\\s*see you( later)?\\s*$",
     "ru_response": "^\\s*увидимся\\s*$",
-    "sound": "see you",
-    "preview": "see you"
+    "sound": "see_you",
+    "preview": "see_you"
   },
   {
     "foreign_question": "See you later!",
-    "ru_question": "До скорого!",
+    "ru_question": "Увидимся позже!",
     "foreign_response": "^\\s*See you later\\!?\\s*$",
     "ru_response": "^\\s*(До скорого( свидания)?|Увидимся( позже)?)\\!?\\s*$",
     "sound": "see_you_later!",
@@ -365,7 +381,7 @@
     "foreign_response": "^\\s*welcome\\s*$",
     "ru_response": "^\\s*пожалуйста\\s*$",
     "sound": "welcome",
-    "preview": "welcome"
+    "preview": "welcome_please"
   },
   {
     "foreign_question": "welcome (приглашение)",
@@ -384,12 +400,28 @@
     "preview": "well"
   },
   {
-    "foreign_question": "What's your name?",
-    "ru_question": "Как тебя зовут?",
-    "foreign_response": "^\\s*What(\\'| i)s your name\\?\\s*$",
-    "ru_response": "^\\s*Как тебя зовут?\\s*$",
-    "sound": "what's_your_name-",
-    "preview": "what's_your_name-"
+    "foreign_question": "What about you?",
+    "ru_question": "Что на счет тебя?",
+    "foreign_response": "^\\s*What about you\\?\\s*$",
+    "ru_response": "^\\s*Что на счет тебя?\\s*$",
+    "sound": "what_about_you-",
+    "preview": "what_about_you-"
+  },
+  {
+    "foreign_question": "What day is it today?",
+    "ru_question": "Какой сегодня день?",
+    "foreign_response": "^\\s*(What day is it today|What(\\'| i)s the date today)\\?\\s*$",
+    "ru_response": "^\\s*Какой сегодня день\\?\\s*$",
+    "sound": "what_day_is_it_today-",
+    "preview": "what_day_is_it_today-"
+  },
+  {
+    "foreign_question": "What's this?",
+    "ru_question": "Что это?",
+    "foreign_response": "^\\s*What(\\'| i)s (this|that)\\?\\s*$",
+    "ru_response": "^\\s*Что это( такое)?\\?\\s*$",
+    "sound": "what's_this-",
+    "preview": "what's_this-"
   },
   {
     "foreign_question": "What's up?",
@@ -400,19 +432,35 @@
     "preview": "how_are_you-"
   },
   {
+    "foreign_question": "What's your name?",
+    "ru_question": "Как тебя зовут?",
+    "foreign_response": "^\\s*What(\\'| i)s your name\\?\\s*$",
+    "ru_response": "^\\s*Как тебя зовут?\\s*$",
+    "sound": "what's_your_name-",
+    "preview": "what's_your_name-"
+  },
+  {
+    "foreign_question": "When's your birthday?",
+    "ru_question": "Когда твой день рождения?",
+    "foreign_response": "^\\s*When(\\'| i)s your birthday\\?\\s*$",
+    "ru_response": "^\\s*Когда( будет)? твой день рождения\\?\\s*$",
+    "sound": "when's_your_birthday-",
+    "preview": "birthday"
+  },
+  {
     "foreign_question": "Where are you from?",
     "ru_question": "От куда ты?",
     "foreign_response": "^\\s*Where are you from\\?\\s*$",
     "ru_response": "^\\s*От ?куда ты( приехал)?\\?\\s*$",
     "sound": "where_are_you_from-",
-    "preview": "where_are_you_from"
+    "preview": "where_are_you_from-"
   },
   {
     "foreign_question": "you know",
     "ru_question": "вы знаете, ты знаешь",
     "foreign_response": "^\\s*you know\\s*$",
     "ru_response": "^\\s*(вы знаете|ты знаешь)\\s*$",
-    "sound": "you know",
-    "preview": "you know"
+    "sound": "you_know",
+    "preview": "you_know"
   }
 ]

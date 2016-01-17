@@ -1,18 +1,42 @@
 [
   {
+    "foreign_question": "unbelievable",
+    "ru_question": "невероятно",
+    "foreign_response": "^\\s*unbelievable\\s*$",
+    "ru_response": "^\\s*невероятн(о|ый)\\s*$",
+    "sound": "unbelievable",
+    "preview": "unbelievable"
+  },
+  {
+    "foreign_question": "close to",
+    "ru_question": "рядом с (синоним next to, near)",
+    "foreign_response": "^\\s*close (to|with)\\s*$",
+    "ru_response": "^\\s*рядом с\\s*$",
+    "sound": "close_to",
+    "preview": "close_to"
+  },
+  {
+    "foreign_question": "deep",
+    "ru_question": "глубоко",
+    "foreign_response": "^\\s*deep\\s*$",
+    "ru_response": "^\\s*глубоко\\s*$",
+    "sound": "deep",
+    "preview": "deep"
+  },
+  {
+    "foreign_question": "definitely",
+    "ru_question": "определенно, точно, несомненно",
+    "foreign_response": "^\\s*definitely\\s*$",
+    "ru_response": "^\\s*(определенно|точно|несомненно)\\s*$",
+    "sound": "definitely",
+    "preview": "definitely"
+  },
+  {
     "foreign_question": "Quick!",
     "ru_question": "Скорей!",
     "foreign_response": "^\\s*Quick\\!?\\s*$",
     "ru_response": "^\\s*Скорей\\!?\\s*$",
     "sound": "quick",
-    "preview": ""
-  },
-  {
-    "foreign_question": "silly",
-    "ru_question": "глупо",
-    "foreign_response": "^\\s*silly\\s*$",
-    "ru_response": "^\\s*глупо\\s*$",
-    "sound": "silly",
     "preview": ""
   },
   {
@@ -24,11 +48,19 @@
     "preview": ""
   },
   {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
+    "foreign_question": "silly",
+    "ru_question": "глупо",
+    "foreign_response": "^\\s*silly\\s*$",
+    "ru_response": "^\\s*глупо\\s*$",
+    "sound": "silly",
     "preview": ""
+  },
+  {
+    "foreign_question": "so far",
+    "ru_question": "достаточно далеко, так далеко",
+    "foreign_response": "^\\s*so far\\s*$",
+    "ru_response": "^\\s*(достаточно далеко|так далеко)\\s*$",
+    "sound": "so_far",
+    "preview": "so_far"
   }
 ]

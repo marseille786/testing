@@ -1,0 +1,114 @@
+[
+  {
+    "foreign_question": "adventure",
+    "ru_question": "приключение",
+    "foreign_response": "^\\s*adventure\\s*$",
+    "ru_response": "^\\s*приключение\\s*$",
+    "sound": "adventure",
+    "preview": "adventure"
+  },
+  {
+    "foreign_question": "boarding pass",
+    "ru_question": "посадочный талон",
+    "foreign_response": "^\\s*boarding pass\\s*$",
+    "ru_response": "^\\s*посадочный талон\\s*$",
+    "sound": "boarding_pass",
+    "preview": "boarding_pass"
+  },
+  {
+    "foreign_question": "border",
+    "ru_question": "граница",
+    "foreign_response": "^\\s*border\\s*$",
+    "ru_response": "^\\s*граница\\s*$",
+    "sound": "border",
+    "preview": "border"
+  },
+  {
+    "foreign_question": "country",
+    "ru_question": "страна",
+    "foreign_response": "^\\s*country\\s*$",
+    "ru_response": "^\\s*страна\\s*$",
+    "sound": "country",
+    "preview": "country"
+  },
+  {
+    "foreign_question": "cruise",
+    "ru_question": "круиз",
+    "foreign_response": "^\\s*cruise\\s*$",
+    "ru_response": "^\\s*круиз\\s*$",
+    "sound": "cruise",
+    "preview": "cruise"
+  },
+  {
+    "foreign_question": "east",
+    "ru_question": "восток",
+    "foreign_response": "^\\s*east\\s*$",
+    "ru_response": "^\\s*восток\\s*$",
+    "sound": "east",
+    "preview": "east"
+  },
+  {
+    "foreign_question": "equator",
+    "ru_question": "экватор",
+    "foreign_response": "^\\s*equator\\s*$",
+    "ru_response": "^\\s*экватор\\s*$",
+    "sound": "equator",
+    "preview": "equator"
+  },
+  {
+    "foreign_question": "language",
+    "ru_question": "язык (для общения)",
+    "foreign_response": "^\\s*language\\s*$",
+    "ru_response": "^\\s*язык\\s*$",
+    "sound": "language",
+    "preview": "language"
+  },
+  {
+    "foreign_question": "north",
+    "ru_question": "север (ern)",
+    "foreign_response": "^\\s*north\\s*$",
+    "ru_response": "^\\s*север\\s*$",
+    "sound": "north",
+    "preview": "north"
+  },
+  {
+    "foreign_question": "people",
+    "ru_question": "люди",
+    "foreign_response": "^\\s*people\\s*$",
+    "ru_response": "^\\s*люди\\s*$",
+    "sound": "people",
+    "preview": "people"
+  },
+  {
+    "foreign_question": "south",
+    "ru_question": "юг",
+    "foreign_response": "^\\s*south\\s*$",
+    "ru_response": "^\\s*юг\\s*$",
+    "sound": "south",
+    "preview": "south"
+  },
+  {
+    "foreign_question": "ticket",
+    "ru_question": "билет",
+    "foreign_response": "^\\s*ticket\\s*$",
+    "ru_response": "^\\s*билет\\s*$",
+    "sound": "ticket",
+    "preview": "ticket"
+  },
+  {
+    "foreign_question": "travel",
+    "ru_question": "путешествие",
+    "foreign_response": "^\\s*travel\\s*$",
+    "ru_response": "^\\s*путешествие\\s*$",
+    "sound": "travel",
+    "preview": "travel"
+  },
+  {
+    "foreign_question": "trip",
+    "ru_question": "поездка",
+    "foreign_response": "^\\s*trip\\s*$",
+    "ru_response": "^\\s*поездка\\s*$",
+    "sound": "trip",
+    "preview": "trip"
+  }
+]

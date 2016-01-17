@@ -80,11 +80,11 @@
     "preview": "son"
   },
   {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
+    "foreign_question": "together",
+    "ru_question": "вместе",
+    "foreign_response": "^\\s*together\\s*$",
+    "ru_response": "^\\s*вместе\\s*$",
+    "sound": "together",
+    "preview": "together"
   }
 ]

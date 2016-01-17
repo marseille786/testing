@@ -1,0 +1,10 @@
+[
+  {
+    "foreign_question": "kill",
+    "ru_question": "убивать, убийство",
+    "foreign_response": "^\\s*kill\\s*$",
+    "ru_response": "^\\s*(уби(ва)?ть|убийство)\\s*$",
+    "sound": "kill",
+    "preview": "kill"
+  }
+]

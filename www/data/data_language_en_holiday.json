@@ -1,5 +1,13 @@
 [
   {
+    "foreign_question": "birthday",
+    "ru_question": "день рождения",
+    "foreign_response": "^\\s*birthday\\s*$",
+    "ru_response": "^\\s*день рождения\\s*$",
+    "sound": "birthday",
+    "preview": "birthday"
+  },
+  {
     "foreign_question": "cinema",
     "ru_question": "кинотеатр",
     "foreign_response": "^\\s*cinema\\s*$",

@@ -1,0 +1,18 @@
+[
+  {
+    "foreign_question": "excitement",
+    "ru_question": "восторг, волнение",
+    "foreign_response": "^\\s*excitement\\s*$",
+    "ru_response": "^\\s*(восторг|волнение|возбуждение)\\s*$",
+    "sound": "excitement",
+    "preview": "excitement"
+  },
+  {
+    "foreign_question": "sight (не достопримечательности)",
+    "ru_question": "взгляд, зрение",
+    "foreign_response": "^\\s*sight\\s*$",
+    "ru_response": "^\\s*(взгляд|зрение)\\s*$",
+    "sound": "sight",
+    "preview": "sight"
+  }
+]

@@ -152,6 +152,22 @@
 	  	"preview": "describe"
 	},
 	{
+		"foreign_question": "desert",
+		"ru_question": "дезертировать",
+		"foreign_response": "^\\s*desert\\s*$",
+		"ru_response": "^\\s*дезертировать\\s*$",
+		"sound": "desert",
+		"preview": "desert"
+	},
+  {
+    "foreign_question": "destroy",
+    "ru_question": "разрушать, уничтожать (синоним ruin)",
+    "foreign_response": "^\\s*destroy\\s*$",
+    "ru_response": "^\\s*(разруш[аи]ть|уничтож[аи]ть)\\s*$",
+    "sound": "destroy",
+    "preview": "destroy"
+  },
+	{
 		"foreign_question": "dream",
 		"ru_question": "мечтать, видеть сны",
 		"foreign_response": "^\\s*dream\\s*$",
@@ -167,6 +183,14 @@
 	  	"sound": "engage",
 	  	"preview": "engage"
 	},
+  {
+    "foreign_question": "erupt",
+    "ru_question": "извергаться, извергать (вулкан)",
+    "foreign_response": "^\\s*erupt\\s*$",
+    "ru_response": "^\\s*(извергаться|извергать)\\s*$",
+      "sound": "erupt",
+      "preview": "erupt"
+  },
 	{
 		"foreign_question": "excuse",
 		"ru_question": "извинять",
@@ -182,6 +206,14 @@
 		"ru_response": "^\\s*заканчивать\\s*$",
 	  	"sound": "finish",
 	  	"preview": "finish"
+	},
+	{
+		"foreign_question": "fit",
+		"ru_question": "подходить (пример: вам подходит это платье)",
+		"foreign_response": "^\\s*fit\\s*$",
+		"ru_response": "^\\s*подходить\\s*$",
+	  	"sound": "fit",
+	  	"preview": "fit"
 	},
 	{
 		"foreign_question": "follow",
@@ -231,6 +263,14 @@
 	  	"sound": "jump",
 	  	"preview": "jump"
 	},
+  {
+    "foreign_question": "kill",
+    "ru_question": "убивать, убийство",
+    "foreign_response": "^\\s*kill\\s*$",
+    "ru_response": "^\\s*(уби(ва)?ть|убийство)\\s*$",
+    "sound": "kill",
+    "preview": "kill"
+  },
 	{
 		"foreign_question": "laugh",
 		"ru_question": "смеяться",
@@ -335,6 +375,14 @@
 	  	"sound": "play",
 	  	"preview": "play__v"
 	},
+  {
+    "foreign_question": "protect",
+    "ru_question": "защищать",
+    "foreign_response": "^\\s*protect\\s*$",
+    "ru_response": "^\\s*защищать\\s*$",
+    "sound": "protect",
+    "preview": "protect"
+  },
 	{
 		"foreign_question": "remember",
 		"ru_question": "помнить",
@@ -343,6 +391,14 @@
 	  	"sound": "remember",
 	  	"preview": "remember"
 	},
+  {
+    "foreign_question": "return",
+    "ru_question": "возвращать, вернуть",
+    "foreign_response": "^\\s*return\\s*$",
+    "ru_response": "^\\s*(возвращать|вернуть)\\s*$",
+    "sound": "return",
+    "preview": "return"
+  },
 	{
 		"foreign_question": "prepare",
 		"ru_question": "готовить, подготавливать",
@@ -383,6 +439,14 @@
 	  	"sound": "relax",
 	  	"preview": "relax"
 	},
+  {
+    "foreign_question": "scuba diving",
+    "ru_question": "подводное плавание с аквалангом",
+    "foreign_response": "^\\s*scuba diving\\s*$",
+    "ru_response": "^\\s*(подводное плавание|дайвинг) с аквалангом\\s*$",
+    "sound": "scuba_diving",
+    "preview": "scuba_diving"
+  },
 	{
 		"foreign_question": "slamm",
 		"ru_question": "хлопать (дверью)",
@@ -390,6 +454,14 @@
 		"ru_response": "^\\s*хлопать\\s*$",
 	  	"sound": "slamm",
 	  	"preview": "slamm"
+	},
+	{
+		"foreign_question": "spell (v)",
+		"ru_question": "читать по буквам",
+		"foreign_response": "^\\s*spell\\s*$",
+		"ru_response": "^\\s*(читать|писать) по (буквам|символам|слогам)\\s*$",
+		"sound": "spell",
+		"preview": "spell"
 	},
 	{
 		"foreign_question": "spoil",

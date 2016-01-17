@@ -1,8 +1,16 @@
 [
   {
-    "foreign_question": "at a quater past six p.m.",
+    "foreign_question": "all year round",
+    "ru_question": "круглый год",
+    "foreign_response": "^\\s*all year round\\s*$",
+    "ru_response": "^\\s*круглый год\\s*$",
+    "sound": "all_year_round",
+    "preview": "all_year_round"
+  },
+  {
+    "foreign_question": "at a quarter past six p.m.",
     "ru_question": "в четверть седьмого после полудня",
-    "foreign_response": "^\\s*at( a)? quater past six p\\.?m\\.?\\s*$",
+    "foreign_response": "^\\s*at( a)? quarter past six p\\.?m\\.?\\s*$",
     "ru_response": "^\\s*в четверть седьмого (после полудня|вечера)\\s*$",
     "sound": "at_a_quater_past_six_pm",
     "preview": "at_a_quater_past_six_pm"
@@ -18,7 +26,7 @@
   {
     "foreign_question": "at ten minutes to twelve",
     "ru_question": "в без десяти двенадцать",
-    "foreign_response": "^\\s*at ten minutes to twelve\\s*$",
+    "foreign_response": "^\\s*at ten (minutes )?to twelve\\s*$",
     "ru_response": "^\\s*(в )?без десяти двенадцать\\s*$",
     "sound": "at_ten_minutes_to_twelve",
     "preview": "at_ten_minutes_to_twelve"
@@ -160,6 +168,14 @@
     "preview": "time"
   },
   {
+    "foreign_question": "What day is it today?",
+    "ru_question": "Какой сегодня день?",
+    "foreign_response": "^\\s*(What day is it today|What(\\'| i)s the date today)\\?\\s*$",
+    "ru_response": "^\\s*Какой сегодня день\\?\\s*$",
+    "sound": "what_day_is_it_today-",
+    "preview": "what_day_is_it_today-"
+  },
+  {
     "foreign_question": "What time is it?",
     "ru_question": "Сколько времени? (синоним What's the time?)",
     "foreign_response": "^\\s*What time is it\\?\\s*$",
@@ -168,12 +184,20 @@
     "preview": "what_time_is_it-"
   },
   {
+    "foreign_question": "What's the date today?",
+    "ru_question": "Какое сегодня число?",
+    "foreign_response": "^\\s*(What(\\'| i)s the date today|What date is it today)\\?\\s*$",
+    "ru_response": "^\\s*(Какое сегодня число|Какая сегодня дата)?\\s*$",
+    "sound": "what's_the_date_today-",
+    "preview": "what's_the_date_today-"
+  },
+  {
     "foreign_question": "What's the time?",
     "ru_question": "Сколько времени? (синоним What time is it?)",
     "foreign_response": "^\\s*What(\\'| i)s the time\\?\\s*$",
     "ru_response": "^\\s*Сколько времени\\?\\s*$",
     "sound": "what's_the_time-",
-    "preview": "what's_the_time-"
+    "preview": "what_time_is_it-"
   },
   {
     "foreign_question": "millisecond",
@@ -206,6 +230,14 @@
     "ru_response": "^\\s*час\\s*$",
     "sound": "hour",
     "preview": "hour"
+  },
+  {
+    "foreign_question": "date",
+    "ru_question": "дата",
+    "foreign_response": "^\\s*date\\s*$",
+    "ru_response": "^\\s*дата\\s*$",
+    "sound": "date",
+    "preview": "date"
   },
   {
     "foreign_question": "day",
@@ -253,7 +285,7 @@
     "foreign_response": "^\\s*age\\s*$",
     "ru_response": "^\\s*(век|эпоха)\\s*$",
     "sound": "age",
-    "preview": "age"
+    "preview": "age_time"
   },
   {
     "foreign_question": "morning",
@@ -300,8 +332,8 @@
     "ru_question": "1-го апреля",
     "foreign_response": "^\\s*on the (1st|first) of April\\s*$",
     "ru_response": "^\\s*(1-го|первого) апреля\\s*$",
-    "sound": "on_the_1st_of_April",
-    "preview": "on_the_1st_of_April"
+    "sound": "on_the_1st_of_april",
+    "preview": "on_the_1st_of_april"
   },
   {
     "foreign_question": "on my birthday",
@@ -384,243 +416,187 @@
     "preview": "the_day_before_yesterday"
   },
   {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
+    "foreign_question": "Monday",
+    "ru_question": "понедельник",
+    "foreign_response": "^\\s*Monday\\s*$",
+    "ru_response": "^\\s*понедельник\\s*$",
+    "sound": "monday",
+    "preview": "monday"
   },
   {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
+    "foreign_question": "Tuesday",
+    "ru_question": "вторник",
+    "foreign_response": "^\\s*Tuesday\\s*$",
+    "ru_response": "^\\s*вторник\\s*$",
+    "sound": "tuesday",
+    "preview": "tuesday"
   },
   {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
+    "foreign_question": "Wednesday",
+    "ru_question": "среда",
+    "foreign_response": "^\\s*Wednesday\\s*$",
+    "ru_response": "^\\s*среда\\s*$",
+    "sound": "wednesday",
+    "preview": "wednesday"
   },
   {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
+    "foreign_question": "Thursday",
+    "ru_question": "четверг",
+    "foreign_response": "^\\s*Thursday\\s*$",
+    "ru_response": "^\\s*четверг\\s*$",
+    "sound": "thursday",
+    "preview": "thursday"
   },
   {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
+    "foreign_question": "Friday",
+    "ru_question": "пятница",
+    "foreign_response": "^\\s*Friday\\s*$",
+    "ru_response": "^\\s*пятница\\s*$",
+    "sound": "friday",
+    "preview": "friday"
   },
   {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
+    "foreign_question": "Saturday",
+    "ru_question": "суббота",
+    "foreign_response": "^\\s*Saturday\\s*$",
+    "ru_response": "^\\s*суббота\\s*$",
+    "sound": "saturday",
+    "preview": "saturday"
   },
   {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
+    "foreign_question": "Sunday",
+    "ru_question": "воскресенье",
+    "foreign_response": "^\\s*Sunday\\s*$",
+    "ru_response": "^\\s*воскресенье\\s*$",
+    "sound": "sunday",
+    "preview": "sunday"
   },
   {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
+    "foreign_question": "January",
+    "ru_question": "январь",
+    "foreign_response": "^\\s*January\\s*$",
+    "ru_response": "^\\s*январь\\s*$",
+    "sound": "january",
+    "preview": "january"
   },
   {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
+    "foreign_question": "February",
+    "ru_question": "февраль",
+    "foreign_response": "^\\s*February\\s*$",
+    "ru_response": "^\\s*февраль\\s*$",
+    "sound": "february",
+    "preview": "february"
   },
   {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
+    "foreign_question": "March",
+    "ru_question": "март",
+    "foreign_response": "^\\s*March\\s*$",
+    "ru_response": "^\\s*март\\s*$",
+    "sound": "march",
+    "preview": "march"
   },
   {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
+    "foreign_question": "April",
+    "ru_question": "апрель",
+    "foreign_response": "^\\s*April\\s*$",
+    "ru_response": "^\\s*апрель\\s*$",
+    "sound": "april",
+    "preview": "april"
   },
   {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
+    "foreign_question": "May",
+    "ru_question": "май",
+    "foreign_response": "^\\s*May\\s*$",
+    "ru_response": "^\\s*май\\s*$",
+    "sound": "may",
+    "preview": "may"
   },
   {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
+    "foreign_question": "June",
+    "ru_question": "июнь",
+    "foreign_response": "^\\s*June\\s*$",
+    "ru_response": "^\\s*июнь\\s*$",
+    "sound": "june",
+    "preview": "june"
   },
   {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
+    "foreign_question": "July",
+    "ru_question": "июль",
+    "foreign_response": "^\\s*July\\s*$",
+    "ru_response": "^\\s*июль\\s*$",
+    "sound": "july",
+    "preview": "july"
   },
   {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
+    "foreign_question": "August",
+    "ru_question": "август",
+    "foreign_response": "^\\s*August\\s*$",
+    "ru_response": "^\\s*август\\s*$",
+    "sound": "august",
+    "preview": "august"
   },
   {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
+    "foreign_question": "September",
+    "ru_question": "сентябрь",
+    "foreign_response": "^\\s*September\\s*$",
+    "ru_response": "^\\s*сентябрь\\s*$",
+    "sound": "september",
+    "preview": "september"
   },
   {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
+    "foreign_question": "October",
+    "ru_question": "октябрь",
+    "foreign_response": "^\\s*October\\s*$",
+    "ru_response": "^\\s*октябрь\\s*$",
+    "sound": "october",
+    "preview": "october"
   },
   {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
+    "foreign_question": "November",
+    "ru_question": "ноябрь",
+    "foreign_response": "^\\s*November\\s*$",
+    "ru_response": "^\\s*ноябрь\\s*$",
+    "sound": "november",
+    "preview": "november"
   },
   {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
+    "foreign_question": "December",
+    "ru_question": "декабрь",
+    "foreign_response": "^\\s*December\\s*$",
+    "ru_response": "^\\s*декабрь\\s*$",
+    "sound": "december",
+    "preview": "december"
   },
   {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
+    "foreign_question": "spring",
+    "ru_question": "весна",
+    "foreign_response": "^\\s*spring\\s*$",
+    "ru_response": "^\\s*весна\\s*$",
+    "sound": "spring",
+    "preview": "spring"
   },
   {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
+    "foreign_question": "summer",
+    "ru_question": "лето",
+    "foreign_response": "^\\s*summer\\s*$",
+    "ru_response": "^\\s*лето\\s*$",
+    "sound": "summer",
+    "preview": "summer"
   },
   {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
+    "foreign_question": "autumn",
+    "ru_question": "осень",
+    "foreign_response": "^\\s*autumn\\s*$",
+    "ru_response": "^\\s*осень\\s*$",
+    "sound": "autumn",
+    "preview": "autumn"
   },
   {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
-  },
-  {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
-  },
-  {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
-  },
-  {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
-  },
-  {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
-  },
-  {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
-  },
-  {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
-  },
-  {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
+    "foreign_question": "winter",
+    "ru_question": "зима",
+    "foreign_response": "^\\s*winter\\s*$",
+    "ru_response": "^\\s*зима\\s*$",
+    "sound": "winter",
+    "preview": "winter"
   }
 ]

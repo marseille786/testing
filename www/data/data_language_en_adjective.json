@@ -19,7 +19,7 @@
     "foreign_question": "excited",
     "ru_question": "восторженный",
     "foreign_response": "^\\s*excited\\s*$",
-    "ru_response": "^\\s*востроженн(ый|ая)\\s*$",
+    "ru_response": "^\\s*(в восторге|востроженн(ый|ая))\\s*$",
     "sound": "excited",
     "preview": "excited"
   },
@@ -32,12 +32,36 @@
     "preview": "happy"
   },
   {
+    "foreign_question": "high",
+    "ru_question": "высокий (не про рост)",
+    "foreign_response": "^\\s*high\\s*$",
+    "ru_response": "^\\s*высокий\\s*$",
+    "sound": "high",
+    "preview": "high"
+  },
+  {
     "foreign_question": "hot",
     "ru_question": "горячий",
     "foreign_response": "^\\s*hot\\s*$",
     "ru_response": "^\\s*горяч(ий|ая)\\s*$",
     "sound": "hot",
     "preview": ""
+  },
+  {
+    "foreign_question": "impressive",
+    "ru_question": "впечатляющий",
+    "foreign_response": "^\\s*impressive\\s*$",
+    "ru_response": "^\\s*впечатляющий\\s*$",
+    "sound": "impressive",
+    "preview": "impressive"
+  },
+  {
+    "foreign_question": "incredible",
+    "ru_question": "невероятный",
+    "foreign_response": "^\\s*incredible\\s*$",
+    "ru_response": "^\\s*невероятный, потрясающий\\s*$",
+    "sound": "incredible",
+    "preview": "incredible"
   },
   {
     "foreign_question": "married",
@@ -61,7 +85,7 @@
     "foreign_response": "^\\s*pretty\\s*$",
     "ru_response": "^\\s*(хорошеньк(ий|ая)|прелестн(ый|ая)|мил(ый|ая)|миленьк(ий|ая))\\s*$",
     "sound": "pretty",
-    "preview": ""
+    "preview": "pretty"
   },
   {
     "foreign_question": "ready",
@@ -69,7 +93,15 @@
     "foreign_response": "^\\s*ready\\s*$",
     "ru_response": "^\\s*готов\\s*$",
     "sound": "ready",
-    "preview": ""
+    "preview": "ready"
+  },
+  {
+    "foreign_question": "rich",
+    "ru_question": "богатый",
+    "foreign_response": "^\\s*rich\\s*$",
+    "ru_response": "^\\s*богатый\\s*$",
+    "sound": "rich",
+    "preview": "rich"
   },
   {
     "foreign_question": "rude",
@@ -77,7 +109,7 @@
     "foreign_response": "^\\s*rude\\s*$",
     "ru_response": "^\\s*грубый\\s*$",
     "sound": "rude",
-    "preview": ""
+    "preview": "rude"
   },
   {
     "foreign_question": "sad",
@@ -101,7 +133,7 @@
     "foreign_response": "^\\s*silly\\s*$",
     "ru_response": "^\\s*глупый\\s*$",
     "sound": "silly",
-    "preview": ""
+    "preview": "silly"
   },
   {
     "foreign_question": "single",
@@ -117,7 +149,7 @@
     "foreign_response": "^\\s*stupid\\s*$",
     "ru_response": "^\\s*глупый\\s*$",
     "sound": "stupid",
-    "preview": ""
+    "preview": "stupid"
   },
   {
     "foreign_question": "tall",
@@ -133,7 +165,7 @@
     "foreign_response": "^\\s*thin\\s*$",
     "ru_response": "^\\s*(худ(ой|ая)|тонк(ий|ая)|тощ(ий|ая))\\s*$",
     "sound": "thin",
-    "preview": ""
+    "preview": "thin"
   },
   {
     "foreign_question": "tired",
@@ -144,12 +176,36 @@
     "preview": "tired"
   },
   {
+    "foreign_question": "unforgettable",
+    "ru_question": "незабываемый",
+    "foreign_response": "^\\s*unforgettable\\s*$",
+    "ru_response": "^\\s*незабываемый\\s*$",
+    "sound": "unforgettable",
+    "preview": "unforgettable"
+  },
+  {
+    "foreign_question": "usual",
+    "ru_question": "обычный",
+    "foreign_response": "^\\s*usual\\s*$",
+    "ru_response": "^\\s*обычный\\s*$",
+    "sound": "usual",
+    "preview": "usual"
+  },
+  {
     "foreign_question": "weak",
     "ru_question": "слабый, хилый",
     "foreign_response": "^\\s*weak\\s*$",
     "ru_response": "^\\s*(слаб(ый|ая)|хил(ый|ая))\\s*$",
     "sound": "weak",
-    "preview": ""
+    "preview": "weak"
+  },
+  {
+    "foreign_question": "wild",
+    "ru_question": "дикий",
+    "foreign_response": "^\\s*wild\\s*$",
+    "ru_response": "^\\s*дикий\\s*$",
+    "sound": "wild",
+    "preview": "wild"
   },
   {
     "foreign_question": "wrong",
@@ -157,7 +213,7 @@
     "foreign_response": "^\\s*wrong\\s*$",
     "ru_response": "^\\s*(неправильн(ый|ая)|ошибочн(ый|ая))\\s*$",
     "sound": "wrong",
-    "preview": ""
+    "preview": "wrong"
   },
   {
     "foreign_question": "young",
@@ -166,93 +222,5 @@
     "ru_response": "^\\s*(молод(ой|ая)|юн(ый|ая))\\s*$",
     "sound": "young",
     "preview": "young"
-  },
-  {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
-  },
-  {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
-  },
-  {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
-  },
-  {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
-  },
-  {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
-  },
-  {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
-  },
-  {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
-  },
-  {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
-  },
-  {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
-  },
-  {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
-  },
-  {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
   }
 ]

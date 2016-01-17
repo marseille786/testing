@@ -31,6 +31,7 @@ body > .container {
 textarea.form-control {
 	height: 200px;
 	resize: none;
+	margin: 15px 0;
 }
 
 #previewQuestion {
@@ -40,4 +41,10 @@ textarea.form-control {
 
 .blockPreview {
 	text-align: center;
+}
+
+@media screen and (max-width: 767px) {
+	.btn-primary {
+		margin: 15px 0;
+	}
 }

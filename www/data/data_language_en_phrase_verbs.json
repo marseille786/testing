@@ -1,0 +1,10 @@
+[
+  {
+    "foreign_question": "look for",
+    "ru_question": "искать (синоним 'seek')",
+    "foreign_response": "^\\s*look for\\s*$",
+    "ru_response": "^\\s*искать\\s*$",
+    "sound": "look_for",
+    "preview": "look_for"
+  }
+]

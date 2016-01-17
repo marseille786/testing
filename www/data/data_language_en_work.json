@@ -8,6 +8,14 @@
     "preview": "colleague"
   },
   {
+    "foreign_question": "e-mail",
+    "ru_question": "электронная почта, мейл, е-мейл",
+    "foreign_response": "^\\s*e?\\-?mail\\s*$",
+    "ru_response": "^\\s*(электронная почта|(е\\-?)?мейл)\\s*$",
+    "sound": "e-mail",
+    "preview": "e-mail"
+  },
+  {
     "foreign_question": "hard work",
     "ru_question": "трудолюбие",
     "foreign_response": "^\\s*hard work\\s*$",
@@ -24,6 +32,14 @@
     "preview": ""
   },
   {
+    "foreign_question": "list",
+    "ru_question": "список, перечень",
+    "foreign_response": "^\\s*list\\s*$",
+    "ru_response": "^\\s*(список|перечень)\\s*$",
+    "sound": "list",
+    "preview": "list"
+  },
+  {
     "foreign_question": "mistake",
     "ru_question": "ошибка",
     "foreign_response": "^\\s*mistake\\s*$",
@@ -32,12 +48,28 @@
     "preview": ""
   },
   {
+    "foreign_question": "organisation",
+    "ru_question": "организация",
+    "foreign_response": "^\\s*organisation\\s*$",
+    "ru_response": "^\\s*организация\\s*$",
+    "sound": "organisation",
+    "preview": "organisation"
+  },
+  {
     "foreign_question": "restaurant",
     "ru_question": "ресторан",
     "foreign_response": "^\\s*restaurant\\s*$",
     "ru_response": "^\\s*ресторан\\s*$",
     "sound": "restaurant",
     "preview": ""
+  },
+  {
+    "foreign_question": "visitor",
+    "ru_question": "посетитель",
+    "foreign_response": "^\\s*visitor\\s*$",
+    "ru_response": "^\\s*посетитель\\s*$",
+    "sound": "visitor",
+    "preview": "visitor"
   },
   {
     "foreign_question": "What is your job?",

@@ -1,0 +1,18 @@
+[
+  {
+    "foreign_question": "song",
+    "ru_question": "песня",
+    "foreign_response": "^\\s*song\\s*$",
+    "ru_response": "^\\s*песня\\s*$",
+    "sound": "song",
+    "preview": "song"
+  },
+  {
+    "foreign_question": "take pictures",
+    "ru_question": "фотографировать",
+    "foreign_response": "^\\s*take pictures\\s*$",
+    "ru_response": "^\\s*фотографировать\\s*$",
+    "sound": "take_pictures",
+    "preview": "take_pictures"
+  },
+]

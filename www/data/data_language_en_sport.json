@@ -1,18 +1,194 @@
 [
   {
-    "foreign_question": "fit",
-    "ru_question": "спортивная форма",
-    "foreign_response": "^\\s*fit\\s*$",
-    "ru_response": "^\\s*(спортивная )?форма\\s*$",
-    "sound": "fit",
-    "preview": ""
+    "foreign_question": "alpinism",
+    "ru_question": "альпинизм",
+    "foreign_response": "^\\s*alpinism\\s*$",
+    "ru_response": "^\\s*альпинизм\\s*$",
+    "sound": "alpinism",
+    "preview": "alpinism"
   },
   {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
+    "foreign_question": "ball",
+    "ru_question": "мяч",
+    "foreign_response": "^\\s*ball\\s*$",
+    "ru_response": "^\\s*мяч\\s*$",
+    "sound": "ball",
+    "preview": "ball"
+  },
+  {
+    "foreign_question": "bungee jumping",
+    "ru_question": "прыжки с тарзанки",
+    "foreign_response": "^\\s*bungee jumping\\s*$",
+    "ru_response": "^\\s*(прыж(ки|ок)|прыгать) с тарзанки\\s*$",
+    "sound": "bungee_jumping",
+    "preview": "bungee_jumping"
+  },
+  {
+    "foreign_question": "champion",
+    "ru_question": "чемпион",
+    "foreign_response": "^\\s*champion\\s*$",
+    "ru_response": "^\\s*чемпион\\s*$",
+    "sound": "champion",
+    "preview": "champion"
+  },
+  {
+    "foreign_question": "championship",
+    "ru_question": "чемпионат",
+    "foreign_response": "^\\s*championship\\s*$",
+    "ru_response": "^\\s*чемпионат\\s*$",
+    "sound": "championship",
+    "preview": "championship"
+  },
+  {
+    "foreign_question": "cup",
+    "ru_question": "кубок",
+    "foreign_response": "^\\s*cup\\s*$",
+    "ru_response": "^\\s*кубок\\s*$",
+    "sound": "cup",
+    "preview": "cup_sport"
+  },
+  {
+    "foreign_question": "dancing",
+    "ru_question": "танцы",
+    "foreign_response": "^\\s*dancing\\s*$",
+    "ru_response": "^\\s*танцы\\s*$",
+    "sound": "dancing",
+    "preview": "dancing"
+  },
+  {
+    "foreign_question": "extreme sports",
+    "ru_question": "экстремальные виды спорта",
+    "foreign_response": "^\\s*extreme sports\\s*$",
+    "ru_response": "^\\s*(экстремальные виды спорта|экстримальный спорт)\\s*$",
+    "sound": "extreme_sports",
+    "preview": "extreme_sports"
+  },
+  {
+    "foreign_question": "fit",
+    "ru_question": "спортивная форма (спортивное телосложение)",
+    "foreign_response": "^\\s*fit\\s*$",
+    "ru_response": "^\\s*((спортивная |хорошая )?форма|спортивное (тело)?сложение)\\s*$",
+    "sound": "fit",
+    "preview": "fit_sport"
+  },
+  {
+    "foreign_question": "fishing",
+    "ru_question": "рыбалка",
+    "foreign_response": "^\\s*fishing\\s*$",
+    "ru_response": "^\\s*рыбалка\\s*$",
+    "sound": "fishing",
+    "preview": "fishing"
+  },
+  {
+    "foreign_question": "football",
+    "ru_question": "футбол",
+    "foreign_response": "^\\s*football\\s*$",
+    "ru_response": "^\\s*футбол\\s*$",
+    "sound": "football",
+    "preview": "football"
+  },
+  {
+    "foreign_question": "game",
+    "ru_question": "игра",
+    "foreign_response": "^\\s*game\\s*$",
+    "ru_response": "^\\s*игра\\s*$",
+    "sound": "game",
+    "preview": "game"
+  },
+  {
+    "foreign_question": "go skiing",
+    "ru_question": "кататься на лыжах",
+    "foreign_response": "^\\s*go skiing\\s*$",
+    "ru_response": "^\\s*кататься на лыжах\\s*$",
+    "sound": "go_skiing",
+    "preview": "go_skiing"
+  },
+  {
+    "foreign_question": "hunting",
+    "ru_question": "охота",
+    "foreign_response": "^\\s*hunt(ing)?\\s*$",
+    "ru_response": "^\\s*охота\\s*$",
+    "sound": "hunting",
+    "preview": "hunting"
+  },
+  {
+    "foreign_question": "meditation",
+    "ru_question": "медитация",
+    "foreign_response": "^\\s*meditation\\s*$",
+    "ru_response": "^\\s*медитация\\s*$",
+    "sound": "meditation",
+    "preview": "meditation"
+  },
+  {
+    "foreign_question": "horse riding",
+    "ru_question": "верховая езда",
+    "foreign_response": "^\\s*(horse )?riding\\s*$",
+    "ru_response": "^\\s*верховая езда\\s*$",
+    "sound": "horse_riding",
+    "preview": "horse_riding"
+  },
+  {
+    "foreign_question": "kayaking",
+    "ru_question": "каякинг",
+    "foreign_response": "^\\s*kayaking\\s*$",
+    "ru_response": "^\\s*каякинг\\s*$",
+    "sound": "kayaking",
+    "preview": "kayaking"
+  },
+  {
+    "foreign_question": "mountain biking",
+    "ru_question": "катание на горных велосипедах",
+    "foreign_response": "^\\s*mountain biking\\s*$",
+    "ru_response": "^\\s*(катание|езда) на горных велосипедах\\s*$",
+    "sound": "mountain_biking",
+    "preview": "mountain_biking"
+  },
+  {
+    "foreign_question": "mountain climbing",
+    "ru_question": "скалолазание",
+    "foreign_response": "^\\s*mountain climbing\\s*$",
+    "ru_response": "^\\s*скалолазание\\s*$",
+    "sound": "mountain_climbing",
+    "preview": "mountain_climbing"
+  },
+  {
+    "foreign_question": "skiing",
+    "ru_question": "катание на лыжах",
+    "foreign_response": "^\\s*skiing\\s*$",
+    "ru_response": "^\\s*катание на лыжах\\s*$",
+    "sound": "skiing",
+    "preview": "skiing"
+  },
+  {
+    "foreign_question": "sport",
+    "ru_question": "спорт",
+    "foreign_response": "^\\s*sport\\s*$",
+    "ru_response": "^\\s*спорт\\s*$",
+    "sound": "sport",
+    "preview": "sport"
+  },
+  {
+    "foreign_question": "surfing",
+    "ru_question": "серфинг",
+    "foreign_response": "^\\s*surfing\\s*$",
+    "ru_response": "^\\s*серфинг\\s*$",
+    "sound": "surfing",
+    "preview": "surfing"
+  },
+  {
+    "foreign_question": "waterskiing",
+    "ru_question": "водные лыжи, катание на водных лыжах",
+    "foreign_response": "^\\s*water ?skiing\\s*$",
+    "ru_response": "^\\s*(водные лыжи|катание на водных лыжах)\\s*$",
+    "sound": "waterskiing",
+    "preview": "waterskiing"
+  },
+  {
+    "foreign_question": "windsurfing",
+    "ru_question": "виндсерфинг",
+    "foreign_response": "^\\s*windsurfing\\s*$",
+    "ru_response": "^\\s*виндсерфинг\\s*$",
+    "sound": "windsurfing",
+    "preview": "windsurfing"
   }
 ]

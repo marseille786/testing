@@ -1,0 +1,10 @@
+[
+  {
+    "foreign_question": "chair",
+    "ru_question": "стул",
+    "foreign_response": "^\\s*chair\\s*$",
+    "ru_response": "^\\s*стул\\s*$",
+    "sound": "chair",
+    "preview": "chair"
+  }
+]
