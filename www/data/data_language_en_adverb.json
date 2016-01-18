@@ -1,11 +1,19 @@
 [
   {
-    "foreign_question": "unbelievable",
-    "ru_question": "невероятно",
-    "foreign_response": "^\\s*unbelievable\\s*$",
-    "ru_response": "^\\s*невероятн(о|ый)\\s*$",
-    "sound": "unbelievable",
-    "preview": "unbelievable"
+    "foreign_question": "anyway",
+    "ru_question": "так или иначе, в любом случае",
+    "foreign_response": "^\\s*anyway\\s*$",
+    "ru_response": "^\\s*(так или иначе|в любом случае|во всяком случае)\\s*$",
+    "sound": "anyway",
+    "preview": "anyway"
+  },
+  {
+    "foreign_question": "at all",
+    "ru_question": "вообще, совсем",
+    "foreign_response": "^\\s*at all\\s*$",
+    "ru_response": "^\\s*(вообще|совсем)\\s*$",
+    "sound": "at_all",
+    "preview": "at_all"
   },
   {
     "foreign_question": "close to",
@@ -62,5 +70,21 @@
     "ru_response": "^\\s*(достаточно далеко|так далеко)\\s*$",
     "sound": "so_far",
     "preview": "so_far"
+  },
+  {
+    "foreign_question": "straight",
+    "ru_question": "прямо, сразу",
+    "foreign_response": "^\\s*straight\\s*$",
+    "ru_response": "^\\s*(прямо|сразу|немедленно)\\s*$",
+    "sound": "straight",
+    "preview": "straight"
+  },
+  {
+    "foreign_question": "unbelievable",
+    "ru_question": "невероятно",
+    "foreign_response": "^\\s*unbelievable\\s*$",
+    "ru_response": "^\\s*невероятн(о|ый)\\s*$",
+    "sound": "unbelievable",
+    "preview": "unbelievable"
   }
 ]

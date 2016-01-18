@@ -48,6 +48,14 @@
     "preview": "close_your_books"
   },
   {
+    "foreign_question": "Don't speak in Russian.",
+    "ru_question": "Не говори по русски.",
+    "foreign_response": "^\\s*Don\\'t speak in Russian\\.?\\s*$",
+    "ru_response": "^\\s*Не говори (по[ -]русски|на русском)\\.?\\s*$",
+    "sound": "don't_speak_in_russian",
+    "preview": "speak_in_english"
+  },
+  {
     "foreign_question": "How do you say it in English?",
     "ru_question": "Как сказать это по английски?",
     "foreign_response": "^\\s*How do you say it in English\\?\\s*$",
@@ -96,6 +104,14 @@
     "preview": "open_your_books"
   },
   {
+    "foreign_question": "Science",
+    "ru_question": "наука",
+    "foreign_response": "^\\s*Science\\s*$",
+    "ru_response": "^\\s*наука\\s*$",
+    "sound": "science",
+    "preview": "science"
+  },
+  {
     "foreign_question": "Speak in English.",
     "ru_question": "Говорите по-английски.",
     "foreign_response": "^\\s*Speak in English\\.?\\s*$",
@@ -104,12 +120,12 @@
     "preview": "speak_in_english"
   },
   {
-    "foreign_question": "Don't speak in Russian.",
-    "ru_question": "Не говори по русски.",
-    "foreign_response": "^\\s*Don\\'t speak in Russian\\.?\\s*$",
-    "ru_response": "^\\s*Не говори (по[ -]русски|на русском)\\.?\\s*$",
-    "sound": "don't_speak_in_russian",
-    "preview": "speak_in_english"
+    "foreign_question": "subject",
+    "ru_question": "предмет, субъект",
+    "foreign_response": "^\\s*subject\\s*$",
+    "ru_response": "^\\s*(предмет|субъект|тема)\\s*$",
+    "sound": "subject",
+    "preview": "subject"
   },
   {
     "foreign_question": "That's right.",

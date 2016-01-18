@@ -1,35 +1,59 @@
 [
   {
+    "foreign_question": "different things",
+    "ru_question": "разные вещи",
+    "foreign_response": "^\\s*different things\\s*$",
+    "ru_response": "^\\s*разные вещи\\s*$",
+    "sound": "different_things",
+    "preview": "different_things"
+  },
+  {
+    "foreign_question": "free time",
+    "ru_question": "свободное время",
+    "foreign_response": "^\\s*free time\\s*$",
+    "ru_response": "^\\s*свободное время\\s*$",
+    "sound": "free_time",
+    "preview": "free_time"
+  },
+  {
+    "foreign_question": "I want her to be happy",
+    "ru_question": "я хочу, чтобы она была счастлива",
+    "foreign_response": "^\\s*I want her to be happy\\s*$",
+    "ru_response": "^\\s*я (хочу\\,? чтобы она была счастлива|желаю ей счастья)\\s*$",
+    "sound": "i_want_her_to_be_happy",
+    "preview": "i_want_her_to_be_happy"
+  },
+  {
+    "foreign_question": "it depends on",
+    "ru_question": "это зависит от",
+    "foreign_response": "^\\s*it depends on\\s*$",
+    "ru_response": "^\\s*(это )?зависит от\\s*$",
+    "sound": "it_depends_on",
+    "preview": "it_depends_on"
+  },
+  {
+    "foreign_question": "promise",
+    "ru_question": "обещание",
+    "foreign_response": "^\\s*promise\\s*$",
+    "ru_response": "^\\s*обещание\\s*$",
+    "sound": "promise",
+    "preview": "promise"
+  },
+  {
+    "foreign_question": "rest",
+    "ru_question": "отдых",
+    "foreign_response": "^\\s*rest\\s*$",
+    "ru_response": "^\\s*отдых\\s*$",
+    "sound": "rest",
+    "preview": "rest"
+  },
+  {
     "foreign_question": "tea-time",
     "ru_question": "время пить чай",
     "foreign_response": "^\\s*tea-time\\s*$",
     "ru_response": "^\\s*время пить чай\\s*$",
     "sound": "tea-time",
     "preview": "tea-time"
-  },
-  {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
-  },
-  {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
-  },
-  {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
   },
   {
     "foreign_question": "",

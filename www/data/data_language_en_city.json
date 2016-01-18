@@ -80,6 +80,14 @@
     "preview": "library"
   },
   {
+    "foreign_question": "music shop",
+    "ru_question": "музыкальный магазин",
+    "foreign_response": "^\\s*music shop\\s*$",
+    "ru_response": "^\\s*музыкальный магазин\\s*$",
+    "sound": "music_shop",
+    "preview": "music_shop"
+  },
+  {
     "foreign_question": "park",
     "ru_question": "парк",
     "foreign_response": "^\\s*park\\s*$",
@@ -206,5 +214,21 @@
     "ru_response": "^\\s*театр\\s*$",
     "sound": "theater",
     "preview": "theater"
+  },
+  {
+    "foreign_question": "traffic",
+    "ru_question": "дорожное движение",
+    "foreign_response": "^\\s*traffic\\s*$",
+    "ru_response": "^\\s*дорожное движение\\s*$",
+    "sound": "traffic",
+    "preview": "traffic"
+  },
+  {
+    "foreign_question": "traffic jam",
+    "ru_question": "автомобильная пробка",
+    "foreign_response": "^\\s*traffic jam\\s*$",
+    "ru_response": "^\\s*(дорожная |автомобильная )пробка\\s*$",
+    "sound": "traffic_jam",
+    "preview": "traffic_jam"
   }
 ]

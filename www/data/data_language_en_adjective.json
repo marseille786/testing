@@ -8,12 +8,28 @@
     "preview": ""
   },
   {
+    "foreign_question": "chubby",
+    "ru_question": "круглолицый",
+    "foreign_response": "^\\s*chubby\\s*$",
+    "ru_response": "^\\s*круглолицый\\s*$",
+    "sound": "chubby",
+    "preview": "chubby"
+  },
+  {
     "foreign_question": "cold",
     "ru_question": "холодный",
     "foreign_response": "^\\s*cold\\s*$",
     "ru_response": "^\\s*холодный\\s*$",
     "sound": "cold",
     "preview": ""
+  },
+  {
+    "foreign_question": "curly",
+    "ru_question": "кудрявый",
+    "foreign_response": "^\\s*curly\\s*$",
+    "ru_response": "^\\s*кудрявый, кучерявый, курчавый, вьющийся\\s*$",
+    "sound": "curly",
+    "preview": "curly"
   },
   {
     "foreign_question": "excited",
@@ -24,12 +40,36 @@
     "preview": "excited"
   },
   {
+    "foreign_question": "favourite",
+    "ru_question": "любимый (не о человеке)",
+    "foreign_response": "^\\s*favourite\\s*$",
+    "ru_response": "^\\s*любимый\\s*$",
+    "sound": "favourite",
+    "preview": "favourite"
+  },
+  {
+    "foreign_question": "female",
+    "ru_question": "женский",
+    "foreign_response": "^\\s*female\\s*$",
+    "ru_response": "^\\s*женский\\s*$",
+    "sound": "female",
+    "preview": "female"
+  },
+  {
     "foreign_question": "happy",
     "ru_question": "счастливый, счастливая",
     "foreign_response": "^\\s*happy\\s*$",
     "ru_response": "^\\s*счастлив(ый|ая)\\s*$",
     "sound": "happy",
     "preview": "happy"
+  },
+  {
+    "foreign_question": "hard",
+    "ru_question": "тяжелый, жесткий",
+    "foreign_response": "^\\s*hard\\s*$",
+    "ru_response": "^\\s*(тяжелый|жесткий)\\s*$",
+    "sound": "hard",
+    "preview": "hard"
   },
   {
     "foreign_question": "high",
@@ -62,6 +102,22 @@
     "ru_response": "^\\s*невероятный, потрясающий\\s*$",
     "sound": "incredible",
     "preview": "incredible"
+  },
+  {
+    "foreign_question": "long",
+    "ru_question": "длинный, долгий",
+    "foreign_response": "^\\s*long\\s*$",
+    "ru_response": "^\\s*(длинный|долгий)\\s*$",
+    "sound": "long",
+    "preview": "long"
+  },
+  {
+    "foreign_question": "male",
+    "ru_question": "мужской",
+    "foreign_response": "^\\s*male\\s*$",
+    "ru_response": "^\\s*мужской\\s*$",
+    "sound": "male",
+    "preview": "male"
   },
   {
     "foreign_question": "married",
@@ -144,6 +200,14 @@
     "preview": "single"
   },
   {
+    "foreign_question": "slim",
+    "ru_question": "тонкий, стройный",
+    "foreign_response": "^\\s*slim\\s*$",
+    "ru_response": "^\\s*(тонкий|стройный|худой)\\s*$",
+    "sound": "slim",
+    "preview": "slim"
+  },
+  {
     "foreign_question": "stupid",
     "ru_question": "глупый (синоним silly)",
     "foreign_response": "^\\s*stupid\\s*$",
@@ -190,6 +254,14 @@
     "ru_response": "^\\s*обычный\\s*$",
     "sound": "usual",
     "preview": "usual"
+  },
+  {
+    "foreign_question": "wavy",
+    "ru_question": "волнистый",
+    "foreign_response": "^\\s*wavy\\s*$",
+    "ru_response": "^\\s*волнистый\\s*$",
+    "sound": "wavy",
+    "preview": "wavy"
   },
   {
     "foreign_question": "weak",

@@ -1,11 +1,43 @@
 [
   {
+    "foreign_question": "age",
+    "ru_question": "возраст",
+    "foreign_response": "^\\s*age\\s*$",
+    "ru_response": "^\\s*возраст\\s*$",
+    "sound": "age",
+    "preview": "age"
+  },
+  {
+    "foreign_question": "blond",
+    "ru_question": "блондин",
+    "foreign_response": "^\\s*blond\\s*$",
+    "ru_response": "^\\s*(блондин|русый|белокурый|светлый)\\s*$",
+    "sound": "blond",
+    "preview": "blond"
+  },
+  {
+    "foreign_question": "blonde",
+    "ru_question": "блондинка",
+    "foreign_response": "^\\s*blonde\\s*$",
+    "ru_response": "^\\s*(блондинка|русая|белокурая|светлая)\\s*$",
+    "sound": "blonde",
+    "preview": "blonde"
+  },
+  {
     "foreign_question": "excitement",
     "ru_question": "восторг, волнение",
     "foreign_response": "^\\s*excitement\\s*$",
     "ru_response": "^\\s*(восторг|волнение|возбуждение)\\s*$",
     "sound": "excitement",
     "preview": "excitement"
+  },
+  {
+    "foreign_question": "medium-length",
+    "ru_question": "средняя длина",
+    "foreign_response": "^\\s*medium-length\\s*$",
+    "ru_response": "^\\s*средняя длина\\s*$",
+    "sound": "medium-length",
+    "preview": "medium-length"
   },
   {
     "foreign_question": "sight (не достопримечательности)",

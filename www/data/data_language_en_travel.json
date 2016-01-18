@@ -11,7 +11,7 @@
     "foreign_question": "boarding pass",
     "ru_question": "посадочный талон",
     "foreign_response": "^\\s*boarding pass\\s*$",
-    "ru_response": "^\\s*посадочный талон\\s*$",
+    "ru_response": "^\\s*(посадочный (талон)?|билет)\\s*$",
     "sound": "boarding_pass",
     "preview": "boarding_pass"
   },
@@ -56,6 +56,14 @@
     "preview": "equator"
   },
   {
+    "foreign_question": "how long does it take to go from there to here?",
+    "ru_question": "как долго вы добираетесь от туда сюда?",
+    "foreign_response": "^\\s*how long does it take to go from there to here?\\s*$",
+    "ru_response": "^\\s*(как долго вы добираетесь от туда( до)? сюда|сколько( времени)?( у вас)? занимает( поездка| дорога)? от туда( до)? сюда)?\\s*$",
+    "sound": "how_long_does_it_take_to_go_from_there_to_here-",
+    "preview": "how_long_does_it_take_to_go_from_there_to_here-"
+  },
+  {
     "foreign_question": "language",
     "ru_question": "язык (для общения)",
     "foreign_response": "^\\s*language\\s*$",
@@ -75,9 +83,17 @@
     "foreign_question": "people",
     "ru_question": "люди",
     "foreign_response": "^\\s*people\\s*$",
-    "ru_response": "^\\s*люди\\s*$",
+    "ru_response": "^\\s*(люди|народ)\\s*$",
     "sound": "people",
     "preview": "people"
+  },
+  {
+    "foreign_question": "region",
+    "ru_question": "область",
+    "foreign_response": "^\\s*region\\s*$",
+    "ru_response": "^\\s*область\\s*$",
+    "sound": "region",
+    "preview": "region"
   },
   {
     "foreign_question": "south",

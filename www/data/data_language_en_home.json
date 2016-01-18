@@ -6,5 +6,21 @@
     "ru_response": "^\\s*стул\\s*$",
     "sound": "chair",
     "preview": "chair"
+  },
+  {
+    "foreign_question": "country house",
+    "ru_question": "загородный дом, дача",
+    "foreign_response": "^\\s*country house\\s*$",
+    "ru_response": "^\\s*(загородный дом|дача)\\s*$",
+    "sound": "country_house",
+    "preview": "country_house"
+  },
+  {
+    "foreign_question": "take care",
+    "ru_question": "береги себя",
+    "foreign_response": "^\\s*take care\\s*$",
+    "ru_response": "^\\s*береги себя\\s*$",
+    "sound": "take_care",
+    "preview": "take_care"
   }
 ]

@@ -21,7 +21,7 @@
     "foreign_response": "^\\s*brown\\s*$",
     "ru_response": "^\\s*коричневый\\s*$",
     "sound": "brown",
-    "preview": ""
+    "preview": "brown"
   },
   {
     "foreign_question": "dark",
@@ -29,7 +29,7 @@
     "foreign_response": "^\\s*dark\\s*$",
     "ru_response": "^\\s*темный\\s*$",
     "sound": "dark",
-    "preview": ""
+    "preview": "dark"
   },
   {
     "foreign_question": "green",
@@ -85,14 +85,6 @@
     "foreign_response": "^\\s*yellow\\s*$",
     "ru_response": "^\\s*желтый\\s*$",
     "sound": "yellow",
-    "preview": ""
-  },
-  {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
+    "preview": "yellow"
   }
 ]

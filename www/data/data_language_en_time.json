@@ -48,6 +48,14 @@
     "preview": "for_five_years"
   },
   {
+    "foreign_question": "have time",
+    "ru_question": "иметь время, успевать",
+    "foreign_response": "^\\s*have time\\s*$",
+    "ru_response": "^\\s*(иметь время|успевать)\\s*$",
+    "sound": "have_time",
+    "preview": "have_time"
+  },
+  {
     "foreign_question": "in January",
     "ru_question": "в январе",
     "foreign_response": "^\\s*in January\\s*$",
@@ -150,6 +158,14 @@
     "ru_response": "^\\s*в понедельник\\s*$",
     "sound": "on_monday",
     "preview": "on_monday"
+  },
+  {
+    "foreign_question": "once upon a time",
+    "ru_question": "однажды, жили были",
+    "foreign_response": "^\\s*once upon a time\\s*$",
+    "ru_response": "^\\s*(однажды|жили были)\\s*$",
+    "sound": "once_upon_a_time",
+    "preview": "once_upon_a_time"
   },
   {
     "foreign_question": "three days ago",

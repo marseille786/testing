@@ -6,5 +6,13 @@
     "ru_response": "^\\s*искать\\s*$",
     "sound": "look_for",
     "preview": "look_for"
+  },
+  {
+    "foreign_question": "have a rest",
+    "ru_question": "отдыхать",
+    "foreign_response": "^\\s*have a rest\\s*$",
+    "ru_response": "^\\s*отдыхать\\s*$",
+    "sound": "have_a_rest",
+    "preview": "have_a_rest"
   }
 ]

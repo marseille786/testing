@@ -56,6 +56,14 @@
     "preview": "organisation"
   },
   {
+    "foreign_question": "paint",
+    "ru_question": "краска",
+    "foreign_response": "^\\s*paint\\s*$",
+    "ru_response": "^\\s*краска\\s*$",
+    "sound": "paint",
+    "preview": "paint"
+  },
+  {
     "foreign_question": "restaurant",
     "ru_question": "ресторан",
     "foreign_response": "^\\s*restaurant\\s*$",
@@ -72,19 +80,19 @@
     "preview": "visitor"
   },
   {
+    "foreign_question": "weekend",
+    "ru_question": "выходные",
+    "foreign_response": "^\\s*weekend\\s*$",
+    "ru_response": "^\\s*выходные( дни)?\\s*$",
+    "sound": "weekend",
+    "preview": "weekend"
+  },
+  {
     "foreign_question": "What is your job?",
     "ru_question": "Кем ты работаешь?",
     "foreign_response": "^\\s*What(\\'| i)s your job\\?\\s*$",
     "ru_response": "^\\s*Кем [тв]ы работае(шь|те)\\?\\s*$",
     "sound": "what_is_your_job-",
     "preview": "what_is_your_job-"
-  },
-  {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
   }
 ]

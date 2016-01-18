@@ -59,7 +59,7 @@
     "foreign_question": "endangered species",
     "ru_question": "вымирающие виды",
     "foreign_response": "^\\s*endangered species\\s*$",
-    "ru_response": "^\\s*вымирающие виды\\s*$",
+    "ru_response": "^\\s*(вымирающие|исчезающие) виды\\s*$",
     "sound": "endangered_species",
     "preview": "endangered_species"
   },

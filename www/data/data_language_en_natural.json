@@ -27,7 +27,7 @@
     "foreign_question": "coast",
     "ru_question": "побережье (синоним shore)",
     "foreign_response": "^\\s*coast\\s*$",
-    "ru_response": "^\\s*побережье\\s*$",
+    "ru_response": "^\\s*(побережье|берег)\\s*$",
     "sound": "coast",
     "preview": "coast"
   },
@@ -163,7 +163,7 @@
     "foreign_question": "it is sunny",
     "ru_question": "сейчас солнечно",
     "foreign_response": "^\\s*it(\\'| i)s sunny\\s*$",
-    "ru_response": "^\\s*сейчас солнечно\\s*$",
+    "ru_response": "^\\s*(сейчас )?(солнечно|ясно)\\s*$",
     "sound": "it_is_sunny",
     "preview": "it_is_sunny"
   },
@@ -171,7 +171,7 @@
     "foreign_question": "it is raining",
     "ru_question": "сейчас дождливо",
     "foreign_response": "^\\s*it(\\'| i)s raining\\s*$",
-    "ru_response": "^\\s*(сейчас дождливо|дождит)\\s*$",
+    "ru_response": "^\\s*((сейчас )?дождливо|дождит)\\s*$",
     "sound": "it_is_raining",
     "preview": "it_is_raining"
   },
@@ -179,7 +179,7 @@
     "foreign_question": "it is foggy",
     "ru_question": "сейчас туманно",
     "foreign_response": "^\\s*it(\\'| i)s foggy\\s*$",
-    "ru_response": "^\\s*сейчас туманно\\s*$",
+    "ru_response": "^\\s*(сейчас )?туманно\\s*$",
     "sound": "it_is_foggy",
     "preview": "it_is_foggy"
   },
@@ -227,7 +227,7 @@
     "foreign_question": "leaf",
     "ru_question": "лист",
     "foreign_response": "^\\s*leaf\\s*$",
-    "ru_response": "^\\s*лист\\s*$",
+    "ru_response": "^\\s*лист(ок)?\\s*$",
     "sound": "leaf",
     "preview": "leaf"
   },
@@ -283,7 +283,7 @@
     "foreign_question": "off the coast",
     "ru_question": "от побережья",
     "foreign_response": "^\\s*off the coast\\s*$",
-    "ru_response": "^\\s*от побережья\\s*$",
+    "ru_response": "^\\s*от (побережья|берега)\\s*$",
     "sound": "off_the_coast",
     "preview": "off_the_coast"
   },
@@ -329,9 +329,9 @@
   },
   {
     "foreign_question": "shore",
-    "ru_question": "берег моря (синоним shore)",
+    "ru_question": "берег моря (синоним coast)",
     "foreign_response": "^\\s*shore\\s*$",
-    "ru_response": "^\\s*берег( моря)?\\s*$",
+    "ru_response": "^\\s*(берег|побережье)( моря)?\\s*$",
     "sound": "shore",
     "preview": "shore"
   },
@@ -350,6 +350,14 @@
     "ru_response": "^\\s*снег\\s*$",
     "sound": "snow",
     "preview": "snow"
+  },
+  {
+    "foreign_question": "spruce",
+    "ru_question": "ель, хвойное дерево",
+    "foreign_response": "^\\s*spruce\\s*$",
+    "ru_response": "^\\s*(ель|елка|хвойное дерево)\\s*$",
+    "sound": "spruce",
+    "preview": "spruce"
   },
   {
     "foreign_question": "storm",

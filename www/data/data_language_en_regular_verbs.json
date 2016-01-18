@@ -1,5 +1,13 @@
 [
 	{
+		"foreign_question": "accompany",
+		"ru_question": "сопровождать",
+		"foreign_response": "^\\s*accompany\\s*$",
+		"ru_response": "^\\s*сопровождать\\s*$",
+	  	"sound": "accompany",
+	  	"preview": "accompany"
+	},
+	{
 		"foreign_question": "advise",
 		"ru_question": "советовать",
 		"foreign_response": "^\\s*advise\\s*$",
@@ -135,6 +143,14 @@
 	  	"sound": "cry",
 	  	"preview": "cry"
 	},
+  {
+    "foreign_question": "dance",
+    "ru_question": "танцевать",
+    "foreign_response": "^\\s*dance\\s*$",
+    "ru_response": "^\\s*танцевать\\s*$",
+    "sound": "dance",
+    "preview": "dance"
+  },
 	{
 		"foreign_question": "decide",
 		"ru_question": "решать (задачу), принимать решение",
@@ -319,6 +335,14 @@
 	  	"sound": "look_at",
 	  	"preview": "look"
 	},
+  {
+    "foreign_question": "look like",
+    "ru_question": "выглядеть как",
+    "foreign_response": "^\\s*look like\\s*$",
+    "ru_response": "^\\s*(выглядеть как|быть похожим на|походить на)\\s*$",
+    "sound": "look_like",
+    "preview": "look_like"
+  },
 	{
 		"foreign_question": "love",
 		"ru_question": "любить",
@@ -359,6 +383,14 @@
 	  	"sound": "order",
 	  	"preview": "order__v"
 	},
+  {
+    "foreign_question": "paint",
+    "ru_question": "красить",
+    "foreign_response": "^\\s*paint\\s*$",
+    "ru_response": "^\\s*красить\\s*$",
+    "sound": "paint",
+    "preview": "paint"
+  },
 	{
 		"foreign_question": "plant",
 		"ru_question": "садить (дерево)",

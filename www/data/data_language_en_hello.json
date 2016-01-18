@@ -368,6 +368,14 @@
     "preview": "that's_a_pity!"
   },
   {
+    "foreign_question": "that's all",
+    "ru_question": "это все",
+    "foreign_response": "^\\s*(that|it)(\\'| i)s all\\s*$",
+    "ru_response": "^\\s*это все\\s*$",
+    "sound": "that's_all",
+    "preview": "that's_all"
+  },
+  {
     "foreign_question": "that's great",
     "ru_question": "это прекрасно, это здорово",
     "foreign_response": "^\\s*that(\\'| i)s great\\s*$",

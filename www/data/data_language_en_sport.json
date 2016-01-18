@@ -19,7 +19,7 @@
     "foreign_question": "bungee jumping",
     "ru_question": "прыжки с тарзанки",
     "foreign_response": "^\\s*bungee jumping\\s*$",
-    "ru_response": "^\\s*(прыж(ки|ок)|прыгать) с тарзанки\\s*$",
+    "ru_response": "^\\s*((прыж(ки|ок)|прыгать|прыган[ьи]е) с тарзанки|прыган[ьи]е на тарзанке)\\s*$",
     "sound": "bungee_jumping",
     "preview": "bungee_jumping"
   },
@@ -99,7 +99,7 @@
     "foreign_question": "go skiing",
     "ru_question": "кататься на лыжах",
     "foreign_response": "^\\s*go skiing\\s*$",
-    "ru_response": "^\\s*кататься на лыжах\\s*$",
+    "ru_response": "^\\s*(кататься|ездить) на лыжах\\s*$",
     "sound": "go_skiing",
     "preview": "go_skiing"
   },
@@ -139,7 +139,7 @@
     "foreign_question": "mountain biking",
     "ru_question": "катание на горных велосипедах",
     "foreign_response": "^\\s*mountain biking\\s*$",
-    "ru_response": "^\\s*(катание|езда) на горных велосипедах\\s*$",
+    "ru_response": "^\\s*((катание|езда) на горных велосипедах|горный велоспорт)\\s*$",
     "sound": "mountain_biking",
     "preview": "mountain_biking"
   },
@@ -147,7 +147,7 @@
     "foreign_question": "mountain climbing",
     "ru_question": "скалолазание",
     "foreign_response": "^\\s*mountain climbing\\s*$",
-    "ru_response": "^\\s*скалолазание\\s*$",
+    "ru_response": "^\\s*скалолазан[иь]е\\s*$",
     "sound": "mountain_climbing",
     "preview": "mountain_climbing"
   },

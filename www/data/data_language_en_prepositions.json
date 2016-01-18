@@ -1,0 +1,172 @@
+[
+	// предлоги
+  {
+    "foreign_question": "about",
+    "ru_question": "о, про",
+    "foreign_response": "^\\s*about\\s*$",
+    "ru_response": "^\\s*(о|про|около)\\s*$",
+    "sound": "about",
+    "preview": "about"
+  },
+  {
+    "foreign_question": "between",
+    "ru_question": "между",
+    "foreign_response": "^\\s*between\\s*$",
+    "ru_response": "^\\s*между\\s*$",
+    "sound": "between",
+    "preview": "between"
+  },
+  {
+    "foreign_question": "for",
+    "ru_question": "для",
+    "foreign_response": "^\\s*for\\s*$",
+    "ru_response": "^\\s*для\\s*$",
+    "sound": "for",
+    "preview": "for"
+  },
+  {
+    "foreign_question": "from",
+    "ru_question": "из, от (от куда-то)",
+    "foreign_response": "^\\s*from\\s*$",
+    "ru_response": "^\\s*(из|от)\\s*$",
+    "sound": "from",
+    "preview": "from"
+  },
+  {
+    "foreign_question": "in",
+    "ru_question": "в (внутри чего-то)",
+    "foreign_response": "^\\s*in\\s*$",
+    "ru_response": "^\\s*в\\s*$",
+    "sound": "in",
+    "preview": "in"
+  },
+  {
+    "foreign_question": "of",
+    "ru_question": "предлог родительного падежа",
+    "foreign_response": "^\\s*of\\s*$",
+    "ru_response": "^\\s*(предлог родительного падежа|родительный падеж)\\s*$",
+    "sound": "of",
+    "preview": "of"
+  },
+  {
+    "foreign_question": "on",
+    "ru_question": "на (на поверхности предмета)",
+    "foreign_response": "^\\s*on\\s*$",
+    "ru_response": "^\\s*на\\s*$",
+    "sound": "on",
+    "preview": "on"
+  },
+  {
+    "foreign_question": "over",
+    "ru_question": "над",
+    "foreign_response": "^\\s*over\\s*$",
+    "ru_response": "^\\s*над\\s*$",
+    "sound": "over",
+    "preview": "over"
+  },
+  {
+    "foreign_question": "to",
+    "ru_question": "к (по направлению к чему-либо)",
+    "foreign_response": "^\\s*to\\s*$",
+    "ru_response": "^\\s*к\\s*$",
+    "sound": "to",
+    "preview": "to"
+  },
+  {
+    "foreign_question": "under",
+    "ru_question": "под",
+    "foreign_response": "^\\s*under\\s*$",
+    "ru_response": "^\\s*под\\s*$",
+    "sound": "under",
+    "preview": "under"
+  },
+  {
+    "foreign_question": "with",
+    "ru_question": "с (с кем-то, с чем-то)",
+    "foreign_response": "^\\s*with\\s*$",
+    "ru_response": "^\\s*с\\s*$",
+    "sound": "with",
+    "preview": "with"
+  },
+  {
+    "foreign_question": "without",
+    "ru_question": "без (кого-то, чего-то)",
+    "foreign_response": "^\\s*without\\s*$",
+    "ru_response": "^\\s*без\\s*$",
+    "sound": "without",
+    "preview": "without"
+  },
+  // союзы
+  {
+    "foreign_question": "after",
+    "ru_question": "после того, как",
+    "foreign_response": "^\\s*after\\s*$",
+    "ru_response": "^\\s*после( того\\,? как)\\s*$",
+    "sound": "after",
+    "preview": "after"
+  },
+  {
+    "foreign_question": "and",
+    "ru_question": "и",
+    "foreign_response": "^\\s*and\\s*$",
+    "ru_response": "^\\s*и\\s*$",
+    "sound": "and",
+    "preview": "and"
+  },
+  {
+    "foreign_question": "before",
+    "ru_question": "перед тем, как",
+    "foreign_response": "^\\s*before\\s*$",
+    "ru_response": "^\\s*перед( тем, как)?\\s*$",
+    "sound": "before",
+    "preview": "before"
+  },
+  {
+    "foreign_question": "but",
+    "ru_question": "но",
+    "foreign_response": "^\\s*but\\s*$",
+    "ru_response": "^\\s*но\\s*$",
+    "sound": "but",
+    "preview": "but"
+  },
+  {
+    "foreign_question": "if",
+    "ru_question": "если",
+    "foreign_response": "^\\s*if\\s*$",
+    "ru_response": "^\\s*если\\s*$",
+    "sound": "if",
+    "preview": "if"
+  },
+  {
+    "foreign_question": "or",
+    "ru_question": "или",
+    "foreign_response": "^\\s*or\\s*$",
+    "ru_response": "^\\s*или\\s*$",
+    "sound": "or",
+    "preview": "or"
+  },
+  {
+    "foreign_question": "than",
+    "ru_question": "чем (при сравнении)",
+    "foreign_response": "^\\s*than\\s*$",
+    "ru_response": "^\\s*чем\\s*$",
+    "sound": "than",
+    "preview": "than"
+  },
+  {
+    "foreign_question": "that",
+    "ru_question": "что, чтобы",
+    "foreign_response": "^\\s*that\\s*$",
+    "ru_response": "^\\s*(что|чтобы)\\s*$",
+    "sound": "that",
+    "preview": "that"
+  },
+  {
+    "foreign_question": "when",
+    "ru_question": "когда",
+    "foreign_response": "^\\s*when\\s*$",
+    "ru_response": "^\\s*когда\\s*$",
+    "sound": "when",
+    "preview": "when"
+  }
+]
