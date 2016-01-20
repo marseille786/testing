@@ -1,0 +1,127 @@
+[
+	// о предметах
+  {
+    "foreign_question": "everything",
+    "ru_question": "все (о предметах)",
+    "foreign_response": "^\\s*everything\\s*$",
+    "ru_response": "^\\s*все\\s*$",
+    "sound": "everything",
+    "preview": "everything"
+  },
+  {
+    "foreign_question": "something",
+    "ru_question": "что-то (о предметах)",
+    "foreign_response": "^\\s*something\\s*$",
+    "ru_response": "^\\s*что-то\\s*$",
+    "sound": "something",
+    "preview": "something"
+  },
+  {
+    "foreign_question": "nothing",
+    "ru_question": "ничто, ничего (о предметах)",
+    "foreign_response": "^\\s*nothing\\s*$",
+    "ru_response": "^\\s*(ничто|ничего)\\s*$",
+    "sound": "nothing",
+    "preview": "nothing"
+  },
+  // о людях
+  {
+    "foreign_question": "everybody",
+    "ru_question": "все (о людях)",
+    "foreign_response": "^\\s*everybody\\s*$",
+    "ru_response": "^\\s*все\\s*$",
+    "sound": "everybody",
+    "preview": "everybody"
+  },
+  {
+    "foreign_question": "somebody",
+    "ru_question": "кто-то (о людях)",
+    "foreign_response": "^\\s*somebody\\s*$",
+    "ru_response": "^\\s*кто-то\\s*$",
+    "sound": "somebody",
+    "preview": "somebody"
+  },
+  {
+    "foreign_question": "nobody",
+    "ru_question": "никто (о людях)",
+    "foreign_response": "^\\s*nobody\\s*$",
+    "ru_response": "^\\s*никто\\s*$",
+    "sound": "nobody",
+    "preview": "nobody"
+  },
+  // о местоположении
+  {
+    "foreign_question": "everywhere",
+    "ru_question": "везде (о местоположении)",
+    "foreign_response": "^\\s*everywhere\\s*$",
+    "ru_response": "^\\s*везде\\s*$",
+    "sound": "everywhere",
+    "preview": "everywhere"
+  },
+  {
+    "foreign_question": "somewhere",
+    "ru_question": "где-то, куда-то (о местоположении)",
+    "foreign_response": "^\\s*somewhere\\s*$",
+    "ru_response": "^\\s*(где-то|куда-то)\\s*$",
+    "sound": "somewhere",
+    "preview": "somewhere"
+  },
+  {
+    "foreign_question": "nowhere",
+    "ru_question": "нигде, никуда (о местоположении)",
+    "foreign_response": "^\\s*nowhere\\s*$",
+    "ru_response": "^\\s*(нигде|никуда)\\s*$",
+    "sound": "nowhere",
+    "preview": "nowhere"
+  },
+  // о времени
+  {
+    "foreign_question": "always",
+    "ru_question": "всегда (о времени)",
+    "foreign_response": "^\\s*always\\s*$",
+    "ru_response": "^\\s*всегда\\s*$",
+    "sound": "always",
+    "preview": "always"
+  },
+  {
+    "foreign_question": "sometimes",
+    "ru_question": "иногда (о времени)",
+    "foreign_response": "^\\s*sometimes\\s*$",
+    "ru_response": "^\\s*иногда\\s*$",
+    "sound": "sometimes",
+    "preview": "sometimes"
+  },
+  {
+    "foreign_question": "never",
+    "ru_question": "никогда (о времени)",
+    "foreign_response": "^\\s*never\\s*$",
+    "ru_response": "^\\s*никогда\\s*$",
+    "sound": "never",
+    "preview": "never"
+  },
+  // при вопросе и отрицательной форме
+  {
+    "foreign_question": "anything",
+    "ru_question": "что-нибудь (при вопросе и отрицательной форме)",
+    "foreign_response": "^\\s*anything\\s*$",
+    "ru_response": "^\\s*что-нибудь\\s*$",
+    "sound": "anything",
+    "preview": "anything"
+  },
+  {
+    "foreign_question": "anybody",
+    "ru_question": "кто-нибудь (при вопросе и отрицательной форме)",
+    "foreign_response": "^\\s*anybody\\s*$",
+    "ru_response": "^\\s*кто-нибудь\\s*$",
+    "sound": "anybody",
+    "preview": "anybody"
+  },
+  {
+    "foreign_question": "anywhere",
+    "ru_question": "где-нибудь, куда-нибудь (при вопросе и отрицательной форме)",
+    "foreign_response": "^\\s*anywhere\\s*$",
+    "ru_response": "^\\s*(где-нибудь|куда-нибудь)\\s*$",
+    "sound": "anywhere",
+    "preview": "anywhere"
+  }
+]

@@ -1,11 +1,115 @@
 [
   {
+    "foreign_question": "based on",
+    "ru_question": "основан на, по мотивам",
+    "foreign_response": "^\\s*based on\\s*$",
+    "ru_response": "^\\s*(основан на|по мотивам)\\s*$",
+    "sound": "based_on",
+    "preview": "based_on"
+  },
+  {
+    "foreign_question": "shooting day",
+    "ru_question": "съемочный день",
+    "foreign_response": "^\\s*shooting day\\s*$",
+    "ru_response": "^\\s*съемочный день\\s*$",
+    "sound": "shooting_day",
+    "preview": "shooting_day"
+  },
+  {
+    "foreign_question": "scene",
+    "ru_question": "сцена",
+    "foreign_response": "^\\s*scene\\s*$",
+    "ru_response": "^\\s*сцена\\s*$",
+    "sound": "scene",
+    "preview": "scene"
+  },
+  {
+    "foreign_question": "main role",
+    "ru_question": "главная роль",
+    "foreign_response": "^\\s*main role\\s*$",
+    "ru_response": "^\\s*главная роль\\s*$",
+    "sound": "main_role",
+    "preview": "main_role"
+  },
+  {
+    "foreign_question": "part",
+    "ru_question": "серия",
+    "foreign_response": "^\\s*part\\s*$",
+    "ru_response": "^\\s*(серия|эпизод|часть)\\s*$",
+    "sound": "part",
+    "preview": "part"
+  },
+  {
+    "foreign_question": "plot",
+    "ru_question": "сюжет",
+    "foreign_response": "^\\s*plot\\s*$",
+    "ru_response": "^\\s*сюжет\\s*$",
+    "sound": "plot",
+    "preview": "plot"
+  },
+  {
+    "foreign_question": "release",
+    "ru_question": "выпуск, выход (фильма, книги), освобождение",
+    "foreign_response": "^\\s*release\\s*$",
+    "ru_response": "^\\s*(выпуск|выход|освобождение)\\s*$",
+    "sound": "release",
+    "preview": "release"
+  },
+  {
+    "foreign_question": "role",
+    "ru_question": "роль",
+    "foreign_response": "^\\s*role\\s*$",
+    "ru_response": "^\\s*роль\\s*$",
+    "sound": "role",
+    "preview": "role"
+  },
+  {
+    "foreign_question": "screen version",
+    "ru_question": "экранизация",
+    "foreign_response": "^\\s*screen version\\s*$",
+    "ru_response": "^\\s*(экранизация|экранная версия)\\s*$",
+    "sound": "screen_version",
+    "preview": "screen_version"
+  },
+  {
     "foreign_question": "song",
     "ru_question": "песня",
     "foreign_response": "^\\s*song\\s*$",
     "ru_response": "^\\s*песня\\s*$",
     "sound": "song",
     "preview": "song"
+  },
+  {
+    "foreign_question": "star",
+    "ru_question": "звезда",
+    "foreign_response": "^\\s*star\\s*$",
+    "ru_response": "^\\s*звезда\\s*$",
+    "sound": "star",
+    "preview": "star"
+  },
+  {
+    "foreign_question": "starring",
+    "ru_question": "играющий в роли, в ролях",
+    "foreign_response": "^\\s*starring\\s*$",
+    "ru_response": "^\\s*играющий в рол(и|ях), в рол(и|ях)\\s*$",
+    "sound": "starring",
+    "preview": "starring"
+  },
+  {
+    "foreign_question": "stunt",
+    "ru_question": "трюк",
+    "foreign_response": "^\\s*stunt\\s*$",
+    "ru_response": "^\\s*трюк\\s*$",
+    "sound": "stunt",
+    "preview": "stunt"
+  },
+  {
+    "foreign_question": "stunt, stuntman",
+    "ru_question": "каскадер",
+    "foreign_response": "^\\s*(stunt|stuntman)\\s*$",
+    "ru_response": "^\\s*каскадер\\s*$",
+    "sound": "stunt",
+    "preview": "stunt_prof"
   },
   {
     "foreign_question": "take pictures",

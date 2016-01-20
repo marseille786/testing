@@ -16,12 +16,20 @@
     "preview": "e-mail"
   },
   {
+    "foreign_question": "experience",
+    "ru_question": "опыт",
+    "foreign_response": "^\\s*experience\\s*$",
+    "ru_response": "^\\s*опыт\\s*$",
+    "sound": "experience",
+    "preview": "experience"
+  },
+  {
     "foreign_question": "hard work",
     "ru_question": "трудолюбие",
     "foreign_response": "^\\s*hard work\\s*$",
     "ru_response": "^\\s*трудолюбие\\s*$",
     "sound": "hard_work",
-    "preview": ""
+    "preview": "hard_work"
   },
   {
     "foreign_question": "job",
@@ -29,7 +37,7 @@
     "foreign_response": "^\\s*job\\s*$",
     "ru_response": "^\\s*работа\\s*$",
     "sound": "job",
-    "preview": ""
+    "preview": "job"
   },
   {
     "foreign_question": "list",
@@ -64,12 +72,28 @@
     "preview": "paint"
   },
   {
+    "foreign_question": "pattern",
+    "ru_question": "шаблон",
+    "foreign_response": "^\\s*pattern\\s*$",
+    "ru_response": "^\\s*шаблон\\s*$",
+    "sound": "pattern",
+    "preview": "pattern"
+  },
+  {
     "foreign_question": "restaurant",
     "ru_question": "ресторан",
     "foreign_response": "^\\s*restaurant\\s*$",
     "ru_response": "^\\s*ресторан\\s*$",
     "sound": "restaurant",
-    "preview": ""
+    "preview": "restaurant"
+  },
+  {
+    "foreign_question": "screen",
+    "ru_question": "экран",
+    "foreign_response": "^\\s*screen\\s*$",
+    "ru_response": "^\\s*экран\\s*$",
+    "sound": "screen",
+    "preview": "screen"
   },
   {
     "foreign_question": "visitor",

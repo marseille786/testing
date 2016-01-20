@@ -459,7 +459,7 @@
 		"foreign_question": "shoot, shot, shot",
 		"ru_question": "стрелять, снимать на видео",
 		"foreign_response": "^\\s*shoot[, ]+shot[, ]+shot\\s*$",
-		"ru_response": "^\\s*(стрелять|снимать( на видео)?)\\s*$",
+		"ru_response": "^\\s*(стрелять|снимать( на видео| кино| клип)?)\\s*$",
 	  	"sound": "shoot_shot_shot",
 	  	"preview": "shoot"
 	},

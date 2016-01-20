@@ -80,6 +80,14 @@
     "preview": "library"
   },
   {
+    "foreign_question": "market",
+    "ru_question": "рынок",
+    "foreign_response": "^\\s*market\\s*$",
+    "ru_response": "^\\s*рынок\\s*$",
+    "sound": "market",
+    "preview": "market"
+  },
+  {
     "foreign_question": "music shop",
     "ru_question": "музыкальный магазин",
     "foreign_response": "^\\s*music shop\\s*$",

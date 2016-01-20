@@ -40,11 +40,27 @@
     "preview": "medium-length"
   },
   {
+    "foreign_question": "mind",
+    "ru_question": "ум, разум, сознание",
+    "foreign_response": "^\\s*mind\\s*$",
+    "ru_response": "^\\s*(ум|разум|сознание)\\s*$",
+    "sound": "mind",
+    "preview": "mind"
+  },
+  {
     "foreign_question": "sight (не достопримечательности)",
     "ru_question": "взгляд, зрение",
     "foreign_response": "^\\s*sight\\s*$",
     "ru_response": "^\\s*(взгляд|зрение)\\s*$",
     "sound": "sight",
     "preview": "sight"
+  },
+  {
+    "foreign_question": "whim",
+    "ru_question": "каприз",
+    "foreign_response": "^\\s*whim\\s*$",
+    "ru_response": "^\\s*каприз\\s*$",
+    "sound": "whim",
+    "preview": "whim"
   }
 ]

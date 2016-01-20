@@ -1,82 +1,74 @@
 [
   {
-    "foreign_question": "here",
-    "ru_question": "здесь, сюда",
-    "foreign_response": "^\\s*here\\s*$",
-    "ru_response": "^\\s*(здесь|сюда)\\s*$",
-    "sound": "here",
-    "preview": "here"
+    "foreign_question": "what?",
+    "ru_question": "что?, какой?",
+    "foreign_response": "^\\s*what\\?\\s*$",
+    "ru_response": "^\\s*(что\\?|какой\\?)\\s*$",
+    "sound": "what-",
+    "preview": "what-"
   },
   {
-    "foreign_question": "there",
-    "ru_question": "там, туда",
-    "foreign_response": "^\\s*there\\s*$",
-    "ru_response": "^\\s*(там|туда)\\s*$",
-    "sound": "there",
-    "preview": "there"
+    "foreign_question": "why?",
+    "ru_question": "почему?, зачем?",
+    "foreign_response": "^\\s*why\\?\\s*$",
+    "ru_response": "^\\s*(почему\\?|зачем\\?)\\s*$",
+    "sound": "why-",
+    "preview": "why-"
   },
   {
-    "foreign_question": "this",
-    "ru_question": "этот",
-    "foreign_response": "^\\s*this\\s*$",
-    "ru_response": "^\\s*этот\\s*$",
-    "sound": "this",
-    "preview": "this"
+    "foreign_question": "who?",
+    "ru_question": "кто?",
+    "foreign_response": "^\\s*who\\?\\s*$",
+    "ru_response": "^\\s*кто\\?\\s*$",
+    "sound": "who-",
+    "preview": "who-"
   },
   {
-    "foreign_question": "that",
-    "ru_question": "тот",
-    "foreign_response": "^\\s*that\\s*$",
-    "ru_response": "^\\s*тот\\s*$",
-    "sound": "that",
-    "preview": "that"
+    "foreign_question": "where?",
+    "ru_question": "где?, куда?",
+    "foreign_response": "^\\s*where\\?\\s*$",
+    "ru_response": "^\\s*(где\\?|куда\\?)\\s*$",
+    "sound": "where-",
+    "preview": "where-"
   },
   {
-    "foreign_question": "these",
-    "ru_question": "эти",
-    "foreign_response": "^\\s*these\\s*$",
-    "ru_response": "^\\s*эти\\s*$",
-    "sound": "these",
-    "preview": "these"
+    "foreign_question": "when?",
+    "ru_question": "когда?",
+    "foreign_response": "^\\s*when\\?\\s*$",
+    "ru_response": "^\\s*когда\\?\\s*$",
+    "sound": "when-",
+    "preview": "when-"
   },
   {
-    "foreign_question": "those",
-    "ru_question": "те",
-    "foreign_response": "^\\s*those\\s*$",
-    "ru_response": "^\\s*те\\s*$",
-    "sound": "those",
-    "preview": "those"
+    "foreign_question": "how?",
+    "ru_question": "как?, каким образом?",
+    "foreign_response": "^\\s*how\\?\\s*$",
+    "ru_response": "^\\s*(как\\?|каким образом\\?)\\s*$",
+    "sound": "how-",
+    "preview": "how-"
   },
   {
-    "foreign_question": "such a",
-    "ru_question": "такой",
-    "foreign_response": "^\\s*such a\\s*$",
-    "ru_response": "^\\s*такой\\s*$",
-    "sound": "such_a",
-    "preview": "such_a"
+    "foreign_question": "whose?",
+    "ru_question": "чей?",
+    "foreign_response": "^\\s*whose\\?\\s*$",
+    "ru_response": "^\\s*чей\\?\\s*$",
+    "sound": "whose-",
+    "preview": "whose-"
   },
   {
-    "foreign_question": "such",
-    "ru_question": "такие",
-    "foreign_response": "^\\s*such\\s*$",
-    "ru_response": "^\\s*такие\\s*$",
-    "sound": "such",
-    "preview": "such"
+    "foreign_question": "how much?",
+    "ru_question": "сколько? (общее и с неисчислимыми)",
+    "foreign_response": "^\\s*how much\\?\\s*$",
+    "ru_response": "^\\s*сколько\\?\\s*$",
+    "sound": "how_much-",
+    "preview": "how_much-"
   },
   {
-    "foreign_question": "the same",
-    "ru_question": "тот самый, те самые",
-    "foreign_response": "^\\s*the same\\s*$",
-    "ru_response": "^\\s*(тот самый|те самые)\\s*$",
-    "sound": "the_same",
-    "preview": "the_same"
-  },
-  {
-    "foreign_question": "another",
-    "ru_question": "другой (с артиклем)",
-    "foreign_response": "^\\s*another\\s*$",
-    "ru_response": "^\\s*другой\\s*$",
-    "sound": "another",
-    "preview": "another"
+    "foreign_question": "how many?",
+    "ru_question": "сколько? (с исчислимыми)",
+    "foreign_response": "^\\s*how many\\?\\s*$",
+    "ru_response": "^\\s*сколько\\?\\s*$",
+    "sound": "how_many-",
+    "preview": "how_many-"
   }
 ]

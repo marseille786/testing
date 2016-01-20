@@ -1,0 +1,263 @@
+[
+	// личные местоимения (кто?)
+  {
+    "foreign_question": "I (личные местоимения (кто?))",
+    "ru_question": "я (личные местоимения (кто?))",
+    "foreign_response": "^\\s*I\\s*$",
+    "ru_response": "^\\s*я\\s*$",
+    "sound": "I",
+    "preview": "I"
+  },
+  {
+    "foreign_question": "you (личные местоимения (кто?))",
+    "ru_question": "ты, вы (личные местоимения (кто?))",
+    "foreign_response": "^\\s*you\\s*$",
+    "ru_response": "^\\s*(ты|вы)\\s*$",
+    "sound": "you",
+    "preview": "you"
+  },
+  {
+    "foreign_question": "he (личные местоимения (кто?))",
+    "ru_question": "он (личные местоимения (кто?))",
+    "foreign_response": "^\\s*he\\s*$",
+    "ru_response": "^\\s*он\\s*$",
+    "sound": "he",
+    "preview": "he"
+  },
+  {
+    "foreign_question": "she (личные местоимения (кто?))",
+    "ru_question": "она (личные местоимения (кто?))",
+    "foreign_response": "^\\s*she\\s*$",
+    "ru_response": "^\\s*она\\s*$",
+    "sound": "she",
+    "preview": "she"
+  },
+  {
+    "foreign_question": "we (личные местоимения (кто?))",
+    "ru_question": "мы (личные местоимения (кто?))",
+    "foreign_response": "^\\s*we\\s*$",
+    "ru_response": "^\\s*мы\\s*$",
+    "sound": "we",
+    "preview": "we"
+  },
+  {
+    "foreign_question": "they (личные местоимения (кто?))",
+    "ru_question": "они (личные местоимения (кто?))",
+    "foreign_response": "^\\s*they\\s*$",
+    "ru_response": "^\\s*они\\s*$",
+    "sound": "they",
+    "preview": "they"
+  },
+  // (кого? кому?)
+  {
+    "foreign_question": "me (кого? кому?)",
+    "ru_question": "меня, мне (кого? кому?) (кого? кому?)",
+    "foreign_response": "^\\s*me\\s*$",
+    "ru_response": "^\\s*(меня|мне)\\s*$",
+    "sound": "me",
+    "preview": "me"
+  },
+  {
+    "foreign_question": "you (кого? кому?)",
+    "ru_question": "тебя, тебе, вам, вас (кого? кому?)",
+    "foreign_response": "^\\s*you\\s*$",
+    "ru_response": "^\\s*тебя, тебе, вам, вас\\s*$",
+    "sound": "you",
+    "preview": "you"
+  },
+  {
+    "foreign_question": "him (кого? кому?)",
+    "ru_question": "его, ему (кого? кому?)",
+    "foreign_response": "^\\s*him\\s*$",
+    "ru_response": "^\\s*(его|ему)\\s*$",
+    "sound": "him",
+    "preview": "him"
+  },
+  {
+    "foreign_question": "her (кого? кому?)",
+    "ru_question": "ее, ей (кого? кому?)",
+    "foreign_response": "^\\s*her\\s*$",
+    "ru_response": "^\\s*(ее|ей)\\s*$",
+    "sound": "her",
+    "preview": "her"
+  },
+  {
+    "foreign_question": "us (кого? кому?)",
+    "ru_question": "нас, нам (кого? кому?)",
+    "foreign_response": "^\\s*us\\s*$",
+    "ru_response": "^\\s*(нас|нам)\\s*$",
+    "sound": "us",
+    "preview": "us"
+  },
+  {
+    "foreign_question": "them (кого? кому?)",
+    "ru_question": "их, им (кого? кому?)",
+    "foreign_response": "^\\s*them\\s*$",
+    "ru_response": "^\\s*(их|им)\\s*$",
+    "sound": "them",
+    "preview": "them"
+  },
+  // притяжательные местоимения (чей?)
+  {
+    "foreign_question": "my (притяжательные местоимения (чей?))",
+    "ru_question": "мой (притяжательные местоимения (чей?))",
+    "foreign_response": "^\\s*my\\s*$",
+    "ru_response": "^\\s*мой\\s*$",
+    "sound": "my",
+    "preview": "my"
+  },
+  {
+    "foreign_question": "your (притяжательные местоимения (чей?))",
+    "ru_question": "твой (притяжательные местоимения (чей?))",
+    "foreign_response": "^\\s*your\\s*$",
+    "ru_response": "^\\s*твой\\s*$",
+    "sound": "your",
+    "preview": "your"
+  },
+  {
+    "foreign_question": "his (притяжательные местоимения (чей?))",
+    "ru_question": "его (притяжательные местоимения (чей?))",
+    "foreign_response": "^\\s*his\\s*$",
+    "ru_response": "^\\s*его\\s*$",
+    "sound": "his",
+    "preview": "his"
+  },
+  {
+    "foreign_question": "her (притяжательные местоимения (чей?))",
+    "ru_question": "ее (притяжательные местоимения (чей?))",
+    "foreign_response": "^\\s*her\\s*$",
+    "ru_response": "^\\s*ее\\s*$",
+    "sound": "her",
+    "preview": "her"
+  },
+  {
+    "foreign_question": "its (притяжательные местоимения (чей?))",
+    "ru_question": "его, ее (неодушевленное) (притяжательные местоимения (чей?))",
+    "foreign_response": "^\\s*its\\s*$",
+    "ru_response": "^\\s*(его|ее)\\s*$",
+    "sound": "its",
+    "preview": "its"
+  },
+  {
+    "foreign_question": "our (притяжательные местоимения (чей?))",
+    "ru_question": "наш (притяжательные местоимения (чей?))",
+    "foreign_response": "^\\s*our\\s*$",
+    "ru_response": "^\\s*наш\\s*$",
+    "sound": "our",
+    "preview": "our"
+  },
+  {
+    "foreign_question": "their (притяжательные местоимения (чей?))",
+    "ru_question": "их (притяжательные местоимения (чей?))",
+    "foreign_response": "^\\s*their\\s*$",
+    "ru_response": "^\\s*их\\s*$",
+    "sound": "their",
+    "preview": "their"
+  },
+  // возвратные местоимения
+  {
+    "foreign_question": "myself (возвратные местоимения)",
+    "ru_question": "я сам (возвратные местоимения)",
+    "foreign_response": "^\\s*myself\\s*$",
+    "ru_response": "^\\s*я сам\\s*$",
+    "sound": "myself",
+    "preview": "myself"
+  },
+  {
+    "foreign_question": "yourself (возвратные местоимения)",
+    "ru_question": "ты сам (возвратные местоимения)",
+    "foreign_response": "^\\s*yourself\\s*$",
+    "ru_response": "^\\s*ты сам\\s*$",
+    "sound": "yourself",
+    "preview": "yourself"
+  },
+  {
+    "foreign_question": "himself (возвратные местоимения)",
+    "ru_question": "он сам (возвратные местоимения)",
+    "foreign_response": "^\\s*himself\\s*$",
+    "ru_response": "^\\s*он сам\\s*$",
+    "sound": "himself",
+    "preview": "himself"
+  },
+  {
+    "foreign_question": "herself (возвратные местоимения)",
+    "ru_question": "она сама (возвратные местоимения)",
+    "foreign_response": "^\\s*herself\\s*$",
+    "ru_response": "^\\s*она сама\\s*$",
+    "sound": "herself",
+    "preview": "herself"
+  },
+  {
+    "foreign_question": "ourselves (возвратные местоимения)",
+    "ru_question": "мы сами (возвратные местоимения)",
+    "foreign_response": "^\\s*ourselves\\s*$",
+    "ru_response": "^\\s*мы сами\\s*$",
+    "sound": "ourselves",
+    "preview": "ourselves"
+  },
+  {
+    "foreign_question": "yourselves (возвратные местоимения)",
+    "ru_question": "вы сами (возвратные местоимения)",
+    "foreign_response": "^\\s*yourselves\\s*$",
+    "ru_response": "^\\s*вы сами\\s*$",
+    "sound": "yourselves",
+    "preview": "yourselves"
+  },
+  {
+    "foreign_question": "themselves (возвратные местоимения)",
+    "ru_question": "они сами (возвратные местоимения)",
+    "foreign_response": "^\\s*themselves\\s*$",
+    "ru_response": "^\\s*они сами\\s*$",
+    "sound": "themselves",
+    "preview": "themselves"
+  },
+  // неопределенные местоимения
+  {
+    "foreign_question": "all (неопределенные местоимения)",
+    "ru_question": "все (неопределенные местоимения)",
+    "foreign_response": "^\\s*all\\s*$",
+    "ru_response": "^\\s*все\\s*$",
+    "sound": "all",
+    "preview": "all"
+  },
+  {
+    "foreign_question": "some (неопределенные местоимения)",
+    "ru_question": "несколько (неопределенные местоимения)",
+    "foreign_response": "^\\s*some\\s*$",
+    "ru_response": "^\\s*несколько\\s*$",
+    "sound": "some",
+    "preview": "some"
+  },
+  {
+    "foreign_question": "every (неопределенные местоимения)",
+    "ru_question": "каждый (неопределенные местоимения)",
+    "foreign_response": "^\\s*every\\s*$",
+    "ru_response": "^\\s*каждый\\s*$",
+    "sound": "every",
+    "preview": "every"
+  },
+  {
+    "foreign_question": "any (неопределенные местоимения)",
+    "ru_question": "любой (неопределенные местоимения)",
+    "foreign_response": "^\\s*any\\s*$",
+    "ru_response": "^\\s*любой\\s*$",
+    "sound": "any",
+    "preview": "any"
+  },
+  {
+    "foreign_question": "no (неопределенные местоимения)",
+    "ru_question": "нет (неопределенные местоимения)",
+    "foreign_response": "^\\s*no\\s*$",
+    "ru_response": "^\\s*нет\\s*$",
+    "sound": "no",
+    "preview": "no"
+  },
+  {
+    "foreign_question": "both (неопределенные местоимения)",
+    "ru_question": "оба (неопределенные местоимения)",
+    "foreign_response": "^\\s*both\\s*$",
+    "ru_response": "^\\s*оба\\s*$",
+    "sound": "both",
+    "preview": "both"
+  }
+]

@@ -27,9 +27,25 @@
     "foreign_question": "curly",
     "ru_question": "кудрявый",
     "foreign_response": "^\\s*curly\\s*$",
-    "ru_response": "^\\s*кудрявый, кучерявый, курчавый, вьющийся\\s*$",
+    "ru_response": "^\\s*(кудрявый|кучерявый|курчавый|вьющийся)\\s*$",
     "sound": "curly",
     "preview": "curly"
+  },
+  {
+    "foreign_question": "dramatic",
+    "ru_question": "драматический, драматичный",
+    "foreign_response": "^\\s*dramatic\\s*$",
+    "ru_response": "^\\s*(драматический|драматичный)\\s*$",
+    "sound": "dramatic",
+    "preview": "dramatic"
+  },
+  {
+    "foreign_question": "embarassed",
+    "ru_question": "смущенный",
+    "foreign_response": "^\\s*embarassed\\s*$",
+    "ru_response": "^\\s*смущенный\\s*$",
+    "sound": "embarassed",
+    "preview": "embarassed"
   },
   {
     "foreign_question": "excited",
@@ -85,7 +101,23 @@
     "foreign_response": "^\\s*hot\\s*$",
     "ru_response": "^\\s*горяч(ий|ая)\\s*$",
     "sound": "hot",
-    "preview": ""
+    "preview": "hot"
+  },
+  {
+    "foreign_question": "human",
+    "ru_question": "человеческий",
+    "foreign_response": "^\\s*human\\s*$",
+    "ru_response": "^\\s*человеческий\\s*$",
+    "sound": "human",
+    "preview": "human"
+  },
+  {
+    "foreign_question": "important",
+    "ru_question": "важный",
+    "foreign_response": "^\\s*important\\s*$",
+    "ru_response": "^\\s*важный\\s*$",
+    "sound": "important",
+    "preview": "important"
   },
   {
     "foreign_question": "impressive",
@@ -198,6 +230,14 @@
     "ru_response": "^\\s*(холостой|незамужняя|одинок(ий|ая))\\s*$",
     "sound": "single",
     "preview": "single"
+  },
+  {
+    "foreign_question": "slaw",
+    "ru_question": "медленный",
+    "foreign_response": "^\\s*slaw\\s*$",
+    "ru_response": "^\\s*медленный\\s*$",
+    "sound": "slaw",
+    "preview": "slaw"
   },
   {
     "foreign_question": "slim",

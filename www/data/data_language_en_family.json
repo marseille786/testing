@@ -16,6 +16,14 @@
     "preview": "father"
   },
   {
+    "foreign_question": "divorce",
+    "ru_question": "развод, расторжение брака",
+    "foreign_response": "^\\s*divorce\\s*$",
+    "ru_response": "^\\s*(развод|расторжение брака)\\s*$",
+    "sound": "divorce",
+    "preview": "divorce"
+  },
+  {
     "foreign_question": "father",
     "ru_question": "отец",
     "foreign_response": "^\\s*father\\s*$",
@@ -48,6 +56,30 @@
     "preview": "grandmother"
   },
   {
+    "foreign_question": "human",
+    "ru_question": "человек",
+    "foreign_response": "^\\s*human\\s*$",
+    "ru_response": "^\\s*человек\\s*$",
+    "sound": "human",
+    "preview": "human"
+  },
+  {
+    "foreign_question": "humanity",
+    "ru_question": "человечество",
+    "foreign_response": "^\\s*humanity\\s*$",
+    "ru_response": "^\\s*человечество\\s*$",
+    "sound": "humanity",
+    "preview": "humanity"
+  },
+  {
+    "foreign_question": "mankind",
+    "ru_question": "человечество (синоним humanity)",
+    "foreign_response": "^\\s*mankind\\s*$",
+    "ru_response": "^\\s*человечество\\s*$",
+    "sound": "mankind",
+    "preview": "mankind"
+  },
+  {
     "foreign_question": "mother",
     "ru_question": "мать",
     "foreign_response": "^\\s*mother\\s*$",
@@ -64,12 +96,36 @@
     "preview": "mother"
   },
   {
+    "foreign_question": "people",
+    "ru_question": "люди, народ",
+    "foreign_response": "^\\s*people\\s*$",
+    "ru_response": "^\\s*(люди|народ)\\s*$",
+    "sound": "people",
+    "preview": "people"
+  },
+  {
+    "foreign_question": "person",
+    "ru_question": "личность, человек",
+    "foreign_response": "^\\s*person\\s*$",
+    "ru_response": "^\\s*(личность|человек)\\s*$",
+    "sound": "person",
+    "preview": "person"
+  },
+  {
     "foreign_question": "sister",
     "ru_question": "сестра",
     "foreign_response": "^\\s*sister\\s*$",
     "ru_response": "^\\s*сестра\\s*$",
     "sound": "sister",
     "preview": ""
+  },
+  {
+    "foreign_question": "society",
+    "ru_question": "общество",
+    "foreign_response": "^\\s*society\\s*$",
+    "ru_response": "^\\s*общество\\s*$",
+    "sound": "society",
+    "preview": "society"
   },
   {
     "foreign_question": "son",

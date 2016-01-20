@@ -1,0 +1,314 @@
+[
+  {
+    "foreign_question": "animal",
+    "ru_question": "животное",
+    "foreign_response": "^\\s*animal\\s*$",
+    "ru_response": "^\\s*животное\\s*$",
+    "sound": "animal",
+    "preview": "animal"
+  },
+  {
+    "foreign_question": "beach",
+    "ru_question": "пляж",
+    "foreign_response": "^\\s*beach\\s*$",
+    "ru_response": "^\\s*пляж\\s*$",
+    "sound": "beach",
+    "preview": "beach"
+  },
+  {
+    "foreign_question": "bird",
+    "ru_question": "птица",
+    "foreign_response": "^\\s*bird\\s*$",
+    "ru_response": "^\\s*птица\\s*$",
+    "sound": "bird",
+    "preview": "bird"
+  },
+  {
+    "foreign_question": "cloud",
+    "ru_question": "туча, облако",
+    "foreign_response": "^\\s*cloud\\s*$",
+    "ru_response": "^\\s*(туча|облако)\\s*$",
+    "sound": "cloud",
+    "preview": "cloud"
+  },
+  {
+    "foreign_question": "cold",
+    "ru_question": "холод",
+    "foreign_response": "^\\s*cold\\s*$",
+    "ru_response": "^\\s*холод\\s*$",
+    "sound": "cold",
+    "preview": "cold"
+  },
+  {
+    "foreign_question": "earth",
+    "ru_question": "земля",
+    "foreign_response": "^\\s*earth\\s*$",
+    "ru_response": "^\\s*земля\\s*$",
+    "sound": "earth",
+    "preview": "earth"
+  },
+  {
+    "foreign_question": "flower",
+    "ru_question": "цветок",
+    "foreign_response": "^\\s*flower\\s*$",
+    "ru_response": "^\\s*цветок\\s*$",
+    "sound": "flower",
+    "preview": "flower"
+  },
+  {
+    "foreign_question": "fog",
+    "ru_question": "туман",
+    "foreign_response": "^\\s*fog\\s*$",
+    "ru_response": "^\\s*туман\\s*$",
+    "sound": "fog",
+    "preview": "fog"
+  },
+  {
+    "foreign_question": "forest",
+    "ru_question": "лес",
+    "foreign_response": "^\\s*forest\\s*$",
+    "ru_response": "^\\s*лес\\s*$",
+    "sound": "forest",
+    "preview": "forest"
+  },
+  {
+    "foreign_question": "grass",
+    "ru_question": "трава",
+    "foreign_response": "^\\s*grass\\s*$",
+    "ru_response": "^\\s*трава\\s*$",
+    "sound": "grass",
+    "preview": "grass"
+  },
+  {
+    "foreign_question": "heat",
+    "ru_question": "жара",
+    "foreign_response": "^\\s*heat\\s*$",
+    "ru_response": "^\\s*жара\\s*$",
+    "sound": "heat",
+    "preview": "heat"
+  },
+  {
+    "foreign_question": "hill",
+    "ru_question": "холм",
+    "foreign_response": "^\\s*hill\\s*$",
+    "ru_response": "^\\s*холм\\s*$",
+    "sound": "hill",
+    "preview": "hill"
+  },
+  {
+    "foreign_question": "ice",
+    "ru_question": "лед",
+    "foreign_response": "^\\s*ice\\s*$",
+    "ru_response": "^\\s*лед\\s*$",
+    "sound": "ice",
+    "preview": "ice"
+  },
+  {
+    "foreign_question": "it will be cold",
+    "ru_question": "будет холодно",
+    "foreign_response": "^\\s*it will be cold\\s*$",
+    "ru_response": "^\\s*будет холодно\\s*$",
+    "sound": "it_will_be_cold",
+    "preview": "it_will_be_cold"
+  },
+  {
+    "foreign_question": "it will be warm",
+    "ru_question": "будет тепло",
+    "foreign_response": "^\\s*it will be warm\\s*$",
+    "ru_response": "^\\s*будет тепло\\s*$",
+    "sound": "it_will_be_warm",
+    "preview": "it_will_be_warm"
+  },
+  {
+    "foreign_question": "it will be hot",
+    "ru_question": "будет жарко",
+    "foreign_response": "^\\s*it will be hot\\s*$",
+    "ru_response": "^\\s*будет жарко\\s*$",
+    "sound": "it_will_be_hot",
+    "preview": "it_will_be_hot"
+  },
+  {
+    "foreign_question": "it is sunny",
+    "ru_question": "сейчас солнечно",
+    "foreign_response": "^\\s*it(\\'| i)s sunny\\s*$",
+    "ru_response": "^\\s*сейчас солнечно\\s*$",
+    "sound": "it_is_sunny",
+    "preview": "it_is_sunny"
+  },
+  {
+    "foreign_question": "it is raining",
+    "ru_question": "сейчас дождливо",
+    "foreign_response": "^\\s*it(\\'| i)s raining\\s*$",
+    "ru_response": "^\\s*(сейчас дождливо|дождит)\\s*$",
+    "sound": "it_is_raining",
+    "preview": "it_is_raining"
+  },
+  {
+    "foreign_question": "it is foggy",
+    "ru_question": "сейчас туманно",
+    "foreign_response": "^\\s*it(\\'| i)s foggy\\s*$",
+    "ru_response": "^\\s*сейчас туманно\\s*$",
+    "sound": "it_is_foggy",
+    "preview": "it_is_foggy"
+  },
+  {
+    "foreign_question": "it was cloudy",
+    "ru_question": "было облачно",
+    "foreign_response": "^\\s*it was cloudy\\s*$",
+    "ru_response": "^\\s*было облачно\\s*$",
+    "sound": "it_was_cloudy",
+    "preview": "it_was_cloudy"
+  },
+  {
+    "foreign_question": "it was snowing",
+    "ru_question": "было снежно",
+    "foreign_response": "^\\s*it was snowing\\s*$",
+    "ru_response": "^\\s*(было снежно|снежило)\\s*$",
+    "sound": "it_was_snowing",
+    "preview": "it_was_snowing"
+  },
+  {
+    "foreign_question": "it was windy",
+    "ru_question": "было ветренно",
+    "foreign_response": "^\\s*it was windy\\s*$",
+    "ru_response": "^\\s*было ветренно\\s*$",
+    "sound": "it_was_windy",
+    "preview": "it_was_windy"
+  },
+  {
+    "foreign_question": "lake",
+    "ru_question": "озеро",
+    "foreign_response": "^\\s*lake\\s*$",
+    "ru_response": "^\\s*озеро\\s*$",
+    "sound": "lake",
+    "preview": "lake"
+  },
+  {
+    "foreign_question": "moon",
+    "ru_question": "луна",
+    "foreign_response": "^\\s*moon\\s*$",
+    "ru_response": "^\\s*луна\\s*$",
+    "sound": "moon",
+    "preview": "moon"
+  },
+  {
+    "foreign_question": "mountain",
+    "ru_question": "гора",
+    "foreign_response": "^\\s*mountain\\s*$",
+    "ru_response": "^\\s*гора\\s*$",
+    "sound": "mountain",
+    "preview": "mountain"
+  },
+  {
+    "foreign_question": "nature",
+    "ru_question": "природа",
+    "foreign_response": "^\\s*nature\\s*$",
+    "ru_response": "^\\s*природа\\s*$",
+    "sound": "nature",
+    "preview": "nature"
+  },
+  {
+    "foreign_question": "ocean",
+    "ru_question": "океан",
+    "foreign_response": "^\\s*ocean\\s*$",
+    "ru_response": "^\\s*океан\\s*$",
+    "sound": "ocean",
+    "preview": "ocean"
+  },
+  {
+    "foreign_question": "rain",
+    "ru_question": "дождь",
+    "foreign_response": "^\\s*rain\\s*$",
+    "ru_response": "^\\s*дождь\\s*$",
+    "sound": "rain",
+    "preview": "rain"
+  },
+  {
+    "foreign_question": "rainbow",
+    "ru_question": "радуга",
+    "foreign_response": "^\\s*rainbow\\s*$",
+    "ru_response": "^\\s*радуга\\s*$",
+    "sound": "rainbow",
+    "preview": "rainbow"
+  },
+  {
+    "foreign_question": "river",
+    "ru_question": "река",
+    "foreign_response": "^\\s*river\\s*$",
+    "ru_response": "^\\s*река\\s*$",
+    "sound": "river",
+    "preview": "river"
+  },
+  {
+    "foreign_question": "sea",
+    "ru_question": "море",
+    "foreign_response": "^\\s*sea\\s*$",
+    "ru_response": "^\\s*море\\s*$",
+    "sound": "sea",
+    "preview": "sea"
+  },
+  {
+    "foreign_question": "shore",
+    "ru_question": "берег моря",
+    "foreign_response": "^\\s*shore\\s*$",
+    "ru_response": "^\\s*берег( моря)?\\s*$",
+    "sound": "shore",
+    "preview": "shore"
+  },
+  {
+    "foreign_question": "sky",
+    "ru_question": "небо",
+    "foreign_response": "^\\s*sky\\s*$",
+    "ru_response": "^\\s*небо\\s*$",
+    "sound": "sky",
+    "preview": "sky"
+  },
+  {
+    "foreign_question": "snow",
+    "ru_question": "снег",
+    "foreign_response": "^\\s*snow\\s*$",
+    "ru_response": "^\\s*снег\\s*$",
+    "sound": "snow",
+    "preview": "snow"
+  },
+  {
+    "foreign_question": "storm",
+    "ru_question": "гроза",
+    "foreign_response": "^\\s*storm\\s*$",
+    "ru_response": "^\\s*гроза\\s*$",
+    "sound": "storm",
+    "preview": "storm"
+  },
+  {
+    "foreign_question": "sun",
+    "ru_question": "солнце",
+    "foreign_response": "^\\s*sun\\s*$",
+    "ru_response": "^\\s*солнце\\s*$",
+    "sound": "sun",
+    "preview": "sun"
+  },
+  {
+    "foreign_question": "tree",
+    "ru_question": "дерево",
+    "foreign_response": "^\\s*tree\\s*$",
+    "ru_response": "^\\s*дерево\\s*$",
+    "sound": "tree",
+    "preview": "tree"
+  },
+  {
+    "foreign_question": "the weather",
+    "ru_question": "природа",
+    "foreign_response": "^\\s*(the )?weather\\s*$",
+    "ru_response": "^\\s*природа\\s*$",
+    "sound": "the_weather",
+    "preview": "the_weather"
+  },
+  {
+    "foreign_question": "wind",
+    "ru_question": "ветер",
+    "foreign_response": "^\\s*wind\\s*$",
+    "ru_response": "^\\s*ветер\\s*$",
+    "sound": "wind",
+    "preview": "wind"
+  }
+]

@@ -56,6 +56,14 @@
     "preview": "lawyer"
   },
   {
+    "foreign_question": "maker",
+    "ru_question": "производитель",
+    "foreign_response": "^\\s*maker\\s*$",
+    "ru_response": "^\\s*производитель\\s*$",
+    "sound": "maker",
+    "preview": "maker"
+  },
+  {
     "foreign_question": "manager",
     "ru_question": "менеджер",
     "foreign_response": "^\\s*manager\\s*$",
@@ -94,6 +102,14 @@
     "ru_response": "^\\s*студент(ка)?\\s*$",
     "sound": "student",
     "preview": "student"
+  },
+  {
+    "foreign_question": "stunt, stuntman",
+    "ru_question": "каскадер",
+    "foreign_response": "^\\s*(stunt|stuntman)\\s*$",
+    "ru_response": "^\\s*каскадер\\s*$",
+    "sound": "stunt",
+    "preview": "stunt_prof"
   },
   {
     "foreign_question": "teacher",

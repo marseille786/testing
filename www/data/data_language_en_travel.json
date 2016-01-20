@@ -72,6 +72,14 @@
     "preview": "language"
   },
   {
+    "foreign_question": "location",
+    "ru_question": "местоположение",
+    "foreign_response": "^\\s*location\\s*$",
+    "ru_response": "^\\s*(местоположение|локация)\\s*$",
+    "sound": "location",
+    "preview": "location"
+  },
+  {
     "foreign_question": "north",
     "ru_question": "север (ern)",
     "foreign_response": "^\\s*north\\s*$",
@@ -126,5 +134,13 @@
     "ru_response": "^\\s*поездка\\s*$",
     "sound": "trip",
     "preview": "trip"
+  },
+  {
+    "foreign_question": "village",
+    "ru_question": "деревня",
+    "foreign_response": "^\\s*village\\s*$",
+    "ru_response": "^\\s*деревня\\s*$",
+    "sound": "village",
+    "preview": "village"
   }
 ]

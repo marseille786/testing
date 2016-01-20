@@ -1,0 +1,242 @@
+[
+  {
+    "foreign_question": "cheetah",
+    "ru_question": "гепард",
+    "foreign_response": "^\\s*cheetah\\s*$",
+    "ru_response": "^\\s*гепард\\s*$",
+    "sound": "cheetah",
+    "preview": "cheetah"
+  },
+  {
+    "foreign_question": "close to",
+    "ru_question": "рядом с (синоним next to, near)",
+    "foreign_response": "^\\s*close (to|with)\\s*$",
+    "ru_response": "^\\s*рядом с\\s*$",
+    "sound": "close_to",
+    "preview": "close_to"
+  },
+  {
+    "foreign_question": "destroy",
+    "ru_question": "разрушать, уничтожать (синоним ruin)",
+    "foreign_response": "^\\s*destroy\\s*$",
+    "ru_response": "^\\s*(разруш[аи]ть|уничтож[аи]ть)\\s*$",
+    "sound": "destroy",
+    "preview": "destroy"
+  },
+  {
+    "foreign_question": "elephant",
+    "ru_question": "слон",
+    "foreign_response": "^\\s*elephant\\s*$",
+    "ru_response": "^\\s*слон\\s*$",
+    "sound": "elephant",
+    "preview": "elephant"
+  },
+  {
+    "foreign_question": "endangered species",
+    "ru_question": "вымирающие виды",
+    "foreign_response": "^\\s*endangered species\\s*$",
+    "ru_response": "^\\s*вымирающие виды\\s*$",
+    "sound": "endangered_species",
+    "preview": "endangered_species"
+  },
+  {
+    "foreign_question": "forest",
+    "ru_question": "лес",
+    "foreign_response": "^\\s*forest\\s*$",
+    "ru_response": "^\\s*лес\\s*$",
+    "sound": "forest",
+    "preview": "forest"
+  },
+  {
+    "foreign_question": "fur",
+    "ru_question": "мех, шерсть",
+    "foreign_response": "^\\s*fur\\s*$",
+    "ru_response": "^\\s*(мех|шерсть)\\s*$",
+    "sound": "fur",
+    "preview": "fur"
+  },
+  {
+    "foreign_question": "gorilla",
+    "ru_question": "горилла",
+    "foreign_response": "^\\s*gorilla\\s*$",
+    "ru_response": "^\\s*горилла\\s*$",
+    "sound": "gorilla",
+    "preview": "gorilla"
+  },
+  {
+    "foreign_question": "grass",
+    "ru_question": "трава",
+    "foreign_response": "^\\s*grass\\s*$",
+    "ru_response": "^\\s*трава\\s*$",
+    "sound": "grass",
+    "preview": "grass"
+  },
+  {
+    "foreign_question": "high",
+    "ru_question": "высокий (по уровню)",
+    "foreign_response": "^\\s*high\\s*$",
+    "ru_response": "^\\s*высокий\\s*$",
+    "sound": "high",
+    "preview": "high"
+  },
+  {
+    "foreign_question": "horn",
+    "ru_question": "рог, рожок",
+    "foreign_response": "^\\s*horn\\s*$",
+    "ru_response": "^\\s*(рог|рожок)\\s*$",
+    "sound": "horn",
+    "preview": "horn"
+  },
+  {
+    "foreign_question": "hunting",
+    "ru_question": "охота",
+    "foreign_response": "^\\s*hunting\\s*$",
+    "ru_response": "^\\s*охота\\s*$",
+    "sound": "hunting",
+    "preview": "hunting"
+  },
+  {
+    "foreign_question": "in danger",
+    "ru_question": "в опасности",
+    "foreign_response": "^\\s*in danger\\s*$",
+    "ru_response": "^\\s*в опасности\\s*$",
+    "sound": "in_danger",
+    "preview": "in_danger"
+  },
+  {
+    "foreign_question": "in the wild",
+    "ru_question": "в дикой природе",
+    "foreign_response": "^\\s*in the wild\\s*$",
+    "ru_response": "^\\s*в дикой природе\\s*$",
+    "sound": "in_the_wild",
+    "preview": "in_the_wild"
+  },
+  {
+    "foreign_question": "kill",
+    "ru_question": "убивать, убийство",
+    "foreign_response": "^\\s*kill\\s*$",
+    "ru_response": "^\\s*(уби(ва)?ть|убийство)\\s*$",
+    "sound": "kill",
+    "preview": "kill"
+  },
+  {
+    "foreign_question": "leaf",
+    "ru_question": "лист",
+    "foreign_response": "^\\s*leaf\\s*$",
+    "ru_response": "^\\s*лист\\s*$",
+    "sound": "leaf",
+    "preview": "leaf"
+  },
+  {
+    "foreign_question": "list",
+    "ru_question": "список, перечень",
+    "foreign_response": "^\\s*list\\s*$",
+    "ru_response": "^\\s*(список|перечень)\\s*$",
+    "sound": "list",
+    "preview": "list"
+  },
+  {
+    "foreign_question": "mountain",
+    "ru_question": "гора",
+    "foreign_response": "^\\s*mountain\\s*$",
+    "ru_response": "^\\s*гора\\s*$",
+    "sound": "mountain",
+    "preview": "mountain"
+  },
+  {
+    "foreign_question": "natural habitat",
+    "ru_question": "естественная среда обитания",
+    "foreign_response": "^\\s*natural habitat\\s*$",
+    "ru_response": "^\\s*(естественная )?среда обитания\\s*$",
+    "sound": "natural_habitat",
+    "preview": "natural_habitat"
+  },
+  {
+    "foreign_question": "organisation",
+    "ru_question": "организация",
+    "foreign_response": "^\\s*organisation\\s*$",
+    "ru_response": "^\\s*организация\\s*$",
+    "sound": "organisation",
+    "preview": "organisation"
+  },
+  {
+    "foreign_question": "panda",
+    "ru_question": "панда",
+    "foreign_response": "^\\s*panda\\s*$",
+    "ru_response": "^\\s*панда\\s*$",
+    "sound": "panda",
+    "preview": "panda"
+  },
+  {
+    "foreign_question": "protect",
+    "ru_question": "защищать",
+    "foreign_response": "^\\s*protect\\s*$",
+    "ru_response": "^\\s*защищать\\s*$",
+    "sound": "protect",
+    "preview": "protect"
+  },
+  {
+    "foreign_question": "rhino",
+    "ru_question": "носорог",
+    "foreign_response": "^\\s*rhino\\s*$",
+    "ru_response": "^\\s*носорог\\s*$",
+    "sound": "rhino",
+    "preview": "rhino"
+  },
+  {
+    "foreign_question": "spot",
+    "ru_question": "пятно, место",
+    "foreign_response": "^\\s*spot\\s*$",
+    "ru_response": "^\\s*(пятно|место)\\s*$",
+    "sound": "spot",
+    "preview": "spot"
+  },
+  {
+    "foreign_question": "stripe",
+    "ru_question": "полоса",
+    "foreign_response": "^\\s*stripe\\s*$",
+    "ru_response": "^\\s*полоса\\s*$",
+    "sound": "stripe",
+    "preview": "stripe"
+  },
+  {
+    "foreign_question": "tiger",
+    "ru_question": "тигр",
+    "foreign_response": "^\\s*tiger\\s*$",
+    "ru_response": "^\\s*тигр\\s*$",
+    "sound": "tiger",
+    "preview": "tiger"
+  },
+  {
+    "foreign_question": "tree",
+    "ru_question": "дерево",
+    "foreign_response": "^\\s*tree\\s*$",
+    "ru_response": "^\\s*дерево\\s*$",
+    "sound": "tree",
+    "preview": "tree"
+  },
+  {
+    "foreign_question": "trunk",
+    "ru_question": "хобот, ствол",
+    "foreign_response": "^\\s*trunk\\s*$",
+    "ru_response": "^\\s*(хобот|ствол)\\s*$",
+    "sound": "trunk",
+    "preview": "trunk"
+  },
+  {
+    "foreign_question": "tusk",
+    "ru_question": "бивень, клык",
+    "foreign_response": "^\\s*tusk\\s*$",
+    "ru_response": "^\\s*(бивень|клык)\\s*$",
+    "sound": "tusk",
+    "preview": "tusk"
+  },
+  {
+    "foreign_question": "zebra",
+    "ru_question": "зебра",
+    "foreign_response": "^\\s*zebra\\s*$",
+    "ru_response": "^\\s*зебра\\s*$",
+    "sound": "zebra",
+    "preview": "zebra"
+  }
+]

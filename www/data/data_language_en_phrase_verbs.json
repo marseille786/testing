@@ -1,11 +1,35 @@
 [
   {
+    "foreign_question": "call back",
+    "ru_question": "перезвонить",
+    "foreign_response": "^\\s*call back\\s*$",
+    "ru_response": "^\\s*перезвонить\\s*$",
+    "sound": "call_back",
+    "preview": "call_back"
+  },
+  {
+    "foreign_question": "call off",
+    "ru_question": "отменить",
+    "foreign_response": "^\\s*call off\\s*$",
+    "ru_response": "^\\s*отменить\\s*$",
+    "sound": "call_off",
+    "preview": "call_off"
+  },
+  {
     "foreign_question": "look for",
     "ru_question": "искать (синоним 'seek')",
     "foreign_response": "^\\s*look for\\s*$",
     "ru_response": "^\\s*искать\\s*$",
     "sound": "look_for",
     "preview": "look_for"
+  },
+  {
+    "foreign_question": "look like",
+    "ru_question": "выглядеть как",
+    "foreign_response": "^\\s*look like\\s*$",
+    "ru_response": "^\\s*выглядеть как\\s*$",
+    "sound": "look_like",
+    "preview": "look_like"
   },
   {
     "foreign_question": "have a rest",

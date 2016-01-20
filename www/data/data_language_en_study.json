@@ -104,6 +104,14 @@
     "preview": "open_your_books"
   },
   {
+    "foreign_question": "point",
+    "ru_question": "точка",
+    "foreign_response": "^\\s*point\\s*$",
+    "ru_response": "^\\s*точка\\s*$",
+    "sound": "point",
+    "preview": "point"
+  },
+  {
     "foreign_question": "Science",
     "ru_question": "наука",
     "foreign_response": "^\\s*Science\\s*$",

@@ -1,0 +1,58 @@
+[
+  {
+    "foreign_question": "can",
+    "ru_question": "мочь (возможность)",
+    "foreign_response": "^\\s*can\\s*$",
+    "ru_response": "^\\s*мочь\\s*$",
+    "sound": "can",
+    "preview": "can"
+  },
+  {
+    "foreign_question": "could",
+    "ru_question": "мог (возможность)",
+    "foreign_response": "^\\s*could\\s*$",
+    "ru_response": "^\\s*мог\\s*$",
+    "sound": "could",
+    "preview": "could"
+  },
+  {
+    "foreign_question": "be able to",
+    "ru_question": "мочь (возможность) в будущем времени",
+    "foreign_response": "^\\s*be able to\\s*$",
+    "ru_response": "^\\s*мочь\\s*$",
+    "sound": "be_able_to",
+    "preview": "be_able_to"
+  },
+  {
+    "foreign_question": "may",
+    "ru_question": "мочь (разрешение)",
+    "foreign_response": "^\\s*may\\s*$",
+    "ru_response": "^\\s*мочь\\s*$",
+    "sound": "may",
+    "preview": "may"
+  },
+  {
+    "foreign_question": "might",
+    "ru_question": "мог (разрешение)",
+    "foreign_response": "^\\s*might\\s*$",
+    "ru_response": "^\\s*мог\\s*$",
+    "sound": "might",
+    "preview": "might"
+  },
+  {
+    "foreign_question": "must",
+    "ru_question": "быть должным, быть обязанным",
+    "foreign_response": "^\\s*must\\s*$",
+    "ru_response": "^\\s*быть (должным|обязанным)\\s*$",
+    "sound": "must",
+    "preview": "must"
+  },
+  {
+    "foreign_question": "need",
+    "ru_question": "нуждаться",
+    "foreign_response": "^\\s*need\\s*$",
+    "ru_response": "^\\s*нуждаться\\s*$",
+    "sound": "need",
+    "preview": "need"
+  }
+]

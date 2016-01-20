@@ -1,0 +1,26 @@
+[
+  {
+    "foreign_question": "waterfall",
+    "ru_question": "водопад",
+    "foreign_response": "^\\s*waterfall\\s*$",
+    "ru_response": "^\\s*водопад\\s*$",
+    "sound": "waterfall",
+    "preview": "waterfall"
+  },
+  {
+    "foreign_question": "west (ern)",
+    "ru_question": "запад",
+    "foreign_response": "^\\s*west\\s*$",
+    "ru_response": "^\\s*запад\\s*$",
+    "sound": "west",
+    "preview": "west"
+  },
+  {
+    "foreign_question": "wild",
+    "ru_question": "дикий",
+    "foreign_response": "^\\s*wild\\s*$",
+    "ru_response": "^\\s*дикий\\s*$",
+    "sound": "wild",
+    "preview": "wild"
+  }
+]

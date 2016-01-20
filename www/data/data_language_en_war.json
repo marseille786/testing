@@ -1,10 +1,74 @@
 [
   {
+    "foreign_question": "army",
+    "ru_question": "армия",
+    "foreign_response": "^\\s*army\\s*$",
+    "ru_response": "^\\s*армия\\s*$",
+    "sound": "army",
+    "preview": "army"
+  },
+  {
+    "foreign_question": "battle",
+    "ru_question": "битва, бой, сражение",
+    "foreign_response": "^\\s*battle\\s*$",
+    "ru_response": "^\\s*(битва|бой|сражение|баталия)\\s*$",
+    "sound": "battle",
+    "preview": "battle"
+  },
+  {
+    "foreign_question": "hero",
+    "ru_question": "герой",
+    "foreign_response": "^\\s*hero\\s*$",
+    "ru_response": "^\\s*герой\\s*$",
+    "sound": "hero",
+    "preview": "hero"
+  },
+  {
     "foreign_question": "kill",
     "ru_question": "убивать, убийство",
     "foreign_response": "^\\s*kill\\s*$",
     "ru_response": "^\\s*(уби(ва)?ть|убийство)\\s*$",
     "sound": "kill",
     "preview": "kill"
+  },
+  {
+    "foreign_question": "revenge",
+    "ru_question": "месть",
+    "foreign_response": "^\\s*revenge\\s*$",
+    "ru_response": "^\\s*месть\\s*$",
+    "sound": "revenge",
+    "preview": "revenge"
+  },
+  {
+    "foreign_question": "saver",
+    "ru_question": "спаситель",
+    "foreign_response": "^\\s*saver\\s*$",
+    "ru_response": "^\\s*спаситель\\s*$",
+    "sound": "saver",
+    "preview": "saver"
+  },
+  {
+    "foreign_question": "shot",
+    "ru_question": "выстрел",
+    "foreign_response": "^\\s*shot\\s*$",
+    "ru_response": "^\\s*выстрел\\s*$",
+    "sound": "shot",
+    "preview": "shot"
+  },
+  {
+    "foreign_question": "torture",
+    "ru_question": "пытка, мучение",
+    "foreign_response": "^\\s*torture\\s*$",
+    "ru_response": "^\\s*(пытка|мучение)\\s*$",
+    "sound": "torture",
+    "preview": "torture"
+  },
+  {
+    "foreign_question": "war",
+    "ru_question": "война",
+    "foreign_response": "^\\s*war\\s*$",
+    "ru_response": "^\\s*война\\s*$",
+    "sound": "war",
+    "preview": "war"
   }
 ]

@@ -24,11 +24,11 @@
     "preview": ""
   },
   {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
+    "foreign_question": "silk",
+    "ru_question": "шелк",
+    "foreign_response": "^\\s*silk\\s*$",
+    "ru_response": "^\\s*шелк\\s*$",
+    "sound": "silk",
+    "preview": "silk"
   }
 ]
