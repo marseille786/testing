@@ -1,11 +1,59 @@
 [
   {
+    "foreign_question": "bad",
+    "ru_question": "плохой",
+    "foreign_response": "^\\s*bad\\s*$",
+    "ru_response": "^\\s*плохой\\s*$",
+    "sound": "bad",
+    "preview": "bad"
+  },
+  {
     "foreign_question": "beautiful",
     "ru_question": "красивый",
     "foreign_response": "^\\s*beautiful\\s*$",
     "ru_response": "^\\s*красив(ый|ая)\\s*$",
     "sound": "beautiful",
-    "preview": ""
+    "preview": "beautiful"
+  },
+  {
+    "foreign_question": "best",
+    "ru_question": "лучший",
+    "foreign_response": "^\\s*best\\s*$",
+    "ru_response": "^\\s*лучший\\s*$",
+    "sound": "best",
+    "preview": "best"
+  },
+  {
+    "foreign_question": "better",
+    "ru_question": "лучше",
+    "foreign_response": "^\\s*better\\s*$",
+    "ru_response": "^\\s*лучше\\s*$",
+    "sound": "better",
+    "preview": "better"
+  },
+  {
+    "foreign_question": "big",
+    "ru_question": "большой (синоним large)",
+    "foreign_response": "^\\s*big\\s*$",
+    "ru_response": "^\\s*большой\\s*$",
+    "sound": "big",
+    "preview": "big"
+  },
+  {
+    "foreign_question": "boring",
+    "ru_question": "занятой",
+    "foreign_response": "^\\s*boring\\s*$",
+    "ru_response": "^\\s*занятой\\s*$",
+    "sound": "boring",
+    "preview": "boring"
+  },
+  {
+    "foreign_question": "busy",
+    "ru_question": "скучный",
+    "foreign_response": "^\\s*busy\\s*$",
+    "ru_response": "^\\s*скучный\\s*$",
+    "sound": "busy",
+    "preview": "busy"
   },
   {
     "foreign_question": "chubby",
@@ -14,6 +62,14 @@
     "ru_response": "^\\s*круглолицый\\s*$",
     "sound": "chubby",
     "preview": "chubby"
+  },
+  {
+    "foreign_question": "clever",
+    "ru_question": "умный (синоним smart)",
+    "foreign_response": "^\\s*clever\\s*$",
+    "ru_response": "^\\s*умный\\s*$",
+    "sound": "clever",
+    "preview": "clever"
   },
   {
     "foreign_question": "cold",
@@ -32,12 +88,44 @@
     "preview": "curly"
   },
   {
+    "foreign_question": "dangerous",
+    "ru_question": "опасный",
+    "foreign_response": "^\\s*dangerous\\s*$",
+    "ru_response": "^\\s*опасный\\s*$",
+    "sound": "dangerous",
+    "preview": "dangerous"
+  },
+  {
+    "foreign_question": "different",
+    "ru_question": "разный, различный",
+    "foreign_response": "^\\s*different\\s*$",
+    "ru_response": "^\\s*(разный|различный)\\s*$",
+    "sound": "different",
+    "preview": "different"
+  },
+  {
+    "foreign_question": "difficult",
+    "ru_question": "сложный",
+    "foreign_response": "^\\s*difficult\\s*$",
+    "ru_response": "^\\s*сложный\\s*$",
+    "sound": "difficult",
+    "preview": "difficult"
+  },
+  {
     "foreign_question": "dramatic",
     "ru_question": "драматический, драматичный",
     "foreign_response": "^\\s*dramatic\\s*$",
     "ru_response": "^\\s*(драматический|драматичный)\\s*$",
     "sound": "dramatic",
     "preview": "dramatic"
+  },
+  {
+    "foreign_question": "easy",
+    "ru_question": "легкий, простой (легко сделать)",
+    "foreign_response": "^\\s*easy\\s*$",
+    "ru_response": "^\\s*(легкий|простой)\\s*$",
+    "sound": "easy",
+    "preview": "easy"
   },
   {
     "foreign_question": "embarassed",
@@ -56,6 +144,54 @@
     "preview": "excited"
   },
   {
+    "foreign_question": "expensive",
+    "ru_question": "дорогой",
+    "foreign_response": "^\\s*expensive\\s*$",
+    "ru_response": "^\\s*(дорогой|дорогостоящий)\\s*$",
+    "sound": "expensive",
+    "preview": "expensive"
+  },
+  {
+    "foreign_question": "experienced",
+    "ru_question": "опытный",
+    "foreign_response": "^\\s*experienced\\s*$",
+    "ru_response": "^\\s*опытный\\s*$",
+    "sound": "experienced",
+    "preview": "experienced"
+  },
+  {
+    "foreign_question": "far",
+    "ru_question": "далекий, дальний",
+    "foreign_response": "^\\s*far\\s*$",
+    "ru_response": "^\\s*(далекий|дальний)\\s*$",
+    "sound": "far",
+    "preview": "far"
+  },
+  {
+    "foreign_question": "farther",
+    "ru_question": "далекий, дальний",
+    "foreign_response": "^\\s*farther\\s*$",
+    "ru_response": "^\\s*(более далекий|более дальний)\\s*$",
+    "sound": "farther",
+    "preview": "farther"
+  },
+  {
+    "foreign_question": "farthest",
+    "ru_question": "далекий, дальний",
+    "foreign_response": "^\\s*farthest\\s*$",
+    "ru_response": "^\\s*(самый далекий|самый дальний)\\s*$",
+    "sound": "farthest",
+    "preview": "farthest"
+  },
+  {
+    "foreign_question": "fashionable",
+    "ru_question": "модный",
+    "foreign_response": "^\\s*fashionable\\s*$",
+    "ru_response": "^\\s*модный\\s*$",
+    "sound": "fashionable",
+    "preview": "fashionable"
+  },
+  {
     "foreign_question": "favourite",
     "ru_question": "любимый (не о человеке)",
     "foreign_response": "^\\s*favourite\\s*$",
@@ -72,10 +208,42 @@
     "preview": "female"
   },
   {
+    "foreign_question": "foreign",
+    "ru_question": "иностранный, заграничный",
+    "foreign_response": "^\\s*foreign\\s*$",
+    "ru_response": "^\\s*(иностранный|заграничный)\\s*$",
+    "sound": "foreign",
+    "preview": "foreign"
+  },
+  {
     "foreign_question": "happy",
     "ru_question": "счастливый, счастливая",
     "foreign_response": "^\\s*happy\\s*$",
     "ru_response": "^\\s*счастлив(ый|ая)\\s*$",
+    "sound": "happy",
+    "preview": "happy"
+  },
+  {
+    "foreign_question": "glad",
+    "ru_question": "рад",
+    "foreign_response": "^\\s*glad\\s*$",
+    "ru_response": "^\\s*рад(остный)?\\s*$",
+    "sound": "glad",
+    "preview": "glad"
+  },
+  {
+    "foreign_question": "good",
+    "ru_question": "хороший",
+    "foreign_response": "^\\s*good\\s*$",
+    "ru_response": "^\\s*хороший\\s*$",
+    "sound": "good",
+    "preview": "good"
+  },
+  {
+    "foreign_question": "happy",
+    "ru_question": "счастливый",
+    "foreign_response": "^\\s*happy\\s*$",
+    "ru_response": "^\\s*счастливый\\s*$",
     "sound": "happy",
     "preview": "happy"
   },
@@ -112,6 +280,14 @@
     "preview": "human"
   },
   {
+    "foreign_question": "hungry",
+    "ru_question": "голодный",
+    "foreign_response": "^\\s*hungry\\s*$",
+    "ru_response": "^\\s*голодный\\s*$",
+    "sound": "hungry",
+    "preview": "hungry"
+  },
+  {
     "foreign_question": "important",
     "ru_question": "важный",
     "foreign_response": "^\\s*important\\s*$",
@@ -131,9 +307,49 @@
     "foreign_question": "incredible",
     "ru_question": "невероятный",
     "foreign_response": "^\\s*incredible\\s*$",
-    "ru_response": "^\\s*невероятный, потрясающий\\s*$",
+    "ru_response": "^\\s*(невероятный|потрясающий)\\s*$",
     "sound": "incredible",
     "preview": "incredible"
+  },
+  {
+    "foreign_question": "interesting",
+    "ru_question": "интересный",
+    "foreign_response": "^\\s*interesting\\s*$",
+    "ru_response": "^\\s*интересный\\s*$",
+    "sound": "interesting",
+    "preview": "interesting"
+  },
+  {
+    "foreign_question": "jewelry",
+    "ru_question": "ювелирный",
+    "foreign_response": "^\\s*jewelry\\s*$",
+    "ru_response": "^\\s*ювелирный\\s*$",
+    "sound": "jewelry",
+    "preview": "jewelry"
+  },
+  {
+    "foreign_question": "large",
+    "ru_question": "большой (синоним big)",
+    "foreign_response": "^\\s*large\\s*$",
+    "ru_response": "^\\s*большой\\s*$",
+    "sound": "large",
+    "preview": "large"
+  },
+  {
+    "foreign_question": "last",
+    "ru_question": "самый последний (по порядку)",
+    "foreign_response": "^\\s*last\\s*$",
+    "ru_response": "^\\s*(самый )?последний\\s*$",
+    "sound": "last",
+    "preview": "last"
+  },
+  {
+    "foreign_question": "late",
+    "ru_question": "поздний",
+    "foreign_response": "^\\s*late\\s*$",
+    "ru_response": "^\\s*поздний\\s*$",
+    "sound": "late",
+    "preview": "late"
   },
   {
     "foreign_question": "long",
@@ -144,12 +360,44 @@
     "preview": "long"
   },
   {
+    "foreign_question": "least",
+    "ru_question": "самый маленький",
+    "foreign_response": "^\\s*least\\s*$",
+    "ru_response": "^\\s*самый маленький\\s*$",
+    "sound": "least",
+    "preview": "least"
+  },
+  {
+    "foreign_question": "less",
+    "ru_question": "более маленький",
+    "foreign_response": "^\\s*less\\s*$",
+    "ru_response": "^\\s*более маленький\\s*$",
+    "sound": "less",
+    "preview": "less"
+  },
+  {
+    "foreign_question": "little",
+    "ru_question": "маленький (по возрасту)",
+    "foreign_response": "^\\s*little\\s*$",
+    "ru_response": "^\\s*маленький\\s*$",
+    "sound": "little",
+    "preview": "little"
+  },
+  {
     "foreign_question": "male",
     "ru_question": "мужской",
     "foreign_response": "^\\s*male\\s*$",
     "ru_response": "^\\s*мужской\\s*$",
     "sound": "male",
     "preview": "male"
+  },
+  {
+    "foreign_question": "many",
+    "ru_question": "многий",
+    "foreign_response": "^\\s*many\\s*$",
+    "ru_response": "^\\s*многий\\s*$",
+    "sound": "many",
+    "preview": "many"
   },
   {
     "foreign_question": "married",
@@ -160,6 +408,38 @@
     "preview": "married"
   },
   {
+    "foreign_question": "more",
+    "ru_question": "больше",
+    "foreign_response": "^\\s*more\\s*$",
+    "ru_response": "^\\s*больше\\s*$",
+    "sound": "more",
+    "preview": "more"
+  },
+  {
+    "foreign_question": "most",
+    "ru_question": "больше всего",
+    "foreign_response": "^\\s*most\\s*$",
+    "ru_response": "^\\s*больше всего\\s*$",
+    "sound": "most",
+    "preview": "most"
+  },
+  {
+    "foreign_question": "near",
+    "ru_question": "близкий",
+    "foreign_response": "^\\s*near\\s*$",
+    "ru_response": "^\\s*близкий\\s*$",
+    "sound": "near",
+    "preview": "near"
+  },
+  {
+    "foreign_question": "next",
+    "ru_question": "следующий",
+    "foreign_response": "^\\s*next\\s*$",
+    "ru_response": "^\\s*следующий\\s*$",
+    "sound": "next",
+    "preview": "next"
+  },
+  {
     "foreign_question": "old",
     "ru_question": "пожилой, старый",
     "foreign_response": "^\\s*old\\s*$",
@@ -168,12 +448,28 @@
     "preview": "old"
   },
   {
+    "foreign_question": "other",
+    "ru_question": "другой (без артикля)",
+    "foreign_response": "^\\s*other\\s*$",
+    "ru_response": "^\\s*другой\\s*$",
+    "sound": "other",
+    "preview": "other"
+  },
+  {
     "foreign_question": "pretty",
     "ru_question": "хорошенький, прелестный",
     "foreign_response": "^\\s*pretty\\s*$",
     "ru_response": "^\\s*(хорошеньк(ий|ая)|прелестн(ый|ая)|мил(ый|ая)|миленьк(ий|ая))\\s*$",
     "sound": "pretty",
     "preview": "pretty"
+  },
+  {
+    "foreign_question": "private",
+    "ru_question": "частный (частная собственность)",
+    "foreign_response": "^\\s*private\\s*$",
+    "ru_response": "^\\s*(частный|приватный)\\s*$",
+    "sound": "private",
+    "preview": "private"
   },
   {
     "foreign_question": "ready",
@@ -224,6 +520,14 @@
     "preview": "silly"
   },
   {
+    "foreign_question": "simple",
+    "ru_question": "простой",
+    "foreign_response": "^\\s*simple\\s*$",
+    "ru_response": "^\\s*простой\\s*$",
+    "sound": "simple",
+    "preview": "simple"
+  },
+  {
     "foreign_question": "single",
     "ru_question": "холостой, незамужняя",
     "foreign_response": "^\\s*single\\s*$",
@@ -241,7 +545,7 @@
   },
   {
     "foreign_question": "slim",
-    "ru_question": "тонкий, стройный",
+    "ru_question": "тонкий, стройный (синоним thin)",
     "foreign_response": "^\\s*slim\\s*$",
     "ru_response": "^\\s*(тонкий|стройный|худой)\\s*$",
     "sound": "slim",
@@ -256,8 +560,24 @@
     "preview": "stupid"
   },
   {
+    "foreign_question": "small",
+    "ru_question": "маленький (по размеру)",
+    "foreign_response": "^\\s*small\\s*$",
+    "ru_response": "^\\s*маленький\\s*$",
+    "sound": "small",
+    "preview": "small"
+  },
+  {
+    "foreign_question": "smart",
+    "ru_question": "умный (синоним clever)",
+    "foreign_response": "^\\s*smart\\s*$",
+    "ru_response": "^\\s*умный\\s*$",
+    "sound": "smart",
+    "preview": "smart"
+  },
+  {
     "foreign_question": "tall",
-    "ru_question": "высокий",
+    "ru_question": "высокий (о росте)",
     "foreign_response": "^\\s*tall\\s*$",
     "ru_response": "^\\s*высок(ий|ая)\\s*$",
     "sound": "tall",
@@ -265,7 +585,7 @@
   },
   {
     "foreign_question": "thin",
-    "ru_question": "худой, тонкий",
+    "ru_question": "худой, тонкий (синоним slim)",
     "foreign_response": "^\\s*thin\\s*$",
     "ru_response": "^\\s*(худ(ой|ая)|тонк(ий|ая)|тощ(ий|ая))\\s*$",
     "sound": "thin",
@@ -318,6 +638,30 @@
     "ru_response": "^\\s*дикий\\s*$",
     "sound": "wild",
     "preview": "wild"
+  },
+  {
+    "foreign_question": "wool",
+    "ru_question": "шерстяной",
+    "foreign_response": "^\\s*wool\\s*$",
+    "ru_response": "^\\s*шерстяной\\s*$",
+    "sound": "wool",
+    "preview": "wool"
+  },
+  {
+    "foreign_question": "worse",
+    "ru_question": "хуже",
+    "foreign_response": "^\\s*worse\\s*$",
+    "ru_response": "^\\s*хуже\\s*$",
+    "sound": "worse",
+    "preview": "worse"
+  },
+  {
+    "foreign_question": "worst",
+    "ru_question": "худший",
+    "foreign_response": "^\\s*worst\\s*$",
+    "ru_response": "^\\s*худший\\s*$",
+    "sound": "worst",
+    "preview": "worst"
   },
   {
     "foreign_question": "wrong",

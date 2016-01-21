@@ -16,12 +16,204 @@
     "preview": "call_off"
   },
   {
+    "foreign_question": "check in",
+    "ru_question": "заезд, регистрация по прибытии в отель",
+    "foreign_response": "^\\s*check in\\s*$",
+    "ru_response": "^\\s*(заезд|регистрация(( по прибытии)? в отель)?)\\s*$",
+    "sound": "check_in",
+    "preview": "check_in"
+  },
+  {
+    "foreign_question": "check out",
+    "ru_question": "выезд из отеля",
+    "foreign_response": "^\\s*check out\\s*$",
+    "ru_response": "^\\s*выезд( из отеля)?\\s*$",
+    "sound": "check_out",
+    "preview": "check_out"
+  },
+  {
+    "foreign_question": "come back",
+    "ru_question": "вернуться, возвращаться (ко мне)",
+    "foreign_response": "^\\s*come back\\s*$",
+    "ru_response": "^\\s*(вернуться|возвращаться)\\s*$",
+    "sound": "come_back",
+    "preview": "come_back"
+  },
+  {
+    "foreign_question": "come in",
+    "ru_question": "входить",
+    "foreign_response": "^\\s*come in\\s*$",
+    "ru_response": "^\\s*входить\\s*$",
+    "sound": "come_in",
+    "preview": "come_in"
+  },
+  {
+    "foreign_question": "come on",
+    "ru_question": "давай",
+    "foreign_response": "^\\s*come on\\s*$",
+    "ru_response": "^\\s*давай\\s*$",
+    "sound": "come_on",
+    "preview": "come_on"
+  },
+  {
+    "foreign_question": "fall in love",
+    "ru_question": "влюбиться",
+    "foreign_response": "^\\s*fall in love\\s*$",
+    "ru_response": "^\\s*влюбиться\\s*$",
+    "sound": "fall_in_love",
+    "preview": "fall_in_love"
+  },
+  {
+    "foreign_question": "get away",
+    "ru_question": "отстать, отделаться",
+    "foreign_response": "^\\s*get away\\s*$",
+    "ru_response": "^\\s*(отстать|отделаться)\\s*$",
+    "sound": "get_away",
+    "preview": "get_away"
+  },
+  {
+    "foreign_question": "get in",
+    "ru_question": "войти",
+    "foreign_response": "^\\s*get in\\s*$",
+    "ru_response": "^\\s*войти\\s*$",
+    "sound": "get_in",
+    "preview": "get_in"
+  },
+  {
+    "foreign_question": "get up",
+    "ru_question": "вставать (утром)",
+    "foreign_response": "^\\s*get up\\s*$",
+    "ru_response": "^\\s*вставать\\s*$",
+    "sound": "get_up",
+    "preview": "get_up"
+  },
+  {
+    "foreign_question": "give back",
+    "ru_question": "отдать",
+    "foreign_response": "^\\s*give back\\s*$",
+    "ru_response": "^\\s*отдать\\s*$",
+    "sound": "give_back",
+    "preview": "give_back"
+  },
+  {
+    "foreign_question": "give in",
+    "ru_question": "уступать, сдаваться",
+    "foreign_response": "^\\s*give in\\s*$",
+    "ru_response": "^\\s*(уступать|уступить|сдаваться|сдаться)\\s*$",
+    "sound": "give_in",
+    "preview": "give_in"
+  },
+  {
+    "foreign_question": "go ahead",
+    "ru_question": "идти вперед",
+    "foreign_response": "^\\s*go ahead\\s*$",
+    "ru_response": "^\\s*идти вперед\\s*$",
+    "sound": "go_ahead",
+    "preview": "go_ahead"
+  },
+  {
+    "foreign_question": "go away",
+    "ru_question": "уходить, прочь, в сторону, отвали, проваливай",
+    "foreign_response": "^\\s*go away\\s*$",
+    "ru_response": "^\\s*(уходить( прочь)?|прочь|в сторону|отвали(вать)?|провалива(й|ть))\\s*$",
+    "sound": "go_away",
+    "preview": "go_away"
+  },
+  {
+    "foreign_question": "go back",
+    "ru_question": "возвращаться (от куда пришел)",
+    "foreign_response": "^\\s*go back\\s*$",
+    "ru_response": "^\\s*возвращаться\\s*$",
+    "sound": "go_back",
+    "preview": "go_back"
+  },
+  {
+    "foreign_question": "go down",
+    "ru_question": "спускаться (по лестнице)",
+    "foreign_response": "^\\s*go down\\s*$",
+    "ru_response": "^\\s*спускаться\\s*$",
+    "sound": "go_down",
+    "preview": "go_down"
+  },
+  {
+    "foreign_question": "go in",
+    "ru_question": "заходить, входить",
+    "foreign_response": "^\\s*go in\\s*$",
+    "ru_response": "^\\s*(заходить|входить)\\s*$",
+    "sound": "go_in",
+    "preview": "go_in"
+  },
+  {
+    "foreign_question": "go on",
+    "ru_question": "продолжать (синоним continue)",
+    "foreign_response": "^\\s*go on\\s*$",
+    "ru_response": "^\\s*продолжать\\s*$",
+    "sound": "go_on",
+    "preview": "go_on"
+  },
+  {
+    "foreign_question": "go out",
+    "ru_question": "выходить, выйти",
+    "foreign_response": "^\\s*go out\\s*$",
+    "ru_response": "^\\s*(выходить|выйти)\\s*$",
+    "sound": "go_out",
+    "preview": "go_out"
+  },
+  {
+    "foreign_question": "go up",
+    "ru_question": "подниматься (по лестнице)",
+    "foreign_response": "^\\s*go up\\s*$",
+    "ru_response": "^\\s*подниматься\\s*$",
+    "sound": "go_up",
+    "preview": "go_up"
+  },
+  {
+    "foreign_question": "have a rest",
+    "ru_question": "отдыхать",
+    "foreign_response": "^\\s*have a rest\\s*$",
+    "ru_response": "^\\s*отдыхать\\s*$",
+    "sound": "have_a_rest",
+    "preview": "have_a_rest"
+  },
+  {
+    "foreign_question": "look away",
+    "ru_question": "отвернуться",
+    "foreign_response": "^\\s*look away\\s*$",
+    "ru_response": "^\\s*отвернуться\\s*$",
+    "sound": "look_away",
+    "preview": "look_away"
+  },
+  {
+    "foreign_question": "look back",
+    "ru_question": "оглянуться, обернуться",
+    "foreign_response": "^\\s*look back\\s*$",
+    "ru_response": "^\\s*(оглянуться|обернуться)\\s*$",
+    "sound": "look_back",
+    "preview": "look_back"
+  },
+  {
+    "foreign_question": "look down",
+    "ru_question": "посмотреть вниз",
+    "foreign_response": "^\\s*look down\\s*$",
+    "ru_response": "^\\s*(по)?смотреть вниз\\s*$",
+    "sound": "look_down",
+    "preview": "look_down"
+  },
+  {
     "foreign_question": "look for",
     "ru_question": "искать (синоним 'seek')",
     "foreign_response": "^\\s*look for\\s*$",
     "ru_response": "^\\s*искать\\s*$",
     "sound": "look_for",
     "preview": "look_for"
+  },
+  {
+    "foreign_question": "look in",
+    "ru_question": "заглянуть",
+    "foreign_response": "^\\s*look in\\s*$",
+    "ru_response": "^\\s*заглянуть\\s*$",
+    "sound": "look_in",
+    "preview": "look_in"
   },
   {
     "foreign_question": "look like",
@@ -32,11 +224,147 @@
     "preview": "look_like"
   },
   {
-    "foreign_question": "have a rest",
-    "ru_question": "отдыхать",
-    "foreign_response": "^\\s*have a rest\\s*$",
-    "ru_response": "^\\s*отдыхать\\s*$",
-    "sound": "have_a_rest",
-    "preview": "have_a_rest"
+    "foreign_question": "look out",
+    "ru_question": "выглянуть",
+    "foreign_response": "^\\s*look out\\s*$",
+    "ru_response": "^\\s*выглянуть\\s*$",
+    "sound": "look_out",
+    "preview": "look_out"
+  },
+  {
+    "foreign_question": "look up",
+    "ru_question": "посмотреть вверх",
+    "foreign_response": "^\\s*look up\\s*$",
+    "ru_response": "^\\s*(по)?смотреть вверх\\s*$",
+    "sound": "look_up",
+    "preview": "look_up"
+  },
+  {
+    "foreign_question": "pay back",
+    "ru_question": "окупить, окупать",
+    "foreign_response": "^\\s*pay back\\s*$",
+    "ru_response": "^\\s*(окупить|окупать)\\s*$",
+    "sound": "pay_back",
+    "preview": "pay_back"
+  },
+  {
+    "foreign_question": "pay down",
+    "ru_question": "выплатить",
+    "foreign_response": "^\\s*pay down\\s*$",
+    "ru_response": "^\\s*выплатить\\s*$",
+    "sound": "pay_down",
+    "preview": "pay_down"
+  },
+  {
+    "foreign_question": "put up",
+    "ru_question": "смириться",
+    "foreign_response": "^\\s*put up\\s*$",
+    "ru_response": "^\\s*смириться\\s*$",
+    "sound": "put_up",
+    "preview": "put_up"
+  },
+  {
+    "foreign_question": "put off",
+    "ru_question": "отложить",
+    "foreign_response": "^\\s*put off\\s*$",
+    "ru_response": "^\\s*отложить\\s*$",
+    "sound": "put_off",
+    "preview": "put_off"
+  },
+  {
+    "foreign_question": "sit down",
+    "ru_question": "сесть (из положения стоя)",
+    "foreign_response": "^\\s*sit down\\s*$",
+    "ru_response": "^\\s*(сесть|садиться)\\s*$",
+    "sound": "sit_down",
+    "preview": "sit_down"
+  },
+  {
+    "foreign_question": "sit up",
+    "ru_question": "сесть (из положения лежа), оживиться",
+    "foreign_response": "^\\s*sit up\\s*$",
+    "ru_response": "^\\s*(сесть|садиться|оживиться)\\s*$",
+    "sound": "sit_up",
+    "preview": "sit_up"
+  },
+  {
+    "foreign_question": "stand by",
+    "ru_question": "поддерживать",
+    "foreign_response": "^\\s*stand by\\s*$",
+    "ru_response": "^\\s*(поддерживать|поддержать)\\s*$",
+    "sound": "stand_by",
+    "preview": "stand_by"
+  },
+  {
+    "foreign_question": "stand up",
+    "ru_question": "встать",
+    "foreign_response": "^\\s*stand up\\s*$",
+    "ru_response": "^\\s*(встать|вставать)\\s*$",
+    "sound": "stand_up",
+    "preview": "stand_up"
+  },
+  {
+    "foreign_question": "take away",
+    "ru_question": "отобрать",
+    "foreign_response": "^\\s*take away\\s*$",
+    "ru_response": "^\\s*(отобрать|отбирать)\\s*$",
+    "sound": "take_away",
+    "preview": "take_away"
+  },
+  {
+    "foreign_question": "take down",
+    "ru_question": "опустить",
+    "foreign_response": "^\\s*take down\\s*$",
+    "ru_response": "^\\s*(опустить|опускать)\\s*$",
+    "sound": "take_down",
+    "preview": "take_down"
+  },
+  {
+    "foreign_question": "take in",
+    "ru_question": "внести, втащить",
+    "foreign_response": "^\\s*take in\\s*$",
+    "ru_response": "^\\s*(внести|втащить|вносить|втаскивать)\\s*$",
+    "sound": "take_in",
+    "preview": "take_in"
+  },
+  {
+    "foreign_question": "take out",
+    "ru_question": "вынести, вытащить",
+    "foreign_response": "^\\s*take out\\s*$",
+    "ru_response": "^\\s*(вынести|вытащить|выносить|вытаскивать)\\s*$",
+    "sound": "take_out",
+    "preview": "take_out"
+  },
+  {
+    "foreign_question": "take up",
+    "ru_question": "поднять",
+    "foreign_response": "^\\s*take up\\s*$",
+    "ru_response": "^\\s*(поднять|поднимать)\\s*$",
+    "sound": "take_up",
+    "preview": "take_up"
+  },
+  {
+    "foreign_question": "try on",
+    "ru_question": "примерять (что-то)",
+    "foreign_response": "^\\s*try on\\s*$",
+    "ru_response": "^\\s*((при)?мерять)\\s*$",
+    "sound": "try_on",
+    "preview": "try_on"
+  },
+  {
+    "foreign_question": "turn on",
+    "ru_question": "выключить",
+    "foreign_response": "^\\s*turn on\\s*$",
+    "ru_response": "^\\s*(включить|включать)\\s*$",
+    "sound": "turn_on",
+    "preview": "turn_on"
+  },
+  {
+    "foreign_question": "turn off",
+    "ru_question": "выключить",
+    "foreign_response": "^\\s*turn off\\s*$",
+    "ru_response": "^\\s*(выключить|выключать)\\s*$",
+    "sound": "turn_off",
+    "preview": "turn_off"
   }
 ]
