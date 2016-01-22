@@ -221,12 +221,20 @@
     "preview": "all"
   },
   {
-    "foreign_question": "some (неопределенные местоимения)",
-    "ru_question": "несколько (неопределенные местоимения)",
-    "foreign_response": "^\\s*some\\s*$",
-    "ru_response": "^\\s*несколько\\s*$",
-    "sound": "some",
-    "preview": "some"
+    "foreign_question": "any (неопределенные местоимения)",
+    "ru_question": "любой (неопределенные местоимения)",
+    "foreign_response": "^\\s*any\\s*$",
+    "ru_response": "^\\s*любой\\s*$",
+    "sound": "any",
+    "preview": "any"
+  },
+  {
+    "foreign_question": "both (неопределенные местоимения)",
+    "ru_question": "оба, и то и другое (неопределенные местоимения)",
+    "foreign_response": "^\\s*both\\s*$",
+    "ru_response": "^\\s*(оба|и то\\,? и другое)\\s*$",
+    "sound": "both",
+    "preview": "both"
   },
   {
     "foreign_question": "every (неопределенные местоимения)",
@@ -237,12 +245,12 @@
     "preview": "every"
   },
   {
-    "foreign_question": "any (неопределенные местоимения)",
-    "ru_question": "любой (неопределенные местоимения)",
-    "foreign_response": "^\\s*any\\s*$",
-    "ru_response": "^\\s*любой\\s*$",
-    "sound": "any",
-    "preview": "any"
+    "foreign_question": "neither (неопределенные местоимения)",
+    "ru_question": "ни то, ни другое (неопределенные местоимения)",
+    "foreign_response": "^\\s*neither\\s*$",
+    "ru_response": "^\\s*ни то\\,? ни другое\\s*$",
+    "sound": "neither",
+    "preview": "neither"
   },
   {
     "foreign_question": "no (неопределенные местоимения)",
@@ -253,11 +261,11 @@
     "preview": "no"
   },
   {
-    "foreign_question": "both (неопределенные местоимения)",
-    "ru_question": "оба (неопределенные местоимения)",
-    "foreign_response": "^\\s*both\\s*$",
-    "ru_response": "^\\s*оба\\s*$",
-    "sound": "both",
-    "preview": "both"
+    "foreign_question": "some (неопределенные местоимения)",
+    "ru_question": "несколько (неопределенные местоимения)",
+    "foreign_response": "^\\s*some\\s*$",
+    "ru_response": "^\\s*несколько\\s*$",
+    "sound": "some",
+    "preview": "some"
   }
 ]

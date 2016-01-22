@@ -152,6 +152,14 @@
     "preview": "mountain_climbing"
   },
   {
+    "foreign_question": "opponent",
+    "ru_question": "противник, соперник",
+    "foreign_response": "^\\s*opponent\\s*$",
+    "ru_response": "^\\s*(противник|соперник)\\s*$",
+    "sound": "opponent",
+    "preview": "opponent"
+  },
+  {
     "foreign_question": "skiing",
     "ru_question": "катание на лыжах",
     "foreign_response": "^\\s*skiing\\s*$",
@@ -174,6 +182,14 @@
     "ru_response": "^\\s*серфинг\\s*$",
     "sound": "surfing",
     "preview": "surfing"
+  },
+  {
+    "foreign_question": "team",
+    "ru_question": "команда",
+    "foreign_response": "^\\s*team\\s*$",
+    "ru_response": "^\\s*команда\\s*$",
+    "sound": "team",
+    "preview": "team"
   },
   {
     "foreign_question": "waterskiing",

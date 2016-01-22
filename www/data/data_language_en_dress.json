@@ -24,6 +24,14 @@
     "preview": ""
   },
   {
+    "foreign_question": "price",
+    "ru_question": "цена",
+    "foreign_response": "^\\s*price\\s*$",
+    "ru_response": "^\\s*цена\\s*$",
+    "sound": "price",
+    "preview": "price"
+  },
+  {
     "foreign_question": "silk",
     "ru_question": "шелк",
     "foreign_response": "^\\s*silk\\s*$",

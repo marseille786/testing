@@ -231,13 +231,21 @@
       "sound": "erupt",
       "preview": "erupt"
   },
+  {
+    "foreign_question": "excuse",
+    "ru_question": "извинять",
+    "foreign_response": "^\\s*excuse\\s*$",
+    "ru_response": "^\\s*извинять\\s*$",
+      "sound": "excuse",
+      "preview": "excuse"
+  },
 	{
-		"foreign_question": "excuse",
-		"ru_question": "извинять",
-		"foreign_response": "^\\s*excuse\\s*$",
-		"ru_response": "^\\s*извинять\\s*$",
-	  	"sound": "excuse",
-	  	"preview": "excuse"
+		"foreign_question": "expand",
+		"ru_question": "расширять",
+		"foreign_response": "^\\s*expand\\s*$",
+		"ru_response": "^\\s*расширять\\s*$",
+	  	"sound": "expand",
+	  	"preview": "expand"
 	},
 	{
 		"foreign_question": "finish",
@@ -263,6 +271,14 @@
 	  	"sound": "follow",
 	  	"preview": "follow"
 	},
+  {
+    "foreign_question": "guess",
+    "ru_question": "догадываться, угадывать",
+    "foreign_response": "^\\s*guess\\s*$",
+    "ru_response": "^\\s*(догадываться|угадывать)\\s*$",
+      "sound": "guess",
+      "preview": "guess"
+  },
 	{
 		"foreign_question": "happen",
 		"ru_question": "случаться",
@@ -295,6 +311,14 @@
 	  	"sound": "hurry",
 	  	"preview": "hurry"
 	},
+  {
+    "foreign_question": "imitate",
+    "ru_question": "имитировать, подражать, копировать кого-то",
+    "foreign_response": "^\\s*imitate\\s*$",
+    "ru_response": "^\\s*(имитировать|подражать|копировать кого-то)\\s*$",
+      "sound": "imitate",
+      "preview": "imitate"
+  },
   {
     "foreign_question": "invite",
     "ru_question": "приглашать",
@@ -488,6 +512,14 @@
     "preview": "protect"
   },
   {
+    "foreign_question": "rehearse",
+    "ru_question": "репетировать",
+    "foreign_response": "^\\s*rehearse\\s*$",
+    "ru_response": "^\\s*репетировать\\s*$",
+    "sound": "rehearse",
+    "preview": "rehearse"
+  },
+  {
     "foreign_question": "release",
     "ru_question": "выпускать (книгу, фильм), освобождать",
     "foreign_response": "^\\s*release\\s*$",
@@ -503,6 +535,14 @@
 	  	"sound": "remember",
 	  	"preview": "remember"
 	},
+  {
+    "foreign_question": "repeat",
+    "ru_question": "повторять, повторить",
+    "foreign_response": "^\\s*repeat\\s*$",
+    "ru_response": "^\\s*(повторять|повторить)\\s*$",
+    "sound": "repeat",
+    "preview": "repeat"
+  },
   {
     "foreign_question": "return",
     "ru_question": "возвращать, вернуть",

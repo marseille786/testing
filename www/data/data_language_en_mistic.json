@@ -1,0 +1,18 @@
+[
+  {
+    "foreign_question": "order",
+    "ru_question": "орден (монашеский)",
+    "foreign_response": "^\\s*order\\s*$",
+    "ru_response": "^\\s*орден\\s*$",
+    "sound": "order",
+    "preview": "order"
+  },
+  {
+    "foreign_question": "spirit",
+    "ru_question": "дух",
+    "foreign_response": "^\\s*spirit\\s*$",
+    "ru_response": "^\\s*дух\\s*$",
+    "sound": "spirit",
+    "preview": "spirit"
+  }
+]

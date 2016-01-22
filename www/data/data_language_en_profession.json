@@ -8,6 +8,38 @@
     "preview": "accountant"
   },
   {
+    "foreign_question": "actor",
+    "ru_question": "актер",
+    "foreign_response": "^\\s*actor\\s*$",
+    "ru_response": "^\\s*актер\\s*$",
+    "sound": "actor",
+    "preview": "actor"
+  },
+  {
+    "foreign_question": "actress",
+    "ru_question": "актриса",
+    "foreign_response": "^\\s*actress\\s*$",
+    "ru_response": "^\\s*актриса\\s*$",
+    "sound": "actress",
+    "preview": "actress"
+  },
+  {
+    "foreign_question": "artist",
+    "ru_question": "художник",
+    "foreign_response": "^\\s*artist\\s*$",
+    "ru_response": "^\\s*художник\\s*$",
+    "sound": "artist",
+    "preview": "artist"
+  },
+  {
+    "foreign_question": "businessman",
+    "ru_question": "предприниматель, бизнесмен",
+    "foreign_response": "^\\s*businessman\\s*$",
+    "ru_response": "^\\s*(предприниматель|бизнесмен)\\s*$",
+    "sound": "businessman",
+    "preview": "businessman"
+  },
+  {
     "foreign_question": "chef",
     "ru_question": "шеф-повар",
     "foreign_response": "^\\s*chef\\s*$",
@@ -24,6 +56,30 @@
     "preview": "cleaner"
   },
   {
+    "foreign_question": "cosmetologist",
+    "ru_question": "косметолог",
+    "foreign_response": "^\\s*cosmetologist\\s*$",
+    "ru_response": "^\\s*косметолог\\s*$",
+    "sound": "cosmetologist",
+    "preview": "cosmetologist"
+  },
+  {
+    "foreign_question": "designer",
+    "ru_question": "дизайнер",
+    "foreign_response": "^\\s*designer\\s*$",
+    "ru_response": "^\\s*дизайнер\\s*$",
+    "sound": "designer",
+    "preview": "designer"
+  },
+  {
+    "foreign_question": "director",
+    "ru_question": "режиссер",
+    "foreign_response": "^\\s*director\\s*$",
+    "ru_response": "^\\s*режиссер\\s*$",
+    "sound": "director",
+    "preview": "director"
+  },
+  {
     "foreign_question": "doctor",
     "ru_question": "врач, доктор",
     "foreign_response": "^\\s*doctor\\s*$",
@@ -32,12 +88,92 @@
     "preview": "doctor"
   },
   {
+    "foreign_question": "driver",
+    "ru_question": "водитель, шофер",
+    "foreign_response": "^\\s*driver\\s*$",
+    "ru_response": "^\\s*(водитель|шофер)\\s*$",
+    "sound": "driver",
+    "preview": "driver"
+  },
+  {
+    "foreign_question": "economist",
+    "ru_question": "экономист",
+    "foreign_response": "^\\s*economist\\s*$",
+    "ru_response": "^\\s*экономист\\s*$",
+    "sound": "economist",
+    "preview": "economist"
+  },
+  {
+    "foreign_question": "editor",
+    "ru_question": "редактор",
+    "foreign_response": "^\\s*editor\\s*$",
+    "ru_response": "^\\s*редактор\\s*$",
+    "sound": "editor",
+    "preview": "editor"
+  },
+  {
+    "foreign_question": "engineer",
+    "ru_question": "инженер",
+    "foreign_response": "^\\s*engineer\\s*$",
+    "ru_response": "^\\s*инженер\\s*$",
+    "sound": "engineer",
+    "preview": "engineer"
+  },
+  {
+    "foreign_question": "film director",
+    "ru_question": "кинорежиссер",
+    "foreign_response": "^\\s*film director\\s*$",
+    "ru_response": "^\\s*кинорежиссер\\s*$",
+    "sound": "film_director",
+    "preview": "film_director"
+  },
+  {
+    "foreign_question": "freelancer",
+    "ru_question": "свободный работник",
+    "foreign_response": "^\\s*freelancer\\s*$",
+    "ru_response": "^\\s*(свободный|вольнонаемный|вольный) работник\\s*$",
+    "sound": "freelancer",
+    "preview": "freelancer"
+  },
+  {
     "foreign_question": "gardener",
     "ru_question": "садовник",
     "foreign_response": "^\\s*gardener\\s*$",
     "ru_response": "^\\s*садовник\\s*$",
     "sound": "gardener",
     "preview": "gardener"
+  },
+  {
+    "foreign_question": "househusband",
+    "ru_question": "домохозяин",
+    "foreign_response": "^\\s*househusband\\s*$",
+    "ru_response": "^\\s*домохозяин\\s*$",
+    "sound": "househusband",
+    "preview": "housewife"
+  },
+  {
+    "foreign_question": "housewife",
+    "ru_question": "домохозяйка",
+    "foreign_response": "^\\s*housewife\\s*$",
+    "ru_response": "^\\s*домохозяйка\\s*$",
+    "sound": "housewife",
+    "preview": "housewife"
+  },
+  {
+    "foreign_question": "hunter",
+    "ru_question": "охотник",
+    "foreign_response": "^\\s*hunter\\s*$",
+    "ru_response": "^\\s*охотник\\s*$",
+    "sound": "hunter",
+    "preview": "hunter"
+  },
+  {
+    "foreign_question": "journalist",
+    "ru_question": "журналист",
+    "foreign_response": "^\\s*journalist\\s*$",
+    "ru_response": "^\\s*журналист\\s*$",
+    "sound": "journalist",
+    "preview": "journalist"
   },
   {
     "foreign_question": "kitchen assistant",
@@ -56,6 +192,14 @@
     "preview": "lawyer"
   },
   {
+    "foreign_question": "lover",
+    "ru_question": "любовник",
+    "foreign_response": "^\\s*lover\\s*$",
+    "ru_response": "^\\s*любовник\\s*$",
+    "sound": "lover",
+    "preview": "lover"
+  },
+  {
     "foreign_question": "maker",
     "ru_question": "производитель",
     "foreign_response": "^\\s*maker\\s*$",
@@ -72,12 +216,44 @@
     "preview": "manager"
   },
   {
+    "foreign_question": "musician",
+    "ru_question": "музыкант",
+    "foreign_response": "^\\s*musician\\s*$",
+    "ru_response": "^\\s*музыкант\\s*$",
+    "sound": "musician",
+    "preview": "musician"
+  },
+  {
     "foreign_question": "nurse",
     "ru_question": "медбрат, медсестра",
     "foreign_response": "^\\s*nurse\\s*$",
     "ru_response": "^\\s*(медбрат|медсестра)\\s*$",
     "sound": "nurse",
     "preview": "nurse"
+  },
+  {
+    "foreign_question": "postman",
+    "ru_question": "почтальон",
+    "foreign_response": "^\\s*postman\\s*$",
+    "ru_response": "^\\s*почтальон\\s*$",
+    "sound": "postman",
+    "preview": "postman"
+  },
+  {
+    "foreign_question": "prisoner",
+    "ru_question": "пленный, заключенный",
+    "foreign_response": "^\\s*prisoner\\s*$",
+    "ru_response": "^\\s*(пленный|заключенный)\\s*$",
+    "sound": "prisoner",
+    "preview": "prisoner"
+  },
+  {
+    "foreign_question": "profession",
+    "ru_question": "профессия",
+    "foreign_response": "^\\s*profession\\s*$",
+    "ru_response": "^\\s*профессия\\s*$",
+    "sound": "profession",
+    "preview": "profession"
   },
   {
     "foreign_question": "seller",
@@ -94,6 +270,14 @@
     "ru_response": "^\\s*продавец\\s*$",
     "sound": "shop_assistant",
     "preview": "shop_assistant"
+  },
+  {
+    "foreign_question": "sportswoman",
+    "ru_question": "спортсменка",
+    "foreign_response": "^\\s*sportswoman\\s*$",
+    "ru_response": "^\\s*спортсменка\\s*$",
+    "sound": "sportswoman",
+    "preview": "sportswoman"
   },
   {
     "foreign_question": "student",
@@ -120,6 +304,14 @@
     "preview": "teacher"
   },
   {
+    "foreign_question": "theatre director",
+    "ru_question": "театральный директор",
+    "foreign_response": "^\\s*theatre director\\s*$",
+    "ru_response": "^\\s*театральный директор\\s*$",
+    "sound": "theatre_director",
+    "preview": "theatre_director"
+  },
+  {
     "foreign_question": "unemployed",
     "ru_question": "безработный",
     "foreign_response": "^\\s*unemployed\\s*$",
@@ -128,19 +320,19 @@
     "preview": "unemployed"
   },
   {
-    "foreign_question": "househusband",
-    "ru_question": "домохозяин",
-    "foreign_response": "^\\s*househusband\\s*$",
-    "ru_response": "^\\s*домохозяин\\s*$",
-    "sound": "househusband",
-    "preview": "housewife"
+    "foreign_question": "worker",
+    "ru_question": "рабочий",
+    "foreign_response": "^\\s*worker\\s*$",
+    "ru_response": "^\\s*рабочий\\s*$",
+    "sound": "worker",
+    "preview": "worker"
   },
   {
-    "foreign_question": "housewife",
-    "ru_question": "домохозяйка",
-    "foreign_response": "^\\s*housewife\\s*$",
-    "ru_response": "^\\s*домохозяйка\\s*$",
-    "sound": "housewife",
-    "preview": "housewife"
+    "foreign_question": "writer",
+    "ru_question": "писатель",
+    "foreign_response": "^\\s*writer\\s*$",
+    "ru_response": "^\\s*писатель\\s*$",
+    "sound": "writer",
+    "preview": "writer"
   }
 ]

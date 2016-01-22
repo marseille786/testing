@@ -40,6 +40,14 @@
     "preview": "job"
   },
   {
+    "foreign_question": "level",
+    "ru_question": "уровень (напр. знаний)",
+    "foreign_response": "^\\s*level\\s*$",
+    "ru_response": "^\\s*уровень\\s*$",
+    "sound": "level",
+    "preview": "level"
+  },
+  {
     "foreign_question": "list",
     "ru_question": "список, перечень",
     "foreign_response": "^\\s*list\\s*$",
@@ -88,12 +96,28 @@
     "preview": "restaurant"
   },
   {
+    "foreign_question": "result",
+    "ru_question": "результат",
+    "foreign_response": "^\\s*result\\s*$",
+    "ru_response": "^\\s*результат\\s*$",
+    "sound": "result",
+    "preview": "result"
+  },
+  {
     "foreign_question": "screen",
     "ru_question": "экран",
     "foreign_response": "^\\s*screen\\s*$",
     "ru_response": "^\\s*экран\\s*$",
     "sound": "screen",
     "preview": "screen"
+  },
+  {
+    "foreign_question": "team",
+    "ru_question": "команда",
+    "foreign_response": "^\\s*team\\s*$",
+    "ru_response": "^\\s*команда\\s*$",
+    "sound": "team",
+    "preview": "team"
   },
   {
     "foreign_question": "visitor",

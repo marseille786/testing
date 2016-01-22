@@ -48,6 +48,14 @@
     "preview": "plot"
   },
   {
+    "foreign_question": "rehearsal",
+    "ru_question": "репетиция",
+    "foreign_response": "^\\s*rehearsal\\s*$",
+    "ru_response": "^\\s*репетиция\\s*$",
+    "sound": "rehearsal",
+    "preview": "rehearsal"
+  },
+  {
     "foreign_question": "release",
     "ru_question": "выпуск, выход (фильма, книги), освобождение",
     "foreign_response": "^\\s*release\\s*$",

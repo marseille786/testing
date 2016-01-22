@@ -144,6 +144,14 @@
     "preview": "pencil"
   },
   {
+    "foreign_question": "pipe smoking",
+    "ru_question": "курительная трубка, трубка для курения",
+    "foreign_response": "^\\s*pipe smoking\\s*$",
+    "ru_response": "^\\s*(курительная трубка|трубка для курения)\\s*$",
+    "sound": "pipe_smoking",
+    "preview": "pipe_smoking"
+  },
+  {
     "foreign_question": "plate",
     "ru_question": "тарелка",
     "foreign_response": "^\\s*plate\\s*$",

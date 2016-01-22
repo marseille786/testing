@@ -40,6 +40,14 @@
     "preview": "at_ten_past_six"
   },
   {
+    "foreign_question": "at the same time",
+    "ru_question": "в тоже время",
+    "foreign_response": "^\\s*at the same time\\s*$",
+    "ru_response": "^\\s*в то ?же время\\s*$",
+    "sound": "at_the_same_time",
+    "preview": "at_the_same_time"
+  },
+  {
     "foreign_question": "for five years",
     "ru_question": "на протяжении 5 лет",
     "foreign_response": "^\\s*for five years\\s*$",
@@ -166,6 +174,14 @@
     "ru_response": "^\\s*(однажды|жили были)\\s*$",
     "sound": "once_upon_a_time",
     "preview": "once_upon_a_time"
+  },
+  {
+    "foreign_question": "spend time",
+    "ru_question": "проводить время",
+    "foreign_response": "^\\s*spend time\\s*$",
+    "ru_response": "^\\s*проводить время\\s*$",
+    "sound": "spend_time",
+    "preview": "spend_time"
   },
   {
     "foreign_question": "three days ago",

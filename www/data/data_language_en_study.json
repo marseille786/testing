@@ -1,5 +1,13 @@
 [
   {
+    "foreign_question": "advice",
+    "ru_question": "совет",
+    "foreign_response": "^\\s*advice\\s*$",
+    "ru_response": "^\\s*совет\\s*$",
+    "sound": "advice",
+    "preview": "advice"
+  },
+  {
     "foreign_question": "Any questions?",
     "ru_question": "Есть вопросы?",
     "foreign_response": "^\\s*Any questions\\?\\s*$",
@@ -32,6 +40,14 @@
     "preview": "can_you_repeat_that-"
   },
   {
+    "foreign_question": "class",
+    "ru_question": "класс (синоним grade)",
+    "foreign_response": "^\\s*class\\s*$",
+    "ru_response": "^\\s*класс\\s*$",
+    "sound": "class",
+    "preview": "class"
+  },
+  {
     "foreign_question": "classmate",
     "ru_question": "одноклассник",
     "foreign_response": "^\\s*classmate\\s*$",
@@ -48,12 +64,36 @@
     "preview": "close_your_books"
   },
   {
+    "foreign_question": "discussion",
+    "ru_question": "обсуждение, дискуссия",
+    "foreign_response": "^\\s*discussion?\\s*$",
+    "ru_response": "^\\s*(обсуждение|дискуссия)\\s*$",
+    "sound": "discussion",
+    "preview": "discussion"
+  },
+  {
     "foreign_question": "Don't speak in Russian.",
     "ru_question": "Не говори по русски.",
     "foreign_response": "^\\s*Don\\'t speak in Russian\\.?\\s*$",
     "ru_response": "^\\s*Не говори (по[ -]русски|на русском)\\.?\\s*$",
     "sound": "don't_speak_in_russian",
-    "preview": "speak_in_english"
+    "preview": "don't_speak_in_russian"
+  },
+  {
+    "foreign_question": "excerpt",
+    "ru_question": "отрывок, выдержка (из книги)",
+    "foreign_response": "^\\s*excerpt\\s*$",
+    "ru_response": "^\\s*(отрывок|выдержка)\\s*$",
+    "sound": "excerpt",
+    "preview": "excerpt"
+  },
+  {
+    "foreign_question": "grade",
+    "ru_question": "класс (группа учеников, синоним class)",
+    "foreign_response": "^\\s*grade\\s*$",
+    "ru_response": "^\\s*класс\\s*$",
+    "sound": "grade",
+    "preview": "grade"
   },
   {
     "foreign_question": "How do you say it in English?",
@@ -80,6 +120,30 @@
     "preview": "i_don't_understand"
   },
   {
+    "foreign_question": "idea",
+    "ru_question": "идея",
+    "foreign_response": "^\\s*idea\\s*$",
+    "ru_response": "^\\s*идея\\s*$",
+    "sound": "idea",
+    "preview": "idea"
+  },
+  {
+    "foreign_question": "institute",
+    "ru_question": "институт",
+    "foreign_response": "^\\s*institute\\s*$",
+    "ru_response": "^\\s*институт\\s*$",
+    "sound": "institute",
+    "preview": "institute"
+  },
+  {
+    "foreign_question": "keep silence",
+    "ru_question": "храните молчание, сохраняйте молчание",
+    "foreign_response": "^\\s*keep silence\\s*$",
+    "ru_response": "^\\s*(храните|сохраняйте) молчание\\s*$",
+    "sound": "keep_silence",
+    "preview": "keep_silence"
+  },
+  {
     "foreign_question": "Listen to the CD.",
     "ru_question": "Слушайте CD.",
     "foreign_response": "^\\s*Listen to the CD\\.?\\s*$",
@@ -96,12 +160,36 @@
     "preview": "look_at_the_board"
   },
   {
+    "foreign_question": "mistake",
+    "ru_question": "ошибка",
+    "foreign_response": "^\\s*mistake\\s*$",
+    "ru_response": "^\\s*ошибка\\s*$",
+    "sound": "mistake",
+    "preview": "mistake"
+  },
+  {
     "foreign_question": "Open your books.",
     "ru_question": "Откройте свои книги",
     "foreign_response": "^\\s*Open your books\\.?\\s*$",
     "ru_response": "^\\s*Открой(те)? (свои|ваши) (книги|книжки)\\s*$",
     "sound": "open_your_books",
     "preview": "open_your_books"
+  },
+  {
+    "foreign_question": "opinion",
+    "ru_question": "мнение",
+    "foreign_response": "^\\s*opinion\\s*$",
+    "ru_response": "^\\s*мнение\\s*$",
+    "sound": "opinion",
+    "preview": "opinion"
+  },
+  {
+    "foreign_question": "personal opinion",
+    "ru_question": "личное мнение",
+    "foreign_response": "^\\s*personal opinion\\s*$",
+    "ru_response": "^\\s*личное мнение\\s*$",
+    "sound": "personal_opinion",
+    "preview": "personal_opinion"
   },
   {
     "foreign_question": "point",
@@ -112,12 +200,36 @@
     "preview": "point"
   },
   {
+    "foreign_question": "quest",
+    "ru_question": "задание",
+    "foreign_response": "^\\s*quest\\s*$",
+    "ru_response": "^\\s*задание\\s*$",
+    "sound": "quest",
+    "preview": "quest"
+  },
+  {
+    "foreign_question": "school",
+    "ru_question": "школа",
+    "foreign_response": "^\\s*school\\s*$",
+    "ru_response": "^\\s*школа\\s*$",
+    "sound": "school",
+    "preview": "school"
+  },
+  {
     "foreign_question": "Science",
     "ru_question": "наука",
     "foreign_response": "^\\s*Science\\s*$",
     "ru_response": "^\\s*наука\\s*$",
     "sound": "science",
     "preview": "science"
+  },
+  {
+    "foreign_question": "sense",
+    "ru_question": "смысл",
+    "foreign_response": "^\\s*sense\\s*$",
+    "ru_response": "^\\s*смысл\\s*$",
+    "sound": "sense",
+    "preview": "sense"
   },
   {
     "foreign_question": "Speak in English.",
@@ -136,12 +248,36 @@
     "preview": "subject"
   },
   {
+    "foreign_question": "task",
+    "ru_question": "задача",
+    "foreign_response": "^\\s*task\\s*$",
+    "ru_response": "^\\s*задача\\s*$",
+    "sound": "task",
+    "preview": "task"
+  },
+  {
     "foreign_question": "That's right.",
     "ru_question": "Это правильно.",
     "foreign_response": "^\\s*That(\\'| i)s right\\.?\\s*$",
     "ru_response": "^\\s*Это (правильно|верно)\\.?\\s*$",
     "sound": "that's_right",
     "preview": "that's_right"
+  },
+  {
+    "foreign_question": "nonsense",
+    "ru_question": "бессмыслица",
+    "foreign_response": "^\\s*nonsense\\s*$",
+    "ru_response": "^\\s*бессмыслица\\s*$",
+    "sound": "nonsense",
+    "preview": "nonsense"
+  },
+  {
+    "foreign_question": "way",
+    "ru_question": "способ",
+    "foreign_response": "^\\s*way\\s*$",
+    "ru_response": "^\\s*способ\\s*$",
+    "sound": "way",
+    "preview": "way"
   },
   {
     "foreign_question": "What does this word mean?",

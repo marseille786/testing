@@ -24,14 +24,6 @@
     "preview": "best"
   },
   {
-    "foreign_question": "better",
-    "ru_question": "лучше",
-    "foreign_response": "^\\s*better\\s*$",
-    "ru_response": "^\\s*лучше\\s*$",
-    "sound": "better",
-    "preview": "better"
-  },
-  {
     "foreign_question": "big",
     "ru_question": "большой (синоним large)",
     "foreign_response": "^\\s*big\\s*$",
@@ -54,6 +46,14 @@
     "ru_response": "^\\s*скучный\\s*$",
     "sound": "busy",
     "preview": "busy"
+  },
+  {
+    "foreign_question": "calm",
+    "ru_question": "спокойный",
+    "foreign_response": "^\\s*calm\\s*$",
+    "ru_response": "^\\s*спокойный\\s*$",
+    "sound": "calm",
+    "preview": "calm"
   },
   {
     "foreign_question": "chubby",
@@ -456,6 +456,14 @@
     "preview": "other"
   },
   {
+    "foreign_question": "own",
+    "ru_question": "свой, собственный",
+    "foreign_response": "^\\s*own\\s*$",
+    "ru_response": "^\\s*(свой|собственный|свой собственный)\\s*$",
+    "sound": "own",
+    "preview": "own"
+  },
+  {
     "foreign_question": "pretty",
     "ru_question": "хорошенький, прелестный",
     "foreign_response": "^\\s*pretty\\s*$",
@@ -510,6 +518,14 @@
     "ru_response": "^\\s*(невысок(ий|ая)|низк(ий|ая)|коротк(ий|ая)|маленьк(ий|ая))\\s*$",
     "sound": "short",
     "preview": "short"
+  },
+  {
+    "foreign_question": "silent",
+    "ru_question": "молчаливый",
+    "foreign_response": "^\\s*silent\\s*$",
+    "ru_response": "^\\s*молчаливый\\s*$",
+    "sound": "silent",
+    "preview": "silent"
   },
   {
     "foreign_question": "silly",
@@ -576,6 +592,14 @@
     "preview": "smart"
   },
   {
+    "foreign_question": "strange",
+    "ru_question": "странный",
+    "foreign_response": "^\\s*strange\\s*$",
+    "ru_response": "^\\s*странный\\s*$",
+    "sound": "strange",
+    "preview": "strange"
+  },
+  {
     "foreign_question": "tall",
     "ru_question": "высокий (о росте)",
     "foreign_response": "^\\s*tall\\s*$",
@@ -638,6 +662,14 @@
     "ru_response": "^\\s*дикий\\s*$",
     "sound": "wild",
     "preview": "wild"
+  },
+  {
+    "foreign_question": "wise",
+    "ru_question": "мудрый",
+    "foreign_response": "^\\s*wise\\s*$",
+    "ru_response": "^\\s*мудрый\\s*$",
+    "sound": "wise",
+    "preview": "wise"
   },
   {
     "foreign_question": "wool",

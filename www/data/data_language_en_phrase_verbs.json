@@ -176,6 +176,14 @@
     "preview": "have_a_rest"
   },
   {
+    "foreign_question": "have to",
+    "ru_question": "быть должным (синоним must, но мягче)",
+    "foreign_response": "^\\s*have to\\s*$",
+    "ru_response": "^\\s*быть должным\\s*$",
+    "sound": "have_to",
+    "preview": "have_to"
+  },
+  {
     "foreign_question": "look away",
     "ru_question": "отвернуться",
     "foreign_response": "^\\s*look away\\s*$",

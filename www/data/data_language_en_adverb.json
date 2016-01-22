@@ -1,5 +1,29 @@
 [
   {
+    "foreign_question": "a lot of",
+    "ru_question": "много (чего-то, универсальное)",
+    "foreign_response": "^\\s*a lot of\\s*$",
+    "ru_response": "^\\s*много( чего-то)?\\s*$",
+    "sound": "a_lot_of",
+    "preview": "a_lot_of"
+  },
+  {
+    "foreign_question": "actually",
+    "ru_question": "в действительности",
+    "foreign_response": "^\\s*actually\\s*$",
+    "ru_response": "^\\s*в действительности\\s*$",
+    "sound": "actually",
+    "preview": "actually"
+  },
+  {
+    "foreign_question": "already",
+    "ru_question": "уже",
+    "foreign_response": "^\\s*already\\s*$",
+    "ru_response": "^\\s*уже\\s*$",
+    "sound": "already",
+    "preview": "already"
+  },
+  {
     "foreign_question": "anyway",
     "ru_question": "так или иначе, в любом случае",
     "foreign_response": "^\\s*anyway\\s*$",
@@ -16,12 +40,68 @@
     "preview": "at_all"
   },
   {
+    "foreign_question": "badly",
+    "ru_question": "плохо",
+    "foreign_response": "^\\s*badly\\s*$",
+    "ru_response": "^\\s*плохо\\s*$",
+    "sound": "badly",
+    "preview": "badly"
+  },
+  {
+    "foreign_question": "best",
+    "ru_question": "лучше всего",
+    "foreign_response": "^\\s*best\\s*$",
+    "ru_response": "^\\s*лучше всего\\s*$",
+    "sound": "best",
+    "preview": "best"
+  },
+  {
+    "foreign_question": "better",
+    "ru_question": "лучше",
+    "foreign_response": "^\\s*better\\s*$",
+    "ru_response": "^\\s*лучше\\s*$",
+    "sound": "better",
+    "preview": "better"
+  },
+  {
+    "foreign_question": "bitter",
+    "ru_question": "горько",
+    "foreign_response": "^\\s*bitter\\s*$",
+    "ru_response": "^\\s*горько\\s*$",
+    "sound": "bitter",
+    "preview": "bitter"
+  },
+  {
+    "foreign_question": "clearly",
+    "ru_question": "ясно, понятно",
+    "foreign_response": "^\\s*clearly\\s*$",
+    "ru_response": "^\\s*(ясно|понятно)\\s*$",
+    "sound": "clearly",
+    "preview": "clearly"
+  },
+  {
     "foreign_question": "close to",
     "ru_question": "рядом с (синоним next to, near)",
     "foreign_response": "^\\s*close (to|with)\\s*$",
     "ru_response": "^\\s*рядом с\\s*$",
     "sound": "close_to",
     "preview": "close_to"
+  },
+  {
+    "foreign_question": "correctly",
+    "ru_question": "верно, правильно",
+    "foreign_response": "^\\s*correctly\\s*$",
+    "ru_response": "^\\s*(верно|правильно)\\s*$",
+    "sound": "correctly",
+    "preview": "correctly"
+  },
+  {
+    "foreign_question": "curiously",
+    "ru_question": "любопытно",
+    "foreign_response": "^\\s*curiously\\s*$",
+    "ru_response": "^\\s*любопытно\\s*$",
+    "sound": "curiously",
+    "preview": "curiously"
   },
   {
     "foreign_question": "deep",
@@ -40,12 +120,92 @@
     "preview": "definitely"
   },
   {
+    "foreign_question": "earlier",
+    "ru_question": "раньше",
+    "foreign_response": "^\\s*earlier\\s*$",
+    "ru_response": "^\\s*раньше\\s*$",
+    "sound": "earlier",
+    "preview": "earlier"
+  },
+  {
+    "foreign_question": "early",
+    "ru_question": "рано",
+    "foreign_response": "^\\s*early\\s*$",
+    "ru_response": "^\\s*рано\\s*$",
+    "sound": "early",
+    "preview": "early"
+  },
+  {
+    "foreign_question": "exactly",
+    "ru_question": "точно",
+    "foreign_response": "^\\s*exactly\\s*$",
+    "ru_response": "^\\s*точно\\s*$",
+    "sound": "exactly",
+    "preview": "exactly"
+  },
+  {
+    "foreign_question": "extremely",
+    "ru_question": "очень, чрезвычайно",
+    "foreign_response": "^\\s*extremely\\s*$",
+    "ru_response": "^\\s*(очень|чрезвычайно)\\s*$",
+    "sound": "extremely",
+    "preview": "extremely"
+  },
+  {
+    "foreign_question": "fast",
+    "ru_question": "быстро",
+    "foreign_response": "^\\s*fast\\s*$",
+    "ru_response": "^\\s*быстро\\s*$",
+    "sound": "fast",
+    "preview": "fast"
+  },
+  {
+    "foreign_question": "fortunately",
+    "ru_question": "к счастью",
+    "foreign_response": "^\\s*fortunately\\s*$",
+    "ru_response": "^\\s*к счастью\\s*$",
+    "sound": "fortunately",
+    "preview": "fortunately"
+  },
+  {
+    "foreign_question": "impatiently",
+    "ru_question": "нетерпеливо",
+    "foreign_response": "^\\s*impatiently\\s*$",
+    "ru_response": "^\\s*нетерпеливо\\s*$",
+    "sound": "impatiently",
+    "preview": "impatiently"
+  },
+  {
     "foreign_question": "important",
     "ru_question": "важно",
     "foreign_response": "^\\s*important\\s*$",
     "ru_response": "^\\s*важно\\s*$",
     "sound": "important",
     "preview": "important"
+  },
+  {
+    "foreign_question": "late",
+    "ru_question": "поздно",
+    "foreign_response": "^\\s*late\\s*$",
+    "ru_response": "^\\s*поздно\\s*$",
+    "sound": "late",
+    "preview": "late"
+  },
+  {
+    "foreign_question": "later",
+    "ru_question": "позже",
+    "foreign_response": "^\\s*later\\s*$",
+    "ru_response": "^\\s*позже\\s*$",
+    "sound": "later",
+    "preview": "later"
+  },
+  {
+    "foreign_question": "loudly",
+    "ru_question": "громко",
+    "foreign_response": "^\\s*loudly\\s*$",
+    "ru_response": "^\\s*громко\\s*$",
+    "sound": "loudly",
+    "preview": "loudly"
   },
   {
     "foreign_question": "not so important",
@@ -56,12 +216,44 @@
     "preview": "not_so_important"
   },
   {
+    "foreign_question": "now",
+    "ru_question": "сейчас",
+    "foreign_response": "^\\s*now\\s*$",
+    "ru_response": "^\\s*сейчас\\s*$",
+    "sound": "now",
+    "preview": "now"
+  },
+  {
+    "foreign_question": "patiently",
+    "ru_question": "терпеливо",
+    "foreign_response": "^\\s*patiently\\s*$",
+    "ru_response": "^\\s*терпеливо\\s*$",
+    "sound": "patiently",
+    "preview": "patiently"
+  },
+  {
+    "foreign_question": "perfectly",
+    "ru_question": "идеально",
+    "foreign_response": "^\\s*perfectly\\s*$",
+    "ru_response": "^\\s*идеально\\s*$",
+    "sound": "perfectly",
+    "preview": "perfectly"
+  },
+  {
     "foreign_question": "Quick!",
     "ru_question": "Скорей!",
     "foreign_response": "^\\s*Quick\\!?\\s*$",
     "ru_response": "^\\s*Скорей\\!?\\s*$",
     "sound": "quick",
     "preview": "quick"
+  },
+  {
+    "foreign_question": "quietly",
+    "ru_question": "тихо",
+    "foreign_response": "^\\s*quietly\\s*$",
+    "ru_response": "^\\s*тихо\\s*$",
+    "sound": "quietly",
+    "preview": "quietly"
   },
   {
     "foreign_question": "really",
@@ -88,6 +280,14 @@
     "preview": "so_far"
   },
   {
+    "foreign_question": "soon",
+    "ru_question": "скоро",
+    "foreign_response": "^\\s*soon\\s*$",
+    "ru_response": "^\\s*скоро\\s*$",
+    "sound": "soon",
+    "preview": "soon"
+  },
+  {
     "foreign_question": "straight",
     "ru_question": "прямо, сразу",
     "foreign_response": "^\\s*straight\\s*$",
@@ -96,11 +296,650 @@
     "preview": "straight"
   },
   {
+    "foreign_question": "successfully",
+    "ru_question": "успешно",
+    "foreign_response": "^\\s*successfully\\s*$",
+    "ru_response": "^\\s*успешно\\s*$",
+    "sound": "successfully",
+    "preview": "successfully"
+  },
+  {
+    "foreign_question": "tasty",
+    "ru_question": "вкусно",
+    "foreign_response": "^\\s*tasty\\s*$",
+    "ru_response": "^\\s*вкусно\\s*$",
+    "sound": "tasty",
+    "preview": "tasty"
+  },
+  {
+    "foreign_question": "then",
+    "ru_question": "потом",
+    "foreign_response": "^\\s*then\\s*$",
+    "ru_response": "^\\s*потом\\s*$",
+    "sound": "then",
+    "preview": "then"
+  },
+  {
     "foreign_question": "unbelievable",
     "ru_question": "невероятно",
     "foreign_response": "^\\s*unbelievable\\s*$",
     "ru_response": "^\\s*невероятн(о|ый)\\s*$",
     "sound": "unbelievable",
     "preview": "unbelievable"
+  },
+  {
+    "foreign_question": "unfortunately",
+    "ru_question": "к сожалению, к несчастью",
+    "foreign_response": "^\\s*unfortunately\\s*$",
+    "ru_response": "^\\s*(к сожалению|к несчастью)\\s*$",
+    "sound": "unfortunately",
+    "preview": "unfortunately"
+  },
+  {
+    "foreign_question": "well",
+    "ru_question": "хорошо, ну",
+    "foreign_response": "^\\s*well\\s*$",
+    "ru_response": "^\\s*(хорошо|ну)\\s*$",
+    "sound": "well",
+    "preview": "well"
+  },
+  {
+    "foreign_question": "worse",
+    "ru_question": "хуже",
+    "foreign_response": "^\\s*worse\\s*$",
+    "ru_response": "^\\s*хуже\\s*$",
+    "sound": "worse",
+    "preview": "worse"
+  },
+  {
+    "foreign_question": "worst",
+    "ru_question": "хуже всего",
+    "foreign_response": "^\\s*worst\\s*$",
+    "ru_response": "^\\s*хуже всего\\s*$",
+    "sound": "worst",
+    "preview": "worst"
+  },
+  // с исчисляемыми существительными
+  {
+    "foreign_question": "a few",
+    "ru_question": "немного",
+    "foreign_response": "^\\s*a few\\s*$",
+    "ru_response": "^\\s*немного\\s*$",
+    "sound": "a_few",
+    "preview": "a_few"
+  },
+  {
+    "foreign_question": "few",
+    "ru_question": "мало",
+    "foreign_response": "^\\s*few\\s*$",
+    "ru_response": "^\\s*мало\\s*$",
+    "sound": "few",
+    "preview": "few"
+  },
+  {
+    "foreign_question": "many",
+    "ru_question": "много",
+    "foreign_response": "^\\s*many\\s*$",
+    "ru_response": "^\\s*много\\s*$",
+    "sound": "many",
+    "preview": "many"
+  },
+  {
+    "foreign_question": "some",
+    "ru_question": "несколько",
+    "foreign_response": "^\\s*some\\s*$",
+    "ru_response": "^\\s*несколько\\s*$",
+    "sound": "some",
+    "preview": "some"
+  },
+  // с неисчисляемыми существительными
+  {
+    "foreign_question": "more",
+    "ru_question": "больше",
+    "foreign_response": "^\\s*more\\s*$",
+    "ru_response": "^\\s*больше\\s*$",
+    "sound": "more",
+    "preview": "more"
+  },
+  {
+    "foreign_question": "most",
+    "ru_question": "больше всего",
+    "foreign_response": "^\\s*most\\s*$",
+    "ru_response": "^\\s*больше всего\\s*$",
+    "sound": "most",
+    "preview": "most"
+  },
+  {
+    "foreign_question": "much",
+    "ru_question": "много",
+    "foreign_response": "^\\s*much\\s*$",
+    "ru_response": "^\\s*много\\s*$",
+    "sound": "much",
+    "preview": "much"
+  },
+  {
+    "foreign_question": "least",
+    "ru_question": "менее всего",
+    "foreign_response": "^\\s*least\\s*$",
+    "ru_response": "^\\s*менее всего\\s*$",
+    "sound": "least",
+    "preview": "least"
+  },
+  {
+    "foreign_question": "less",
+    "ru_question": "меньше",
+    "foreign_response": "^\\s*less\\s*$",
+    "ru_response": "^\\s*меньше\\s*$",
+    "sound": "less",
+    "preview": "less"
+  },
+  {
+    "foreign_question": "little",
+    "ru_question": "мало",
+    "foreign_response": "^\\s*little\\s*$",
+    "ru_response": "^\\s*мало\\s*$",
+    "sound": "little",
+    "preview": "little"
+  },
+  {
+    "foreign_question": "a little",
+    "ru_question": "немного",
+    "foreign_response": "^\\s*a little\\s*$",
+    "ru_response": "^\\s*немного\\s*$",
+    "sound": "a_little",
+    "preview": "a_little"
+  },
+  // универсальные
+  {
+    "foreign_question": "a lot of",
+    "ru_question": "много чего-то",
+    "foreign_response": "^\\s*a lot of\\s*$",
+    "ru_response": "^\\s*много( чего-то)?\\s*$",
+    "sound": "a_lot_of",
+    "preview": "a_lot_of"
+  }
+  // наречия места
+  {
+    "foreign_question": "above",
+    "ru_question": "вверху",
+    "foreign_response": "^\\s*above\\s*$",
+    "ru_response": "^\\s*вверху\\s*$",
+    "sound": "above",
+    "preview": "above"
+  },
+  {
+    "foreign_question": "ahead",
+    "ru_question": "впереди, вперед",
+    "foreign_response": "^\\s*ahead\\s*$",
+    "ru_response": "^\\s*(впереди|вперед)\\s*$",
+    "sound": "ahead",
+    "preview": "ahead"
+  },
+  {
+    "foreign_question": "back",
+    "ru_question": "сзади, назад",
+    "foreign_response": "^\\s*back\\s*$",
+    "ru_response": "^\\s*(сзади|назад)\\s*$",
+    "sound": "back",
+    "preview": "back"
+  },
+  {
+    "foreign_question": "below",
+    "ru_question": "внизу",
+    "foreign_response": "^\\s*below\\s*$",
+    "ru_response": "^\\s*внизу\\s*$",
+    "sound": "below",
+    "preview": "below"
+  },
+  {
+    "foreign_question": "close",
+    "ru_question": "близко",
+    "foreign_response": "^\\s*close\\s*$",
+    "ru_response": "^\\s*близко\\s*$",
+    "sound": "close",
+    "preview": "close"
+  },
+  {
+    "foreign_question": "down",
+    "ru_question": "вниз",
+    "foreign_response": "^\\s*down\\s*$",
+    "ru_response": "^\\s*вниз\\s*$",
+    "sound": "down",
+    "preview": "down"
+  },
+  {
+    "foreign_question": "far",
+    "ru_question": "далеко",
+    "foreign_response": "^\\s*far\\s*$",
+    "ru_response": "^\\s*далеко\\s*$",
+    "sound": "far",
+    "preview": "far"
+  },
+  {
+    "foreign_question": "farther",
+    "ru_question": "дальше",
+    "foreign_response": "^\\s*farther\\s*$",
+    "ru_response": "^\\s*дальше\\s*$",
+    "sound": "farther",
+    "preview": "farther"
+  },
+  {
+    "foreign_question": "furthest",
+    "ru_question": "дальше всего",
+    "foreign_response": "^\\s*furthest\\s*$",
+    "ru_response": "^\\s*дальше всего\\s*$",
+    "sound": "furthest",
+    "preview": "furthest"
+  },
+  {
+    "foreign_question": "here",
+    "ru_question": "здесь, сюда",
+    "foreign_response": "^\\s*here\\s*$",
+    "ru_response": "^\\s*(здесь|сюда)\\s*$",
+    "sound": "here",
+    "preview": "here"
+  },
+  {
+    "foreign_question": "high",
+    "ru_question": "высоко",
+    "foreign_response": "^\\s*high\\s*$",
+    "ru_response": "^\\s*высоко\\s*$",
+    "sound": "high",
+    "preview": "high"
+  },
+  {
+    "foreign_question": "inside",
+    "ru_question": "внутри, внутрь",
+    "foreign_response": "^\\s*inside\\s*$",
+    "ru_response": "^\\s*(внутри|внутрь)\\s*$",
+    "sound": "inside",
+    "preview": "inside"
+  },
+  {
+    "foreign_question": "low",
+    "ru_question": "низко",
+    "foreign_response": "^\\s*low\\s*$",
+    "ru_response": "^\\s*низко\\s*$",
+    "sound": "low",
+    "preview": "low"
+  },
+  {
+    "foreign_question": "outside",
+    "ru_question": "снаружи, наружу",
+    "foreign_response": "^\\s*outside\\s*$",
+    "ru_response": "^\\s*(снаружи|наружу)\\s*$",
+    "sound": "outside",
+    "preview": "outside"
+  },
+  {
+    "foreign_question": "there",
+    "ru_question": "там, туда",
+    "foreign_response": "^\\s*there\\s*$",
+    "ru_response": "^\\s*(там|туда)\\s*$",
+    "sound": "there",
+    "preview": "there"
+  },
+  {
+    "foreign_question": "up",
+    "ru_question": "вверх",
+    "foreign_response": "^\\s*up\\s*$",
+    "ru_response": "^\\s*вверх\\s*$",
+    "sound": "up",
+    "preview": "up"
+  },
+  // наречия времени
+  {
+    "foreign_question": "already",
+    "ru_question": "уже",
+    "foreign_response": "^\\s*already\\s*$",
+    "ru_response": "^\\s*уже\\s*$",
+    "sound": "already",
+    "preview": "already"
+  },
+  {
+    "foreign_question": "always",
+    "ru_question": "всегда",
+    "foreign_response": "^\\s*always\\s*$",
+    "ru_response": "^\\s*всегда\\s*$",
+    "sound": "always",
+    "preview": "always"
+  },
+  {
+    "foreign_question": "constantly",
+    "ru_question": "постоянно",
+    "foreign_response": "^\\s*constantly\\s*$",
+    "ru_response": "^\\s*постоянно\\s*$",
+    "sound": "constantly",
+    "preview": "constantly"
+  },
+  {
+    "foreign_question": "finally",
+    "ru_question": "в конце концов",
+    "foreign_response": "^\\s*finally\\s*$",
+    "ru_response": "^\\s*в конце концов\\s*$",
+    "sound": "finally",
+    "preview": "finally"
+  },
+  {
+    "foreign_question": "lately",
+    "ru_question": "в последнее время",
+    "foreign_response": "^\\s*lately\\s*$",
+    "ru_response": "^\\s*в последнее время\\s*$",
+    "sound": "lately",
+    "preview": "lately"
+  },
+  {
+    "foreign_question": "long",
+    "ru_question": "долго",
+    "foreign_response": "^\\s*long\\s*$",
+    "ru_response": "^\\s*долго\\s*$",
+    "sound": "long",
+    "preview": "long"
+  },
+  {
+    "foreign_question": "often",
+    "ru_question": "часто",
+    "foreign_response": "^\\s*often\\s*$",
+    "ru_response": "^\\s*часто\\s*$",
+    "sound": "often",
+    "preview": "often"
+  },
+  {
+    "foreign_question": "rarely",
+    "ru_question": "редко (синоним seldom)",
+    "foreign_response": "^\\s*rarely\\s*$",
+    "ru_response": "^\\s*редко\\s*$",
+    "sound": "rarely",
+    "preview": "rarely"
+  },
+  {
+    "foreign_question": "recently",
+    "ru_question": "недавно",
+    "foreign_response": "^\\s*recently\\s*$",
+    "ru_response": "^\\s*недавно\\s*$",
+    "sound": "recently",
+    "preview": "recently"
+  },
+  {
+    "foreign_question": "soon",
+    "ru_question": "скоро",
+    "foreign_response": "^\\s*soon\\s*$",
+    "ru_response": "^\\s*скоро\\s*$",
+    "sound": "soon",
+    "preview": "soon"
+  },
+  {
+    "foreign_question": "seldom",
+    "ru_question": "редко (синоним rarely)",
+    "foreign_response": "^\\s*seldom\\s*$",
+    "ru_response": "^\\s*редко\\s*$",
+    "sound": "seldom",
+    "preview": "seldom"
+  },
+  {
+    "foreign_question": "still",
+    "ru_question": "все еще, пока что",
+    "foreign_response": "^\\s*still\\s*$",
+    "ru_response": "^\\s*(все еще|пока что)\\s*$",
+    "sound": "still",
+    "preview": "still"
+  },
+  {
+    "foreign_question": "usually",
+    "ru_question": "обычно",
+    "foreign_response": "^\\s*usually\\s*$",
+    "ru_response": "^\\s*обычно\\s*$",
+    "sound": "usually",
+    "preview": "usually"
+  },
+  // наречия меры
+  {
+    "foreign_question": "also",
+    "ru_question": "тоже, так же (синоним too)",
+    "foreign_response": "^\\s*also\\s*$",
+    "ru_response": "^\\s*(тоже|так же)\\s*$",
+    "sound": "also",
+    "preview": "also"
+  },
+  {
+    "foreign_question": "else",
+    "ru_question": "еще, вдобавок",
+    "foreign_response": "^\\s*else\\s*$",
+    "ru_response": "^\\s*(еще|вдобавок)\\s*$",
+    "sound": "else",
+    "preview": "else"
+  },
+  {
+    "foreign_question": "enough",
+    "ru_question": "достаточно",
+    "foreign_response": "^\\s*enough\\s*$",
+    "ru_response": "^\\s*достаточно\\s*$",
+    "sound": "enough",
+    "preview": "enough"
+  },
+  {
+    "foreign_question": "even",
+    "ru_question": "даже",
+    "foreign_response": "^\\s*even\\s*$",
+    "ru_response": "^\\s*даже\\s*$",
+    "sound": "even",
+    "preview": "even"
+  },
+  {
+    "foreign_question": "hardly",
+    "ru_question": "вряд ли",
+    "foreign_response": "^\\s*hardly\\s*$",
+    "ru_response": "^\\s*вряд ли\\s*$",
+    "sound": "hardly",
+    "preview": "hardly"
+  },
+  {
+    "foreign_question": "just",
+    "ru_question": "просто",
+    "foreign_response": "^\\s*just\\s*$",
+    "ru_response": "^\\s*просто\\s*$",
+    "sound": "just",
+    "preview": "just"
+  },
+  {
+    "foreign_question": "long",
+    "ru_question": "длинный",
+    "foreign_response": "^\\s*long\\s*$",
+    "ru_response": "^\\s*длинный\\s*$",
+    "sound": "long",
+    "preview": "long"
+  },
+  {
+    "foreign_question": "once",
+    "ru_question": "однажды",
+    "foreign_response": "^\\s*once\\s*$",
+    "ru_response": "^\\s*однажды\\s*$",
+    "sound": "once",
+    "preview": "once"
+  },
+  {
+    "foreign_question": "only",
+    "ru_question": "только",
+    "foreign_response": "^\\s*only\\s*$",
+    "ru_response": "^\\s*только\\s*$",
+    "sound": "only",
+    "preview": "only"
+  },
+  {
+    "foreign_question": "quite",
+    "ru_question": "вполне",
+    "foreign_response": "^\\s*quite\\s*$",
+    "ru_response": "^\\s*вполне\\s*$",
+    "sound": "quite",
+    "preview": "quite"
+  },
+  {
+    "foreign_question": "rather",
+    "ru_question": "скорее",
+    "foreign_response": "^\\s*rather\\s*$",
+    "ru_response": "^\\s*скорее\\s*$",
+    "sound": "rather",
+    "preview": "rather"
+  },
+  {
+    "foreign_question": "second",
+    "ru_question": "второй",
+    "foreign_response": "^\\s*second\\s*$",
+    "ru_response": "^\\s*второй\\s*$",
+    "sound": "second",
+    "preview": "second"
+  },
+  {
+    "foreign_question": "so",
+    "ru_question": "так, так же",
+    "foreign_response": "^\\s*so\\s*$",
+    "ru_response": "^\\s*(так|так же|и так)\\s*$",
+    "sound": "so",
+    "preview": "so"
+  },
+  {
+    "foreign_question": "sure",
+    "ru_question": "конечно, само собой (синоним of course, certainly)",
+    "foreign_response": "^\\s*sure\\s*$",
+    "ru_response": "^\\s*(конечно|само собой)\\s*$",
+    "sound": "sure",
+    "preview": "sure"
+  },
+  {
+    "foreign_question": "too (синоним also)",
+    "ru_question": "тоже (синоним also)",
+    "foreign_response": "^\\s*too\\s*$",
+    "ru_response": "^\\s*тоже\\s*$",
+    "sound": "too",
+    "preview": "too"
+  },
+  {
+    "foreign_question": "too (не синоним also)",
+    "ru_question": "слишком (перед прилаг. и нареч.)",
+    "foreign_response": "^\\s*too\\s*$",
+    "ru_response": "^\\s*слишком\\s*$",
+    "sound": "too",
+    "preview": "too"
+  },
+  {
+    "foreign_question": "twice",
+    "ru_question": "дважды",
+    "foreign_response": "^\\s*twice\\s*$",
+    "ru_response": "^\\s*дважды\\s*$",
+    "sound": "twice",
+    "preview": "twice"
+  },
+  {
+    "foreign_question": "very",
+    "ru_question": "очень",
+    "foreign_response": "^\\s*very\\s*$",
+    "ru_response": "^\\s*очень\\s*$",
+    "sound": "very",
+    "preview": "very"
+  },
+  {
+    "foreign_question": "whole",
+    "ru_question": "весь, целиком",
+    "foreign_response": "^\\s*whole\\s*$",
+    "ru_response": "^\\s*(весь|целиком|полностью|все|вся)\\s*$",
+    "sound": "whole",
+    "preview": "whole"
+  },
+  // наречия образа действия
+  {
+    "foreign_question": "as",
+    "ru_question": "как",
+    "foreign_response": "^\\s*as\\s*$",
+    "ru_response": "^\\s*как\\s*$",
+    "sound": "as",
+    "preview": "as"
+  },
+  {
+    "foreign_question": "badly",
+    "ru_question": "плохо",
+    "foreign_response": "^\\s*badly\\s*$",
+    "ru_response": "^\\s*плохо\\s*$",
+    "sound": "badly",
+    "preview": "badly"
+  },
+  {
+    "foreign_question": "cheerfully",
+    "ru_question": "весело",
+    "foreign_response": "^\\s*cheerfully\\s*$",
+    "ru_response": "^\\s*весело\\s*$",
+    "sound": "cheerfully",
+    "preview": "cheerfully"
+  },
+  {
+    "foreign_question": "easily",
+    "ru_question": "легко, без труда, просто",
+    "foreign_response": "^\\s*easily\\s*$",
+    "ru_response": "^\\s*(легко|без труда|просто)\\s*$",
+    "sound": "easily",
+    "preview": "easily"
+  },
+  {
+    "foreign_question": "fast",
+    "ru_question": "быстро",
+    "foreign_response": "^\\s*fast\\s*$",
+    "ru_response": "^\\s*быстро\\s*$",
+    "sound": "fast",
+    "preview": "fast"
+  },
+  {
+    "foreign_question": "hard",
+    "ru_question": "усердно",
+    "foreign_response": "^\\s*hard\\s*$",
+    "ru_response": "^\\s*(усердно|тяжело)\\s*$",
+    "sound": "hard",
+    "preview": "hard"
+  },
+  {
+    "foreign_question": "in touch",
+    "ru_question": "на связи",
+    "foreign_response": "^\\s*in touch\\s*$",
+    "ru_response": "^\\s*на связи\\s*$",
+    "sound": "in_touch",
+    "preview": "in_touch"
+  },
+  {
+    "foreign_question": "passionately",
+    "ru_question": "страстно",
+    "foreign_response": "^\\s*passionately\\s*$",
+    "ru_response": "^\\s*страстно\\s*$",
+    "sound": "passionately",
+    "preview": "passionately"
+  },
+  {
+    "foreign_question": "quietly",
+    "ru_question": "спокойно",
+    "foreign_response": "^\\s*quietly\\s*$",
+    "ru_response": "^\\s*спокойно\\s*$",
+    "sound": "quietly",
+    "preview": "quietly"
+  },
+  {
+    "foreign_question": "sadly",
+    "ru_question": "грустно",
+    "foreign_response": "^\\s*sadly\\s*$",
+    "ru_response": "^\\s*грустно\\s*$",
+    "sound": "sadly",
+    "preview": "sadly"
+  },
+  {
+    "foreign_question": "slowly",
+    "ru_question": "медленно",
+    "foreign_response": "^\\s*slowly\\s*$",
+    "ru_response": "^\\s*медленно\\s*$",
+    "sound": "slowly",
+    "preview": "slowly"
+  },
+  {
+    "foreign_question": "well",
+    "ru_question": "хорошо, ну",
+    "foreign_response": "^\\s*well\\s*$",
+    "ru_response": "^\\s*(хорошо|ну)\\s*$",
+    "sound": "well",
+    "preview": "well"
   }
 ]

@@ -1,0 +1,403 @@
+// Flex
+[
+  // Контейнер
+  {
+    "foreign_question": "Свойство flex-контейнера, при котором он ведет себя как block",
+    "ru_question": "display: flex;",
+    "foreign_response": "^\\s*Свойство flex-контейнера, при котором он ведет себя как block\\s*$",
+    "ru_response": "^\\s*display\\: ?flex\\;?\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "Свойство flex-контейнера, при котором он ведет себя как inline-block",
+    "ru_question": "display: inline-flex;",
+    "foreign_response": "^\\s*Свойство flex-контейнера, при котором он ведет себя как inline-block\\s*$",
+    "ru_response": "^\\s*display\\: ?inline-flex\\;?\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  // Задает ресположение flex-элементов внутри контейнера вдоль основной оси
+  {
+    "foreign_question": "Свойство flex-контейнера. Задает расположение элементов в начале основной оси (значение по умолчанию)",
+    "ru_question": "justify-content: flex-start;",
+    "foreign_response": "^\\s*Свойство flex-контейнера. Задает расположение элементов в начале основной оси (значение по умолчанию)\\s*$",
+    "ru_response": "^\\s*justify-content: flex-start;\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "Задает расположение элементов в конце основной оси",
+    "ru_question": "justify-content: flex-end;",
+    "foreign_response": "^\\s*Задает расположение элементов в конце основной оси\\s*$",
+    "ru_response": "^\\s*justify-content: flex-end;\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "Задает расположение элементов по центру основной оси",
+    "ru_question": "justify-content: center;",
+    "foreign_response": "^\\s*Задает расположение элементов по центру основной оси\\s*$",
+    "ru_response": "^\\s*justify-content: center;\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "Задает расположение элементов вдоль основной оси. 1-й прижимает к левому краю родительского элемента, последний - прижимает к другому краю родительского элемента, остальные расстояния между блоками делит в равных пропорциях",
+    "ru_question": "justify-content: space-between;",
+    "foreign_response": "^\\s*Задает расположение элементов вдоль основной оси. 1-й прижимает к левому краю родительского элемента, последний - прижимает к другому краю родительского элемента, остальные расстояния между блоками делит в равных пропорциях\\s*$",
+    "ru_response": "^\\s*justify-content: space-between;\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "Задает расположение элементов вдоль основной оси. Расстояния между блоками делит в равных пропорциях",
+    "ru_question": "justify-content: space-around;",
+    "foreign_response": "^\\s*Задает расположение элементов вдоль основной оси. Расстояния между блоками делит в равных пропорциях\\s*$",
+    "ru_response": "^\\s*justify-content: space-around;\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  // задает направление основной оси
+  {
+    "foreign_question": "изначальное направление осей: основная ось идет слева направо (по умолчанию)",
+    "ru_question": "flex-direction: row;",
+    "foreign_response": "^\\s*изначальное направление осей: основная ось идет слева направо (по умолчанию)\\s*$",
+    "ru_response": "^\\s*flex-direction: row;\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "основная ось идет справа налево",
+    "ru_question": "flex-direction: row-reverse;",
+    "foreign_response": "^\\s*основная ось идет справа налево\\s*$",
+    "ru_response": "^\\s*flex-direction: row-reverse;\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "основная ось идет сверху вниз",
+    "ru_question": "flex-direction: column;",
+    "foreign_response": "^\\s*основная ось идет сверху вниз\\s*$",
+    "ru_response": "^\\s*flex-direction: column;\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "основная ось идет снизу вверх",
+    "ru_question": "flex-direction: column-reverse;",
+    "foreign_response": "^\\s*основная ось идет снизу вверх\\s*$",
+    "ru_response": "^\\s*flex-direction: column-reverse;\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  // задание переносимости flex-элементов на новую строку
+  {
+    "foreign_question": "запрет переноса flex-элементов на новую строку (по умолчанию)",
+    "ru_question": "flex-wrap: nowrap;",
+    "foreign_response": "^\\s*запрет переноса flex-элементов на новую строку (по умолчанию)\\s*$",
+    "ru_response": "^\\s*flex-wrap: nowrap;\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "разрешение переноса flex-элементов на новую строку",
+    "ru_question": "flex-wrap: wrap;",
+    "foreign_response": "^\\s*разрешение переноса flex-элементов на новую строку\\s*$",
+    "ru_response": "^\\s*flex-wrap: wrap;\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "разрешает перенос и устанавливает элементы в обратном порядке",
+    "ru_question": "flex-wrap: wrap-reverse;",
+    "foreign_response": "^\\s*разрешает перенос и устанавливает элементы в обратном порядке\\s*$",
+    "ru_response": "^\\s*flex-wrap: wrap-reverse;\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  // Составное свойство
+  {
+    "foreign_question": "составное свойство, в которое входят по очереди 'flex-direction' и 'flex-wrap'",
+    "ru_question": "flex-flow: flex-direction flex-wrap",
+    "foreign_response": "^\\s*составное свойство, в которое входят по очереди 'flex-direction' и 'flex-wrap'\\s*$",
+    "ru_response": "^\\s*flex-flow(: flex-direction flex-wrap)?\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  // выравнивание элементов относительно поперечной оси для непереносимых элементов
+  {
+    "foreign_question": "вытягивает flex-элементы вдоль всей поперечной оси",
+    "ru_question": "align-items: stretch;",
+    "foreign_response": "^\\s*вытягивает flex-элементы вдоль всей поперечной оси\\s*$",
+    "ru_response": "^\\s*align-items: stretch;\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "прижатие flex-элементов к базовой линии",
+    "ru_question": "align-items: baseline;",
+    "foreign_response": "^\\s*прижатие flex-элементов к базовой линии\\s*$",
+    "ru_response": "^\\s*align-items: baseline;\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "flex-элементы прижаты к началу поперечной оси",
+    "ru_question": "align-items: flex-start;",
+    "foreign_response": "^\\s*flex-элементы прижаты к началу поперечной оси\\s*$",
+    "ru_response": "^\\s*align-items: flex-start;\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "flex-элементы прижаты к концу поперечной оси",
+    "ru_question": "align-items: flex-end;",
+    "foreign_response": "^\\s*flex-элементы прижаты к концу поперечной оси\\s*$",
+    "ru_response": "^\\s*align-items: flex-end;\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "flex-элементы прижаты к середине поперечной оси",
+    "ru_question": "align-items: center;",
+    "foreign_response": "^\\s*flex-элементы прижаты к середине поперечной оси\\s*$",
+    "ru_response": "^\\s*align-items: center;\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  // выравнивание элементов относительно поперечной оси для переносимых элементов
+  {
+    "foreign_question": "строки выравниваются относительно начала контейнера",
+    "ru_question": "align-content: flex-start;",
+    "foreign_response": "^\\s*строки выравниваются относительно начала контейнера\\s*$",
+    "ru_response": "^\\s*align-content: flex-start;\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "строки выравниваются относительно конца контейнера",
+    "ru_question": "align-content: flex-end;",
+    "foreign_response": "^\\s*строки выравниваются относительно конца контейнера\\s*$",
+    "ru_response": "^\\s*align-content: flex-end;\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "строки выравниваются по центру контейнера",
+    "ru_question": "align-content: center;",
+    "foreign_response": "^\\s*строки выравниваются по центру контейнера\\s*$",
+    "ru_response": "^\\s*align-content: center;\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "строки распределяются равномерно (первая строка в начале контейнера, вторая - в конце)",
+    "ru_question": "align-content: space-between;",
+    "foreign_response": "^\\s*строки распределяются равномерно (первая строка в начале контейнера, вторая - в конце)\\s*$",
+    "ru_response": "^\\s*align-content: space-between;\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "строки распределяются равномерно с равным расстоянием между собой",
+    "ru_question": "align-content: space-around;",
+    "foreign_response": "^\\s*строки распределяются равномерно с равным расстоянием между собой\\s*$",
+    "ru_response": "^\\s*align-content: space-around;\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "строки растягиваются, заполняя свободное пространство",
+    "ru_question": "align-content: stretch;",
+    "foreign_response": "^\\s*строки растягиваются, заполняя свободное пространство\\s*$",
+    "ru_response": "^\\s*align-content: stretch;\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  // Свойство flex-элементов
+  {
+    "foreign_question": "Свойство flex-элемента для изменения очередности его отображения на '3'",
+    "ru_question": "order: 3;",
+    "foreign_response": "^\\s*Свойство flex-элемента для изменения очередности его отображения на '3'\\s*$",
+    "ru_response": "^\\s*order: 3;\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+  {
+    "foreign_question": "",
+    "ru_question": "",
+    "foreign_response": "^\\s*\\s*$",
+    "ru_response": "^\\s*\\s*$",
+    "sound": "",
+    "preview": ""
+  },
+]

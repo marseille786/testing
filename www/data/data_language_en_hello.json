@@ -208,12 +208,28 @@
     "preview": "i'm_from_ukraine"
   },
   {
+    "foreign_question": "I'm happy with",
+    "ru_question": "я доволен( чем-то)",
+    "foreign_response": "^\\s*I(\\'| a)m happy with\\s*$",
+    "ru_response": "^\\s*я доволен( чем-то)?\\s*$",
+    "sound": "i'm_happy_with",
+    "preview": "i'm_happy_with"
+  },
+  {
     "foreign_question": "I'm sorry",
     "ru_question": "простите (универсальное).",
     "foreign_response": "^\\s*I(\\'| a)m sorry\\s*$",
     "ru_response": "^\\s*(простите|извините|прошу прощения)\\s*$",
     "sound": "i'm_sorry",
     "preview": "i'm_sorry"
+  },
+  {
+    "foreign_question": "let it be",
+    "ru_question": "пусть будет (как-то)",
+    "foreign_response": "^\\s*let it be\\s*$",
+    "ru_response": "^\\s*пусть будет( как-то| так)?\\s*$",
+    "sound": "let it be",
+    "preview": "let it be"
   },
   {
     "foreign_question": "like",

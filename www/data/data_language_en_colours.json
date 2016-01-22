@@ -32,6 +32,14 @@
     "preview": "dark"
   },
   {
+    "foreign_question": "gray",
+    "ru_question": "серый",
+    "foreign_response": "^\\s*gray\\s*$",
+    "ru_response": "^\\s*серый\\s*$",
+    "sound": "gray",
+    "preview": "gray"
+  },
+  {
     "foreign_question": "green",
     "ru_question": "зеленый",
     "foreign_response": "^\\s*green\\s*$",
