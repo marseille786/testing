@@ -24,6 +24,22 @@
     "preview": "border"
   },
   {
+    "foreign_question": "camping",
+    "ru_question": "кемпинг",
+    "foreign_response": "^\\s*camping\\s*$",
+    "ru_response": "^\\s*кемпинг\\s*$",
+    "sound": "camping",
+    "preview": "camping"
+  },
+  {
+    "foreign_question": "castle",
+    "ru_question": "замок",
+    "foreign_response": "^\\s*castle\\s*$",
+    "ru_response": "^\\s*замок\\s*$",
+    "sound": "castle",
+    "preview": "castle"
+  },
+  {
     "foreign_question": "country",
     "ru_question": "страна",
     "foreign_response": "^\\s*country\\s*$",
@@ -56,6 +72,22 @@
     "preview": "equator"
   },
   {
+    "foreign_question": "flight",
+    "ru_question": "рейс, полет",
+    "foreign_response": "^\\s*flight\\s*$",
+    "ru_response": "^\\s*(рейс|полет)\\s*$",
+    "sound": "flight",
+    "preview": "flight"
+  },
+  {
+    "foreign_question": "hiking",
+    "ru_question": "пеший туризм",
+    "foreign_response": "^\\s*hiking\\s*$",
+    "ru_response": "^\\s*(пеший|пешеходный) туризм\\s*$",
+    "sound": "hiking",
+    "preview": "hiking"
+  },
+  {
     "foreign_question": "how long does it take to go from there to here?",
     "ru_question": "как долго вы добираетесь от туда сюда?",
     "foreign_response": "^\\s*how long does it take to go from there to here?\\s*$",
@@ -80,12 +112,36 @@
     "preview": "location"
   },
   {
+    "foreign_question": "luggage",
+    "ru_question": "багаж",
+    "foreign_response": "^\\s*luggage\\s*$",
+    "ru_response": "^\\s*багаж\\s*$",
+    "sound": "luggage",
+    "preview": "luggage"
+  },
+  {
+    "foreign_question": "map",
+    "ru_question": "карта",
+    "foreign_response": "^\\s*map\\s*$",
+    "ru_response": "^\\s*карта\\s*$",
+    "sound": "map",
+    "preview": "map"
+  },
+  {
     "foreign_question": "north",
     "ru_question": "север (ern)",
     "foreign_response": "^\\s*north\\s*$",
     "ru_response": "^\\s*север\\s*$",
     "sound": "north",
     "preview": "north"
+  },
+  {
+    "foreign_question": "passenger",
+    "ru_question": "пассажир",
+    "foreign_response": "^\\s*passenger\\s*$",
+    "ru_response": "^\\s*пассажир\\s*$",
+    "sound": "passenger",
+    "preview": "passenger"
   },
   {
     "foreign_question": "people",
@@ -104,6 +160,30 @@
     "preview": "region"
   },
   {
+    "foreign_question": "ruins",
+    "ru_question": "руины, развалины",
+    "foreign_response": "^\\s*ruins?\\s*$",
+    "ru_response": "^\\s*(руины|развалины)\\s*$",
+    "sound": "ruins",
+    "preview": "ruin"
+  },
+  {
+    "foreign_question": "sight",
+    "ru_question": "достопримечательность",
+    "foreign_response": "^\\s*sight\\s*$",
+    "ru_response": "^\\s*достопримечательность\\s*$",
+    "sound": "sight",
+    "preview": "sight"
+  },
+  {
+    "foreign_question": "sightseeing",
+    "ru_question": "осмотр достопримечательностей",
+    "foreign_response": "^\\s*sightseeing\\s*$",
+    "ru_response": "^\\s*осмотр достопримечательностей\\s*$",
+    "sound": "sightseeing",
+    "preview": "sightseeing"
+  },
+  {
     "foreign_question": "south",
     "ru_question": "юг",
     "foreign_response": "^\\s*south\\s*$",
@@ -120,12 +200,28 @@
     "preview": "ticket"
   },
   {
+    "foreign_question": "tour",
+    "ru_question": "тур, турне",
+    "foreign_response": "^\\s*tour\\s*$",
+    "ru_response": "^\\s*(тур|турне)\\s*$",
+    "sound": "tour",
+    "preview": "tour"
+  },
+  {
     "foreign_question": "travel",
     "ru_question": "путешествие",
     "foreign_response": "^\\s*travel\\s*$",
     "ru_response": "^\\s*путешествие\\s*$",
     "sound": "travel",
     "preview": "travel"
+  },
+  {
+    "foreign_question": "traveller",
+    "ru_question": "путешественник",
+    "foreign_response": "^\\s*traveller\\s*$",
+    "ru_response": "^\\s*путешественник\\s*$",
+    "sound": "traveller",
+    "preview": "traveller"
   },
   {
     "foreign_question": "trip",

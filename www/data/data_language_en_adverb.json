@@ -11,13 +11,13 @@
     "foreign_question": "actually",
     "ru_question": "в действительности",
     "foreign_response": "^\\s*actually\\s*$",
-    "ru_response": "^\\s*в действительности\\s*$",
+    "ru_response": "^\\s*(в действительности|на самом деле|действительно|фактически)\\s*$",
     "sound": "actually",
     "preview": "actually"
   },
   {
     "foreign_question": "already",
-    "ru_question": "уже",
+    "ru_question": "уже (в повествовании)",
     "foreign_response": "^\\s*already\\s*$",
     "ru_response": "^\\s*уже\\s*$",
     "sound": "already",
@@ -70,6 +70,22 @@
     "ru_response": "^\\s*горько\\s*$",
     "sound": "bitter",
     "preview": "bitter"
+  },
+  {
+    "foreign_question": "certainly",
+    "ru_question": "конечно, безусловно (синоним of course, sure)",
+    "foreign_response": "^\\s*certainly\\s*$",
+    "ru_response": "^\\s*(конечно|безусловно)\\s*$",
+    "sound": "certainly",
+    "preview": "sure"
+  },
+  {
+    "foreign_question": "cheap",
+    "ru_question": "дешевый",
+    "foreign_response": "^\\s*cheap\\s*$",
+    "ru_response": "^\\s*дешевый\\s*$",
+    "sound": "cheap",
+    "preview": "cheap"
   },
   {
     "foreign_question": "clearly",
@@ -234,7 +250,7 @@
   {
     "foreign_question": "perfectly",
     "ru_question": "идеально",
-    "foreign_response": "^\\s*perfectly\\s*$",
+    "foreign_response": "^\\s*perfect(ly)?\\s*$",
     "ru_response": "^\\s*идеально\\s*$",
     "sound": "perfectly",
     "preview": "perfectly"
@@ -476,6 +492,14 @@
     "preview": "ahead"
   },
   {
+    "foreign_question": "around",
+    "ru_question": "вокруг, около",
+    "foreign_response": "^\\s*around\\s*$",
+    "ru_response": "^\\s*(вокруг|около)\\s*$",
+    "sound": "around",
+    "preview": "around"
+  },
+  {
     "foreign_question": "back",
     "ru_question": "сзади, назад",
     "foreign_response": "^\\s*back\\s*$",
@@ -484,12 +508,28 @@
     "preview": "back"
   },
   {
+    "foreign_question": "behind",
+    "ru_question": "за, позади, сзади",
+    "foreign_response": "^\\s*behind\\s*$",
+    "ru_response": "^\\s*(за|позади|сзади)\\s*$",
+    "sound": "behind",
+    "preview": "behind"
+  },
+  {
     "foreign_question": "below",
     "ru_question": "внизу",
     "foreign_response": "^\\s*below\\s*$",
     "ru_response": "^\\s*внизу\\s*$",
     "sound": "below",
     "preview": "below"
+  },
+  {
+    "foreign_question": "between",
+    "ru_question": "между",
+    "foreign_response": "^\\s*between\\s*$",
+    "ru_response": "^\\s*между\\s*$",
+    "sound": "between",
+    "preview": "between"
   },
   {
     "foreign_question": "close",
@@ -564,6 +604,30 @@
     "preview": "low"
   },
   {
+    "foreign_question": "next to",
+    "ru_question": "рядом с (синоним near, close with)",
+    "foreign_response": "^\\s*next to\\s*$",
+    "ru_response": "^\\s*рядом с\\s*$",
+    "sound": "next_to",
+    "preview": "next_to"
+  },
+  {
+    "foreign_question": "opposite",
+    "ru_question": "напротив, противоположный",
+    "foreign_response": "^\\s*opposite\\s*$",
+    "ru_response": "^\\s*(напротив|противоположный)\\s*$",
+    "sound": "opposite",
+    "preview": "opposite"
+  },
+  {
+    "foreign_question": "out of",
+    "ru_question": "снаружи, из (чего-то)",
+    "foreign_response": "^\\s*out of\\s*$",
+    "ru_response": "^\\s*(снаружи|из)\\s*$",
+    "sound": "out_of",
+    "preview": "out_of"
+  },
+  {
     "foreign_question": "outside",
     "ru_question": "снаружи, наружу",
     "foreign_response": "^\\s*outside\\s*$",
@@ -580,6 +644,22 @@
     "preview": "there"
   },
   {
+    "foreign_question": "through",
+    "ru_question": "через, сквозь, сквозной, прямой",
+    "foreign_response": "^\\s*through\\s*$",
+    "ru_response": "^\\s*(через|сквозь|сквозной|прямой)\\s*$",
+    "sound": "through",
+    "preview": "through"
+  },
+  {
+    "foreign_question": "towards",
+    "ru_question": "в направлении, по направлению (синоним 'to')",
+    "foreign_response": "^\\s*towards\\s*$",
+    "ru_response": "^\\s*(в направлении|по направлению|к)\\s*$",
+    "sound": "towards",
+    "preview": "towards"
+  },
+  {
     "foreign_question": "up",
     "ru_question": "вверх",
     "foreign_response": "^\\s*up\\s*$",
@@ -589,8 +669,16 @@
   },
   // наречия времени
   {
+    "foreign_question": "again",
+    "ru_question": "опять, снова",
+    "foreign_response": "^\\s*again\\s*$",
+    "ru_response": "^\\s*(опять|снова|вновь|еще раз)\\s*$",
+    "sound": "again",
+    "preview": "again"
+  },
+  {
     "foreign_question": "already",
-    "ru_question": "уже",
+    "ru_question": "уже (в повествовании)",
     "foreign_response": "^\\s*already\\s*$",
     "ru_response": "^\\s*уже\\s*$",
     "sound": "already",
@@ -611,6 +699,14 @@
     "ru_response": "^\\s*постоянно\\s*$",
     "sound": "constantly",
     "preview": "constantly"
+  },
+  {
+    "foreign_question": "during",
+    "ru_question": "в течение, во время, в продолжение",
+    "foreign_response": "^\\s*during\\s*$",
+    "ru_response": "^\\s*(в течение|во время|в продолжение)\\s*$",
+    "sound": "during",
+    "preview": "during"
   },
   {
     "foreign_question": "finally",
@@ -637,6 +733,22 @@
     "preview": "long"
   },
   {
+    "foreign_question": "maybe",
+    "ru_question": "может быть",
+    "foreign_response": "^\\s*maybe\\s*$",
+    "ru_response": "^\\s*может быть\\s*$",
+    "sound": "maybe",
+    "preview": "maybe"
+  },
+  {
+    "foreign_question": "never",
+    "ru_question": "никогда",
+    "foreign_response": "^\\s*never\\s*$",
+    "ru_response": "^\\s*никогда\\s*$",
+    "sound": "never",
+    "preview": "never"
+  },
+  {
     "foreign_question": "often",
     "ru_question": "часто",
     "foreign_response": "^\\s*often\\s*$",
@@ -659,6 +771,14 @@
     "ru_response": "^\\s*недавно\\s*$",
     "sound": "recently",
     "preview": "recently"
+  },
+  {
+    "foreign_question": "sometimes",
+    "ru_question": "иногда, временами",
+    "foreign_response": "^\\s*sometimes?\\s*$",
+    "ru_response": "^\\s*(иногда|временами)\\s*$",
+    "sound": "sometimes",
+    "preview": "sometimes"
   },
   {
     "foreign_question": "soon",
@@ -685,6 +805,22 @@
     "preview": "still"
   },
   {
+    "foreign_question": "till",
+    "ru_question": "до, пока, не раньше (синоним until)",
+    "foreign_response": "^\\s*till\\s*$",
+    "ru_response": "^\\s*(до|пока|не раньше)\\s*$",
+    "sound": "till",
+    "preview": "till"
+  },
+  {
+    "foreign_question": "until",
+    "ru_question": "до, пока, не раньше (синоним till)",
+    "foreign_response": "^\\s*until\\s*$",
+    "ru_response": "^\\s*(до|пока|не раньше)\\s*$",
+    "sound": "until",
+    "preview": "until"
+  },
+  {
     "foreign_question": "usually",
     "ru_question": "обычно",
     "foreign_response": "^\\s*usually\\s*$",
@@ -692,7 +828,23 @@
     "sound": "usually",
     "preview": "usually"
   },
+  {
+    "foreign_question": "yet",
+    "ru_question": "все же, уже (в вопросе или отрицании)",
+    "foreign_response": "^\\s*yet\\s*$",
+    "ru_response": "^\\s*(все же|уже)\\s*$",
+    "sound": "yet",
+    "preview": "yet"
+  },
   // наречия меры
+  {
+    "foreign_question": "almost",
+    "ru_question": "почти",
+    "foreign_response": "^\\s*almost\\s*$",
+    "ru_response": "^\\s*почти\\s*$",
+    "sound": "almost",
+    "preview": "almost"
+  },
   {
     "foreign_question": "also",
     "ru_question": "тоже, так же (синоним too)",
@@ -700,6 +852,22 @@
     "ru_response": "^\\s*(тоже|так же)\\s*$",
     "sound": "also",
     "preview": "also"
+  },
+  {
+    "foreign_question": "because",
+    "ru_question": "потому что",
+    "foreign_response": "^\\s*because\\s*$",
+    "ru_response": "^\\s*потому что\\s*$",
+    "sound": "because",
+    "preview": "because"
+  },
+  {
+    "foreign_question": "common",
+    "ru_question": "общий, общее",
+    "foreign_response": "^\\s*common\\s*$",
+    "ru_response": "^\\s*общ(ий|ее)\\s*$",
+    "sound": "common",
+    "preview": "common"
   },
   {
     "foreign_question": "else",
@@ -718,6 +886,14 @@
     "preview": "enough"
   },
   {
+    "foreign_question": "especially",
+    "ru_question": "особенно",
+    "foreign_response": "^\\s*especially\\s*$",
+    "ru_response": "^\\s*особенно\\s*$",
+    "sound": "especially",
+    "preview": "especially"
+  },
+  {
     "foreign_question": "even",
     "ru_question": "даже",
     "foreign_response": "^\\s*even\\s*$",
@@ -726,12 +902,28 @@
     "preview": "even"
   },
   {
+    "foreign_question": "for example",
+    "ru_question": "например",
+    "foreign_response": "^\\s*for example\\s*$",
+    "ru_response": "^\\s*например\\s*$",
+    "sound": "for_example",
+    "preview": "for_example"
+  },
+  {
     "foreign_question": "hardly",
     "ru_question": "вряд ли",
     "foreign_response": "^\\s*hardly\\s*$",
     "ru_response": "^\\s*вряд ли\\s*$",
     "sound": "hardly",
     "preview": "hardly"
+  },
+  {
+    "foreign_question": "in fact",
+    "ru_question": "на самом деле, фактически, по сути",
+    "foreign_response": "^\\s*in fact\\s*$",
+    "ru_response": "^\\s*(на самом деле|фактически|по сути|в действительности|по факту)\\s*$",
+    "sound": "in_fact",
+    "preview": "in_fact"
   },
   {
     "foreign_question": "just",
@@ -748,6 +940,22 @@
     "ru_response": "^\\s*длинный\\s*$",
     "sound": "long",
     "preview": "long"
+  },
+  {
+    "foreign_question": "no way",
+    "ru_question": "ни за что",
+    "foreign_response": "^\\s*no way\\s*$",
+    "ru_response": "^\\s*ни за что\\s*$",
+    "sound": "no_way",
+    "preview": "no_way"
+  },
+  {
+    "foreign_question": "obviously",
+    "ru_question": "очевидно",
+    "foreign_response": "^\\s*obviously\\s*$",
+    "ru_response": "^\\s*очевидно\\s*$",
+    "sound": "obviously",
+    "preview": "obviously"
   },
   {
     "foreign_question": "once",
@@ -911,12 +1119,52 @@
     "preview": "passionately"
   },
   {
+    "foreign_question": "on business",
+    "ru_question": "по делу",
+    "foreign_response": "^\\s*on business\\s*$",
+    "ru_response": "^\\s*по делу\\s*$",
+    "sound": "on_business",
+    "preview": "on_business"
+  },
+  {
+    "foreign_question": "on foot",
+    "ru_question": "пешком",
+    "foreign_response": "^\\s*on foot\\s*$",
+    "ru_response": "^\\s*пешком\\s*$",
+    "sound": "on_foot",
+    "preview": "on_foot"
+  },
+  {
+    "foreign_question": "on holiday",
+    "ru_question": "на выходных",
+    "foreign_response": "^\\s*on holiday\\s*$",
+    "ru_response": "^\\s*на выходных\\s*$",
+    "sound": "on_holiday",
+    "preview": "on_holiday"
+  },
+  {
+    "foreign_question": "past",
+    "ru_question": "мимо (проходя), прошлый",
+    "foreign_response": "^\\s*past\\s*$",
+    "ru_response": "^\\s*(мимо|прошлый|прошедший)\\s*$",
+    "sound": "past",
+    "preview": "past"
+  },
+  {
     "foreign_question": "quietly",
     "ru_question": "спокойно",
     "foreign_response": "^\\s*quietly\\s*$",
     "ru_response": "^\\s*спокойно\\s*$",
     "sound": "quietly",
     "preview": "quietly"
+  },
+  {
+    "foreign_question": "right",
+    "ru_question": "правильно",
+    "foreign_response": "^\\s*right\\s*$",
+    "ru_response": "^\\s*(право|правильн(о|ый)|правый|верно|точно|прямо)\\s*$",
+    "sound": "right",
+    "preview": "right"
   },
   {
     "foreign_question": "sadly",
@@ -933,6 +1181,14 @@
     "ru_response": "^\\s*медленно\\s*$",
     "sound": "slowly",
     "preview": "slowly"
+  },
+  {
+    "foreign_question": "sort of",
+    "ru_question": "типа того, вроде, как бы, что-то вроде",
+    "foreign_response": "^\\s*sort of\\s*$",
+    "ru_response": "^\\s*(типа того|вроде|как бы|что-то вроде)\\s*$",
+    "sound": "sort_of",
+    "preview": "sort_of"
   },
   {
     "foreign_question": "well",

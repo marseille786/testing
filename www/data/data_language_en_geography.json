@@ -6,7 +6,15 @@
     "ru_response": "^\\s*граница\\s*$",
     "sound": "border",
     "preview": "border"
-  }
+  },
+  {
+    "foreign_question": "cape",
+    "ru_question": "мыс",
+    "foreign_response": "^\\s*cape\\s*$",
+    "ru_response": "^\\s*мыс\\s*$",
+    "sound": "cape",
+    "preview": "cape"
+  },
   {
     "foreign_question": "desert",
     "ru_question": "пустыня",
@@ -30,6 +38,14 @@
     "ru_response": "^\\s*экватор\\s*$",
     "sound": "equator",
     "preview": "equator"
+  },
+  {
+    "foreign_question": "harbour",
+    "ru_question": "гавань",
+    "foreign_response": "^\\s*harbour\\s*$",
+    "ru_response": "^\\s*гавань\\s*$",
+    "sound": "harbour",
+    "preview": "harbour"
   },
   {
     "foreign_question": "island",
@@ -75,7 +91,7 @@
     "foreign_question": "off the coast",
     "ru_question": "от побережья",
     "foreign_response": "^\\s*off the coast\\s*$",
-    "ru_response": "^\\s*от побережья\\s*$",
+    "ru_response": "^\\s*от (побережья|берега)\\s*$",
     "sound": "off_the_coast",
     "preview": "off_the_coast"
   },
@@ -96,6 +112,14 @@
     "preview": "safari"
   },
   {
+    "foreign_question": "sea",
+    "ru_question": "море",
+    "foreign_response": "^\\s*sea\\s*$",
+    "ru_response": "^\\s*море\\s*$",
+    "sound": "sea",
+    "preview": "sea"
+  },
+  {
     "foreign_question": "south",
     "ru_question": "юг",
     "foreign_response": "^\\s*south\\s*$",
@@ -111,4 +135,20 @@
     "sound": "volcano",
     "preview": "volcano"
   },
+  {
+    "foreign_question": "west (ern)",
+    "ru_question": "запад",
+    "foreign_response": "^\\s*west\\s*$",
+    "ru_response": "^\\s*запад\\s*$",
+    "sound": "west",
+    "preview": "west"
+  },
+  {
+    "foreign_question": "world",
+    "ru_question": "мир",
+    "foreign_response": "^\\s*world\\s*$",
+    "ru_response": "^\\s*мир\\s*$",
+    "sound": "world",
+    "preview": "world"
+  }
 ]

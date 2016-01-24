@@ -8,20 +8,28 @@
     "preview": "age"
   },
   {
-    "foreign_question": "blond",
-    "ru_question": "блондин",
-    "foreign_response": "^\\s*blond\\s*$",
-    "ru_response": "^\\s*(блондин|русый|белокурый|светлый)\\s*$",
-    "sound": "blond",
-    "preview": "blond"
+    "foreign_question": "arm",
+    "ru_question": "рука",
+    "foreign_response": "^\\s*arm\\s*$",
+    "ru_response": "^\\s*рука\\s*$",
+    "sound": "arm",
+    "preview": ""
   },
   {
-    "foreign_question": "blonde",
-    "ru_question": "блондинка",
-    "foreign_response": "^\\s*blonde\\s*$",
-    "ru_response": "^\\s*(блондинка|русая|белокурая|светлая)\\s*$",
-    "sound": "blonde",
-    "preview": "blonde"
+    "foreign_question": "body",
+    "ru_question": "тело",
+    "foreign_response": "^\\s*body\\s*$",
+    "ru_response": "^\\s*тело\\s*$",
+    "sound": "body",
+    "preview": "body"
+  },
+  {
+    "foreign_question": "ear",
+    "ru_question": "ухо",
+    "foreign_response": "^\\s*ear\\s*$",
+    "ru_response": "^\\s*ухо\\s*$",
+    "sound": "ear",
+    "preview": "ear"
   },
   {
     "foreign_question": "excitement",
@@ -32,12 +40,76 @@
     "preview": "excitement"
   },
   {
-    "foreign_question": "medium-length",
-    "ru_question": "средняя длина",
-    "foreign_response": "^\\s*medium-length\\s*$",
-    "ru_response": "^\\s*средняя длина\\s*$",
-    "sound": "medium-length",
-    "preview": "medium-length"
+    "foreign_question": "eye",
+    "ru_question": "глаз",
+    "foreign_response": "^\\s*eye\\s*$",
+    "ru_response": "^\\s*глаз\\s*$",
+    "sound": "eye",
+    "preview": "eye"
+  },
+  {
+    "foreign_question": "face",
+    "ru_question": "лицо",
+    "foreign_response": "^\\s*face\\s*$",
+    "ru_response": "^\\s*лицо\\s*$",
+    "sound": "face",
+    "preview": "face"
+  },
+  {
+    "foreign_question": "foot",
+    "ru_question": "стопа, ступня, нога",
+    "foreign_response": "^\\s*foot\\s*$",
+    "ru_response": "^\\s*(стопа|ступня|нога)\\s*$",
+    "sound": "foot",
+    "preview": "foot"
+  },
+  {
+    "foreign_question": "feet",
+    "ru_question": "стопы, ступни, ноги",
+    "foreign_response": "^\\s*feet\\s*$",
+    "ru_response": "^\\s*(стопы|ступни|ноги)\\s*$",
+    "sound": "feet",
+    "preview": "feet"
+  },
+  {
+    "foreign_question": "hair",
+    "ru_question": "волосы",
+    "foreign_response": "^\\s*hair\\s*$",
+    "ru_response": "^\\s*волосы\\s*$",
+    "sound": "hair",
+    "preview": "hair"
+  },
+  {
+    "foreign_question": "hand",
+    "ru_question": "кисть, рука",
+    "foreign_response": "^\\s*hand\\s*$",
+    "ru_response": "^\\s*(кисть|рука)\\s*$",
+    "sound": "hand",
+    "preview": "hand"
+  },
+  {
+    "foreign_question": "head",
+    "ru_question": "голова",
+    "foreign_response": "^\\s*head\\s*$",
+    "ru_response": "^\\s*голова\\s*$",
+    "sound": "head",
+    "preview": "head"
+  },
+  {
+    "foreign_question": "height",
+    "ru_question": "рост",
+    "foreign_response": "^\\s*height\\s*$",
+    "ru_response": "^\\s*рост\\s*$",
+    "sound": "height",
+    "preview": "height"
+  },
+  {
+    "foreign_question": "left",
+    "ru_question": "лево",
+    "foreign_response": "^\\s*left\\s*$",
+    "ru_response": "^\\s*лево\\s*$",
+    "sound": "left",
+    "preview": "left"
   },
   {
     "foreign_question": "mind",
@@ -48,6 +120,30 @@
     "preview": "mind"
   },
   {
+    "foreign_question": "mouth",
+    "ru_question": "рот",
+    "foreign_response": "^\\s*mouth\\s*$",
+    "ru_response": "^\\s*рот\\s*$",
+    "sound": "mouth",
+    "preview": "mouth"
+  },
+  {
+    "foreign_question": "nose",
+    "ru_question": "нос",
+    "foreign_response": "^\\s*nose\\s*$",
+    "ru_response": "^\\s*нос\\s*$",
+    "sound": "nose",
+    "preview": "nose"
+  },
+  {
+    "foreign_question": "right",
+    "ru_question": "право",
+    "foreign_response": "^\\s*right\\s*$",
+    "ru_response": "^\\s*право\\s*$",
+    "sound": "right",
+    "preview": "right"
+  },
+  {
     "foreign_question": "sight (не достопримечательности)",
     "ru_question": "взгляд, зрение",
     "foreign_response": "^\\s*sight\\s*$",
@@ -56,11 +152,35 @@
     "preview": "sight"
   },
   {
-    "foreign_question": "whim",
-    "ru_question": "каприз",
-    "foreign_response": "^\\s*whim\\s*$",
-    "ru_response": "^\\s*каприз\\s*$",
-    "sound": "whim",
-    "preview": "whim"
+    "foreign_question": "skin",
+    "ru_question": "кожа",
+    "foreign_response": "^\\s*skin\\s*$",
+    "ru_response": "^\\s*кожа\\s*$",
+    "sound": "skin",
+    "preview": "skin"
+  },
+  {
+    "foreign_question": "tooth",
+    "ru_question": "зуб",
+    "foreign_response": "^\\s*tooth\\s*$",
+    "ru_response": "^\\s*зуб\\s*$",
+    "sound": "tooth",
+    "preview": "tooth"
+  },
+  {
+    "foreign_question": "teeth",
+    "ru_question": "зубы",
+    "foreign_response": "^\\s*teeth\\s*$",
+    "ru_response": "^\\s*зубы\\s*$",
+    "sound": "teeth",
+    "preview": "teeth"
+  },
+  {
+    "foreign_question": "weight",
+    "ru_question": "вес",
+    "foreign_response": "^\\s*weight\\s*$",
+    "ru_response": "^\\s*вес\\s*$",
+    "sound": "weight",
+    "preview": "weight"
   }
 ]

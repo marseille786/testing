@@ -1,0 +1,130 @@
+[
+  {
+    "foreign_question": "bowling alley",
+    "ru_question": "кегельбан",
+    "foreign_response": "^\\s*bowling alley\\s*$",
+    "ru_response": "^\\s*кегельбан\\s*$",
+    "sound": "bowling_alley",
+    "preview": "bowling_alley"
+  },
+  {
+    "foreign_question": "cinema",
+    "ru_question": "кинотеатр",
+    "foreign_response": "^\\s*cinema\\s*$",
+    "ru_response": "^\\s*кино(театр)?\\s*$",
+    "sound": "cinema",
+    "preview": "cinema"
+  },
+  {
+    "foreign_question": "collect",
+    "ru_question": "коллекционирование",
+    "foreign_response": "^\\s*collect\\s*$",
+    "ru_response": "^\\s*коллекционирование\\s*$",
+    "sound": "collect",
+    "preview": "collect"
+  },
+  {
+    "foreign_question": "fiction",
+    "ru_question": "художественная литература",
+    "foreign_response": "^\\s*fiction\\s*$",
+    "ru_response": "^\\s*(художественная )?литература\\s*$",
+    "sound": "fiction",
+    "preview": "fiction"
+  },
+  {
+    "foreign_question": "film",
+    "ru_question": "фильм (синоним movie)",
+    "foreign_response": "^\\s*film\\s*$",
+    "ru_response": "^\\s*фильм\\s*$",
+    "sound": "film",
+    "preview": "film"
+  },
+  {
+    "foreign_question": "fishing",
+    "ru_question": "рыбалка",
+    "foreign_response": "^\\s*fishing\\s*$",
+    "ru_response": "^\\s*рыбалка\\s*$",
+    "sound": "fishing",
+    "preview": "fishing"
+  },
+  {
+    "foreign_question": "free time",
+    "ru_question": "свободное время",
+    "foreign_response": "^\\s*free time\\s*$",
+    "ru_response": "^\\s*свободное время\\s*$",
+    "sound": "free_time",
+    "preview": "free_time"
+  },
+  {
+    "foreign_question": "game",
+    "ru_question": "игра",
+    "foreign_response": "^\\s*game\\s*$",
+    "ru_response": "^\\s*игра\\s*$",
+    "sound": "game",
+    "preview": "game"
+  },
+  {
+    "foreign_question": "handiwork",
+    "ru_question": "рукоделие",
+    "foreign_response": "^\\s*handiwork\\s*$",
+    "ru_response": "^\\s*рукоделие\\s*$",
+    "sound": "handiwork",
+    "preview": "handiwork"
+  },
+  {
+    "foreign_question": "movie",
+    "ru_question": "фильм (синоним film)",
+    "foreign_response": "^\\s*movie\\s*$",
+    "ru_response": "^\\s*фильм\\s*$",
+    "sound": "movie",
+    "preview": "movie"
+  },
+  {
+    "foreign_question": "mystery",
+    "ru_question": "детективный роман",
+    "foreign_response": "^\\s*mystery\\s*$",
+    "ru_response": "^\\s*детектив(ный роман)?\\s*$",
+    "sound": "mystery",
+    "preview": "mystery"
+  },
+  {
+    "foreign_question": "non-fiction",
+    "ru_question": "публицистика, специальная литература",
+    "foreign_response": "^\\s*non-fiction\\s*$",
+    "ru_response": "^\\s*(публицистика|спец(иальная )?литература)\\s*$",
+    "sound": "non-fiction",
+    "preview": "non-fiction"
+  },
+  {
+    "foreign_question": "novel",
+    "ru_question": "роман",
+    "foreign_response": "^\\s*novel\\s*$",
+    "ru_response": "^\\s*роман\\s*$",
+    "sound": "novel",
+    "preview": "novel"
+  },
+  {
+    "foreign_question": "rest",
+    "ru_question": "отдых",
+    "foreign_response": "^\\s*rest\\s*$",
+    "ru_response": "^\\s*отдых\\s*$",
+    "sound": "rest",
+    "preview": "rest"
+  },
+  {
+    "foreign_question": "song",
+    "ru_question": "песня",
+    "foreign_response": "^\\s*song\\s*$",
+    "ru_response": "^\\s*песня\\s*$",
+    "sound": "song",
+    "preview": "song"
+  },
+  {
+    "foreign_question": "theater",
+    "ru_question": "театр",
+    "foreign_response": "^\\s*theater\\s*$",
+    "ru_response": "^\\s*театр\\s*$",
+    "sound": "theater",
+    "preview": "theater"
+  }
+]

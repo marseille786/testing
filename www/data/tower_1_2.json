@@ -25,9 +25,9 @@
   },
   {
     "foreign_question": "be sick of",
-    "ru_question": "болеть (чем-то)",
-    "foreign_response": "^\\s*be sick of\\s*$",
-    "ru_response": "^\\s*болеть\\s*$",
+    "ru_question": "быть больным (чем-то)",
+    "foreign_response": "^\\s*(be )?sick of\\s*$",
+    "ru_response": "^\\s*(болеть|быть больным)\\s*$",
     "sound": "be_sick_of",
     "preview": "be_sick_of"
   },
@@ -209,7 +209,7 @@
   },
   {
     "foreign_question": "rarely",
-    "ru_question": "редко",
+    "ru_question": "редко (синоним seldom)",
     "foreign_response": "^\\s*rarely\\s*$",
     "ru_response": "^\\s*(редко|иногда|нечасто|изредка)\\s*$",
     "sound": "rarely",
@@ -225,7 +225,7 @@
   },
   {
     "foreign_question": "sometimes",
-    "ru_question": "иногда, временами (синоним rarely)",
+    "ru_question": "иногда, временами",
     "foreign_response": "^\\s*sometimes?\\s*$",
     "ru_response": "^\\s*(иногда|временами)\\s*$",
     "sound": "sometimes",

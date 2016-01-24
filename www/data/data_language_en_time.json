@@ -1,5 +1,21 @@
 [
   {
+    "foreign_question": "age",
+    "ru_question": "век, эпоха",
+    "foreign_response": "^\\s*age\\s*$",
+    "ru_response": "^\\s*(век|эпоха)\\s*$",
+    "sound": "age",
+    "preview": "age"
+  },
+  {
+    "foreign_question": "end",
+    "ru_question": "конец",
+    "foreign_response": "^\\s*end\\s*$",
+    "ru_response": "^\\s*конец\\s*$",
+    "sound": "end",
+    "preview": "end"
+  },
+  {
     "foreign_question": "all year round",
     "ru_question": "круглый год",
     "foreign_response": "^\\s*all year round\\s*$",
@@ -40,6 +56,14 @@
     "preview": "at_ten_past_six"
   },
   {
+    "foreign_question": "at the moment",
+    "ru_question": "в данный момент, в текущий момент времени",
+    "foreign_response": "^\\s*at the moment\\s*$",
+    "ru_response": "^\\s*(в данный|на текущий) момент, в (настоящее|текущее) время, в данную минуту\\s*$",
+    "sound": "at_the_moment",
+    "preview": "at_the_moment"
+  },
+  {
     "foreign_question": "at the same time",
     "ru_question": "в тоже время",
     "foreign_response": "^\\s*at the same time\\s*$",
@@ -48,12 +72,36 @@
     "preview": "at_the_same_time"
   },
   {
+    "foreign_question": "at the time",
+    "ru_question": "в то время",
+    "foreign_response": "^\\s*(at|in) (the|that) time\\s*$",
+    "ru_response": "^\\s*в то время\\s*$",
+    "sound": "at_the_time",
+    "preview": "at_the_time"
+  },
+  {
     "foreign_question": "for five years",
     "ru_question": "на протяжении 5 лет",
     "foreign_response": "^\\s*for five years\\s*$",
     "ru_response": "^\\s*на протяжени[ие] (5|пяти) лет\\s*$",
     "sound": "for_five_years",
     "preview": "for_five_years"
+  },
+  {
+    "foreign_question": "future",
+    "ru_question": "будущее, будущий",
+    "foreign_response": "^\\s*future\\s*$",
+    "ru_response": "^\\s*(будущее|будущий)\\s*$",
+    "sound": "future",
+    "preview": "future"
+  },
+  {
+    "foreign_question": "in the future",
+    "ru_question": "в будущем, в дальнейшем",
+    "foreign_response": "^\\s*in the future\\s*$",
+    "ru_response": "^\\s*(в будущем|в дальнейшем)\\s*$",
+    "sound": "in_the_future",
+    "preview": "in_the_future"
   },
   {
     "foreign_question": "have time",
@@ -184,12 +232,36 @@
     "preview": "spend_time"
   },
   {
+    "foreign_question": "Take your time.",
+    "ru_question": "Не торопитесь, Не спешите.",
+    "foreign_response": "^\\s*(Take your time|Don't hurry)\\.?\\s*$",
+    "ru_response": "^\\s*Не (торопитесь|спешите)\\.?\\s*$",
+    "sound": "take_your_time",
+    "preview": "take_your_time"
+  },
+  {
+    "foreign_question": "these days",
+    "ru_question": "эти дни",
+    "foreign_response": "^\\s*these days\\s*$",
+    "ru_response": "^\\s*эти дни\\s*$",
+    "sound": "these_days",
+    "preview": "these_days"
+  },
+  {
     "foreign_question": "three days ago",
     "ru_question": "три дня назад",
     "foreign_response": "^\\s*three days ago\\s*$",
     "ru_response": "^\\s*три дня назад\\s*$",
     "sound": "three_days_ago",
     "preview": "three_days_ago"
+  },
+  {
+    "foreign_question": "three times",
+    "ru_question": "три раза",
+    "foreign_response": "^\\s*three times\\s*$",
+    "ru_response": "^\\s*три раза\\s*$",
+    "sound": "three_times",
+    "preview": "three_times"
   },
   {
     "foreign_question": "time",

@@ -8,12 +8,36 @@
     "preview": "airport"
   },
   {
+    "foreign_question": "amusement park",
+    "ru_question": "парк развлечений",
+    "foreign_response": "^\\s*amusement park\\s*$",
+    "ru_response": "^\\s*парк развлечений\\s*$",
+    "sound": "amusement_park",
+    "preview": "amusement_park"
+  },
+  {
     "foreign_question": "avenue",
     "ru_question": "проспект",
     "foreign_response": "^\\s*avenue\\s*$",
     "ru_response": "^\\s*проспект\\s*$",
     "sound": "avenue",
     "preview": "avenue"
+  },
+  {
+    "foreign_question": "bank",
+    "ru_question": "банк",
+    "foreign_response": "^\\s*bank\\s*$",
+    "ru_response": "^\\s*банк\\s*$",
+    "sound": "bank",
+    "preview": "bank"
+  },
+  {
+    "foreign_question": "bowling alley",
+    "ru_question": "кегельбан",
+    "foreign_response": "^\\s*bowling alley\\s*$",
+    "ru_response": "^\\s*кегельбан\\s*$",
+    "sound": "bowling_alley",
+    "preview": "bowling_alley"
   },
   {
     "foreign_question": "bridge",
@@ -24,12 +48,52 @@
     "preview": "bridge"
   },
   {
+    "foreign_question": "bus stop",
+    "ru_question": "автобусная остановка",
+    "foreign_response": "^\\s*bus stop\\s*$",
+    "ru_response": "^\\s*(автобусная остановка|остановка автобуса)\\s*$",
+    "sound": "bus_stop",
+    "preview": "bus_stop"
+  },
+  {
     "foreign_question": "cafe",
     "ru_question": "кафе",
     "foreign_response": "^\\s*cafe\\s*$",
     "ru_response": "^\\s*кафе\\s*$",
     "sound": "cafe",
     "preview": "cafe"
+  },
+  {
+    "foreign_question": "car park",
+    "ru_question": "автопарк, автостоянка",
+    "foreign_response": "^\\s*car park\\s*$",
+    "ru_response": "^\\s*(авто(мобильный )?парк|авто(мобильная )?стоянка)\\s*$",
+    "sound": "car_park",
+    "preview": "car_park"
+  },
+  {
+    "foreign_question": "castle",
+    "ru_question": "замок",
+    "foreign_response": "^\\s*castle\\s*$",
+    "ru_response": "^\\s*замок\\s*$",
+    "sound": "castle",
+    "preview": "castle"
+  },
+  {
+    "foreign_question": "centre",
+    "ru_question": "центр",
+    "foreign_response": "^\\s*cent(re|er)\\s*$",
+    "ru_response": "^\\s*центр\\s*$",
+    "sound": "centre",
+    "preview": "centre"
+  },
+  {
+    "foreign_question": "chemist's",
+    "ru_question": "аптека (синоним pharmacy)",
+    "foreign_response": "^\\s*chemist\\'s\\s*$",
+    "ru_response": "^\\s*аптека\\s*$",
+    "sound": "chemist's",
+    "preview": "chemist's"
   },
   {
     "foreign_question": "cinema",
@@ -46,6 +110,46 @@
     "ru_response": "^\\s*крупный город\\s*$",
     "sound": "city",
     "preview": "city"
+  },
+  {
+    "foreign_question": "city centre",
+    "ru_question": "городской центр",
+    "foreign_response": "^\\s*(city cent(re|er)|cent(re|er) of city)\\s*$",
+    "ru_response": "^\\s*городской центр\\s*$",
+    "sound": "city_centre",
+    "preview": "city_centre"
+  },
+  {
+    "foreign_question": "department store",
+    "ru_question": "универмаг, супермаркет (синоним 'supermarket')",
+    "foreign_response": "^\\s*department store\\s*$",
+    "ru_response": "^\\s*универмаг, супермаркет\\s*$",
+    "sound": "department_store",
+    "preview": "department_store"
+  },
+  {
+    "foreign_question": "dormitory",
+    "ru_question": "общежитие",
+    "foreign_response": "^\\s*dormitory\\s*$",
+    "ru_response": "^\\s*общежитие\\s*$",
+    "sound": "dormitory",
+    "preview": "dormitory"
+  },
+  {
+    "foreign_question": "escalator",
+    "ru_question": "эскалатор",
+    "foreign_response": "^\\s*escalator\\s*$",
+    "ru_response": "^\\s*эскалатор\\s*$",
+    "sound": "escalator",
+    "preview": "escalator"
+  },
+  {
+    "foreign_question": "fast food restaurant",
+    "ru_question": "ресторан быстрого питания",
+    "foreign_response": "^\\s*fast food restaurant\\s*$",
+    "ru_response": "^\\s*ресторан быстрого питания\\s*$",
+    "sound": "fast_food_restaurant",
+    "preview": "fast_food_restaurant"
   },
   {
     "foreign_question": "hospital",
@@ -72,6 +176,22 @@
     "preview": "house"
   },
   {
+    "foreign_question": "in front of",
+    "ru_question": "перед (чем-то находиться)",
+    "foreign_response": "^\\s*in front of\\s*$",
+    "ru_response": "^\\s*перед\\s*$",
+    "sound": "in_front_of",
+    "preview": "in_front_of"
+  },
+  {
+    "foreign_question": "Internet cafe",
+    "ru_question": "интернет кафе",
+    "foreign_response": "^\\s*Internet cafe\\s*$",
+    "ru_response": "^\\s*интернет кафе\\s*$",
+    "sound": "internet_cafe",
+    "preview": "internet_cafe"
+  },
+  {
     "foreign_question": "library",
     "ru_question": "библиотека",
     "foreign_response": "^\\s*library\\s*$",
@@ -88,6 +208,22 @@
     "preview": "market"
   },
   {
+    "foreign_question": "motorway",
+    "ru_question": "автомагистраль, автострада, автотрасса",
+    "foreign_response": "^\\s*motorway\\s*$",
+    "ru_response": "^\\s*(автомагистраль|автострада|автотрасса|дорога|шоссе|трасса|автобан)\\s*$",
+    "sound": "motorway",
+    "preview": "motorway"
+  },
+  {
+    "foreign_question": "museum",
+    "ru_question": "музей",
+    "foreign_response": "^\\s*museum\\s*$",
+    "ru_response": "^\\s*музей\\s*$",
+    "sound": "museum",
+    "preview": "museum"
+  },
+  {
     "foreign_question": "music shop",
     "ru_question": "музыкальный магазин",
     "foreign_response": "^\\s*music shop\\s*$",
@@ -96,12 +232,68 @@
     "preview": "music_shop"
   },
   {
+    "foreign_question": "newsagent's",
+    "ru_question": "газетный киоск",
+    "foreign_response": "^\\s*newsagent\\'s\\s*$",
+    "ru_response": "^\\s*газетный (киоск|ларек)\\s*$",
+    "sound": "newsagent's",
+    "preview": "newsagent's"
+  },
+  {
+    "foreign_question": "office",
+    "ru_question": "офис",
+    "foreign_response": "^\\s*office\\s*$",
+    "ru_response": "^\\s*(офис|бюро|контора)\\s*$",
+    "sound": "office",
+    "preview": "office"
+  },
+  {
     "foreign_question": "park",
     "ru_question": "парк",
     "foreign_response": "^\\s*park\\s*$",
     "ru_response": "^\\s*парк\\s*$",
     "sound": "park",
     "preview": "park"
+  },
+  {
+    "foreign_question": "pass",
+    "ru_question": "передача, проход",
+    "foreign_response": "^\\s*pass\\s*$",
+    "ru_response": "^\\s*(передача|проход)\\s*$",
+    "sound": "pass",
+    "preview": "pass"
+  },
+  {
+    "foreign_question": "past",
+    "ru_question": "мимо (проходя), прошлый",
+    "foreign_response": "^\\s*past\\s*$",
+    "ru_response": "^\\s*(мимо|прошлый|прошедший)\\s*$",
+    "sound": "past",
+    "preview": "past"
+  },
+  {
+    "foreign_question": "petrol station",
+    "ru_question": "заправка, бензоколонка",
+    "foreign_response": "^\\s*petrol station\\s*$",
+    "ru_response": "^\\s*((бензо)?заправка|бензоколонка)\\s*$",
+    "sound": "petrol_station",
+    "preview": "petrol_station"
+  },
+  {
+    "foreign_question": "pharmacy",
+    "ru_question": "аптека (синоним chemist's)",
+    "foreign_response": "^\\s*pharmacy\\s*$",
+    "ru_response": "^\\s*аптека\\s*$",
+    "sound": "pharmacy",
+    "preview": "pharmacy"
+  },
+  {
+    "foreign_question": "phone box",
+    "ru_question": "телефонная будка",
+    "foreign_response": "^\\s*phone box\\s*$",
+    "ru_response": "^\\s*телефонная будка\\s*$",
+    "sound": "phone_box",
+    "preview": "phone_box"
   },
   {
     "foreign_question": "place",
@@ -128,6 +320,14 @@
     "preview": "port"
   },
   {
+    "foreign_question": "post office",
+    "ru_question": "почтовое отделение",
+    "foreign_response": "^\\s*post office\\s*$",
+    "ru_response": "^\\s*(почтовое отделение|почта|почтамп)\\s*$",
+    "sound": "post_office",
+    "preview": "post_office"
+  },
+  {
     "foreign_question": "prison",
     "ru_question": "тюрьма",
     "foreign_response": "^\\s*prison\\s*$",
@@ -136,8 +336,16 @@
     "preview": "prison"
   },
   {
+    "foreign_question": "railway",
+    "ru_question": "железная дорога",
+    "foreign_response": "^\\s*railway\\s*$",
+    "ru_response": "^\\s*железная дорога\\s*$",
+    "sound": "railway",
+    "preview": "railway"
+  },
+  {
     "foreign_question": "railway station",
-    "ru_question": "железнодорожный вокзал",
+    "ru_question": "железнодорожный вокзал (синоним train station)",
     "foreign_response": "^\\s*railway station\\s*$",
     "ru_response": "^\\s*железнодорожный вокзал\\s*$",
     "sound": "railway_station",
@@ -168,6 +376,30 @@
     "preview": "road"
   },
   {
+    "foreign_question": "route",
+    "ru_question": "маршрут, путь",
+    "foreign_response": "^\\s*route\\s*$",
+    "ru_response": "^\\s*(маршрут|путь)\\s*$",
+    "sound": "route",
+    "preview": "route"
+  },
+  {
+    "foreign_question": "ruins",
+    "ru_question": "руины, развалины",
+    "foreign_response": "^\\s*ruins?\\s*$",
+    "ru_response": "^\\s*(руины|развалины)\\s*$",
+    "sound": "ruins",
+    "preview": "ruin"
+  },
+  {
+    "foreign_question": "shoe shop",
+    "ru_question": "обувной магазин",
+    "foreign_response": "^\\s*shoe shop\\s*$",
+    "ru_response": "^\\s*(обувной магазин|магазин обуви)\\s*$",
+    "sound": "shoe_shop",
+    "preview": "shoe_shop"
+  },
+  {
     "foreign_question": "shop",
     "ru_question": "магазин",
     "foreign_response": "^\\s*shop\\s*$",
@@ -178,10 +410,18 @@
   {
     "foreign_question": "shopping center",
     "ru_question": "торговый центр",
-    "foreign_response": "^\\s*shopping center\\s*$",
+    "foreign_response": "^\\s*shopping cent(er|re)\\s*$",
     "ru_response": "^\\s*торговый центр\\s*$",
     "sound": "shopping_center",
     "preview": "shopping_center"
+  },
+  {
+    "foreign_question": "sight",
+    "ru_question": "достопримечательность",
+    "foreign_response": "^\\s*sight\\s*$",
+    "ru_response": "^\\s*достопримечательность\\s*$",
+    "sound": "sight",
+    "preview": "sight"
   },
   {
     "foreign_question": "skyscraper",
@@ -190,6 +430,14 @@
     "ru_response": "^\\s*небоскреб\\s*$",
     "sound": "skyscraper",
     "preview": "skyscraper"
+  },
+  {
+    "foreign_question": "sports stadium",
+    "ru_question": "стадион",
+    "foreign_response": "^\\s*sports stadium\\s*$",
+    "ru_response": "^\\s*стадион\\s*$",
+    "sound": "sports_stadium",
+    "preview": "sports_stadium"
   },
   {
     "foreign_question": "stairs",
@@ -216,12 +464,36 @@
     "preview": "suburb"
   },
   {
+    "foreign_question": "supermarket",
+    "ru_question": "универмаг, супермаркет (синоним 'department store')",
+    "foreign_response": "^\\s*supermarket\\s*$",
+    "ru_response": "^\\s*универмаг, супермаркет\\s*$",
+    "sound": "supermarket",
+    "preview": "supermarket"
+  },
+  {
+    "foreign_question": "taxi rank",
+    "ru_question": "стоянка такси",
+    "foreign_response": "^\\s*taxi rank\\s*$",
+    "ru_response": "^\\s*стоянка такси\\s*$",
+    "sound": "taxi_rank",
+    "preview": "taxi_rank"
+  },
+  {
     "foreign_question": "theater",
     "ru_question": "театр",
     "foreign_response": "^\\s*(theater|theatre)\\s*$",
     "ru_response": "^\\s*театр\\s*$",
     "sound": "theater",
     "preview": "theater"
+  },
+  {
+    "foreign_question": "toy shop",
+    "ru_question": "магазин игрушек",
+    "foreign_response": "^\\s*toy shop\\s*$",
+    "ru_response": "^\\s*(магазин игрушек|игрушечный магазин)\\s*$",
+    "sound": "toy_shop",
+    "preview": "toy_shop"
   },
   {
     "foreign_question": "traffic",
@@ -238,5 +510,37 @@
     "ru_response": "^\\s*(дорожная |автомобильная )пробка\\s*$",
     "sound": "traffic_jam",
     "preview": "traffic_jam"
+  },
+  {
+    "foreign_question": "traffic light",
+    "ru_question": "светофор",
+    "foreign_response": "^\\s*traffic lights?\\s*$",
+    "ru_response": "^\\s*светофор\\s*$",
+    "sound": "traffic_light",
+    "preview": "traffic_light"
+  },
+  {
+    "foreign_question": "train station",
+    "ru_question": "железнодорожная станция (синоним 'railway station')",
+    "foreign_response": "^\\s*train station\\s*$",
+    "ru_response": "^\\s*железнодорожная станция\\s*$",
+    "sound": "train_station",
+    "preview": "train_station"
+  },
+  {
+    "foreign_question": "underground station",
+    "ru_question": "станция метро",
+    "foreign_response": "^\\s*underground station\\s*$",
+    "ru_response": "^\\s*станция метро\\s*$",
+    "sound": "underground_station",
+    "preview": "underground_station"
+  },
+  {
+    "foreign_question": "university",
+    "ru_question": "университет",
+    "foreign_response": "^\\s*university\\s*$",
+    "ru_response": "^\\s*университет\\s*$",
+    "sound": "university",
+    "preview": "university"
   }
 ]

@@ -1,0 +1,42 @@
+[
+  {
+    "foreign_question": "Istanbul",
+    "ru_question": "Стамбул",
+    "foreign_response": "^\\s*Istanbul\\s*$",
+    "ru_response": "^\\s*Стамбул\\s*$",
+    "sound": "Istanbul",
+    "preview": "Istanbul"
+  },
+  {
+    "foreign_question": "Moscow",
+    "ru_question": "Москва",
+    "foreign_response": "^\\s*Moscow\\s*$",
+    "ru_response": "^\\s*Москва\\s*$",
+    "sound": "Moscow",
+    "preview": "Moscow"
+  },
+  {
+    "foreign_question": "Paris",
+    "ru_question": "Париж",
+    "foreign_response": "^\\s*Paris\\s*$",
+    "ru_response": "^\\s*Париж\\s*$",
+    "sound": "Paris",
+    "preview": "Paris"
+  },
+  {
+    "foreign_question": "Venice",
+    "ru_question": "Венеция",
+    "foreign_response": "^\\s*Venice\\s*$",
+    "ru_response": "^\\s*Венеция\\s*$",
+    "sound": "Venice",
+    "preview": "Venice"
+  },
+  {
+    "foreign_question": "Vienna",
+    "ru_question": "Вена",
+    "foreign_response": "^\\s*Vienna\\s*$",
+    "ru_response": "^\\s*Вена\\s*$",
+    "sound": "Vienna",
+    "preview": "Vienna"
+  }
+]

@@ -1,11 +1,59 @@
 [
   {
+    "foreign_question": "aunt",
+    "ru_question": "тетя",
+    "foreign_response": "^\\s*aunt\\s*$",
+    "ru_response": "^\\s*тет(я|ка)\\s*$",
+    "sound": "aunt",
+    "preview": "aunt"
+  },
+  {
+    "foreign_question": "baby",
+    "ru_question": "малыш (синоним kid)",
+    "foreign_response": "^\\s*baby\\s*$",
+    "ru_response": "^\\s*малыш\\s*$",
+    "sound": "baby",
+    "preview": "baby"
+  },
+  {
+    "foreign_question": "boy",
+    "ru_question": "мальчик",
+    "foreign_response": "^\\s*boy\\s*$",
+    "ru_response": "^\\s*мальчик\\s*$",
+    "sound": "boy",
+    "preview": "boy"
+  },
+  {
     "foreign_question": "brother",
     "ru_question": "брат",
     "foreign_response": "^\\s*brother\\s*$",
     "ru_response": "^\\s*брат\\s*$",
     "sound": "brother",
     "preview": "brother"
+  },
+  {
+    "foreign_question": "child",
+    "ru_question": "ребенок",
+    "foreign_response": "^\\s*child\\s*$",
+    "ru_response": "^\\s*ребенок\\s*$",
+    "sound": "child",
+    "preview": "child"
+  },
+  {
+    "foreign_question": "children",
+    "ru_question": "дети",
+    "foreign_response": "^\\s*children\\s*$",
+    "ru_response": "^\\s*дети\\s*$",
+    "sound": "children",
+    "preview": "children"
+  },
+  {
+    "foreign_question": "cousin",
+    "ru_question": "кузен, кузина, двоюродный брат, двоюродная сестра",
+    "foreign_response": "^\\s*cousin\\s*$",
+    "ru_response": "^\\s*(кузен|кузина|двоюродный брат|двоюродная сестра)\\s*$",
+    "sound": "cousin",
+    "preview": "cousin"
   },
   {
     "foreign_question": "dad",
@@ -16,12 +64,28 @@
     "preview": "father"
   },
   {
+    "foreign_question": "daughter",
+    "ru_question": "дочь",
+    "foreign_response": "^\\s*daughter\\s*$",
+    "ru_response": "^\\s*дочь\\s*$",
+    "sound": "daughter",
+    "preview": "daughter"
+  },
+  {
     "foreign_question": "divorce",
     "ru_question": "развод, расторжение брака",
     "foreign_response": "^\\s*divorce\\s*$",
     "ru_response": "^\\s*(развод|расторжение брака)\\s*$",
     "sound": "divorce",
     "preview": "divorce"
+  },
+  {
+    "foreign_question": "family",
+    "ru_question": "семья",
+    "foreign_response": "^\\s*family\\s*$",
+    "ru_response": "^\\s*семья\\s*$",
+    "sound": "family",
+    "preview": "family"
   },
   {
     "foreign_question": "father",
@@ -32,12 +96,36 @@
     "preview": "father"
   },
   {
+    "foreign_question": "friend",
+    "ru_question": "друг",
+    "foreign_response": "^\\s*friend\\s*$",
+    "ru_response": "^\\s*друг\\s*$",
+    "sound": "friend",
+    "preview": "friend"
+  },
+  {
+    "foreign_question": "girl",
+    "ru_question": "девочка, девушка",
+    "foreign_response": "^\\s*girl\\s*$",
+    "ru_response": "^\\s*(девочка|девушка)\\s*$",
+    "sound": "girl",
+    "preview": "girl"
+  },
+  {
     "foreign_question": "girlfriend",
     "ru_question": "девушка, подруга (для парня)",
     "foreign_response": "^\\s*girlfriend\\s*$",
     "ru_response": "^\\s*девушка, подруга\\s*$",
     "sound": "girlfriend",
     "preview": ""
+  },
+  {
+    "foreign_question": "granddaughter",
+    "ru_question": "внучка",
+    "foreign_response": "^\\s*granddaughter\\s*$",
+    "ru_response": "^\\s*внучка\\s*$",
+    "sound": "granddaughter",
+    "preview": "granddaughter"
   },
   {
     "foreign_question": "grandfather",
@@ -56,6 +144,14 @@
     "preview": "grandmother"
   },
   {
+    "foreign_question": "grandson",
+    "ru_question": "внук",
+    "foreign_response": "^\\s*grandson\\s*$",
+    "ru_response": "^\\s*внук\\s*$",
+    "sound": "grandson",
+    "preview": "grandson"
+  },
+  {
     "foreign_question": "human",
     "ru_question": "человек",
     "foreign_response": "^\\s*human\\s*$",
@@ -64,12 +160,44 @@
     "preview": "human"
   },
   {
+    "foreign_question": "husband",
+    "ru_question": "муж",
+    "foreign_response": "^\\s*husband\\s*$",
+    "ru_response": "^\\s*муж\\s*$",
+    "sound": "husband",
+    "preview": "husband"
+  },
+  {
     "foreign_question": "humanity",
     "ru_question": "человечество",
     "foreign_response": "^\\s*humanity\\s*$",
     "ru_response": "^\\s*человечество\\s*$",
     "sound": "humanity",
     "preview": "humanity"
+  },
+  {
+    "foreign_question": "kid",
+    "ru_question": "малыш (синоним baby)",
+    "foreign_response": "^\\s*kid\\s*$",
+    "ru_response": "^\\s*малыш\\s*$",
+    "sound": "kid",
+    "preview": "kid"
+  },
+  {
+    "foreign_question": "man",
+    "ru_question": "мужчина",
+    "foreign_response": "^\\s*man\\s*$",
+    "ru_response": "^\\s*мужчина\\s*$",
+    "sound": "man",
+    "preview": "man"
+  },
+  {
+    "foreign_question": "men",
+    "ru_question": "мужчины",
+    "foreign_response": "^\\s*men\\s*$",
+    "ru_response": "^\\s*мужчины\\s*$",
+    "sound": "men",
+    "preview": "men"
   },
   {
     "foreign_question": "mankind",
@@ -94,6 +222,14 @@
     "ru_response": "^\\s*мама\\s*$",
     "sound": "mum",
     "preview": "mother"
+  },
+  {
+    "foreign_question": "parents",
+    "ru_question": "родители",
+    "foreign_response": "^\\s*parents\\s*$",
+    "ru_response": "^\\s*родители\\s*$",
+    "sound": "parents",
+    "preview": "parents"
   },
   {
     "foreign_question": "people",
@@ -137,10 +273,42 @@
   },
   {
     "foreign_question": "together",
-    "ru_question": "вместе",
+    "ru_question": "вместе, все вместе",
     "foreign_response": "^\\s*together\\s*$",
-    "ru_response": "^\\s*вместе\\s*$",
+    "ru_response": "^\\s*(вместе|все вместе)\\s*$",
     "sound": "together",
     "preview": "together"
+  },
+  {
+    "foreign_question": "uncle",
+    "ru_question": "дядя",
+    "foreign_response": "^\\s*uncle\\s*$",
+    "ru_response": "^\\s*дядя\\s*$",
+    "sound": "uncle",
+    "preview": "uncle"
+  },
+  {
+    "foreign_question": "wife",
+    "ru_question": "жена",
+    "foreign_response": "^\\s*wife\\s*$",
+    "ru_response": "^\\s*жена\\s*$",
+    "sound": "wife",
+    "preview": "wife"
+  },
+  {
+    "foreign_question": "woman",
+    "ru_question": "женщина",
+    "foreign_response": "^\\s*woman\\s*$",
+    "ru_response": "^\\s*женщина\\s*$",
+    "sound": "woman",
+    "preview": "woman"
+  },
+  {
+    "foreign_question": "weman",
+    "ru_question": "женщины",
+    "foreign_response": "^\\s*weman\\s*$",
+    "ru_response": "^\\s*женщины\\s*$",
+    "sound": "weman",
+    "preview": "weman"
   }
 ]

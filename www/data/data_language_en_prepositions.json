@@ -4,7 +4,7 @@
     "foreign_question": "about",
     "ru_question": "о, про",
     "foreign_response": "^\\s*about\\s*$",
-    "ru_response": "^\\s*(о|про|около)\\s*$",
+    "ru_response": "^\\s*(около|про|приблизительно|о|об)\\s*$",
     "sound": "about",
     "preview": "about"
   },
@@ -41,6 +41,14 @@
     "preview": "in"
   },
   {
+    "foreign_question": "into",
+    "ru_question": "внутрь, в",
+    "foreign_response": "^\\s*into\\s*$",
+    "ru_response": "^\\s*(внутрь|в)\\s*$",
+    "sound": "into",
+    "preview": "into"
+  },
+  {
     "foreign_question": "of",
     "ru_question": "предлог родительного падежа",
     "foreign_response": "^\\s*of\\s*$",
@@ -57,6 +65,14 @@
     "preview": "on"
   },
   {
+    "foreign_question": "onto",
+    "ru_question": "на (синоним 'on')",
+    "foreign_response": "^\\s*onto\\s*$",
+    "ru_response": "^\\s*на\\s*$",
+    "sound": "onto",
+    "preview": "onto"
+  },
+  {
     "foreign_question": "over",
     "ru_question": "над",
     "foreign_response": "^\\s*over\\s*$",
@@ -71,6 +87,14 @@
     "ru_response": "^\\s*к\\s*$",
     "sound": "to",
     "preview": "to"
+  },
+  {
+    "foreign_question": "towards",
+    "ru_question": "в направлении, по направлению (синоним 'to')",
+    "foreign_response": "^\\s*towards\\s*$",
+    "ru_response": "^\\s*(в направлении|по направлению|к)\\s*$",
+    "sound": "towards",
+    "preview": "towards"
   },
   {
     "foreign_question": "under",

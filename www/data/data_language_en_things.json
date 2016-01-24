@@ -40,12 +40,52 @@
     "preview": "bowl"
   },
   {
+    "foreign_question": "box",
+    "ru_question": "коробка, ящик",
+    "foreign_response": "^\\s*box\\s*$",
+    "ru_response": "^\\s*(коробка|ящик)\\s*$",
+    "sound": "box",
+    "preview": "box"
+  },
+  {
+    "foreign_question": "briefcase",
+    "ru_question": "кожаный портфель",
+    "foreign_response": "^\\s*briefcase\\s*$",
+    "ru_response": "^\\s*(кожаный )?портфель\\s*$",
+    "sound": "briefcase",
+    "preview": "briefcase"
+  },
+  {
+    "foreign_question": "brochure",
+    "ru_question": "брошюра",
+    "foreign_response": "^\\s*brochure\\s*$",
+    "ru_response": "^\\s*брошюра\\s*$",
+    "sound": "brochure",
+    "preview": "brochure"
+  },
+  {
+    "foreign_question": "brush",
+    "ru_question": "кисть, щетка",
+    "foreign_response": "^\\s*brush\\s*$",
+    "ru_response": "^\\s*(кисть|щетка)\\s*$",
+    "sound": "brush",
+    "preview": "brush"
+  },
+  {
     "foreign_question": "camera",
     "ru_question": "фотоаппарат, фотокамера",
     "foreign_response": "^\\s*camera\\s*$",
     "ru_response": "^\\s*(фотоаппарат|фотокамера)\\s*$",
     "sound": "camera",
     "preview": "camera"
+  },
+  {
+    "foreign_question": "cell phone",
+    "ru_question": "мобильный телефон (синоним mobile phone)",
+    "foreign_response": "^\\s*cell phone\\s*$",
+    "ru_response": "^\\s*мобильный телефон\\s*$",
+    "sound": "cell_phone",
+    "preview": "cell_phone"
   },
   {
     "foreign_question": "chair",
@@ -72,6 +112,14 @@
     "preview": "computer"
   },
   {
+    "foreign_question": "credit card",
+    "ru_question": "кредитная карта",
+    "foreign_response": "^\\s*credit card\\s*$",
+    "ru_response": "^\\s*кредитная карт(а|очка)\\s*$",
+    "sound": "credit_card",
+    "preview": "credit_card"
+  },
+  {
     "foreign_question": "cup",
     "ru_question": "чашка",
     "foreign_response": "^\\s*cup\\s*$",
@@ -88,6 +136,22 @@
     "preview": "dictionary"
   },
   {
+    "foreign_question": "DVD player",
+    "ru_question": "DVD плеер",
+    "foreign_response": "^\\s*DVD player\\s*$",
+    "ru_response": "^\\s*DVD плеер\\s*$",
+    "sound": "dvd_player",
+    "preview": "dvd_player"
+  },
+  {
+    "foreign_question": "earphones",
+    "ru_question": "наушники",
+    "foreign_response": "^\\s*earphones\\s*$",
+    "ru_response": "^\\s*наушники\\s*$",
+    "sound": "earphones",
+    "preview": "earphones"
+  },
+  {
     "foreign_question": "glass",
     "ru_question": "стакан",
     "foreign_response": "^\\s*glass\\s*$",
@@ -96,12 +160,52 @@
     "preview": "glass"
   },
   {
+    "foreign_question": "glasses",
+    "ru_question": "очки (синоним spectacles)",
+    "foreign_response": "^\\s*glasses\\s*$",
+    "ru_response": "^\\s*очки\\s*$",
+    "sound": "glasses",
+    "preview": "glasses"
+  },
+  {
+    "foreign_question": "handbag",
+    "ru_question": "дамская сумка",
+    "foreign_response": "^\\s*handbag\\s*$",
+    "ru_response": "^\\s*(дамская |женская )?(сумка|сумочка)\\s*$",
+    "sound": "handbag",
+    "preview": "handbag"
+  },
+  {
     "foreign_question": "keys",
     "ru_question": "ключи",
     "foreign_response": "^\\s*keys\\s*$",
     "ru_response": "^\\s*ключи\\s*$",
     "sound": "keys",
     "preview": "keys"
+  },
+  {
+    "foreign_question": "kind of (n)",
+    "ru_question": "вид, тип (чего-то)",
+    "foreign_response": "^\\s*kind( of)?\\s*$",
+    "ru_response": "^\\s*(вид|тип)\\s*$",
+    "sound": "kind_of",
+    "preview": "kind_of"
+  },
+  {
+    "foreign_question": "laptop",
+    "ru_question": "ноутбук",
+    "foreign_response": "^\\s*laptop\\s*$",
+    "ru_response": "^\\s*ноутбук\\s*$",
+    "sound": "laptop",
+    "preview": "laptop"
+  },
+  {
+    "foreign_question": "letter",
+    "ru_question": "письмо",
+    "foreign_response": "^\\s*letter\\s*$",
+    "ru_response": "^\\s*письмо\\s*$",
+    "sound": "letter",
+    "preview": "letter"
   },
   {
     "foreign_question": "magazine",
@@ -113,11 +217,35 @@
   },
   {
     "foreign_question": "mobile phone",
-    "ru_question": "мобильный телефон",
+    "ru_question": "мобильный телефон (синоним cell phone)",
     "foreign_response": "^\\s*mobile phone\\s*$",
     "ru_response": "^\\s*мобильный телефон\\s*$",
     "sound": "mobile_phone",
     "preview": "mobile_phone"
+  },
+  {
+    "foreign_question": "MP3 player",
+    "ru_question": "MP3 плеер",
+    "foreign_response": "^\\s*MP3 player\\s*$",
+    "ru_response": "^\\s*MP3 плеер\\s*$",
+    "sound": "mp3_player",
+    "preview": "mp3_player"
+  },
+  {
+    "foreign_question": "netbook",
+    "ru_question": "нетбук",
+    "foreign_response": "^\\s*netbook\\s*$",
+    "ru_response": "^\\s*нетбук\\s*$",
+    "sound": "netbook",
+    "preview": "netbook"
+  },
+  {
+    "foreign_question": "newspaper",
+    "ru_question": "газета",
+    "foreign_response": "^\\s*newspaper\\s*$",
+    "ru_response": "^\\s*газета\\s*$",
+    "sound": "newspaper",
+    "preview": "newspaper"
   },
   {
     "foreign_question": "notebook",
@@ -144,6 +272,22 @@
     "preview": "pencil"
   },
   {
+    "foreign_question": "photo",
+    "ru_question": "фотография (синоним photoraphy)",
+    "foreign_response": "^\\s*photo\\s*$",
+    "ru_response": "^\\s*фотография\\s*$",
+    "sound": "photo",
+    "preview": "photo"
+  },
+  {
+    "foreign_question": "photoraphy",
+    "ru_question": "фотография (синоним photo)",
+    "foreign_response": "^\\s*photoraphy\\s*$",
+    "ru_response": "^\\s*фотография\\s*$",
+    "sound": "photoraphy",
+    "preview": "photoraphy"
+  },
+  {
     "foreign_question": "pipe smoking",
     "ru_question": "курительная трубка, трубка для курения",
     "foreign_response": "^\\s*pipe smoking\\s*$",
@@ -160,12 +304,60 @@
     "preview": "plate"
   },
   {
+    "foreign_question": "player",
+    "ru_question": "плеер",
+    "foreign_response": "^\\s*player\\s*$",
+    "ru_response": "^\\s*плеер\\s*$",
+    "sound": "player",
+    "preview": "player"
+  },
+  {
+    "foreign_question": "purse",
+    "ru_question": "дамский кошелек, сумочка",
+    "foreign_response": "^\\s*purse\\s*$",
+    "ru_response": "^\\s*(дамск(ий|ая)|женск(ая|ий)) (кошелек|сумочка|сумка)\\s*$",
+    "sound": "purse",
+    "preview": "purse"
+  },
+  {
+    "foreign_question": "scissors",
+    "ru_question": "ножницы",
+    "foreign_response": "^\\s*scissors\\s*$",
+    "ru_response": "^\\s*ножницы\\s*$",
+    "sound": "scissors",
+    "preview": "scissors"
+  },
+  {
+    "foreign_question": "smartphone",
+    "ru_question": "смартфон",
+    "foreign_response": "^\\s*smartphone\\s*$",
+    "ru_response": "^\\s*смартфон\\s*$",
+    "sound": "smartphone",
+    "preview": "smartphone"
+  },
+  {
+    "foreign_question": "spectacles",
+    "ru_question": "очки (синоним glasses)",
+    "foreign_response": "^\\s*spectacles\\s*$",
+    "ru_response": "^\\s*очки\\s*$",
+    "sound": "spectacles",
+    "preview": "spectacles"
+  },
+  {
     "foreign_question": "suitcase",
     "ru_question": "чемодан",
     "foreign_response": "^\\s*suitcase\\s*$",
     "ru_response": "^\\s*чемодан\\s*$",
     "sound": "suitcase",
     "preview": "suitcase"
+  },
+  {
+    "foreign_question": "sunglasses",
+    "ru_question": "солнечные очки, солнцезащитные очки",
+    "foreign_response": "^\\s*sunglasses\\s*$",
+    "ru_response": "^\\s*(солнечные|солнцезащитные) очки\\s*$",
+    "sound": "sunglasses",
+    "preview": "sunglasses"
   },
   {
     "foreign_question": "table",
@@ -176,6 +368,14 @@
     "preview": "table"
   },
   {
+    "foreign_question": "tablet",
+    "ru_question": "планшет",
+    "foreign_response": "^\\s*tablet\\s*$",
+    "ru_response": "^\\s*планшет\\s*$",
+    "sound": "tablet",
+    "preview": "tablet"
+  },
+  {
     "foreign_question": "telephone",
     "ru_question": "телефон (синоним phone)",
     "foreign_response": "^\\s*telephone\\s*$",
@@ -184,12 +384,28 @@
     "preview": "telephone"
   },
   {
+    "foreign_question": "thing",
+    "ru_question": "вещь",
+    "foreign_response": "^\\s*thing\\s*$",
+    "ru_response": "^\\s*вещь\\s*$",
+    "sound": "thing",
+    "preview": "thing"
+  },
+  {
     "foreign_question": "umbrella",
     "ru_question": "зонт",
     "foreign_response": "^\\s*umbrella\\s*$",
     "ru_response": "^\\s*зонт(ик)?\\s*$",
     "sound": "umbrella",
     "preview": "umbrella"
+  },
+  {
+    "foreign_question": "video camera",
+    "ru_question": "видеокамера",
+    "foreign_response": "^\\s*video camera\\s*$",
+    "ru_response": "^\\s*видеокамера\\s*$",
+    "sound": "video_camera",
+    "preview": "video_camera"
   },
   {
     "foreign_question": "wallet",

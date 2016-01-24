@@ -1,11 +1,667 @@
 [
   {
+    "foreign_question": "apple",
+    "ru_question": "яблоко",
+    "foreign_response": "^\\s*apple\\s*$",
+    "ru_response": "^\\s*яблоко\\s*$",
+    "sound": "apple",
+    "preview": "apple"
+  },
+  {
+    "foreign_question": "apricot",
+    "ru_question": "абрикос",
+    "foreign_response": "^\\s*apricot\\s*$",
+    "ru_response": "^\\s*абрикос\\s*$",
+    "sound": "apricot",
+    "preview": "apricot"
+  },
+  {
+    "foreign_question": "artichoke",
+    "ru_question": "артишок",
+    "foreign_response": "^\\s*artichoke\\s*$",
+    "ru_response": "^\\s*артишок\\s*$",
+    "sound": "artichoke",
+    "preview": "artichoke"
+  },
+  {
+    "foreign_question": "asparagus",
+    "ru_question": "спаржа",
+    "foreign_response": "^\\s*asparagus\\s*$",
+    "ru_response": "^\\s*спаржа\\s*$",
+    "sound": "asparagus",
+    "preview": "asparagus"
+  },
+  {
+    "foreign_question": "avocado",
+    "ru_question": "авокадо",
+    "foreign_response": "^\\s*avocado\\s*$",
+    "ru_response": "^\\s*авокадо\\s*$",
+    "sound": "avocado",
+    "preview": "avocado"
+  },
+  {
+    "foreign_question": "banana",
+    "ru_question": "банан",
+    "foreign_response": "^\\s*banana\\s*$",
+    "ru_response": "^\\s*банан\\s*$",
+    "sound": "banana",
+    "preview": "banana"
+  },
+  {
+    "foreign_question": "bean",
+    "ru_question": "фасоль",
+    "foreign_response": "^\\s*bean\\s*$",
+    "ru_response": "^\\s*фасоль\\s*$",
+    "sound": "bean",
+    "preview": "bean"
+  },
+  {
+    "foreign_question": "beetroot",
+    "ru_question": "свекла",
+    "foreign_response": "^\\s*beetroot\\s*$",
+    "ru_response": "^\\s*(свекла|буряк)\\s*$",
+    "sound": "beetroot",
+    "preview": "beetroot"
+  },
+  {
+    "foreign_question": "bell pepper",
+    "ru_question": "сладкий перец",
+    "foreign_response": "^\\s*bell pepper\\s*$",
+    "ru_response": "^\\s*(сладкий|болгарский) перец\\s*$",
+    "sound": "bell_pepper",
+    "preview": "bell_pepper"
+  },
+  {
+    "foreign_question": "berry",
+    "ru_question": "ягода",
+    "foreign_response": "^\\s*berry\\s*$",
+    "ru_response": "^\\s*ягода\\s*$",
+    "sound": "berry",
+    "preview": "berry"
+  },
+  {
+    "foreign_question": "blackberry",
+    "ru_question": "ежевика",
+    "foreign_response": "^\\s*blackberry\\s*$",
+    "ru_response": "^\\s*ежевика\\s*$",
+    "sound": "blackberry",
+    "preview": "blackberry"
+  },
+  {
+    "foreign_question": "blackcurrant",
+    "ru_question": "черная смородина",
+    "foreign_response": "^\\s*blackcurrant\\s*$",
+    "ru_response": "^\\s*черная смородина\\s*$",
+    "sound": "blackcurrant",
+    "preview": "blackcurrant"
+  },
+  {
+    "foreign_question": "blueberry",
+    "ru_question": "черника, голубика",
+    "foreign_response": "^\\s*blueberry\\s*$",
+    "ru_response": "^\\s*(черника|голубика)\\s*$",
+    "sound": "blueberry",
+    "preview": "blueberry"
+  },
+  {
+    "foreign_question": "breakfast",
+    "ru_question": "завтрак",
+    "foreign_response": "^\\s*breakfast\\s*$",
+    "ru_response": "^\\s*завтрак\\s*$",
+    "sound": "breakfast",
+    "preview": "breakfast"
+  },
+  {
+    "foreign_question": "broccoli",
+    "ru_question": "брокколи",
+    "foreign_response": "^\\s*broccoli\\s*$",
+    "ru_response": "^\\s*брокколи\\s*$",
+    "sound": "broccoli",
+    "preview": "broccoli"
+  },
+  {
+    "foreign_question": "Brussels sprout",
+    "ru_question": "брюссельская капуста",
+    "foreign_response": "^\\s*Brussels sprout\\s*$",
+    "ru_response": "^\\s*брюссельская капуста\\s*$",
+    "sound": "brussels_sprout",
+    "preview": "brussels_sprout"
+  },
+  {
+    "foreign_question": "cabbage",
+    "ru_question": "капуста",
+    "foreign_response": "^\\s*cabbage\\s*$",
+    "ru_response": "^\\s*капуста\\s*$",
+    "sound": "cabbage",
+    "preview": "cabbage"
+  },
+  {
+    "foreign_question": "cake",
+    "ru_question": "пирожное, торт",
+    "foreign_response": "^\\s*cake\\s*$",
+    "ru_response": "^\\s*(пирожное|торт)\\s*$",
+    "sound": "cake",
+    "preview": "cake"
+  },
+  {
+    "foreign_question": "carrot",
+    "ru_question": "морковь",
+    "foreign_response": "^\\s*carrot\\s*$",
+    "ru_response": "^\\s*(морковь|морковка)\\s*$",
+    "sound": "carrot",
+    "preview": "carrot"
+  },
+  {
+    "foreign_question": "cauliflower",
+    "ru_question": "цветная капуста",
+    "foreign_response": "^\\s*cauliflower\\s*$",
+    "ru_response": "^\\s*цветная капуста\\s*$",
+    "sound": "cauliflower",
+    "preview": "cauliflower"
+  },
+  {
+    "foreign_question": "celery",
+    "ru_question": "сельдерей",
+    "foreign_response": "^\\s*celery\\s*$",
+    "ru_response": "^\\s*сельдерей\\s*$",
+    "sound": "celery",
+    "preview": "celery"
+  },
+  {
+    "foreign_question": "cheese",
+    "ru_question": "сыр",
+    "foreign_response": "^\\s*cheese\\s*$",
+    "ru_response": "^\\s*сыр\\s*$",
+    "sound": "cheese",
+    "preview": "cheese"
+  },
+  {
+    "foreign_question": "cherry",
+    "ru_question": "вишня",
+    "foreign_response": "^\\s*cherry\\s*$",
+    "ru_response": "^\\s*вишня\\s*$",
+    "sound": "cherry",
+    "preview": "cherry"
+  },
+  {
+    "foreign_question": "chicken",
+    "ru_question": "курица",
+    "foreign_response": "^\\s*chicken\\s*$",
+    "ru_response": "^\\s*курица\\s*$",
+    "sound": "chicken",
+    "preview": "chicken"
+  },
+  {
+    "foreign_question": "chips",
+    "ru_question": "жареная картошка",
+    "foreign_response": "^\\s*chips\\s*$",
+    "ru_response": "^\\s*(жареная картошка|жареный картофель)\\s*$",
+    "sound": "chips",
+    "preview": "chips"
+  },
+  {
+    "foreign_question": "chocolate cake",
+    "ru_question": "шоколадный торт",
+    "foreign_response": "^\\s*chocolate cake\\s*$",
+    "ru_response": "^\\s*шоколадный торт\\s*$",
+    "sound": "chocolate_cake",
+    "preview": "chocolate_cake"
+  },
+  {
+    "foreign_question": "coconut",
+    "ru_question": "кокос",
+    "foreign_response": "^\\s*coconut\\s*$",
+    "ru_response": "^\\s*кокос\\s*$",
+    "sound": "coconut",
+    "preview": "coconut"
+  },
+  {
+    "foreign_question": "coffee",
+    "ru_question": "кофе",
+    "foreign_response": "^\\s*coffee\\s*$",
+    "ru_response": "^\\s*кофе\\s*$",
+    "sound": "coffee",
+    "preview": "coffee"
+  },
+  {
+    "foreign_question": "corn",
+    "ru_question": "кукуруза",
+    "foreign_response": "^\\s*corn\\s*$",
+    "ru_response": "^\\s*кукуруза\\s*$",
+    "sound": "corn",
+    "preview": "corn"
+  },
+  {
+    "foreign_question": "cucumber",
+    "ru_question": "огурец",
+    "foreign_response": "^\\s*cucumber\\s*$",
+    "ru_response": "^\\s*огурец\\s*$",
+    "sound": "cucumber",
+    "preview": "cucumber"
+  },
+  {
+    "foreign_question": "dairy products",
+    "ru_question": "молочная продукция",
+    "foreign_response": "^\\s*dairy( products)?\\s*$",
+    "ru_response": "^\\s*(молочная продукция|молочные продукты|молокопродук(ты|ция))\\s*$",
+    "sound": "dairy_products",
+    "preview": "dairy_products"
+  },
+  {
+    "foreign_question": "dessert",
+    "ru_question": "десерт",
+    "foreign_response": "^\\s*dessert\\s*$",
+    "ru_response": "^\\s*десерт\\s*$",
+    "sound": "dessert",
+    "preview": "dessert"
+  },
+  {
+    "foreign_question": "dill",
+    "ru_question": "укроп",
+    "foreign_response": "^\\s*dill\\s*$",
+    "ru_response": "^\\s*укроп\\s*$",
+    "sound": "dill",
+    "preview": "dill"
+  },
+  {
+    "foreign_question": "dinner",
+    "ru_question": "ужин",
+    "foreign_response": "^\\s*dinner\\s*$",
+    "ru_response": "^\\s*ужин\\s*$",
+    "sound": "dinner",
+    "preview": "dinner"
+  },
+  {
+    "foreign_question": "drink (n)",
+    "ru_question": "напиток",
+    "foreign_response": "^\\s*drink\\s*$",
+    "ru_response": "^\\s*напиток\\s*$",
+    "sound": "drink",
+    "preview": "drink"
+  },
+  {
+    "foreign_question": "eggplant",
+    "ru_question": "баклажан",
+    "foreign_response": "^\\s*eggplant\\s*$",
+    "ru_response": "^\\s*(баклажан|синенький)\\s*$",
+    "sound": "eggplant",
+    "preview": "eggplant"
+  },
+  {
+    "foreign_question": "fig",
+    "ru_question": "инжир",
+    "foreign_response": "^\\s*fig\\s*$",
+    "ru_response": "^\\s*инжир\\s*$",
+    "sound": "fig",
+    "preview": "fig"
+  },
+  {
+    "foreign_question": "fish",
+    "ru_question": "рыба",
+    "foreign_response": "^\\s*fish\\s*$",
+    "ru_response": "^\\s*рыба\\s*$",
+    "sound": "fish",
+    "preview": "fish"
+  },
+  {
+    "foreign_question": "food",
+    "ru_question": "еда",
+    "foreign_response": "^\\s*food\\s*$",
+    "ru_response": "^\\s*еда\\s*$",
+    "sound": "food",
+    "preview": "food"
+  },
+  {
+    "foreign_question": "fruit",
+    "ru_question": "фрукт",
+    "foreign_response": "^\\s*fruit\\s*$",
+    "ru_response": "^\\s*фрукт\\s*$",
+    "sound": "fruit",
+    "preview": "fruit"
+  },
+  {
+    "foreign_question": "grapes",
+    "ru_question": "виноград",
+    "foreign_response": "^\\s*grapes?\\s*$",
+    "ru_response": "^\\s*виноград\\s*$",
+    "sound": "grapes",
+    "preview": "grapes"
+  },
+  {
+    "foreign_question": "green bean",
+    "ru_question": "стручковая фасоль",
+    "foreign_response": "^\\s*green bean\\s*$",
+    "ru_response": "^\\s*(стручковая|зеленая) фасоль\\s*$",
+    "sound": "green_bean",
+    "preview": "green_bean"
+  },
+  {
+    "foreign_question": "have a bite",
+    "ru_question": "перекусить",
+    "foreign_response": "^\\s*have a bite\\s*$",
+    "ru_response": "^\\s*перекусить\\s*$",
+    "sound": "have_a_bite",
+    "preview": "have_a_bite"
+  },
+  {
+    "foreign_question": "ice cream",
+    "ru_question": "морожное",
+    "foreign_response": "^\\s*ice cream\\s*$",
+    "ru_response": "^\\s*морожное\\s*$",
+    "sound": "ice_cream",
+    "preview": "ice_cream"
+  },
+  {
+    "foreign_question": "juice",
+    "ru_question": "сок",
+    "foreign_response": "^\\s*juice\\s*$",
+    "ru_response": "^\\s*сок\\s*$",
+    "sound": "juice",
+    "preview": "juice"
+  },
+  {
+    "foreign_question": "kiwi",
+    "ru_question": "киви",
+    "foreign_response": "^\\s*kiwi\\s*$",
+    "ru_response": "^\\s*киви\\s*$",
+    "sound": "kiwi",
+    "preview": "kiwi"
+  },
+  {
+    "foreign_question": "lemon",
+    "ru_question": "лимон",
+    "foreign_response": "^\\s*lemon\\s*$",
+    "ru_response": "^\\s*лимон\\s*$",
+    "sound": "lemon",
+    "preview": "lemon"
+  },
+  {
+    "foreign_question": "lemon pie",
+    "ru_question": "лимонный пирог",
+    "foreign_response": "^\\s*lemon pie\\s*$",
+    "ru_response": "^\\s*лимонный пирог\\s*$",
+    "sound": "lemon_pie",
+    "preview": "lemon_pie"
+  },
+  {
+    "foreign_question": "lettuce",
+    "ru_question": "салат (овощь)",
+    "foreign_response": "^\\s*lettuce\\s*$",
+    "ru_response": "^\\s*салат\\s*$",
+    "sound": "lettuce",
+    "preview": "lettuce"
+  },
+  {
+    "foreign_question": "lunch",
+    "ru_question": "обед",
+    "foreign_response": "^\\s*lunch\\s*$",
+    "ru_response": "^\\s*обед\\s*$",
+    "sound": "lunch",
+    "preview": "lunch"
+  },
+  {
+    "foreign_question": "lychee",
+    "ru_question": "нефелиум",
+    "foreign_response": "^\\s*lychee\\s*$",
+    "ru_response": "^\\s*нефелиум\\s*$",
+    "sound": "lychee",
+    "preview": "lychee"
+  },
+  {
+    "foreign_question": "mango",
+    "ru_question": "манго",
+    "foreign_response": "^\\s*mango\\s*$",
+    "ru_response": "^\\s*манго\\s*$",
+    "sound": "mango",
+    "preview": "mango"
+  },
+  {
+    "foreign_question": "meat",
+    "ru_question": "мясо",
+    "foreign_response": "^\\s*meat\\s*$",
+    "ru_response": "^\\s*мясо\\s*$",
+    "sound": "meat",
+    "preview": "meat"
+  },
+  {
+    "foreign_question": "milk",
+    "ru_question": "молоко",
+    "foreign_response": "^\\s*milk\\s*$",
+    "ru_response": "^\\s*молоко\\s*$",
+    "sound": "milk",
+    "preview": "milk"
+  },
+  {
+    "foreign_question": "mushroom",
+    "ru_question": "гриб",
+    "foreign_response": "^\\s*mushroom\\s*$",
+    "ru_response": "^\\s*гриб\\s*$",
+    "sound": "mushroom",
+    "preview": "mushroom"
+  },
+  {
+    "foreign_question": "nectarine",
+    "ru_question": "нектарин",
+    "foreign_response": "^\\s*nectarine\\s*$",
+    "ru_response": "^\\s*нектарин\\s*$",
+    "sound": "nectarine",
+    "preview": "nectarine"
+  },
+  {
+    "foreign_question": "onion",
+    "ru_question": "лук",
+    "foreign_response": "^\\s*onion\\s*$",
+    "ru_response": "^\\s*лук\\s*$",
+    "sound": "onion",
+    "preview": "onion"
+  },
+  {
+    "foreign_question": "orange",
+    "ru_question": "апельсин",
+    "foreign_response": "^\\s*orange\\s*$",
+    "ru_response": "^\\s*апельсин\\s*$",
+    "sound": "orange",
+    "preview": "orange"
+  },
+  {
+    "foreign_question": "orange juice",
+    "ru_question": "апельсиновый сок",
+    "foreign_response": "^\\s*orange juice\\s*$",
+    "ru_response": "^\\s*апельсиновый сок\\s*$",
+    "sound": "orange_juice",
+    "preview": "orange_juice"
+  },
+  {
+    "foreign_question": "order",
+    "ru_question": "заказ",
+    "foreign_response": "^\\s*order\\s*$",
+    "ru_response": "^\\s*заказ(ывать)?\\s*$",
+    "sound": "order",
+    "preview": "order"
+  },
+  {
+    "foreign_question": "papaya",
+    "ru_question": "папайя",
+    "foreign_response": "^\\s*papaya\\s*$",
+    "ru_response": "^\\s*папайя\\s*$",
+    "sound": "papaya",
+    "preview": "papaya"
+  },
+  {
+    "foreign_question": "parsley",
+    "ru_question": "петрушка",
+    "foreign_response": "^\\s*parsley\\s*$",
+    "ru_response": "^\\s*петрушка\\s*$",
+    "sound": "parsley",
+    "preview": "parsley"
+  },
+  {
+    "foreign_question": "passion fruit",
+    "ru_question": "маракуйя",
+    "foreign_response": "^\\s*passion fruit\\s*$",
+    "ru_response": "^\\s*маракуйя\\s*$",
+    "sound": "passion_fruit",
+    "preview": "passion_fruit"
+  },
+  {
+    "foreign_question": "pasta",
+    "ru_question": "макароны",
+    "foreign_response": "^\\s*pasta\\s*$",
+    "ru_response": "^\\s*(макароны|макаронные изделия)\\s*$",
+    "sound": "pasta",
+    "preview": "pasta"
+  },
+  {
+    "foreign_question": "peach",
+    "ru_question": "персик",
+    "foreign_response": "^\\s*peach\\s*$",
+    "ru_response": "^\\s*персик\\s*$",
+    "sound": "peach",
+    "preview": "peach"
+  },
+  {
+    "foreign_question": "pear",
+    "ru_question": "груша",
+    "foreign_response": "^\\s*pear\\s*$",
+    "ru_response": "^\\s*груша\\s*$",
+    "sound": "pear",
+    "preview": "pear"
+  },
+  {
+    "foreign_question": "peas",
+    "ru_question": "горох",
+    "foreign_response": "^\\s*peas?\\s*$",
+    "ru_response": "^\\s*горох\\s*$",
+    "sound": "peas",
+    "preview": "peas"
+  },
+  {
+    "foreign_question": "pineapple",
+    "ru_question": "ананас",
+    "foreign_response": "^\\s*pineapple\\s*$",
+    "ru_response": "^\\s*ананас\\s*$",
+    "sound": "pineapple",
+    "preview": "pineapple"
+  },
+  {
+    "foreign_question": "plum",
+    "ru_question": "слива",
+    "foreign_response": "^\\s*plum\\s*$",
+    "ru_response": "^\\s*слива\\s*$",
+    "sound": "plum",
+    "preview": "plum"
+  },
+  {
+    "foreign_question": "potato",
+    "ru_question": "картофель",
+    "foreign_response": "^\\s*potato\\s*$",
+    "ru_response": "^\\s*(картофель|картошка)\\s*$",
+    "sound": "potato",
+    "preview": "potato"
+  },
+  {
+    "foreign_question": "pumpkin",
+    "ru_question": "тыква",
+    "foreign_response": "^\\s*pumpkin\\s*$",
+    "ru_response": "^\\s*тыква\\s*$",
+    "sound": "pumpkin",
+    "preview": "pumpkin"
+  },
+  {
+    "foreign_question": "quince",
+    "ru_question": "айва",
+    "foreign_response": "^\\s*quince\\s*$",
+    "ru_response": "^\\s*айва\\s*$",
+    "sound": "quince",
+    "preview": "quince"
+  },
+  {
+    "foreign_question": "radish",
+    "ru_question": "редис",
+    "foreign_response": "^\\s*radish\\s*$",
+    "ru_response": "^\\s*редис(ка)?\\s*$",
+    "sound": "radish",
+    "preview": "radish"
+  },
+  {
+    "foreign_question": "raspberry",
+    "ru_question": "малина",
+    "foreign_response": "^\\s*raspberry\\s*$",
+    "ru_response": "^\\s*малина\\s*$",
+    "sound": "raspberry",
+    "preview": "raspberry"
+  },
+  {
+    "foreign_question": "rice",
+    "ru_question": "рис",
+    "foreign_response": "^\\s*rice\\s*$",
+    "ru_response": "^\\s*рис\\s*$",
+    "sound": "rice",
+    "preview": "rice"
+  },
+  {
+    "foreign_question": "salad",
+    "ru_question": "салат (блюдо)",
+    "foreign_response": "^\\s*salad\\s*$",
+    "ru_response": "^\\s*салат\\s*$",
+    "sound": "salad",
+    "preview": "salad"
+  },
+  {
+    "foreign_question": "salt",
+    "ru_question": "соль",
+    "foreign_response": "^\\s*salt\\s*$",
+    "ru_response": "^\\s*соль\\s*$",
+    "sound": "salt",
+    "preview": "salt"
+  },
+  {
+    "foreign_question": "sandwich",
+    "ru_question": "бутерброд",
+    "foreign_response": "^\\s*sandwich\\s*$",
+    "ru_response": "^\\s*(бутерброд|с[еэ]ндвич)\\s*$",
+    "sound": "sandwich",
+    "preview": "sandwich"
+  },
+  {
+    "foreign_question": "sausage",
+    "ru_question": "сосиска, колбаса",
+    "foreign_response": "^\\s*sausage\\s*$",
+    "ru_response": "^\\s*(сосиска|колбаса)\\s*$",
+    "sound": "sausage",
+    "preview": "sausage"
+  },
+  {
     "foreign_question": "shot",
     "ru_question": "рюмка крепкого напитка или коктейля",
     "foreign_response": "^\\s*shot\\s*$",
     "ru_response": "^\\s*(рюмка крепкого (напитка|коктейля)|шот)\\s*$",
     "sound": "shot",
     "preview": "shot"
+  },
+  {
+    "foreign_question": "soup",
+    "ru_question": "суп",
+    "foreign_response": "^\\s*soup\\s*$",
+    "ru_response": "^\\s*суп\\s*$",
+    "sound": "soup",
+    "preview": "soup"
+  },
+  {
+    "foreign_question": "steak",
+    "ru_question": "стейк, бифштекс",
+    "foreign_response": "^\\s*steak\\s*$",
+    "ru_response": "^\\s*(стейк|бифштекс)\\s*$",
+    "sound": "steak",
+    "preview": "steak"
+  },
+  {
+    "foreign_question": "strawberry",
+    "ru_question": "клубника",
+    "foreign_response": "^\\s*strawberry\\s*$",
+    "ru_response": "^\\s*клубника\\s*$",
+    "sound": "strawberry",
+    "preview": "strawberry"
   },
   {
     "foreign_question": "sugar",
@@ -16,11 +672,67 @@
     "preview": "sugar"
   },
   {
+    "foreign_question": "sweet potato",
+    "ru_question": "сладкий картофель, батат",
+    "foreign_response": "^\\s*sweet potato\\s*$",
+    "ru_response": "^\\s*(сладкий картофель|сладкая картошка|батат)\\s*$",
+    "sound": "sweet_potato",
+    "preview": "sweet_potato"
+  },
+  {
     "foreign_question": "tea",
     "ru_question": "чай",
     "foreign_response": "^\\s*tea\\s*$",
     "ru_response": "^\\s*чай\\s*$",
     "sound": "tea",
     "preview": "tea"
+  },
+  {
+    "foreign_question": "tomato",
+    "ru_question": "помидор, томат",
+    "foreign_response": "^\\s*tomato\\s*$",
+    "ru_response": "^\\s*(помидор|томат)\\s*$",
+    "sound": "tomato",
+    "preview": "tomato"
+  },
+  {
+    "foreign_question": "vegetables",
+    "ru_question": "овощи",
+    "foreign_response": "^\\s*vegetables\\s*$",
+    "ru_response": "^\\s*овощи\\s*$",
+    "sound": "vegetables",
+    "preview": "vegetables"
+  },
+  {
+    "foreign_question": "waiter",
+    "ru_question": "официант",
+    "foreign_response": "^\\s*waiter\\s*$",
+    "ru_response": "^\\s*официант\\s*$",
+    "sound": "waiter",
+    "preview": "waiter"
+  },
+  {
+    "foreign_question": "water",
+    "ru_question": "вода",
+    "foreign_response": "^\\s*water\\s*$",
+    "ru_response": "^\\s*вода\\s*$",
+    "sound": "water",
+    "preview": "water"
+  },
+  {
+    "foreign_question": "watermelon",
+    "ru_question": "арбуз",
+    "foreign_response": "^\\s*watermelon\\s*$",
+    "ru_response": "^\\s*арбуз\\s*$",
+    "sound": "watermelon",
+    "preview": "watermelon"
+  },
+  {
+    "foreign_question": "zucchini",
+    "ru_question": "кабачок, цукини",
+    "foreign_response": "^\\s*zucchini\\s*$",
+    "ru_response": "^\\s*(кабачок|цукини)\\s*$",
+    "sound": "zucchini",
+    "preview": "zucchini"
   }
 ]

@@ -70,5 +70,13 @@
     "ru_response": "^\\s*сколько\\?\\s*$",
     "sound": "how_many-",
     "preview": "how_many-"
+  },
+  {
+    "foreign_question": "What else?",
+    "ru_question": "Что еще?",
+    "foreign_response": "^\\s*What else\\?\\s*$",
+    "ru_response": "^\\s*Что еще\\?\\s*$",
+    "sound": "what_else-",
+    "preview": "what_else-"
   }
 ]

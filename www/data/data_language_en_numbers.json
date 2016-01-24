@@ -1,18 +1,482 @@
 [
   {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
+    "foreign_question": "number",
+    "ru_question": "номер",
+    "foreign_response": "^\\s*number\\s*$",
+    "ru_response": "^\\s*номер\\s*$",
+    "sound": "number",
+    "preview": "number"
   },
   {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
+    "foreign_question": "No.",
+    "ru_question": "номер (сокращенно)",
+    "foreign_response": "^\\s*No\\.\\s*$",
+    "ru_response": "^\\s*номер\\s*$",
+    "sound": "number",
+    "preview": "number"
+  },
+  {
+    "foreign_question": "zero",
+    "ru_question": "0 (полный вариант)",
+    "foreign_response": "^\\s*zero\\s*$",
+    "ru_response": "^\\s*(0|н[уо]ль)\\s*$",
+    "sound": "zero",
+    "preview": "zero"
+  },
+  {
+    "foreign_question": "ou",
+    "ru_question": "0 (сокращенный вариант)",
+    "foreign_response": "^\\s*ou\\s*$",
+    "ru_response": "^\\s*(0|н[уо]ль)\\s*$",
+    "sound": "ou",
+    "preview": "ou"
+  },
+  {
+    "foreign_question": "one",
+    "ru_question": "1",
+    "foreign_response": "^\\s*one\\s*$",
+    "ru_response": "^\\s*(1|один)\\s*$",
+    "sound": "one",
+    "preview": "one"
+  },
+  {
+    "foreign_question": "two",
+    "ru_question": "2",
+    "foreign_response": "^\\s*two\\s*$",
+    "ru_response": "^\\s*(2|два)\\s*$",
+    "sound": "two",
+    "preview": "two"
+  },
+  {
+    "foreign_question": "three",
+    "ru_question": "3",
+    "foreign_response": "^\\s*three\\s*$",
+    "ru_response": "^\\s*(3|три)\\s*$",
+    "sound": "three",
+    "preview": "three"
+  },
+  {
+    "foreign_question": "four",
+    "ru_question": "4",
+    "foreign_response": "^\\s*four\\s*$",
+    "ru_response": "^\\s*(4|четыре)\\s*$",
+    "sound": "four",
+    "preview": "four"
+  },
+  {
+    "foreign_question": "five",
+    "ru_question": "5",
+    "foreign_response": "^\\s*five\\s*$",
+    "ru_response": "^\\s*(5|пять)\\s*$",
+    "sound": "five",
+    "preview": "five"
+  },
+  {
+    "foreign_question": "six",
+    "ru_question": "6",
+    "foreign_response": "^\\s*six\\s*$",
+    "ru_response": "^\\s*(6|шесть)\\s*$",
+    "sound": "six",
+    "preview": "six"
+  },
+  {
+    "foreign_question": "seven",
+    "ru_question": "7",
+    "foreign_response": "^\\s*seven\\s*$",
+    "ru_response": "^\\s*(7|семь)\\s*$",
+    "sound": "seven",
+    "preview": "seven"
+  },
+  {
+    "foreign_question": "eight",
+    "ru_question": "8",
+    "foreign_response": "^\\s*eight\\s*$",
+    "ru_response": "^\\s*(8|восемь)\\s*$",
+    "sound": "eight",
+    "preview": "eight"
+  },
+  {
+    "foreign_question": "nine",
+    "ru_question": "9",
+    "foreign_response": "^\\s*nine\\s*$",
+    "ru_response": "^\\s*(9|девять)\\s*$",
+    "sound": "nine",
+    "preview": "nine"
+  },
+  {
+    "foreign_question": "ten",
+    "ru_question": "10",
+    "foreign_response": "^\\s*ten\\s*$",
+    "ru_response": "^\\s*(10|десять)\\s*$",
+    "sound": "ten",
+    "preview": "ten"
+  },
+  {
+    "foreign_question": "eleven",
+    "ru_question": "11",
+    "foreign_response": "^\\s*eleven\\s*$",
+    "ru_response": "^\\s*(11|одиннадцать)\\s*$",
+    "sound": "eleven",
+    "preview": "eleven"
+  },
+  {
+    "foreign_question": "twelve",
+    "ru_question": "12",
+    "foreign_response": "^\\s*twelve\\s*$",
+    "ru_response": "^\\s*(12|двенадцать)\\s*$",
+    "sound": "twelve",
+    "preview": "twelve"
+  },
+  {
+    "foreign_question": "thirteen",
+    "ru_question": "13",
+    "foreign_response": "^\\s*thirteen\\s*$",
+    "ru_response": "^\\s*(13|тринадцать)\\s*$",
+    "sound": "thirteen",
+    "preview": "thirteen"
+  },
+  {
+    "foreign_question": "fourteen",
+    "ru_question": "14",
+    "foreign_response": "^\\s*fourteen\\s*$",
+    "ru_response": "^\\s*(14|четырнадцать)\\s*$",
+    "sound": "fourteen",
+    "preview": "fourteen"
+  },
+  {
+    "foreign_question": "fifteen",
+    "ru_question": "15",
+    "foreign_response": "^\\s*fifteen\\s*$",
+    "ru_response": "^\\s*(15|пятнадцать)\\s*$",
+    "sound": "fifteen",
+    "preview": "fifteen"
+  },
+  {
+    "foreign_question": "sixteen",
+    "ru_question": "16",
+    "foreign_response": "^\\s*sixteen\\s*$",
+    "ru_response": "^\\s*(16|шестнадцать)\\s*$",
+    "sound": "sixteen",
+    "preview": "sixteen"
+  },
+  {
+    "foreign_question": "seventeen",
+    "ru_question": "17",
+    "foreign_response": "^\\s*seventeen\\s*$",
+    "ru_response": "^\\s*(17|семнадцать)\\s*$",
+    "sound": "seventeen",
+    "preview": "seventeen"
+  },
+  {
+    "foreign_question": "eighteen",
+    "ru_question": "18",
+    "foreign_response": "^\\s*eighteen\\s*$",
+    "ru_response": "^\\s*(18|восемнадцать)\\s*$",
+    "sound": "eighteen",
+    "preview": "eighteen"
+  },
+  {
+    "foreign_question": "nineteen",
+    "ru_question": "19",
+    "foreign_response": "^\\s*nineteen\\s*$",
+    "ru_response": "^\\s*(19|девятнадцать)\\s*$",
+    "sound": "nineteen",
+    "preview": "nineteen"
+  },
+  {
+    "foreign_question": "twenty",
+    "ru_question": "20",
+    "foreign_response": "^\\s*twenty\\s*$",
+    "ru_response": "^\\s*(20|двадцать)\\s*$",
+    "sound": "twenty",
+    "preview": "twenty"
+  },
+  {
+    "foreign_question": "thirty",
+    "ru_question": "30",
+    "foreign_response": "^\\s*thirty\\s*$",
+    "ru_response": "^\\s*(30|тридцать)\\s*$",
+    "sound": "thirty",
+    "preview": "thirty"
+  },
+  {
+    "foreign_question": "forty",
+    "ru_question": "40",
+    "foreign_response": "^\\s*forty\\s*$",
+    "ru_response": "^\\s*(40|сорок)\\s*$",
+    "sound": "forty",
+    "preview": "forty"
+  },
+  {
+    "foreign_question": "fifty",
+    "ru_question": "50",
+    "foreign_response": "^\\s*fifty\\s*$",
+    "ru_response": "^\\s*(50|пятьдесят)\\s*$",
+    "sound": "fifty",
+    "preview": "fifty"
+  },
+  {
+    "foreign_question": "sixty",
+    "ru_question": "60",
+    "foreign_response": "^\\s*sixty\\s*$",
+    "ru_response": "^\\s*(60|шестьдесят)\\s*$",
+    "sound": "sixty",
+    "preview": "sixty"
+  },
+  {
+    "foreign_question": "seventy",
+    "ru_question": "70",
+    "foreign_response": "^\\s*seventy\\s*$",
+    "ru_response": "^\\s*(70|семьдесят)\\s*$",
+    "sound": "seventy",
+    "preview": "seventy"
+  },
+  {
+    "foreign_question": "eighty",
+    "ru_question": "80",
+    "foreign_response": "^\\s*eighty\\s*$",
+    "ru_response": "^\\s*(80|восемьдесят)\\s*$",
+    "sound": "eighty",
+    "preview": "eighty"
+  },
+  {
+    "foreign_question": "ninty",
+    "ru_question": "90",
+    "foreign_response": "^\\s*ninty\\s*$",
+    "ru_response": "^\\s*(90|девяносто)\\s*$",
+    "sound": "ninty",
+    "preview": "ninty"
+  },
+  {
+    "foreign_question": "one hundred",
+    "ru_question": "100",
+    "foreign_response": "^\\s*one hundred\\s*$",
+    "ru_response": "^\\s*(100|сто)\\s*$",
+    "sound": "one_hundred",
+    "preview": "one_hundred"
+  },
+  {
+    "foreign_question": "one hundred one",
+    "ru_question": "101",
+    "foreign_response": "^\\s*one hundred one\\s*$",
+    "ru_response": "^\\s*(101|сто один)\\s*$",
+    "sound": "one_hundred_one",
+    "preview": "one_hundred_one"
+  },
+  {
+    "foreign_question": "one thousand",
+    "ru_question": "1 000",
+    "foreign_response": "^\\s*one thousand\\s*$",
+    "ru_response": "^\\s*(1 ?000|тысяча)\\s*$",
+    "sound": "one_thousand",
+    "preview": "one_thousand"
+  },
+  {
+    "foreign_question": "one thousand one",
+    "ru_question": "1 001",
+    "foreign_response": "^\\s*one thousand one\\s*$",
+    "ru_response": "^\\s*(1 ?001|тысяча один)\\s*$",
+    "sound": "one_thousand_one",
+    "preview": "one_thousand_one"
+  },
+  {
+    "foreign_question": "ten thousand",
+    "ru_question": "10 000",
+    "foreign_response": "^\\s*ten thousand\\s*$",
+    "ru_response": "^\\s*(10 ?000|десять тысяч)\\s*$",
+    "sound": "ten_thousand",
+    "preview": "ten_thousand"
+  },
+  {
+    "foreign_question": "one hundred thousand",
+    "ru_question": "100 000",
+    "foreign_response": "^\\s*one hundred thousand\\s*$",
+    "ru_response": "^\\s*(100 ?000|сто тысяч)\\s*$",
+    "sound": "one_hundred_thousand",
+    "preview": "one_hundred_thousand"
+  },
+  {
+    "foreign_question": "one million",
+    "ru_question": "1 000 000",
+    "foreign_response": "^\\s*(one )?million\\s*$",
+    "ru_response": "^\\s*(1 ?000 ?000|миллион)\\s*$",
+    "sound": "one_million",
+    "preview": "one_million"
+  },
+  {
+    "foreign_question": "billion",
+    "ru_question": "1 000 000 000",
+    "foreign_response": "^\\s*billion\\s*$",
+    "ru_response": "^\\s*(1 ?000 ?000 ?000|миллиард)\\s*$",
+    "sound": "billion",
+    "preview": "billion"
+  },
+  {
+    "foreign_question": "first",
+    "ru_question": "1-й",
+    "foreign_response": "^\\s*first\\s*$",
+    "ru_response": "^\\s*(1(-?й)?|первый)\\s*$",
+    "sound": "first",
+    "preview": "first"
+  },
+  {
+    "foreign_question": "second",
+    "ru_question": "2-й",
+    "foreign_response": "^\\s*second\\s*$",
+    "ru_response": "^\\s*(2(-?й)?|второй)\\s*$",
+    "sound": "second",
+    "preview": "second"
+  },
+  {
+    "foreign_question": "third",
+    "ru_question": "3-й",
+    "foreign_response": "^\\s*third\\s*$",
+    "ru_response": "^\\s*(3(-?й)?|третий)\\s*$",
+    "sound": "third",
+    "preview": "third"
+  },
+  {
+    "foreign_question": "fourth",
+    "ru_question": "4-й",
+    "foreign_response": "^\\s*fourth\\s*$",
+    "ru_response": "^\\s*(4(-?й)?|четвертый)\\s*$",
+    "sound": "fourth",
+    "preview": "fourth"
+  },
+  {
+    "foreign_question": "fifth",
+    "ru_question": "5-й",
+    "foreign_response": "^\\s*fifth\\s*$",
+    "ru_response": "^\\s*(5(-?й)?|пятый)\\s*$",
+    "sound": "fifth",
+    "preview": "fifth"
+  },
+  {
+    "foreign_question": "sixth",
+    "ru_question": "6-й",
+    "foreign_response": "^\\s*sixth\\s*$",
+    "ru_response": "^\\s*(6(-?й)?|шестой)\\s*$",
+    "sound": "sixth",
+    "preview": "sixth"
+  },
+  {
+    "foreign_question": "seventh",
+    "ru_question": "7-й",
+    "foreign_response": "^\\s*seventh\\s*$",
+    "ru_response": "^\\s*(7(-?й)?|седьмой)\\s*$",
+    "sound": "seventh",
+    "preview": "seventh"
+  },
+  {
+    "foreign_question": "eighth",
+    "ru_question": "8-й",
+    "foreign_response": "^\\s*eighth\\s*$",
+    "ru_response": "^\\s*(8(-?й)?|восьмой)\\s*$",
+    "sound": "eighth",
+    "preview": "eighth"
+  },
+  {
+    "foreign_question": "ninth",
+    "ru_question": "9-й",
+    "foreign_response": "^\\s*ninth\\s*$",
+    "ru_response": "^\\s*(9(-?й)?|девятый)\\s*$",
+    "sound": "ninth",
+    "preview": "ninth"
+  },
+  {
+    "foreign_question": "tenth",
+    "ru_question": "10-й",
+    "foreign_response": "^\\s*tenth\\s*$",
+    "ru_response": "^\\s*(10(-?й)?|десятый)\\s*$",
+    "sound": "tenth",
+    "preview": "tenth"
+  },
+  {
+    "foreign_question": "eleventh",
+    "ru_question": "11-й",
+    "foreign_response": "^\\s*eleventh\\s*$",
+    "ru_response": "^\\s*(11(-?й)?|одиннадцатый)\\s*$",
+    "sound": "eleventh",
+    "preview": "eleventh"
+  },
+  {
+    "foreign_question": "twelfth",
+    "ru_question": "12-й",
+    "foreign_response": "^\\s*twelfth\\s*$",
+    "ru_response": "^\\s*(12(-?й)?|двенадцатый)\\s*$",
+    "sound": "twelfth",
+    "preview": "twelfth"
+  },
+  {
+    "foreign_question": "thirteenth",
+    "ru_question": "13-й",
+    "foreign_response": "^\\s*thirteenth\\s*$",
+    "ru_response": "^\\s*(13(-?й)?|тринадцатый)\\s*$",
+    "sound": "thirteenth",
+    "preview": "thirteenth"
+  },
+  {
+    "foreign_question": "fourteenth",
+    "ru_question": "14-й",
+    "foreign_response": "^\\s*fourteenth\\s*$",
+    "ru_response": "^\\s*(14(-?й)?|четырнадцатый)\\s*$",
+    "sound": "fourteenth",
+    "preview": "fourteenth"
+  },
+  {
+    "foreign_question": "fifteenth",
+    "ru_question": "15-й",
+    "foreign_response": "^\\s*fifteenth\\s*$",
+    "ru_response": "^\\s*(15(-?й)?|пятнадцатый)\\s*$",
+    "sound": "fifteenth",
+    "preview": "fifteenth"
+  },
+  {
+    "foreign_question": "sixteenth",
+    "ru_question": "16-й",
+    "foreign_response": "^\\s*sixteenth\\s*$",
+    "ru_response": "^\\s*(16(-?й)?|шестнадцатый)\\s*$",
+    "sound": "sixteenth",
+    "preview": "sixteenth"
+  },
+  {
+    "foreign_question": "seventeenth",
+    "ru_question": "17-й",
+    "foreign_response": "^\\s*seventeenth\\s*$",
+    "ru_response": "^\\s*(17(-?й)?|семнадцатый)\\s*$",
+    "sound": "seventeenth",
+    "preview": "seventeenth"
+  },
+  {
+    "foreign_question": "eighteenth",
+    "ru_question": "18-й",
+    "foreign_response": "^\\s*eighteenth\\s*$",
+    "ru_response": "^\\s*(18(-?й)?|восемнадцатый)\\s*$",
+    "sound": "eighteenth",
+    "preview": "eighteenth"
+  },
+  {
+    "foreign_question": "nineteenth",
+    "ru_question": "19-й",
+    "foreign_response": "^\\s*nineteenth\\s*$",
+    "ru_response": "^\\s*(19(-?й)?|девятнадцатый)\\s*$",
+    "sound": "nineteenth",
+    "preview": "nineteenth"
+  },
+  {
+    "foreign_question": "twentieth",
+    "ru_question": "20-й",
+    "foreign_response": "^\\s*twentieth\\s*$",
+    "ru_response": "^\\s*(20(-?й)?|двадцатый)\\s*$",
+    "sound": "twentieth",
+    "preview": "twentieth"
+  },
+  {
+    "foreign_question": "hundredth",
+    "ru_question": "100-й",
+    "foreign_response": "^\\s*hundredth\\s*$",
+    "ru_response": "^\\s*(100(-?й)?|сотый)\\s*$",
+    "sound": "hundredth",
+    "preview": "hundredth"
   }
 ]

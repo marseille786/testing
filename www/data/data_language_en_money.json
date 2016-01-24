@@ -1,0 +1,82 @@
+[
+  {
+    "foreign_question": "coins",
+    "ru_question": "монеты",
+    "foreign_response": "^\\s*coins\\s*$",
+    "ru_response": "^\\s*монеты\\s*$",
+    "sound": "coins",
+    "preview": "coins"
+  },
+  {
+    "foreign_question": "credit card",
+    "ru_question": "кредитная карта",
+    "foreign_response": "^\\s*credit card\\s*$",
+    "ru_response": "^\\s*кредитная карт(а|очка)\\s*$",
+    "sound": "credit_card",
+    "preview": "credit_card"
+  },
+  {
+    "foreign_question": "discount",
+    "ru_question": "скидка",
+    "foreign_response": "^\\s*discount\\s*$",
+    "ru_response": "^\\s*(скидка|дисконт)\\s*$",
+    "sound": "discount",
+    "preview": "discount"
+  },
+  {
+    "foreign_question": "dollar",
+    "ru_question": "доллар",
+    "foreign_response": "^\\s*dollar\\s*$",
+    "ru_response": "^\\s*доллар\\s*$",
+    "sound": "dollar",
+    "preview": "dollar"
+  },
+  {
+    "foreign_question": "gold",
+    "ru_question": "золото",
+    "foreign_response": "^\\s*gold\\s*$",
+    "ru_response": "^\\s*(золото|золотой)\\s*$",
+    "sound": "gold",
+    "preview": "gold"
+  },
+  {
+    "foreign_question": "jewel",
+    "ru_question": "драгоценный камень",
+    "foreign_response": "^\\s*jewel\\s*$",
+    "ru_response": "^\\s*драгоценный камень\\s*$",
+    "sound": "jewel",
+    "preview": "jewel"
+  },
+  {
+    "foreign_question": "loan",
+    "ru_question": "заем, кредит",
+    "foreign_response": "^\\s*loan\\s*$",
+    "ru_response": "^\\s*(заем|кредит)\\s*$",
+    "sound": "loan",
+    "preview": "loan"
+  },
+  {
+    "foreign_question": "money",
+    "ru_question": "деньги",
+    "foreign_response": "^\\s*money\\s*$",
+    "ru_response": "^\\s*деньги\\s*$",
+    "sound": "money",
+    "preview": "money"
+  },
+  {
+    "foreign_question": "pence",
+    "ru_question": "пенс, пенни",
+    "foreign_response": "^\\s*pence\\s*$",
+    "ru_response": "^\\s*(пенс|пенни)\\s*$",
+    "sound": "pence",
+    "preview": "pence"
+  },
+  {
+    "foreign_question": "pound",
+    "ru_question": "фунт стерлингов",
+    "foreign_response": "^\\s*pound\\s*$",
+    "ru_response": "^\\s*фунт( стерлингов)?\\s*$",
+    "sound": "pound",
+    "preview": "pound"
+  }
+]

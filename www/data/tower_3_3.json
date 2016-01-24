@@ -65,9 +65,9 @@
   },
   {
     "foreign_question": "game",
-    "ru_question": "игра, игровой",
+    "ru_question": "игра",
     "foreign_response": "^\\s*game\\s*$",
-    "ru_response": "^\\s*(игра|игровой)\\s*$",
+    "ru_response": "^\\s*игра\\s*$",
     "sound": "game",
     "preview": "game"
   },

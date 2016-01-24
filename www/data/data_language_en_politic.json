@@ -1,0 +1,42 @@
+[
+  {
+    "foreign_question": "innovation",
+    "ru_question": "инновация",
+    "foreign_response": "^\\s*innovation\\s*$",
+    "ru_response": "^\\s*инновация\\s*$",
+    "sound": "innovation",
+    "preview": "innovation"
+  },
+  {
+    "foreign_question": "modernization",
+    "ru_question": "модернизация",
+    "foreign_response": "^\\s*modernization\\s*$",
+    "ru_response": "^\\s*модернизация\\s*$",
+    "sound": "modernization",
+    "preview": "modernization"
+  },
+  {
+    "foreign_question": "politician",
+    "ru_question": "политик",
+    "foreign_response": "^\\s*politician\\s*$",
+    "ru_response": "^\\s*политик\\s*$",
+    "sound": "politician",
+    "preview": "politician"
+  },
+  {
+    "foreign_question": "provocation",
+    "ru_question": "провокация",
+    "foreign_response": "^\\s*provocation\\s*$",
+    "ru_response": "^\\s*провокация\\s*$",
+    "sound": "provocation",
+    "preview": "provocation"
+  },
+  {
+    "foreign_question": "revolution",
+    "ru_question": "революция",
+    "foreign_response": "^\\s*revolution\\s*$",
+    "ru_response": "^\\s*революция\\s*$",
+    "sound": "revolution",
+    "preview": "revolution"
+  }
+]

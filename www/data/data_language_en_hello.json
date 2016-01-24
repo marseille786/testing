@@ -24,6 +24,14 @@
     "preview": "any_questions-"
   },
   {
+    "foreign_question": "believe it or not",
+    "ru_question": "хочешь верь, хочешь нет",
+    "foreign_response": "^\\s*believe it or not\\s*$",
+    "ru_response": "^\\s*хочешь верь, хочешь нет\\s*$",
+    "sound": "believe_it_or_not",
+    "preview": "believe_it_or_not"
+  },
+  {
     "foreign_question": "best friend",
     "ru_question": "лучший друг",
     "foreign_response": "^\\s*best friend\\s*$",
@@ -56,6 +64,14 @@
     "preview": "bye"
   },
   {
+    "foreign_question": "Can you pass me that?",
+    "ru_question": "Можете ли вы передать мне это?",
+    "foreign_response": "^\\s*Can you pass me that\\?\\s*$",
+    "ru_response": "^\\s*Можете( ли)?( вы)? передать мне это\\?\\s*$",
+    "sound": "can_you_pass_me_that-",
+    "preview": "can_you_pass_me_that-"
+  },
+  {
     "foreign_question": "come in",
     "ru_question": "заходи",
     "foreign_response": "^\\s*come in\\s*$",
@@ -70,6 +86,14 @@
     "ru_response": "^\\s*дорогой\\s*$",
     "sound": "dear",
     "preview": "dear"
+  },
+  {
+    "foreign_question": "Excuse me.",
+    "ru_question": "Извините. (при обращении)",
+    "foreign_response": "^\\s*Excuse me\\.?\\s*$",
+    "ru_response": "^\\s*Извините\\.?\\s*$",
+    "sound": "excuse_me",
+    "preview": "excuse_me"
   },
   {
     "foreign_question": "farewell",
@@ -120,6 +144,14 @@
     "preview": "good_evening"
   },
   {
+    "foreign_question": "Good for you!",
+    "ru_question": "Повезло тебе!, Везет тебе!",
+    "foreign_response": "^\\s*Good for you\\!?\\s*$",
+    "ru_response": "^\\s*(Повезло тебе\\!?|Везет тебе\\!?)\\s*$",
+    "sound": "good_for_you!",
+    "preview": "good_for_you!"
+  },
+  {
     "foreign_question": "good morning",
     "ru_question": "доброе утро",
     "foreign_response": "^\\s*good morning\\s*$",
@@ -152,6 +184,22 @@
     "preview": "goodbye,_see_you_soon"
   },
   {
+    "foreign_question": "greetings",
+    "ru_question": "привет (передавать привет кому-то)",
+    "foreign_response": "^\\s*greetings\\s*$",
+    "ru_response": "^\\s*привет\\s*$",
+    "sound": "greetings",
+    "preview": "greetings"
+  },
+  {
+    "foreign_question": "Guess what?",
+    "ru_question": "Угадай, что?",
+    "foreign_response": "^\\s*Guess what\\?\\s*$",
+    "ru_response": "^\\s*Угадай\\,? что\\?\\s*$",
+    "sound": "guess_what-",
+    "preview": "guess_what-"
+  },
+  {
     "foreign_question": "hello",
     "ru_question": "привет (более официальный вариант)",
     "foreign_response": "^\\s*hello\\s*$",
@@ -176,6 +224,14 @@
     "preview": "how_are_you-"
   },
   {
+    "foreign_question": "How about...?",
+    "ru_question": "Как на счет...?",
+    "foreign_response": "^\\s*How (about|often)( ?\\.\\.\\.)?\\?\\s*$",
+    "ru_response": "^\\s*Как на счет( ?\\.\\.\\.)?\\?\\s*$",
+    "sound": "how_about-",
+    "preview": "how_about-"
+  },
+  {
     "foreign_question": "How old are you?",
     "ru_question": "Сколько тебе лет?",
     "foreign_response": "^\\s*How old are you\\?\\s*$",
@@ -184,12 +240,28 @@
     "preview": "how_old_are_you-"
   },
   {
+    "foreign_question": "I don't think so.",
+    "ru_question": "Я не думаю, что так.",
+    "foreign_response": "^\\s*I don\\'t think so\\.?\\s*$",
+    "ru_response": "^\\s*Я не думаю\\,? что так\\.?\\s*$",
+    "sound": "i_don't_think_so",
+    "preview": "i_don't_think_so"
+  },
+  {
     "foreign_question": "I mean",
     "ru_question": "я имею ввиду",
     "foreign_response": "^\\s*I mean\\s*$",
     "ru_response": "^\\s*я имею ввиду\\s*$",
     "sound": "i_mean",
     "preview": "i_mean"
+  },
+  {
+    "foreign_question": "I guess so.",
+    "ru_question": "Я полагаю, что так.",
+    "foreign_response": "^\\s*I guess so\\.?\\s*$",
+    "ru_response": "^\\s*(Я )?(полагаю|думаю|считаю),? что (так|да)\\.?\\s*$",
+    "sound": "i_guess_so",
+    "preview": "i_guess_so"
   },
   {
     "foreign_question": "I'm five years old.",
@@ -224,6 +296,22 @@
     "preview": "i'm_sorry"
   },
   {
+    "foreign_question": "in that case",
+    "ru_question": "в таком случае",
+    "foreign_response": "^\\s*in that case\\s*$",
+    "ru_response": "^\\s*в таком случае\\s*$",
+    "sound": "in_that_case",
+    "preview": "in_that_case"
+  },
+  {
+    "foreign_question": "it comes",
+    "ru_question": "бывают, бывает",
+    "foreign_response": "^\\s*it comes\\s*$",
+    "ru_response": "^\\s*(бывают|бывает|случается|случаются)\\s*$",
+    "sound": "it_comes",
+    "preview": "it_comes"
+  },
+  {
     "foreign_question": "let it be",
     "ru_question": "пусть будет (как-то)",
     "foreign_response": "^\\s*let it be\\s*$",
@@ -232,12 +320,44 @@
     "preview": "let it be"
   },
   {
+    "foreign_question": "Let me know.",
+    "ru_question": "Дай мне знать.",
+    "foreign_response": "^\\s*Let me know\\.?\\s*$",
+    "ru_response": "^\\s*Дай(те)? (мне )?знать\\.?\\s*$",
+    "sound": "let_me_know",
+    "preview": "let_me_know"
+  },
+  {
     "foreign_question": "like",
     "ru_question": "как, как бы (синоним as).",
     "foreign_response": "^\\s*like\\s*$",
     "ru_response": "^\\s*как( бы)?\\s*$",
     "sound": "like",
     "preview": "like_as"
+  },
+  {
+    "foreign_question": "Long time no see!",
+    "ru_question": "Давно не виделись!",
+    "foreign_response": "^\\s*Long time no see\\!?\\s*$",
+    "ru_response": "^\\s*Давно не виделись\\!?\\s*$",
+    "sound": "long_time_no_see!",
+    "preview": "long_time_no_see!"
+  },
+  {
+    "foreign_question": "Looks like it.",
+    "ru_question": "Похоже на то.",
+    "foreign_response": "^\\s*Looks like (it|that)\\.?\\s*$",
+    "ru_response": "^\\s*Похоже на э?то\\.?\\s*$",
+    "sound": "looks_like_it",
+    "preview": "looks_like_it"
+  },
+  {
+    "foreign_question": "out of the question",
+    "ru_question": "не может быть и речи, без вопросов",
+    "foreign_response": "^\\s*out of the question\\s*$",
+    "ru_response": "^\\s*(не может быть и речи|без вопросов)\\s*$",
+    "sound": "out_of_the_question",
+    "preview": "out_of_the_question"
   },
   {
     "foreign_question": "meeting",
@@ -270,6 +390,14 @@
     "ru_response": "^\\s*приятно познакомиться\\s*$",
     "sound": "nice_to_meet_you",
     "preview": "nice_to_meet_you"
+  },
+  {
+    "foreign_question": "No problem.",
+    "ru_question": "Нет проблем.",
+    "foreign_response": "^\\s*No problem\\.?\\s*$",
+    "ru_response": "^\\s*Нет проблем\\.?\\s*$",
+    "sound": "no_problem",
+    "preview": "no_problem"
   },
   {
     "foreign_question": "ok",
@@ -360,6 +488,14 @@
     "preview": "take_care"
   },
   {
+    "foreign_question": "Tell me about it!",
+    "ru_question": "Расскажи мне об этом!",
+    "foreign_response": "^\\s*Tell me about (it|that)\\!?\\s*$",
+    "ru_response": "^\\s*Расскажи мне об этом\\!?\\s*$",
+    "sound": "tell_me_about_it!",
+    "preview": "tell_me_about_it!"
+  },
+  {
     "foreign_question": "thank you",
     "ru_question": "спасибо (более полный вариант)",
     "foreign_response": "^\\s*thank you\\s*$",
@@ -374,6 +510,14 @@
     "ru_response": "^\\s*спасибо\\s*$",
     "sound": "thanks",
     "preview": "thanks"
+  },
+  {
+    "foreign_question": "That sounds good.",
+    "ru_question": "Это звучит неплохо.",
+    "foreign_response": "^\\s*That sounds good\\.?\\s*$",
+    "ru_response": "^\\s*(Это )?звучит (неплохо|хорошо)\\.?\\s*$",
+    "sound": "that_sounds_good",
+    "preview": "that_sounds_good"
   },
   {
     "foreign_question": "That's a pity!",
@@ -440,6 +584,14 @@
     "preview": "what_day_is_it_today-"
   },
   {
+    "foreign_question": "What now?",
+    "ru_question": "Что теперь?",
+    "foreign_response": "^\\s*What now\\?\\s*$",
+    "ru_response": "^\\s*Что (теперь|сейчас)?\\s*$",
+    "sound": "what_now-",
+    "preview": "what_now-"
+  },
+  {
     "foreign_question": "What's this?",
     "ru_question": "Что это?",
     "foreign_response": "^\\s*What(\\'| i)s (this|that)\\?\\s*$",
@@ -480,11 +632,35 @@
     "preview": "where_are_you_from-"
   },
   {
+    "foreign_question": "Why don't you...?",
+    "ru_question": "Почему бы вам не?",
+    "foreign_response": "^\\s*Why don\\'t you( ?\\.\\.\\.)?\\?\\s*$",
+    "ru_response": "^\\s*Почему бы вам не( ?\\.\\.\\.)?\\?\\s*$",
+    "sound": "why_don't_you-",
+    "preview": "why_don't_you-"
+  },
+  {
     "foreign_question": "you know",
     "ru_question": "вы знаете, ты знаешь",
     "foreign_response": "^\\s*you know\\s*$",
     "ru_response": "^\\s*(вы знаете|ты знаешь)\\s*$",
     "sound": "you_know",
     "preview": "you_know"
+  },
+  {
+    "foreign_question": "You never know!",
+    "ru_question": "Ты никогда не узнаешь!",
+    "foreign_response": "^\\s*You never know\\!?\\s*$",
+    "ru_response": "^\\s*Ты никогда не узнаешь\\!?\\s*$",
+    "sound": "you_never_know!",
+    "preview": "you_never_know!"
+  },
+  {
+    "foreign_question": "You're kidding!",
+    "ru_question": "Ты шутишь!",
+    "foreign_response": "^\\s*You('| a)re kidding\\!?\\s*$",
+    "ru_response": "^\\s*Ты шутишь\\!?\\s*$",
+    "sound": "you're_kidding!",
+    "preview": "you're_kidding!"
   }
 ]

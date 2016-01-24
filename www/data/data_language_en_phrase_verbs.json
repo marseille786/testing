@@ -64,6 +64,14 @@
     "preview": "fall_in_love"
   },
   {
+    "foreign_question": "fall anxious",
+    "ru_question": "встревожиться, обеспокоиться",
+    "foreign_response": "^\\s*fall anxious\\s*$",
+    "ru_response": "^\\s*(встревожиться|обеспокоиться)\\s*$",
+    "sound": "fall_anxious",
+    "preview": "fall_anxious"
+  },
+  {
     "foreign_question": "get away",
     "ru_question": "отстать, отделаться",
     "foreign_response": "^\\s*get away\\s*$",
@@ -78,6 +86,14 @@
     "ru_response": "^\\s*войти\\s*$",
     "sound": "get_in",
     "preview": "get_in"
+  },
+  {
+    "foreign_question": "get lost",
+    "ru_question": "теряться, затеряться",
+    "foreign_response": "^\\s*get lost\\s*$",
+    "ru_response": "^\\s*(теряться|затеряться)\\s*$",
+    "sound": "get_lost",
+    "preview": "get_lost"
   },
   {
     "foreign_question": "get up",
@@ -166,6 +182,22 @@
     "ru_response": "^\\s*подниматься\\s*$",
     "sound": "go_up",
     "preview": "go_up"
+  },
+  {
+    "foreign_question": "go wild",
+    "ru_question": "неиствовать",
+    "foreign_response": "^\\s*go wild\\s*$",
+    "ru_response": "^\\s*неиствовать\\s*$",
+    "sound": "go_wild",
+    "preview": "go_wild"
+  },
+  {
+    "foreign_question": "hang out",
+    "ru_question": "тусоваться, зависать",
+    "foreign_response": "^\\s*hang out\\s*$",
+    "ru_response": "^\\s*(тусоваться|зависать)\\s*$",
+    "sound": "hang_out",
+    "preview": "hang_out"
   },
   {
     "foreign_question": "have a rest",
@@ -264,6 +296,14 @@
     "preview": "pay_down"
   },
   {
+    "foreign_question": "pick up",
+    "ru_question": "подбирать, подобрать",
+    "foreign_response": "^\\s*pick up\\s*$",
+    "ru_response": "^\\s*(подбирать|подобрать)\\s*$",
+    "sound": "pick_up",
+    "preview": "pick_up"
+  },
+  {
     "foreign_question": "put up",
     "ru_question": "смириться",
     "foreign_response": "^\\s*put up\\s*$",
@@ -278,6 +318,22 @@
     "ru_response": "^\\s*отложить\\s*$",
     "sound": "put_off",
     "preview": "put_off"
+  },
+  {
+    "foreign_question": "put on",
+    "ru_question": "одевать (синоним dress)",
+    "foreign_response": "^\\s*put on\\s*$",
+    "ru_response": "^\\s*(одевать|одеваться|одеться)\\s*$",
+    "sound": "put_on",
+    "preview": "put_on"
+  },
+  {
+    "foreign_question": "put together",
+    "ru_question": "соединять, составить, собирать",
+    "foreign_response": "^\\s*put together\\s*$",
+    "ru_response": "^\\s*(соединять|составить|собирать)\\s*$",
+    "sound": "put_together",
+    "preview": "put_together"
   },
   {
     "foreign_question": "sit down",
@@ -312,6 +368,14 @@
     "preview": "stand_up"
   },
   {
+    "foreign_question": "take a look",
+    "ru_question": "взглянуть",
+    "foreign_response": "^\\s*take a look\\s*$",
+    "ru_response": "^\\s*взглянуть\\s*$",
+    "sound": "take_a_look",
+    "preview": "take_a_look"
+  },
+  {
     "foreign_question": "take away",
     "ru_question": "отобрать",
     "foreign_response": "^\\s*take away\\s*$",
@@ -342,6 +406,14 @@
     "ru_response": "^\\s*(вынести|вытащить|выносить|вытаскивать)\\s*$",
     "sound": "take_out",
     "preview": "take_out"
+  },
+  {
+    "foreign_question": "take part",
+    "ru_question": "участвовать, принимать участие",
+    "foreign_response": "^\\s*take part\\s*$",
+    "ru_response": "^\\s*(участвовать|принимать участие)\\s*$",
+    "sound": "take_part",
+    "preview": "take_part"
   },
   {
     "foreign_question": "take up",

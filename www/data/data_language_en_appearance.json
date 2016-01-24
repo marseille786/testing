@@ -1,11 +1,11 @@
 [
   {
-    "foreign_question": "arm",
-    "ru_question": "рука",
-    "foreign_response": "^\\s*arm\\s*$",
-    "ru_response": "^\\s*рука\\s*$",
-    "sound": "arm",
-    "preview": ""
+    "foreign_question": "age",
+    "ru_question": "возраст, век",
+    "foreign_response": "^\\s*age\\s*$",
+    "ru_response": "^\\s*(возраст|век|эпоха)\\s*$",
+    "sound": "age",
+    "preview": "age"
   },
   {
     "foreign_question": "average height",
@@ -24,12 +24,28 @@
     "preview": "black_hair"
   },
   {
+    "foreign_question": "blond",
+    "ru_question": "блондин",
+    "foreign_response": "^\\s*blond\\s*$",
+    "ru_response": "^\\s*(блондин|русый|белокурый|светлый)\\s*$",
+    "sound": "blond",
+    "preview": "blond"
+  },
+  {
     "foreign_question": "blond hair",
     "ru_question": "белые волосы",
     "foreign_response": "^\\s*blond hair\\s*$",
     "ru_response": "^\\s*белые волосы\\s*$",
     "sound": "blond hair",
     "preview": "blond hair"
+  },
+  {
+    "foreign_question": "blonde",
+    "ru_question": "блондинка",
+    "foreign_response": "^\\s*blonde\\s*$",
+    "ru_response": "^\\s*(блондинка|русая|белокурая|светлая)\\s*$",
+    "sound": "blonde",
+    "preview": "blonde"
   },
   {
     "foreign_question": "blue eyes",
@@ -101,7 +117,7 @@
     "foreign_response": "^\\s*long legs\\s*$",
     "ru_response": "^\\s*длинные ноги\\s*$",
     "sound": "long_legs",
-    "preview": ""
+    "preview": "long_legs"
   },
   {
     "foreign_question": "man",
@@ -112,12 +128,20 @@
     "preview": "man"
   },
   {
+    "foreign_question": "medium-length",
+    "ru_question": "средняя длина",
+    "foreign_response": "^\\s*medium-length\\s*$",
+    "ru_response": "^\\s*средняя длина\\s*$",
+    "sound": "medium-length",
+    "preview": "medium-length"
+  },
+  {
     "foreign_question": "nose",
     "ru_question": "нос",
     "foreign_response": "^\\s*nose\\s*$",
     "ru_response": "^\\s*нос\\s*$",
     "sound": "nose",
-    "preview": ""
+    "preview": "nose"
   },
   {
     "foreign_question": "pretty face",
@@ -125,7 +149,7 @@
     "foreign_response": "^\\s*pretty face\\s*$",
     "ru_response": "^\\s*(прелестное|милое) лицо\\s*$",
     "sound": "pretty_face",
-    "preview": ""
+    "preview": "pretty_face"
   },
   {
     "foreign_question": "short hair",

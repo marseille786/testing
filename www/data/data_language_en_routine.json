@@ -1,5 +1,13 @@
 [
   {
+    "foreign_question": "cooking",
+    "ru_question": "приготовление еды",
+    "foreign_response": "^\\s*cooking\\s*$",
+    "ru_response": "^\\s*приготовление еды\\s*$",
+    "sound": "cooking",
+    "preview": "cooking"
+  },
+  {
     "foreign_question": "different things",
     "ru_question": "разные вещи",
     "foreign_response": "^\\s*different things\\s*$",
@@ -8,12 +16,36 @@
     "preview": "different_things"
   },
   {
+    "foreign_question": "do homework",
+    "ru_question": "делать домашнюю работу",
+    "foreign_response": "^\\s*do( the)? homework\\s*$",
+    "ru_response": "^\\s*делать домашнюю работу\\s*$",
+    "sound": "do_homework",
+    "preview": "do_homework"
+  },
+  {
+    "foreign_question": "do the washing-up",
+    "ru_question": "мыть посуду",
+    "foreign_response": "^\\s*do the washing-up\\s*$",
+    "ru_response": "^\\s*мыть посуду\\s*$",
+    "sound": "do_the_washing-up",
+    "preview": "do_the_washing-up"
+  },
+  {
     "foreign_question": "free time",
     "ru_question": "свободное время",
     "foreign_response": "^\\s*free time\\s*$",
     "ru_response": "^\\s*свободное время\\s*$",
     "sound": "free_time",
     "preview": "free_time"
+  },
+  {
+    "foreign_question": "have a shower",
+    "ru_question": "принимать душ",
+    "foreign_response": "^\\s*have a shower\\s*$",
+    "ru_response": "^\\s*принимать душ\\s*$",
+    "sound": "have_a_shower",
+    "preview": "have_a_shower"
   },
   {
     "foreign_question": "I want her to be happy",
@@ -32,6 +64,14 @@
     "preview": "it_depends_on"
   },
   {
+    "foreign_question": "news",
+    "ru_question": "новости",
+    "foreign_response": "^\\s*news\\s*$",
+    "ru_response": "^\\s*новост[иь]\\s*$",
+    "sound": "news",
+    "preview": "news"
+  },
+  {
     "foreign_question": "promise",
     "ru_question": "обещание",
     "foreign_response": "^\\s*promise\\s*$",
@@ -48,6 +88,14 @@
     "preview": "rest"
   },
   {
+    "foreign_question": "take out the rubbish",
+    "ru_question": "выносить мусор",
+    "foreign_response": "^\\s*take out the rubbish\\s*$",
+    "ru_response": "^\\s*выносить мусор\\s*$",
+    "sound": "take_out_the_rubbish",
+    "preview": "take_out_the_rubbish"
+  },
+  {
     "foreign_question": "tea-time",
     "ru_question": "время пить чай",
     "foreign_response": "^\\s*tea-time\\s*$",
@@ -56,115 +104,19 @@
     "preview": "tea-time"
   },
   {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
+    "foreign_question": "video game",
+    "ru_question": "видео игра",
+    "foreign_response": "^\\s*video game\\s*$",
+    "ru_response": "^\\s*видео игра\\s*$",
+    "sound": "video_game",
+    "preview": "video_game"
   },
   {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
-  },
-  {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
-  },
-  {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
-  },
-  {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
-  },
-  {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
-  },
-  {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
-  },
-  {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
-  },
-  {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
-  },
-  {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
-  },
-  {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
-  },
-  {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
-  },
-  {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
-  },
-  {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
+    "foreign_question": "wake up",
+    "ru_question": "просыпаться",
+    "foreign_response": "^\\s*wake( up)?\\s*$",
+    "ru_response": "^\\s*(просыпаться|простнуться)\\s*$",
+    "sound": "wake_up",
+    "preview": "wake_up"
   }
 ]

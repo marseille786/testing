@@ -56,12 +56,28 @@
     "preview": "cleaner"
   },
   {
+    "foreign_question": "coach",
+    "ru_question": "тренер",
+    "foreign_response": "^\\s*coach\\s*$",
+    "ru_response": "^\\s*тренер\\s*$",
+    "sound": "coach",
+    "preview": "coach"
+  },
+  {
     "foreign_question": "cosmetologist",
     "ru_question": "косметолог",
     "foreign_response": "^\\s*cosmetologist\\s*$",
     "ru_response": "^\\s*косметолог\\s*$",
     "sound": "cosmetologist",
     "preview": "cosmetologist"
+  },
+  {
+    "foreign_question": "dancer",
+    "ru_question": "танцор",
+    "foreign_response": "^\\s*dancer\\s*$",
+    "ru_response": "^\\s*танцор\\s*$",
+    "sound": "dancer",
+    "preview": "dancer"
   },
   {
     "foreign_question": "designer",
@@ -128,6 +144,14 @@
     "preview": "film_director"
   },
   {
+    "foreign_question": "firefighter",
+    "ru_question": "пожарный",
+    "foreign_response": "^\\s*firefighter\\s*$",
+    "ru_response": "^\\s*(пожарный|пожарник)\\s*$",
+    "sound": "firefighter",
+    "preview": "firefighter"
+  },
+  {
     "foreign_question": "freelancer",
     "ru_question": "свободный работник",
     "foreign_response": "^\\s*freelancer\\s*$",
@@ -142,6 +166,14 @@
     "ru_response": "^\\s*садовник\\s*$",
     "sound": "gardener",
     "preview": "gardener"
+  },
+  {
+    "foreign_question": "graphic designer",
+    "ru_question": "графический дизайнер",
+    "foreign_response": "^\\s*graphic designer\\s*$",
+    "ru_response": "^\\s*графический дизайнер\\s*$",
+    "sound": "graphic_designer",
+    "preview": "graphic_designer"
   },
   {
     "foreign_question": "househusband",
@@ -216,6 +248,14 @@
     "preview": "manager"
   },
   {
+    "foreign_question": "merchant",
+    "ru_question": "торговец, купец",
+    "foreign_response": "^\\s*merchant\\s*$",
+    "ru_response": "^\\s*(торговец|купец)\\s*$",
+    "sound": "merchant",
+    "preview": "merchant"
+  },
+  {
     "foreign_question": "musician",
     "ru_question": "музыкант",
     "foreign_response": "^\\s*musician\\s*$",
@@ -230,6 +270,54 @@
     "ru_response": "^\\s*(медбрат|медсестра)\\s*$",
     "sound": "nurse",
     "preview": "nurse"
+  },
+  {
+    "foreign_question": "owner",
+    "ru_question": "владелец, хозяин, собственник",
+    "foreign_response": "^\\s*owner\\s*$",
+    "ru_response": "^\\s*(владелец|хозяин|собственник)\\s*$",
+    "sound": "owner",
+    "preview": "owner"
+  },
+  {
+    "foreign_question": "photographer",
+    "ru_question": "фотограф",
+    "foreign_response": "^\\s*photographer\\s*$",
+    "ru_response": "^\\s*фотограф\\s*$",
+    "sound": "photographer",
+    "preview": "photographer"
+  },
+  {
+    "foreign_question": "pilot",
+    "ru_question": "пилот, летчик",
+    "foreign_response": "^\\s*pilot\\s*$",
+    "ru_response": "^\\s*(пилот|летчик)\\s*$",
+    "sound": "pilot",
+    "preview": "pilot"
+  },
+  {
+    "foreign_question": "police officer",
+    "ru_question": "полицейский (синоним policeman)",
+    "foreign_response": "^\\s*police officer\\s*$",
+    "ru_response": "^\\s*полицейский\\s*$",
+    "sound": "police_officer",
+    "preview": "police_officer"
+  },
+  {
+    "foreign_question": "policeman",
+    "ru_question": "полицейский (синоним police officer)",
+    "foreign_response": "^\\s*policeman\\s*$",
+    "ru_response": "^\\s*полицейский\\s*$",
+    "sound": "policeman",
+    "preview": "policeman"
+  },
+  {
+    "foreign_question": "politician",
+    "ru_question": "политик",
+    "foreign_response": "^\\s*politician\\s*$",
+    "ru_response": "^\\s*политик\\s*$",
+    "sound": "politician",
+    "preview": "politician"
   },
   {
     "foreign_question": "postman",
@@ -248,12 +336,36 @@
     "preview": "prisoner"
   },
   {
+    "foreign_question": "producer",
+    "ru_question": "продюсер",
+    "foreign_response": "^\\s*producer\\s*$",
+    "ru_response": "^\\s*продюсер\\s*$",
+    "sound": "producer",
+    "preview": "producer"
+  },
+  {
     "foreign_question": "profession",
     "ru_question": "профессия",
     "foreign_response": "^\\s*profession\\s*$",
     "ru_response": "^\\s*профессия\\s*$",
     "sound": "profession",
     "preview": "profession"
+  },
+  {
+    "foreign_question": "professor",
+    "ru_question": "профессор, преподаватель",
+    "foreign_response": "^\\s*professor\\s*$",
+    "ru_response": "^\\s*(профессор|преподаватель)\\s*$",
+    "sound": "professor",
+    "preview": "professor"
+  },
+  {
+    "foreign_question": "security guard",
+    "ru_question": "охранник",
+    "foreign_response": "^\\s*security guard\\s*$",
+    "ru_response": "^\\s*охранник\\s*$",
+    "sound": "security_guard",
+    "preview": "security_guard"
   },
   {
     "foreign_question": "seller",
@@ -270,6 +382,22 @@
     "ru_response": "^\\s*продавец\\s*$",
     "sound": "shop_assistant",
     "preview": "shop_assistant"
+  },
+  {
+    "foreign_question": "singer",
+    "ru_question": "певец",
+    "foreign_response": "^\\s*singer\\s*$",
+    "ru_response": "^\\s*певец\\s*$",
+    "sound": "singer",
+    "preview": "singer"
+  },
+  {
+    "foreign_question": "speaker",
+    "ru_question": "оратор, спикер",
+    "foreign_response": "^\\s*speaker\\s*$",
+    "ru_response": "^\\s*(оратор|спикер)\\s*$",
+    "sound": "speaker",
+    "preview": "speaker"
   },
   {
     "foreign_question": "sportswoman",
@@ -312,13 +440,29 @@
     "preview": "theatre_director"
   },
   {
+    "foreign_question": "traveller",
+    "ru_question": "путешественник",
+    "foreign_response": "^\\s*traveller\\s*$",
+    "ru_response": "^\\s*путешественник\\s*$",
+    "sound": "traveller",
+    "preview": "traveller"
+  },
+  {
     "foreign_question": "unemployed",
     "ru_question": "безработный",
     "foreign_response": "^\\s*unemployed\\s*$",
     "ru_response": "^\\s*безработный\\s*$",
     "sound": "unemployed",
     "preview": "unemployed"
-  },
+  },,
+  {
+    "foreign_question": "waiter",
+    "ru_question": "официант",
+    "foreign_response": "^\\s*waiter\\s*$",
+    "ru_response": "^\\s*официант\\s*$",
+    "sound": "waiter",
+    "preview": "waiter"
+  }
   {
     "foreign_question": "worker",
     "ru_question": "рабочий",

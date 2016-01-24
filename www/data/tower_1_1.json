@@ -3,7 +3,7 @@
     "foreign_question": "about",
     "ru_question": "около, приблизительно, о, об",
     "foreign_response": "^\\s*about\\s*$",
-    "ru_response": "^\\s*(около|приблизительно|о|об)\\s*$",
+    "ru_response": "^\\s*(около|про|приблизительно|о|об)\\s*$",
     "sound": "about",
     "preview": "about"
   },
@@ -281,7 +281,7 @@
   },
   {
     "foreign_question": "slim",
-    "ru_question": "тонкий, стройный",
+    "ru_question": "тонкий, стройный (синоним thin)",
     "foreign_response": "^\\s*slim\\s*$",
     "ru_response": "^\\s*(тонкий|стройный|худой)\\s*$",
     "sound": "slim",

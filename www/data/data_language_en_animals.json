@@ -16,6 +16,14 @@
     "preview": "bird"
   },
   {
+    "foreign_question": "camel",
+    "ru_question": "верблюд",
+    "foreign_response": "^\\s*camel\\s*$",
+    "ru_response": "^\\s*верблюд\\s*$",
+    "sound": "camel",
+    "preview": "camel"
+  },
+  {
     "foreign_question": "cat",
     "ru_question": "кот, кошка",
     "foreign_response": "^\\s*cat\\s*$",
@@ -32,6 +40,14 @@
     "preview": "cheetah"
   },
   {
+    "foreign_question": "cow",
+    "ru_question": "корова",
+    "foreign_response": "^\\s*cow\\s*$",
+    "ru_response": "^\\s*корова\\s*$",
+    "sound": "cow",
+    "preview": "cow"
+  },
+  {
     "foreign_question": "deer",
     "ru_question": "олень, олени",
     "foreign_response": "^\\s*deer\\s*$",
@@ -46,6 +62,22 @@
     "ru_response": "^\\s*(собака|пес)\\s*$",
     "sound": "dog",
     "preview": "dog"
+  },
+  {
+    "foreign_question": "dolphin",
+    "ru_question": "дельфин",
+    "foreign_response": "^\\s*dolphin\\s*$",
+    "ru_response": "^\\s*дельфин\\s*$",
+    "sound": "dolphin",
+    "preview": "dolphin"
+  },
+  {
+    "foreign_question": "donkey",
+    "ru_question": "осел, ишак",
+    "foreign_response": "^\\s*donkey\\s*$",
+    "ru_response": "^\\s*(осел|ишак)\\s*$",
+    "sound": "donkey",
+    "preview": "donkey"
   },
   {
     "foreign_question": "elephant",
@@ -94,6 +126,14 @@
     "ru_response": "^\\s*(рог|рожок)\\s*$",
     "sound": "horn",
     "preview": "horn"
+  },
+  {
+    "foreign_question": "horse",
+    "ru_question": "лошадь, конь",
+    "foreign_response": "^\\s*horse\\s*$",
+    "ru_response": "^\\s*(лошадь|конь)\\s*$",
+    "sound": "horse",
+    "preview": "horse"
   },
   {
     "foreign_question": "hunting",
@@ -160,12 +200,28 @@
     "preview": "panda"
   },
   {
+    "foreign_question": "penguin",
+    "ru_question": "пингвин",
+    "foreign_response": "^\\s*penguin\\s*$",
+    "ru_response": "^\\s*пингвин\\s*$",
+    "sound": "penguin",
+    "preview": "penguin"
+  },
+  {
     "foreign_question": "rhino",
     "ru_question": "носорог",
     "foreign_response": "^\\s*rhino\\s*$",
     "ru_response": "^\\s*носорог\\s*$",
     "sound": "rhino",
     "preview": "rhino"
+  },
+  {
+    "foreign_question": "shark",
+    "ru_question": "акула",
+    "foreign_response": "^\\s*shark\\s*$",
+    "ru_response": "^\\s*акула\\s*$",
+    "sound": "shark",
+    "preview": "shark"
   },
   {
     "foreign_question": "sheep",
@@ -222,6 +278,14 @@
     "ru_response": "^\\s*дикая природа\\s*$",
     "sound": "the_wild",
     "preview": "the_wild"
+  },
+  {
+    "foreign_question": "whale",
+    "ru_question": "кит",
+    "foreign_response": "^\\s*whale\\s*$",
+    "ru_response": "^\\s*кит\\s*$",
+    "sound": "whale",
+    "preview": "whale"
   },
   {
     "foreign_question": "zebra",

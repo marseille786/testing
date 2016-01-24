@@ -1,0 +1,50 @@
+[
+  {
+    "foreign_question": "chemist's",
+    "ru_question": "аптека (синоним pharmacy)",
+    "foreign_response": "^\\s*chemist\\'s\\s*$",
+    "ru_response": "^\\s*аптека\\s*$",
+    "sound": "chemist's",
+    "preview": "chemist's"
+  },
+  {
+    "foreign_question": "drops",
+    "ru_question": "капли",
+    "foreign_response": "^\\s*drops\\s*$",
+    "ru_response": "^\\s*капли\\s*$",
+    "sound": "drops",
+    "preview": "drops"
+  },
+  {
+    "foreign_question": "insomnia",
+    "ru_question": "бессонница",
+    "foreign_response": "^\\s*insomnia\\s*$",
+    "ru_response": "^\\s*бессонница\\s*$",
+    "sound": "insomnia",
+    "preview": "insomnia"
+  },
+  {
+    "foreign_question": "medicine",
+    "ru_question": "лекарство",
+    "foreign_response": "^\\s*medicine\\s*$",
+    "ru_response": "^\\s*лекарство\\s*$",
+    "sound": "medicine",
+    "preview": "medicine"
+  },
+  {
+    "foreign_question": "pharmacy",
+    "ru_question": "аптека (синоним chemist's)",
+    "foreign_response": "^\\s*pharmacy\\s*$",
+    "ru_response": "^\\s*аптека\\s*$",
+    "sound": "pharmacy",
+    "preview": "pharmacy"
+  },
+  {
+    "foreign_question": "seasick",
+    "ru_question": "морская болезнь",
+    "foreign_response": "^\\s*seasick\\s*$",
+    "ru_response": "^\\s*морская болезнь\\s*$",
+    "sound": "seasick",
+    "preview": "seasick"
+  }
+]

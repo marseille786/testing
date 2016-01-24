@@ -16,12 +16,28 @@
     "preview": "any_questions-"
   },
   {
+    "foreign_question": "bachelor's degree",
+    "ru_question": "степень бакалавра",
+    "foreign_response": "^\\s*bachelor\\'s degree\\s*$",
+    "ru_response": "^\\s*(степень|диплом) бакалавра\\s*$",
+    "sound": "bachelor's_degree",
+    "preview": "bachelor's_degree"
+  },
+  {
     "foreign_question": "be quiet, please",
     "ru_question": "будь потише, пожалуйста",
     "foreign_response": "^\\s*be quiet\\,? please\\.?\\s*$",
     "ru_response": "^\\s*будь(те)? (потише|спокойнее)\\,? пожалуйста\\s*$",
     "sound": "be_quiet,_please",
     "preview": "be_quiet,_please"
+  },
+  {
+    "foreign_question": "Biology",
+    "ru_question": "биология",
+    "foreign_response": "^\\s*Biology\\s*$",
+    "ru_response": "^\\s*биология\\s*$",
+    "sound": "biology",
+    "preview": "biology"
   },
   {
     "foreign_question": "Can I go out?",
@@ -38,6 +54,22 @@
     "ru_response": "^\\s*Можете ли вы повторить\\?\\s*$",
     "sound": "can_you_repeat_that-",
     "preview": "can_you_repeat_that-"
+  },
+  {
+    "foreign_question": "chapter",
+    "ru_question": "глава (книги)",
+    "foreign_response": "^\\s*chapter\\s*$",
+    "ru_response": "^\\s*глава\\s*$",
+    "sound": "chapter",
+    "preview": "chapter"
+  },
+  {
+    "foreign_question": "Chemistry",
+    "ru_question": "химия",
+    "foreign_response": "^\\s*Chemistry\\s*$",
+    "ru_response": "^\\s*химия\\s*$",
+    "sound": "chemistry",
+    "preview": "chemistry"
   },
   {
     "foreign_question": "class",
@@ -64,6 +96,22 @@
     "preview": "close_your_books"
   },
   {
+    "foreign_question": "course",
+    "ru_question": "курс",
+    "foreign_response": "^\\s*course\\s*$",
+    "ru_response": "^\\s*курс\\s*$",
+    "sound": "course",
+    "preview": "course"
+  },
+  {
+    "foreign_question": "degree",
+    "ru_question": "учебная степень, степень, уровень",
+    "foreign_response": "^\\s*degree\\s*$",
+    "ru_response": "^\\s*(учебная степень|степень|уровень|градус)\\s*$",
+    "sound": "degree",
+    "preview": "degree"
+  },
+  {
     "foreign_question": "discussion",
     "ru_question": "обсуждение, дискуссия",
     "foreign_response": "^\\s*discussion?\\s*$",
@@ -80,6 +128,22 @@
     "preview": "don't_speak_in_russian"
   },
   {
+    "foreign_question": "dormitory",
+    "ru_question": "общежитие",
+    "foreign_response": "^\\s*dormitory\\s*$",
+    "ru_response": "^\\s*общежитие\\s*$",
+    "sound": "dormitory",
+    "preview": "dormitory"
+  },
+  {
+    "foreign_question": "exam",
+    "ru_question": "экзамен",
+    "foreign_response": "^\\s*exam\\s*$",
+    "ru_response": "^\\s*экзамен\\s*$",
+    "sound": "exam",
+    "preview": "exam"
+  },
+  {
     "foreign_question": "excerpt",
     "ru_question": "отрывок, выдержка (из книги)",
     "foreign_response": "^\\s*excerpt\\s*$",
@@ -88,12 +152,60 @@
     "preview": "excerpt"
   },
   {
+    "foreign_question": "exchange programme",
+    "ru_question": "программа обмена",
+    "foreign_response": "^\\s*exchange programme\\s*$",
+    "ru_response": "^\\s*программа обмена\\s*$",
+    "sound": "exchange_programme",
+    "preview": "exchange_programme"
+  },
+  {
+    "foreign_question": "fail",
+    "ru_question": "провал, неудача",
+    "foreign_response": "^\\s*fail\\s*$",
+    "ru_response": "^\\s*(провал|неудача|терпеть неудачу)\\s*$",
+    "sound": "fail",
+    "preview": "fail"
+  },
+  {
+    "foreign_question": "Geography",
+    "ru_question": "география",
+    "foreign_response": "^\\s*Geography\\s*$",
+    "ru_response": "^\\s*география\\s*$",
+    "sound": "geography",
+    "preview": "geography"
+  },
+  {
     "foreign_question": "grade",
     "ru_question": "класс (группа учеников, синоним class)",
     "foreign_response": "^\\s*grade\\s*$",
     "ru_response": "^\\s*класс\\s*$",
     "sound": "grade",
     "preview": "grade"
+  },
+  {
+    "foreign_question": "graduate",
+    "ru_question": "выпускник",
+    "foreign_response": "^\\s*graduate\\s*$",
+    "ru_response": "^\\s*выпускник\\s*$",
+    "sound": "graduate",
+    "preview": "graduate"
+  },
+  {
+    "foreign_question": "graduation",
+    "ru_question": "градация, окончание учебного заведения, получение ученой степени",
+    "foreign_response": "^\\s*graduation\\s*$",
+    "ru_response": "^\\s*(градация|окончание учебного заведения|получение ученой степени)\\s*$",
+    "sound": "graduation",
+    "preview": "graduation"
+  },
+  {
+    "foreign_question": "History",
+    "ru_question": "история",
+    "foreign_response": "^\\s*History\\s*$",
+    "ru_response": "^\\s*история\\s*$",
+    "sound": "history",
+    "preview": "history"
   },
   {
     "foreign_question": "How do you say it in English?",
@@ -128,6 +240,22 @@
     "preview": "idea"
   },
   {
+    "foreign_question": "inch",
+    "ru_question": "дюйм, дюймовый",
+    "foreign_response": "^\\s*inch\\s*$",
+    "ru_response": "^\\s*(дюйм|дюймовый)\\s*$",
+    "sound": "inch",
+    "preview": "inch"
+  },
+  {
+    "foreign_question": "Information Technology (IT)",
+    "ru_question": "информационные технологии",
+    "foreign_response": "^\\s*(Information Technology|IT)\\s*$",
+    "ru_response": "^\\s*информационные технологии\\s*$",
+    "sound": "information_technology",
+    "preview": "information_technology"
+  },
+  {
     "foreign_question": "institute",
     "ru_question": "институт",
     "foreign_response": "^\\s*institute\\s*$",
@@ -144,12 +272,28 @@
     "preview": "keep_silence"
   },
   {
+    "foreign_question": "line",
+    "ru_question": "линия, строка",
+    "foreign_response": "^\\s*line\\s*$",
+    "ru_response": "^\\s*(линия|строка)\\s*$",
+    "sound": "line",
+    "preview": "line"
+  },
+  {
     "foreign_question": "Listen to the CD.",
     "ru_question": "Слушайте CD.",
     "foreign_response": "^\\s*Listen to the CD\\.?\\s*$",
     "ru_response": "^\\s*(По)?Слушай(те)? (CD|компакт диск)\\.?\\s*$",
     "sound": "listen_to_the_cd",
     "preview": "listen_to_the_cd"
+  },
+  {
+    "foreign_question": "Literature",
+    "ru_question": "литература",
+    "foreign_response": "^\\s*Literature\\s*$",
+    "ru_response": "^\\s*литература\\s*$",
+    "sound": "literature",
+    "preview": "literature"
   },
   {
     "foreign_question": "Look at the board.",
@@ -160,12 +304,36 @@
     "preview": "look_at_the_board"
   },
   {
+    "foreign_question": "Maths",
+    "ru_question": "математика",
+    "foreign_response": "^\\s*Maths\\s*$",
+    "ru_response": "^\\s*математика\\s*$",
+    "sound": "maths",
+    "preview": "maths"
+  },
+  {
     "foreign_question": "mistake",
     "ru_question": "ошибка",
     "foreign_response": "^\\s*mistake\\s*$",
     "ru_response": "^\\s*ошибка\\s*$",
     "sound": "mistake",
     "preview": "mistake"
+  },
+  {
+    "foreign_question": "Modern Languages",
+    "ru_question": "Современные языки",
+    "foreign_response": "^\\s*Modern Languages\\s*$",
+    "ru_response": "^\\s*Современные языки\\s*$",
+    "sound": "modern_languages",
+    "preview": "modern_languages"
+  },
+  {
+    "foreign_question": "nonsense",
+    "ru_question": "бессмыслица",
+    "foreign_response": "^\\s*nonsense\\s*$",
+    "ru_response": "^\\s*бессмыслица\\s*$",
+    "sound": "nonsense",
+    "preview": "nonsense"
   },
   {
     "foreign_question": "Open your books.",
@@ -184,6 +352,14 @@
     "preview": "opinion"
   },
   {
+    "foreign_question": "part",
+    "ru_question": "часть, доля",
+    "foreign_response": "^\\s*part\\s*$",
+    "ru_response": "^\\s*(часть|доля)\\s*$",
+    "sound": "part",
+    "preview": "part"
+  },
+  {
     "foreign_question": "personal opinion",
     "ru_question": "личное мнение",
     "foreign_response": "^\\s*personal opinion\\s*$",
@@ -192,12 +368,44 @@
     "preview": "personal_opinion"
   },
   {
+    "foreign_question": "Physical Education (PE)",
+    "ru_question": "физкультура",
+    "foreign_response": "^\\s*(Physical Education|PE)\\s*$",
+    "ru_response": "^\\s*физкультура\\s*$",
+    "sound": "physical_education",
+    "preview": "physical_education"
+  },
+  {
+    "foreign_question": "Physics",
+    "ru_question": "физика",
+    "foreign_response": "^\\s*Physics\\s*$",
+    "ru_response": "^\\s*физика\\s*$",
+    "sound": "physics",
+    "preview": "physics"
+  },
+  {
+    "foreign_question": "Poetry",
+    "ru_question": "поэзия",
+    "foreign_response": "^\\s*Poetry\\s*$",
+    "ru_response": "^\\s*поэзия\\s*$",
+    "sound": "poetry",
+    "preview": "poetry"
+  },
+  {
     "foreign_question": "point",
-    "ru_question": "точка",
+    "ru_question": "точка, балл, пункт",
     "foreign_response": "^\\s*point\\s*$",
-    "ru_response": "^\\s*точка\\s*$",
+    "ru_response": "^\\s*(точка|балл|пункт)\\s*$",
     "sound": "point",
     "preview": "point"
+  },
+  {
+    "foreign_question": "professor",
+    "ru_question": "профессор, преподаватель",
+    "foreign_response": "^\\s*professor\\s*$",
+    "ru_response": "^\\s*(профессор|преподаватель)\\s*$",
+    "sound": "professor",
+    "preview": "professor"
   },
   {
     "foreign_question": "quest",
@@ -222,6 +430,14 @@
     "ru_response": "^\\s*наука\\s*$",
     "sound": "science",
     "preview": "science"
+  },
+  {
+    "foreign_question": "secondary school",
+    "ru_question": "средняя школа",
+    "foreign_response": "^\\s*secondary school\\s*$",
+    "ru_response": "^\\s*средняя школа\\s*$",
+    "sound": "secondary_school",
+    "preview": "secondary_school"
   },
   {
     "foreign_question": "sense",
@@ -256,6 +472,22 @@
     "preview": "task"
   },
   {
+    "foreign_question": "term",
+    "ru_question": "четверть, семестр, часть учебного процесса",
+    "foreign_response": "^\\s*term\\s*$",
+    "ru_response": "^\\s*(четверть|семестр|часть учебного процесса)\\s*$",
+    "sound": "term",
+    "preview": "term"
+  },
+  {
+    "foreign_question": "test",
+    "ru_question": "тест, контрольная работа",
+    "foreign_response": "^\\s*test\\s*$",
+    "ru_response": "^\\s*(тест|контрольная работа)\\s*$",
+    "sound": "test",
+    "preview": "test"
+  },
+  {
     "foreign_question": "That's right.",
     "ru_question": "Это правильно.",
     "foreign_response": "^\\s*That(\\'| i)s right\\.?\\s*$",
@@ -264,12 +496,12 @@
     "preview": "that's_right"
   },
   {
-    "foreign_question": "nonsense",
-    "ru_question": "бессмыслица",
-    "foreign_response": "^\\s*nonsense\\s*$",
-    "ru_response": "^\\s*бессмыслица\\s*$",
-    "sound": "nonsense",
-    "preview": "nonsense"
+    "foreign_question": "university",
+    "ru_question": "университет",
+    "foreign_response": "^\\s*university\\s*$",
+    "ru_response": "^\\s*университет\\s*$",
+    "sound": "university",
+    "preview": "university"
   },
   {
     "foreign_question": "way",
@@ -294,5 +526,13 @@
     "ru_response": "^\\s*слово\\s*$",
     "sound": "word",
     "preview": "word"
+  },
+  {
+    "foreign_question": "You're right.",
+    "ru_question": "Ты прав.",
+    "foreign_response": "^\\s*You('| a)re right\\.?\\s*$",
+    "ru_response": "^\\s*(Ты прав|Вы правы)\\.?\\s*$",
+    "sound": "you're_right",
+    "preview": "you're_right"
   }
 ]

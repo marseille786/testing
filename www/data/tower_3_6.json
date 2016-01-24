@@ -50,7 +50,7 @@
   {
     "foreign_question": "be born",
     "ru_question": "родиться, быть рожденным",
-    "foreign_response": "^\\s*be born\\s*$",
+    "foreign_response": "^\\s*(be )?born\\s*$",
     "ru_response": "^\\s*(родиться|рождаться|быть рожденным)\\s*$",
     "sound": "be_born",
     "preview": "be_born"

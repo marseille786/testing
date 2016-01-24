@@ -56,14 +56,6 @@
     "preview": "department_store"
   },
   {
-    "foreign_question": "escalator",
-    "ru_question": "эскалатор",
-    "foreign_response": "^\\s*escalator\\s*$",
-    "ru_response": "^\\s*эскалатор\\s*$",
-    "sound": "escalator",
-    "preview": "escalator"
-  },
-  {
     "foreign_question": "Excuse me.",
     "ru_question": "Извините. (при обращении)",
     "foreign_response": "^\\s*Excuse me\\.?\\s*$",
@@ -187,7 +179,7 @@
     "foreign_question": "out of order",
     "ru_question": "выйти из строя, вышел из строя",
     "foreign_response": "^\\s*out of order\\s*$",
-    "ru_response": "^\\s*(выйти из строя|вышел из строя)\\s*$",
+    "ru_response": "^\\s*(выйти из строя|выше(л|дший) из строя)\\s*$",
     "sound": "out_of_order",
     "preview": "out_of_order"
   },
@@ -200,20 +192,20 @@
     "preview": "past"
   },
   {
-    "foreign_question": "phone box",
-    "ru_question": "телефонная будка",
-    "foreign_response": "^\\s*phone box\\s*$",
-    "ru_response": "^\\s*телефонная будка\\s*$",
-    "sound": "phone_box",
-    "preview": "phone_box"
-  },
-  {
     "foreign_question": "petrol station",
     "ru_question": "заправка, бензоколонка",
     "foreign_response": "^\\s*petrol station\\s*$",
     "ru_response": "^\\s*((бензо)?заправка|бензоколонка)\\s*$",
     "sound": "petrol_station",
     "preview": "petrol_station"
+  },
+  {
+    "foreign_question": "phone box",
+    "ru_question": "телефонная будка",
+    "foreign_response": "^\\s*phone box\\s*$",
+    "ru_response": "^\\s*телефонная будка\\s*$",
+    "sound": "phone_box",
+    "preview": "phone_box"
   },
   {
     "foreign_question": "post office",

@@ -1,0 +1,186 @@
+[
+  {
+    "foreign_question": "aeroplane",
+    "ru_question": "самолет (синоним plane)",
+    "foreign_response": "^\\s*aeroplane\\s*$",
+    "ru_response": "^\\s*самолет\\s*$",
+    "sound": "aeroplane",
+    "preview": "aeroplane"
+  },
+  {
+    "foreign_question": "bicycle",
+    "ru_question": "велосипед (сининим bike)",
+    "foreign_response": "^\\s*bicycle\\s*$",
+    "ru_response": "^\\s*велосипед\\s*$",
+    "sound": "bicycle",
+    "preview": "bicycle"
+  },
+  {
+    "foreign_question": "bike",
+    "ru_question": "велосипед (сининим bicycle)",
+    "foreign_response": "^\\s*bike\\s*$",
+    "ru_response": "^\\s*велосипед\\s*$",
+    "sound": "bike",
+    "preview": "bike"
+  },
+  {
+    "foreign_question": "bus",
+    "ru_question": "автобус",
+    "foreign_response": "^\\s*bus\\s*$",
+    "ru_response": "^\\s*автобус\\s*$",
+    "sound": "bus",
+    "preview": "bus"
+  },
+  {
+    "foreign_question": "by bus",
+    "ru_question": "автобусом, на автобусе (ехать)",
+    "foreign_response": "^\\s*by bus\\s*$",
+    "ru_response": "^\\s*(автобусом|на автобусе)\\s*$",
+    "sound": "by_bus",
+    "preview": "by_bus"
+  },
+  {
+    "foreign_question": "car",
+    "ru_question": "автомобиль",
+    "foreign_response": "^\\s*car\\s*$",
+    "ru_response": "^\\s*автомобиль\\s*$",
+    "sound": "car",
+    "preview": "car"
+  },
+  {
+    "foreign_question": "dining carriage",
+    "ru_question": "вагон-ресторан",
+    "foreign_response": "^\\s*dining carriage\\s*$",
+    "ru_response": "^\\s*вагон[- ]ресторан\\s*$",
+    "sound": "dining_carriage",
+    "preview": "dining_carriage"
+  },
+  {
+    "foreign_question": "ferry",
+    "ru_question": "паром",
+    "foreign_response": "^\\s*ferry\\s*$",
+    "ru_response": "^\\s*паром\\s*$",
+    "sound": "ferry",
+    "preview": "ferry"
+  },
+  {
+    "foreign_question": "helicopter",
+    "ru_question": "вертолет",
+    "foreign_response": "^\\s*helicopter\\s*$",
+    "ru_response": "^\\s*вертолет\\s*$",
+    "sound": "helicopter",
+    "preview": "helicopter"
+  },
+  {
+    "foreign_question": "luggage carriage",
+    "ru_question": "багажный вагон",
+    "foreign_response": "^\\s*luggage carriage\\s*$",
+    "ru_response": "^\\s*(багажный|грузовой) вагон\\s*$",
+    "sound": "luggage_carriage",
+    "preview": "luggage_carriage"
+  },
+  {
+    "foreign_question": "means of transport",
+    "ru_question": "транспортные средства",
+    "foreign_response": "^\\s*means of transport\\s*$",
+    "ru_response": "^\\s*транспортные средства\\s*$",
+    "sound": "means_of_transport",
+    "preview": "means_of_transport"
+  },
+  {
+    "foreign_question": "model",
+    "ru_question": "модель",
+    "foreign_response": "^\\s*model\\s*$",
+    "ru_response": "^\\s*модель\\s*$",
+    "sound": "model",
+    "preview": "model"
+  },
+  {
+    "foreign_question": "monorail",
+    "ru_question": "монорельс",
+    "foreign_response": "^\\s*monorail\\s*$",
+    "ru_response": "^\\s*монорельс\\s*$",
+    "sound": "monorail",
+    "preview": "monorail"
+  },
+  {
+    "foreign_question": "motorbike",
+    "ru_question": "мотоцикл",
+    "foreign_response": "^\\s*motorbike\\s*$",
+    "ru_response": "^\\s*мотоцикл\\s*$",
+    "sound": "motorbike",
+    "preview": "motorbike"
+  },
+  {
+    "foreign_question": "plane",
+    "ru_question": "самолет (синоним aeroplane)",
+    "foreign_response": "^\\s*plane\\s*$",
+    "ru_response": "^\\s*самолет\\s*$",
+    "sound": "plane",
+    "preview": "plane"
+  },
+  {
+    "foreign_question": "ship",
+    "ru_question": "корабль",
+    "foreign_response": "^\\s*ship\\s*$",
+    "ru_response": "^\\s*корабль\\s*$",
+    "sound": "ship",
+    "preview": "ship"
+  },
+  {
+    "foreign_question": "sleeper carriage",
+    "ru_question": "спальный вагон",
+    "foreign_response": "^\\s*sleeper carriage\\s*$",
+    "ru_response": "^\\s*спальный вагон\\s*$",
+    "sound": "slepper_carriage",
+    "preview": "slepper_carriage"
+  },
+  {
+    "foreign_question": "speed",
+    "ru_question": "скорость",
+    "foreign_response": "^\\s*speed\\s*$",
+    "ru_response": "^\\s*(скорость|быстрота)\\s*$",
+    "sound": "speed",
+    "preview": "speed"
+  },
+  {
+    "foreign_question": "subway",
+    "ru_question": "метро (амер)",
+    "foreign_response": "^\\s*subway\\s*$",
+    "ru_response": "^\\s*метро\\s*$",
+    "sound": "subway",
+    "preview": "subway"
+  },
+  {
+    "foreign_question": "train",
+    "ru_question": "поезд",
+    "foreign_response": "^\\s*train\\s*$",
+    "ru_response": "^\\s*поезд\\s*$",
+    "sound": "train",
+    "preview": "train"
+  },
+  {
+    "foreign_question": "tram",
+    "ru_question": "трамвай",
+    "foreign_response": "^\\s*tram\\s*$",
+    "ru_response": "^\\s*трамвай\\s*$",
+    "sound": "tram",
+    "preview": "tram"
+  },
+  {
+    "foreign_question": "transport",
+    "ru_question": "транспорт",
+    "foreign_response": "^\\s*transport\\s*$",
+    "ru_response": "^\\s*транспорт\\s*$",
+    "sound": "transport",
+    "preview": "transport"
+  },
+  {
+    "foreign_question": "trolleybus",
+    "ru_question": "троллейбус",
+    "foreign_response": "^\\s*trolleybus\\s*$",
+    "ru_response": "^\\s*троллейбус\\s*$",
+    "sound": "trolleybus",
+    "preview": "trolleybus"
+  }
+]

@@ -1,11 +1,139 @@
 [
   {
+    "foreign_question": "advice",
+    "ru_question": "совет",
+    "foreign_response": "^\\s*advice\\s*$",
+    "ru_response": "^\\s*совет\\s*$",
+    "sound": "advice",
+    "preview": "advice"
+  },
+  {
+    "foreign_question": "automatization",
+    "ru_question": "автоматизация",
+    "foreign_response": "^\\s*automatization\\s*$",
+    "ru_response": "^\\s*автоматизация\\s*$",
+    "sound": "automatization",
+    "preview": "automatization"
+  },
+  {
+    "foreign_question": "business",
+    "ru_question": "бизнес, дело",
+    "foreign_response": "^\\s*business\\s*$",
+    "ru_response": "^\\s*(бизнес|дело)\\s*$",
+    "sound": "business",
+    "preview": "business"
+  },
+  {
+    "foreign_question": "Business Management",
+    "ru_question": "Управление бизнесом",
+    "foreign_response": "^\\s*Business Management\\s*$",
+    "ru_response": "^\\s*Управление бизнесом\\s*$",
+    "sound": "business_management",
+    "preview": "business_management"
+  },
+  {
+    "foreign_question": "cable",
+    "ru_question": "кабель, трос, канат",
+    "foreign_response": "^\\s*cable\\s*$",
+    "ru_response": "^\\s*(кабель|трос|канат)\\s*$",
+    "sound": "cable",
+    "preview": "cable"
+  },
+  {
+    "foreign_question": "career",
+    "ru_question": "карьера",
+    "foreign_response": "^\\s*career\\s*$",
+    "ru_response": "^\\s*карьера\\s*$",
+    "sound": "career",
+    "preview": "career"
+  },
+  {
+    "foreign_question": "chance",
+    "ru_question": "шанс, возможность",
+    "foreign_response": "^\\s*chance\\s*$",
+    "ru_response": "^\\s*(шанс|возможность)\\s*$",
+    "sound": "chance",
+    "preview": "chance"
+  },
+  {
+    "foreign_question": "client",
+    "ru_question": "клиент",
+    "foreign_response": "^\\s*client\\s*$",
+    "ru_response": "^\\s*клиент\\s*$",
+    "sound": "client",
+    "preview": "client"
+  },
+  {
     "foreign_question": "colleague",
     "ru_question": "коллега",
     "foreign_response": "^\\s*colleague\\s*$",
     "ru_response": "^\\s*коллега\\s*$",
     "sound": "colleague",
     "preview": "colleague"
+  },
+  {
+    "foreign_question": "commercial",
+    "ru_question": "коммерческий, реклама",
+    "foreign_response": "^\\s*commercial\\s*$",
+    "ru_response": "^\\s*(коммерческий|реклама)\\s*$",
+    "sound": "commercial",
+    "preview": "commercial"
+  },
+  {
+    "foreign_question": "company",
+    "ru_question": "компания, фирма",
+    "foreign_response": "^\\s*company\\s*$",
+    "ru_response": "^\\s*(компания|фирма)\\s*$",
+    "sound": "company",
+    "preview": "company"
+  },
+  {
+    "foreign_question": "computer",
+    "ru_question": "компьютер",
+    "foreign_response": "^\\s*computer\\s*$",
+    "ru_response": "^\\s*компьютер\\s*$",
+    "sound": "computer",
+    "preview": "computer"
+  },
+  {
+    "foreign_question": "computerization",
+    "ru_question": "компьютеризация",
+    "foreign_response": "^\\s*computerization\\s*$",
+    "ru_response": "^\\s*компьютеризация\\s*$",
+    "sound": "computerization",
+    "preview": "computerization"
+  },
+  {
+    "foreign_question": "construction site",
+    "ru_question": "стройка",
+    "foreign_response": "^\\s*construction site\\s*$",
+    "ru_response": "^\\s*стройка\\s*$",
+    "sound": "construction_site",
+    "preview": "construction_site"
+  },
+  {
+    "foreign_question": "day off",
+    "ru_question": "выходной день",
+    "foreign_response": "^\\s*day off\\s*$",
+    "ru_response": "^\\s*выходной( день)?\\s*$",
+    "sound": "day_off",
+    "preview": "day_off"
+  },
+  {
+    "foreign_question": "discussion",
+    "ru_question": "обсуждение, дискуссия",
+    "foreign_response": "^\\s*discussion\\s*$",
+    "ru_response": "^\\s*(обсуждение|дискуссия)\\s*$",
+    "sound": "discussion",
+    "preview": "discussion"
+  },
+  {
+    "foreign_question": "document",
+    "ru_question": "документ",
+    "foreign_response": "^\\s*document\\s*$",
+    "ru_response": "^\\s*документ\\s*$",
+    "sound": "document",
+    "preview": "document"
   },
   {
     "foreign_question": "e-mail",
@@ -16,12 +144,60 @@
     "preview": "e-mail"
   },
   {
+    "foreign_question": "event",
+    "ru_question": "мероприятие, событие",
+    "foreign_response": "^\\s*event\\s*$",
+    "ru_response": "^\\s*(мероприятие|событие)\\s*$",
+    "sound": "event",
+    "preview": "event"
+  },
+  {
     "foreign_question": "experience",
     "ru_question": "опыт",
     "foreign_response": "^\\s*experience\\s*$",
     "ru_response": "^\\s*опыт\\s*$",
     "sound": "experience",
     "preview": "experience"
+  },
+  {
+    "foreign_question": "export",
+    "ru_question": "экспорт",
+    "foreign_response": "^\\s*export\\s*$",
+    "ru_response": "^\\s*(экспорт|экспортировать)\\s*$",
+    "sound": "export",
+    "preview": "export"
+  },
+  {
+    "foreign_question": "factory",
+    "ru_question": "фабрика",
+    "foreign_response": "^\\s*factory\\s*$",
+    "ru_response": "^\\s*фабрика\\s*$",
+    "sound": "factory",
+    "preview": "factory"
+  },
+  {
+    "foreign_question": "file",
+    "ru_question": "файл",
+    "foreign_response": "^\\s*file\\s*$",
+    "ru_response": "^\\s*файл\\s*$",
+    "sound": "file",
+    "preview": "file"
+  },
+  {
+    "foreign_question": "goods",
+    "ru_question": "товар, товары",
+    "foreign_response": "^\\s*goods\\s*$",
+    "ru_response": "^\\s*(товар|товары)\\s*$",
+    "sound": "goods",
+    "preview": "goods"
+  },
+  {
+    "foreign_question": "hard drive (n)",
+    "ru_question": "жесткий диск",
+    "foreign_response": "^\\s*hard drive\\s*$",
+    "ru_response": "^\\s*жесткий диск\\s*$",
+    "sound": "hard_drive",
+    "preview": "hard_drive"
   },
   {
     "foreign_question": "hard work",
@@ -32,12 +208,52 @@
     "preview": "hard_work"
   },
   {
+    "foreign_question": "idea",
+    "ru_question": "идея",
+    "foreign_response": "^\\s*idea\\s*$",
+    "ru_response": "^\\s*идея\\s*$",
+    "sound": "idea",
+    "preview": "idea"
+  },
+  {
+    "foreign_question": "import",
+    "ru_question": "импорт",
+    "foreign_response": "^\\s*import\\s*$",
+    "ru_response": "^\\s*(импортировать|импорт)\\s*$",
+    "sound": "import",
+    "preview": "import"
+  },
+  {
+    "foreign_question": "information",
+    "ru_question": "информация",
+    "foreign_response": "^\\s*information\\s*$",
+    "ru_response": "^\\s*информация\\s*$",
+    "sound": "information",
+    "preview": "information"
+  },
+  {
+    "foreign_question": "interview",
+    "ru_question": "интервью",
+    "foreign_response": "^\\s*interview\\s*$",
+    "ru_response": "^\\s*интервью\\s*$",
+    "sound": "interview",
+    "preview": "interview"
+  },
+  {
     "foreign_question": "job",
     "ru_question": "работа (которая приносит деньги)",
     "foreign_response": "^\\s*job\\s*$",
     "ru_response": "^\\s*работа\\s*$",
     "sound": "job",
     "preview": "job"
+  },
+  {
+    "foreign_question": "keyboard",
+    "ru_question": "клавиатура",
+    "foreign_response": "^\\s*keyboard\\s*$",
+    "ru_response": "^\\s*клавиатура\\s*$",
+    "sound": "keyboard",
+    "preview": "keyboard"
   },
   {
     "foreign_question": "level",
@@ -56,12 +272,108 @@
     "preview": "list"
   },
   {
+    "foreign_question": "owner",
+    "ru_question": "владелец, хозяин, собственник",
+    "foreign_response": "^\\s*owner\\s*$",
+    "ru_response": "^\\s*(владелец|хозяин|собственник)\\s*$",
+    "sound": "owner",
+    "preview": "owner"
+  },
+  {
+    "foreign_question": "means",
+    "ru_question": "средство",
+    "foreign_response": "^\\s*means\\s*$",
+    "ru_response": "^\\s*средство\\s*$",
+    "sound": "means",
+    "preview": "means"
+  },
+  {
+    "foreign_question": "memory space",
+    "ru_question": "объем памяти (в компьютере)",
+    "foreign_response": "^\\s*memory space\\s*$",
+    "ru_response": "^\\s*объем памяти\\s*$",
+    "sound": "memory_space",
+    "preview": "memory_space"
+  },
+  {
+    "foreign_question": "memory stick",
+    "ru_question": "карта памяти",
+    "foreign_response": "^\\s*memory stick\\s*$",
+    "ru_response": "^\\s*(карта памяти|флешка)\\s*$",
+    "sound": "memory_stick",
+    "preview": "memory_stick"
+  },
+  {
     "foreign_question": "mistake",
     "ru_question": "ошибка",
     "foreign_response": "^\\s*mistake\\s*$",
     "ru_response": "^\\s*ошибка\\s*$",
     "sound": "mistake",
-    "preview": ""
+    "preview": "mistake"
+  },
+  {
+    "foreign_question": "modernization",
+    "ru_question": "модернизация",
+    "foreign_response": "^\\s*modernization\\s*$",
+    "ru_response": "^\\s*модернизация\\s*$",
+    "sound": "modernization",
+    "preview": "modernization"
+  },
+  {
+    "foreign_question": "monitor",
+    "ru_question": "монитор",
+    "foreign_response": "^\\s*monitor\\s*$",
+    "ru_response": "^\\s*монитор\\s*$",
+    "sound": "monitor",
+    "preview": "monitor"
+  },
+  {
+    "foreign_question": "mouse",
+    "ru_question": "мышь",
+    "foreign_response": "^\\s*mouse\\s*$",
+    "ru_response": "^\\s*мышь\\s*$",
+    "sound": "mouse",
+    "preview": "mouse"
+  },
+  {
+    "foreign_question": "mouse pad",
+    "ru_question": "коврик для мыши",
+    "foreign_response": "^\\s*mouse pad\\s*$",
+    "ru_response": "^\\s*коврик для мыши\\s*$",
+    "sound": "mouse_pad",
+    "preview": "mouse_pad"
+  },
+  {
+    "foreign_question": "network",
+    "ru_question": "сеть",
+    "foreign_response": "^\\s*network\\s*$",
+    "ru_response": "^\\s*сеть\\s*$",
+    "sound": "network",
+    "preview": "network"
+  },
+  {
+    "foreign_question": "office",
+    "ru_question": "офис",
+    "foreign_response": "^\\s*office\\s*$",
+    "ru_response": "^\\s*офис\\s*$",
+    "sound": "office",
+    "preview": "office"
+  },
+  {
+    "foreign_question": "on holiday",
+    "ru_question": "на выходных, в отпуске",
+    "foreign_response": "^\\s*on holiday\\s*$",
+    "ru_response": "^\\s*(на выходных|в отпуске)\\s*$",
+    "sound": "on_holiday",
+    "preview": "on_holiday"
+  },
+  {
+    "foreign_question": "on mute",
+    "ru_question": "беззвучный режим",
+    "foreign_response": "^\\s*on mute\\s*$",
+    "ru_response": "^\\s*беззвучный режим\\s*$",
+    "sound": "on_mute",
+    "preview": "on_mute"
   },
   {
     "foreign_question": "organisation",
@@ -88,6 +400,62 @@
     "preview": "pattern"
   },
   {
+    "foreign_question": "plant",
+    "ru_question": "завод (синоним works)",
+    "foreign_response": "^\\s*plant\\s*$",
+    "ru_response": "^\\s*завод\\s*$",
+    "sound": "plant",
+    "preview": "plant"
+  },
+  {
+    "foreign_question": "printer",
+    "ru_question": "принтер",
+    "foreign_response": "^\\s*printer\\s*$",
+    "ru_response": "^\\s*принтер\\s*$",
+    "sound": "printer",
+    "preview": "printer"
+  },
+  {
+    "foreign_question": "problem",
+    "ru_question": "проблема",
+    "foreign_response": "^\\s*problem\\s*$",
+    "ru_response": "^\\s*проблема\\s*$",
+    "sound": "problem",
+    "preview": "problem"
+  },
+  {
+    "foreign_question": "profession",
+    "ru_question": "профессия",
+    "foreign_response": "^\\s*profession\\s*$",
+    "ru_response": "^\\s*профессия\\s*$",
+    "sound": "profession",
+    "preview": "profession"
+  },
+  {
+    "foreign_question": "professional",
+    "ru_question": "профессионал, профессиональный",
+    "foreign_response": "^\\s*professional\\s*$",
+    "ru_response": "^\\s*(профессионал|профессиональный)\\s*$",
+    "sound": "professional",
+    "preview": "professional"
+  },
+  {
+    "foreign_question": "program",
+    "ru_question": "программа",
+    "foreign_response": "^\\s*program(me)?\\s*$",
+    "ru_response": "^\\s*программа\\s*$",
+    "sound": "program",
+    "preview": "program"
+  },
+  {
+    "foreign_question": "public relations (PR)",
+    "ru_question": "общественные связи",
+    "foreign_response": "^\\s*(public relations|PR)\\s*$",
+    "ru_response": "^\\s*общественные связи\\s*$",
+    "sound": "public_relations",
+    "preview": "public_relations"
+  },
+  {
     "foreign_question": "restaurant",
     "ru_question": "ресторан",
     "foreign_response": "^\\s*restaurant\\s*$",
@@ -104,12 +472,76 @@
     "preview": "result"
   },
   {
+    "foreign_question": "resume",
+    "ru_question": "резюме",
+    "foreign_response": "^\\s*resume\\s*$",
+    "ru_response": "^\\s*резюме\\s*$",
+    "sound": "resume",
+    "preview": "resume"
+  },
+  {
+    "foreign_question": "retired",
+    "ru_question": "пенсия",
+    "foreign_response": "^\\s*retired\\s*$",
+    "ru_response": "^\\s*пенсия\\s*$",
+    "sound": "retired",
+    "preview": "retired"
+  },
+  {
     "foreign_question": "screen",
     "ru_question": "экран",
     "foreign_response": "^\\s*screen\\s*$",
     "ru_response": "^\\s*экран\\s*$",
     "sound": "screen",
     "preview": "screen"
+  },
+  {
+    "foreign_question": "specialise in",
+    "ru_question": "специализироваться в",
+    "foreign_response": "^\\s*specialise in\\s*$",
+    "ru_response": "^\\s*специализироваться в\\s*$",
+    "sound": "specialise_in",
+    "preview": "specialise_in"
+  },
+  {
+    "foreign_question": "staff",
+    "ru_question": "персонал, сотрудники",
+    "foreign_response": "^\\s*staff\\s*$",
+    "ru_response": "^\\s*(персонал|сотрудники)\\s*$",
+    "sound": "staff",
+    "preview": "staff"
+  },
+  {
+    "foreign_question": "studio",
+    "ru_question": "студия",
+    "foreign_response": "^\\s*studio\\s*$",
+    "ru_response": "^\\s*студия\\s*$",
+    "sound": "studio",
+    "preview": "studio"
+  },
+  {
+    "foreign_question": "system",
+    "ru_question": "система",
+    "foreign_response": "^\\s*system\\s*$",
+    "ru_response": "^\\s*система\\s*$",
+    "sound": "system",
+    "preview": "system"
+  },
+  {
+    "foreign_question": "success",
+    "ru_question": "успех",
+    "foreign_response": "^\\s*success\\s*$",
+    "ru_response": "^\\s*успех\\s*$",
+    "sound": "success",
+    "preview": "success"
+  },
+  {
+    "foreign_question": "support",
+    "ru_question": "поддержка",
+    "foreign_response": "^\\s*support\\s*$",
+    "ru_response": "^\\s*(поддержка|поддерживать)\\s*$",
+    "sound": "support",
+    "preview": "support"
   },
   {
     "foreign_question": "team",
@@ -120,12 +552,52 @@
     "preview": "team"
   },
   {
+    "foreign_question": "technology",
+    "ru_question": "технология",
+    "foreign_response": "^\\s*technology\\s*$",
+    "ru_response": "^\\s*технологи[яи]\\s*$",
+    "sound": "technology",
+    "preview": "technology"
+  },
+  {
+    "foreign_question": "television",
+    "ru_question": "телевидение",
+    "foreign_response": "^\\s*television\\s*$",
+    "ru_response": "^\\s*телевидение\\s*$",
+    "sound": "television",
+    "preview": "television"
+  },
+  {
+    "foreign_question": "touch",
+    "ru_question": "прикосновение, касаться",
+    "foreign_response": "^\\s*touch\\s*$",
+    "ru_response": "^\\s*(прикосновение|касаться)\\s*$",
+    "sound": "touch",
+    "preview": "touch"
+  },
+  {
+    "foreign_question": "USB port",
+    "ru_question": "USB порт",
+    "foreign_response": "^\\s*USB port\\s*$",
+    "ru_response": "^\\s*USB( порт)?\\s*$",
+    "sound": "usb_port",
+    "preview": "usb_port"
+  },
+  {
     "foreign_question": "visitor",
     "ru_question": "посетитель",
     "foreign_response": "^\\s*visitor\\s*$",
     "ru_response": "^\\s*посетитель\\s*$",
     "sound": "visitor",
     "preview": "visitor"
+  },
+  {
+    "foreign_question": "volume control",
+    "ru_question": "регулятор громкости",
+    "foreign_response": "^\\s*volume control\\s*$",
+    "ru_response": "^\\s*(контроль|регулятор) громкости\\s*$",
+    "sound": "volume_control",
+    "preview": "volume_control"
   },
   {
     "foreign_question": "weekend",
@@ -142,5 +614,21 @@
     "ru_response": "^\\s*Кем [тв]ы работае(шь|те)\\?\\s*$",
     "sound": "what_is_your_job-",
     "preview": "what_is_your_job-"
+  },
+  {
+    "foreign_question": "work",
+    "ru_question": "работа",
+    "foreign_response": "^\\s*work\\s*$",
+    "ru_response": "^\\s*работа\\s*$",
+    "sound": "work",
+    "preview": "work"
+  },
+  {
+    "foreign_question": "works",
+    "ru_question": "завод, заводы (синоним plant)",
+    "foreign_response": "^\\s*works\\s*$",
+    "ru_response": "^\\s*заводы?\\s*$",
+    "sound": "works",
+    "preview": "works"
   }
 ]

@@ -1,11 +1,91 @@
 [
   {
+    "foreign_question": "apartment",
+    "ru_question": "квартира (амер)",
+    "foreign_response": "^\\s*apartment\\s*$",
+    "ru_response": "^\\s*квартира\\s*$",
+    "sound": "apartment",
+    "preview": "apartment"
+  },
+  {
+    "foreign_question": "armchair",
+    "ru_question": "кресло",
+    "foreign_response": "^\\s*armchair\\s*$",
+    "ru_response": "^\\s*кресло\\s*$",
+    "sound": "armchair",
+    "preview": "armchair"
+  },
+  {
+    "foreign_question": "balcony",
+    "ru_question": "балкон",
+    "foreign_response": "^\\s*balcony\\s*$",
+    "ru_response": "^\\s*балкон\\s*$",
+    "sound": "balcony",
+    "preview": "balcony"
+  },
+  {
+    "foreign_question": "bath",
+    "ru_question": "ванная",
+    "foreign_response": "^\\s*bath\\s*$",
+    "ru_response": "^\\s*ванная\\s*$",
+    "sound": "bath",
+    "preview": "bath"
+  },
+  {
+    "foreign_question": "bathroom",
+    "ru_question": "ванная комната",
+    "foreign_response": "^\\s*bathroom\\s*$",
+    "ru_response": "^\\s*ванная( комната)?\\s*$",
+    "sound": "bathroom",
+    "preview": "bathroom"
+  },
+  {
+    "foreign_question": "bed",
+    "ru_question": "кровать",
+    "foreign_response": "^\\s*bed\\s*$",
+    "ru_response": "^\\s*кровать\\s*$",
+    "sound": "bed",
+    "preview": "bed"
+  },
+  {
+    "foreign_question": "bedroom",
+    "ru_question": "спальня",
+    "foreign_response": "^\\s*bedroom\\s*$",
+    "ru_response": "^\\s*спальня\\s*$",
+    "sound": "bedroom",
+    "preview": "bedroom"
+  },
+  {
+    "foreign_question": "bookcase",
+    "ru_question": "книжный шкаф",
+    "foreign_response": "^\\s*bookcase\\s*$",
+    "ru_response": "^\\s*книжный шкаф\\s*$",
+    "sound": "bookcase",
+    "preview": "bookcase"
+  },
+  {
     "foreign_question": "chair",
     "ru_question": "стул",
     "foreign_response": "^\\s*chair\\s*$",
     "ru_response": "^\\s*стул\\s*$",
     "sound": "chair",
     "preview": "chair"
+  },
+  {
+    "foreign_question": "cooker",
+    "ru_question": "кухонная плита",
+    "foreign_response": "^\\s*cooker\\s*$",
+    "ru_response": "^\\s*(кухонная )?плита\\s*$",
+    "sound": "cooker",
+    "preview": "cooker"
+  },
+  {
+    "foreign_question": "corridor",
+    "ru_question": "коридор",
+    "foreign_response": "^\\s*corridor\\s*$",
+    "ru_response": "^\\s*коридор\\s*$",
+    "sound": "corridor",
+    "preview": "corridor"
   },
   {
     "foreign_question": "country house",
@@ -16,11 +96,347 @@
     "preview": "country_house"
   },
   {
-    "foreign_question": "take care",
-    "ru_question": "береги себя",
-    "foreign_response": "^\\s*take care\\s*$",
-    "ru_response": "^\\s*береги себя\\s*$",
-    "sound": "take_care",
-    "preview": "take_care"
+    "foreign_question": "cup",
+    "ru_question": "чашка",
+    "foreign_response": "^\\s*cup\\s*$",
+    "ru_response": "^\\s*чашка\\s*$",
+    "sound": "cup",
+    "preview": "cup"
+  },
+  {
+    "foreign_question": "curtain",
+    "ru_question": "занавеска",
+    "foreign_response": "^\\s*curtain\\s*$",
+    "ru_response": "^\\s*занавеска\\s*$",
+    "sound": "curtain",
+    "preview": "curtain"
+  },
+  {
+    "foreign_question": "desk",
+    "ru_question": "письменный стол",
+    "foreign_response": "^\\s*desk\\s*$",
+    "ru_response": "^\\s*(письменный|рабочий) стол\\s*$",
+    "sound": "desk",
+    "preview": "desk"
+  },
+  {
+    "foreign_question": "dining room",
+    "ru_question": "столовая",
+    "foreign_response": "^\\s*dining room\\s*$",
+    "ru_response": "^\\s*столовая\\s*$",
+    "sound": "dining_room",
+    "preview": "dining_room"
+  },
+  {
+    "foreign_question": "disorder",
+    "ru_question": "беспорядок",
+    "foreign_response": "^\\s*disorder\\s*$",
+    "ru_response": "^\\s*беспорядок\\s*$",
+    "sound": "disorder",
+    "preview": "disorder"
+  },
+  {
+    "foreign_question": "door",
+    "ru_question": "дверь",
+    "foreign_response": "^\\s*door\\s*$",
+    "ru_response": "^\\s*дверь\\s*$",
+    "sound": "door",
+    "preview": "door"
+  },
+  {
+    "foreign_question": "exit",
+    "ru_question": "выход, выезд",
+    "foreign_response": "^\\s*exit\\s*$",
+    "ru_response": "^\\s*(выход|выезд)\\s*$",
+    "sound": "exit",
+    "preview": "exit"
+  },
+  {
+    "foreign_question": "farm",
+    "ru_question": "ферма",
+    "foreign_response": "^\\s*farm\\s*$",
+    "ru_response": "^\\s*ферма\\s*$",
+    "sound": "farm",
+    "preview": "farm"
+  },
+  {
+    "foreign_question": "fence",
+    "ru_question": "забор",
+    "foreign_response": "^\\s*fence\\s*$",
+    "ru_response": "^\\s*(забор|ограда)\\s*$",
+    "sound": "fence",
+    "preview": "fence"
+  },
+  {
+    "foreign_question": "flat",
+    "ru_question": "квартира (англ)",
+    "foreign_response": "^\\s*flat\\s*$",
+    "ru_response": "^\\s*квартира\\s*$",
+    "sound": "flat",
+    "preview": "flat"
+  },
+  {
+    "foreign_question": "floor",
+    "ru_question": "этаж, пол",
+    "foreign_response": "^\\s*floor\\s*$",
+    "ru_response": "^\\s*(этаж|пол)\\s*$",
+    "sound": "floor",
+    "preview": "floor"
+  },
+  {
+    "foreign_question": "fridge",
+    "ru_question": "холодильник",
+    "foreign_response": "^\\s*fridge\\s*$",
+    "ru_response": "^\\s*холодильник\\s*$",
+    "sound": "fridge",
+    "preview": "fridge"
+  },
+  {
+    "foreign_question": "furniture",
+    "ru_question": "мебель",
+    "foreign_response": "^\\s*furniture\\s*$",
+    "ru_response": "^\\s*мебель\\s*$",
+    "sound": "furniture",
+    "preview": "furniture"
+  },
+  {
+    "foreign_question": "garage",
+    "ru_question": "гараж",
+    "foreign_response": "^\\s*garage\\s*$",
+    "ru_response": "^\\s*гараж\\s*$",
+    "sound": "garage",
+    "preview": "garage"
+  },
+  {
+    "foreign_question": "home",
+    "ru_question": "дом, домашний очаг, жилье",
+    "foreign_response": "^\\s*home\\s*$",
+    "ru_response": "^\\s*(дом|(домашний|семейный) очаг|жилье)\\s*$",
+    "sound": "home",
+    "preview": "home"
+  },
+  {
+    "foreign_question": "house",
+    "ru_question": "дом",
+    "foreign_response": "^\\s*house\\s*$",
+    "ru_response": "^\\s*дом\\s*$",
+    "sound": "house",
+    "preview": "house"
+  },
+  {
+    "foreign_question": "kitchen",
+    "ru_question": "кухня",
+    "foreign_response": "^\\s*kitchen\\s*$",
+    "ru_response": "^\\s*кухня\\s*$",
+    "sound": "kitchen",
+    "preview": "kitchen"
+  },
+  {
+    "foreign_question": "lamp",
+    "ru_question": "лампа",
+    "foreign_response": "^\\s*lamp\\s*$",
+    "ru_response": "^\\s*лампа\\s*$",
+    "sound": "lamp",
+    "preview": "lamp"
+  },
+  {
+    "foreign_question": "lift",
+    "ru_question": "лифт",
+    "foreign_response": "^\\s*lift\\s*$",
+    "ru_response": "^\\s*лифт\\s*$",
+    "sound": "lift",
+    "preview": "lift"
+  },
+  {
+    "foreign_question": "means",
+    "ru_question": "средство",
+    "foreign_response": "^\\s*means\\s*$",
+    "ru_response": "^\\s*средство\\s*$",
+    "sound": "means",
+    "preview": "means"
+  },
+  {
+    "foreign_question": "mirror",
+    "ru_question": "зеркало",
+    "foreign_response": "^\\s*mirror\\s*$",
+    "ru_response": "^\\s*зеркало\\s*$",
+    "sound": "mirror",
+    "preview": "mirror"
+  },
+  {
+    "foreign_question": "order",
+    "ru_question": "порядок",
+    "foreign_response": "^\\s*order\\s*$",
+    "ru_response": "^\\s*порядок\\s*$",
+    "sound": "order",
+    "preview": "order"
+  },
+  {
+    "foreign_question": "outside",
+    "ru_question": "на улице, за пределами дома",
+    "foreign_response": "^\\s*outside\\s*$",
+    "ru_response": "^\\s*(на улице|за пределами дома|с ?наружи|на улице)\\s*$",
+    "sound": "outside",
+    "preview": "outside"
+  },
+  {
+    "foreign_question": "pet",
+    "ru_question": "домашний питомец",
+    "foreign_response": "^\\s*pet\\s*$",
+    "ru_response": "^\\s*((домашний )?питомец|домашнее животное)\\s*$",
+    "sound": "pet",
+    "preview": "pet"
+  },
+  {
+    "foreign_question": "pillow",
+    "ru_question": "подушка",
+    "foreign_response": "^\\s*pillow\\s*$",
+    "ru_response": "^\\s*подушка\\s*$",
+    "sound": "pillow",
+    "preview": "pillow"
+  },
+  {
+    "foreign_question": "plate",
+    "ru_question": "тарелка",
+    "foreign_response": "^\\s*plate\\s*$",
+    "ru_response": "^\\s*тарелка\\s*$",
+    "sound": "plate",
+    "preview": "plate"
+  },
+  {
+    "foreign_question": "poster",
+    "ru_question": "плакат",
+    "foreign_response": "^\\s*poster\\s*$",
+    "ru_response": "^\\s*(плакат|постер)\\s*$",
+    "sound": "poster",
+    "preview": "poster"
+  },
+  {
+    "foreign_question": "rearrange",
+    "ru_question": "перестановка",
+    "foreign_response": "^\\s*rearrange\\s*$",
+    "ru_response": "^\\s*(перестановка)\\s*$",
+    "sound": "rearrange",
+    "preview": "rearrange"
+  },
+  {
+    "foreign_question": "roof",
+    "ru_question": "крыша",
+    "foreign_response": "^\\s*roof\\s*$",
+    "ru_response": "^\\s*(крыша|кров(ля)?)\\s*$",
+    "sound": "roof",
+    "preview": "roof"
+  },
+  {
+    "foreign_question": "room",
+    "ru_question": "комната",
+    "foreign_response": "^\\s*room\\s*$",
+    "ru_response": "^\\s*комната\\s*$",
+    "sound": "room",
+    "preview": "room"
+  },
+  {
+    "foreign_question": "rug",
+    "ru_question": "ковер",
+    "foreign_response": "^\\s*rug\\s*$",
+    "ru_response": "^\\s*ковер\\s*$",
+    "sound": "rug",
+    "preview": "rug"
+  },
+  {
+    "foreign_question": "savings",
+    "ru_question": "сбережения",
+    "foreign_response": "^\\s*savings\\s*$",
+    "ru_response": "^\\s*сбережения\\s*$",
+    "sound": "savings",
+    "preview": "savings"
+  },
+  {
+    "foreign_question": "scales",
+    "ru_question": "весы",
+    "foreign_response": "^\\s*scales\\s*$",
+    "ru_response": "^\\s*весы\\s*$",
+    "sound": "scales",
+    "preview": "scales"
+  },
+  {
+    "foreign_question": "sofa",
+    "ru_question": "диван",
+    "foreign_response": "^\\s*sofa\\s*$",
+    "ru_response": "^\\s*диван\\s*$",
+    "sound": "sofa",
+    "preview": "sofa"
+  },
+  {
+    "foreign_question": "stairs",
+    "ru_question": "лестница",
+    "foreign_response": "^\\s*stairs\\s*$",
+    "ru_response": "^\\s*лестница\\s*$",
+    "sound": "stairs",
+    "preview": "stairs"
+  },
+  {
+    "foreign_question": "study (n)",
+    "ru_question": "рабочий кабинет",
+    "foreign_response": "^\\s*study\\s*$",
+    "ru_response": "^\\s*(рабочий )?кабинет\\s*$",
+    "sound": "study",
+    "preview": "study__n"
+  },
+  {
+    "foreign_question": "table",
+    "ru_question": "стол",
+    "foreign_response": "^\\s*table\\s*$",
+    "ru_response": "^\\s*стол\\s*$",
+    "sound": "table",
+    "preview": "table"
+  },
+  {
+    "foreign_question": "toilet",
+    "ru_question": "туалет, унитаз",
+    "foreign_response": "^\\s*toilet\\s*$",
+    "ru_response": "^\\s*(туалет|унитаз)\\s*$",
+    "sound": "toilet",
+    "preview": "toilet"
+  },
+  {
+    "foreign_question": "wall",
+    "ru_question": "стена",
+    "foreign_response": "^\\s*wall\\s*$",
+    "ru_response": "^\\s*стена\\s*$",
+    "sound": "wall",
+    "preview": "wall"
+  },
+  {
+    "foreign_question": "wallpaper",
+    "ru_question": "обои",
+    "foreign_response": "^\\s*wallpaper\\s*$",
+    "ru_response": "^\\s*обои\\s*$",
+    "sound": "wallpaper",
+    "preview": "wallpaper"
+  },
+  {
+    "foreign_question": "wardrobe",
+    "ru_question": "гардероб",
+    "foreign_response": "^\\s*wardrobe\\s*$",
+    "ru_response": "^\\s*гардероб\\s*$",
+    "sound": "wardrobe",
+    "preview": "wardrobe"
+  },
+  {
+    "foreign_question": "washing machine",
+    "ru_question": "стиральная машина",
+    "foreign_response": "^\\s*washing machine\\s*$",
+    "ru_response": "^\\s*стиральная машина\\s*$",
+    "sound": "washing_machine",
+    "preview": "washing_machine"
+  },
+  {
+    "foreign_question": "window",
+    "ru_question": "окно",
+    "foreign_response": "^\\s*window\\s*$",
+    "ru_response": "^\\s*окно\\s*$",
+    "sound": "window",
+    "preview": "window"
   }
 ]

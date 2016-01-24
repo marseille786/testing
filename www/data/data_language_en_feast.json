@@ -1,0 +1,58 @@
+[
+  {
+    "foreign_question": "amusement park",
+    "ru_question": "парк развлечений",
+    "foreign_response": "^\\s*amusement park\\s*$",
+    "ru_response": "^\\s*парк развлечений\\s*$",
+    "sound": "amusement_park",
+    "preview": "amusement_park"
+  },
+  {
+    "foreign_question": "feast",
+    "ru_question": "праздник",
+    "foreign_response": "^\\s*feast\\s*$",
+    "ru_response": "^\\s*праздник\\s*$",
+    "sound": "feast",
+    "preview": "feast"
+  },
+  {
+    "foreign_question": "gift",
+    "ru_question": "подарок (синоним present)",
+    "foreign_response": "^\\s*gift\\s*$",
+    "ru_response": "^\\s*подарок\\s*$",
+    "sound": "gift",
+    "preview": "gift"
+  },
+  {
+    "foreign_question": "present",
+    "ru_question": "подарок (синоним gift)",
+    "foreign_response": "^\\s*present\\s*$",
+    "ru_response": "^\\s*подарок\\s*$",
+    "sound": "present",
+    "preview": "present"
+  },
+  {
+    "foreign_question": "roller coaster",
+    "ru_question": "американские горки",
+    "foreign_response": "^\\s*roller coaster\\s*$",
+    "ru_response": "^\\s*американские горки\\s*$",
+    "sound": "roller_coaster",
+    "preview": "roller_coaster"
+  },
+  {
+    "foreign_question": "souvenir",
+    "ru_question": "сувенир",
+    "foreign_response": "^\\s*souvenir\\s*$",
+    "ru_response": "^\\s*сувенир\\s*$",
+    "sound": "souvenir",
+    "preview": "souvenir"
+  },
+  {
+    "foreign_question": "wedding",
+    "ru_question": "свадьба, бракосочетание",
+    "foreign_response": "^\\s*wedding\\s*$",
+    "ru_response": "^\\s*(свадьба|бракосочетание|венчание|женитьба)\\s*$",
+    "sound": "wedding",
+    "preview": "wedding"
+  }
+]

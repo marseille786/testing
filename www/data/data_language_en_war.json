@@ -32,6 +32,22 @@
     "preview": "kill"
   },
   {
+    "foreign_question": "medal",
+    "ru_question": "медаль",
+    "foreign_response": "^\\s*medal\\s*$",
+    "ru_response": "^\\s*медаль\\s*$",
+    "sound": "medal",
+    "preview": "medal"
+  },
+  {
+    "foreign_question": "order",
+    "ru_question": "приказ",
+    "foreign_response": "^\\s*order\\s*$",
+    "ru_response": "^\\s*приказ\\s*$",
+    "sound": "order",
+    "preview": "order"
+  },
+  {
     "foreign_question": "revenge",
     "ru_question": "месть",
     "foreign_response": "^\\s*revenge\\s*$",

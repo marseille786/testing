@@ -8,6 +8,30 @@
     "preview": "alpinism"
   },
   {
+    "foreign_question": "athlete",
+    "ru_question": "атлет, спортсмен, легкоатлет",
+    "foreign_response": "^\\s*athlete\\s*$",
+    "ru_response": "^\\s*(атлет|спортсмен|легкоатлет)\\s*$",
+    "sound": "athlete",
+    "preview": "athlete"
+  },
+  {
+    "foreign_question": "athletics",
+    "ru_question": "легкая атлетика",
+    "foreign_response": "^\\s*athletics\\s*$",
+    "ru_response": "^\\s*легкая атлетика\\s*$",
+    "sound": "athletics",
+    "preview": "athletics"
+  },
+  {
+    "foreign_question": "award",
+    "ru_question": "награда, премия",
+    "foreign_response": "^\\s*award\\s*$",
+    "ru_response": "^\\s*(награда|премия|награждать|присуждать)\\s*$",
+    "sound": "award",
+    "preview": "award"
+  },
+  {
     "foreign_question": "ball",
     "ru_question": "мяч",
     "foreign_response": "^\\s*ball\\s*$",
@@ -16,12 +40,36 @@
     "preview": "ball"
   },
   {
+    "foreign_question": "beat",
+    "ru_question": "удар",
+    "foreign_response": "^\\s*beat\\s*$",
+    "ru_response": "^\\s*(бить|удар)\\s*$",
+    "sound": "beat",
+    "preview": "beat"
+  },
+  {
+    "foreign_question": "break",
+    "ru_question": "перерыв, разрыв",
+    "foreign_response": "^\\s*break\\s*$",
+    "ru_response": "^\\s*(ломать|нарушать|перерыв|разрыв|разбить|разбивать)\\s*$",
+    "sound": "break",
+    "preview": "break"
+  },
+  {
     "foreign_question": "bungee jumping",
     "ru_question": "прыжки с тарзанки",
     "foreign_response": "^\\s*bungee jumping\\s*$",
     "ru_response": "^\\s*((прыж(ки|ок)|прыгать|прыган[ьи]е) с тарзанки|прыган[ьи]е на тарзанке)\\s*$",
     "sound": "bungee_jumping",
     "preview": "bungee_jumping"
+  },
+  {
+    "foreign_question": "cicle",
+    "ru_question": "езда на велосипеде",
+    "foreign_response": "^\\s*cicle\\s*$",
+    "ru_response": "^\\s*езда на велосипеде\\s*$",
+    "sound": "cicle",
+    "preview": "cicle"
   },
   {
     "foreign_question": "champion",
@@ -38,6 +86,30 @@
     "ru_response": "^\\s*чемпионат\\s*$",
     "sound": "championship",
     "preview": "championship"
+  },
+  {
+    "foreign_question": "coach",
+    "ru_question": "тренер",
+    "foreign_response": "^\\s*coach\\s*$",
+    "ru_response": "^\\s*тренер\\s*$",
+    "sound": "coach",
+    "preview": "coach"
+  },
+  {
+    "foreign_question": "competition",
+    "ru_question": "соревнование, состязание, конкурс",
+    "foreign_response": "^\\s*competition\\s*$",
+    "ru_response": "^\\s*(соревновани[ея]|состязание|конкурс)\\s*$",
+    "sound": "competition",
+    "preview": "competition"
+  },
+  {
+    "foreign_question": "court",
+    "ru_question": "корт",
+    "foreign_response": "^\\s*court\\s*$",
+    "ru_response": "^\\s*корт\\s*$",
+    "sound": "court",
+    "preview": "court"
   },
   {
     "foreign_question": "cup",
@@ -104,6 +176,22 @@
     "preview": "go_skiing"
   },
   {
+    "foreign_question": "hiking",
+    "ru_question": "пеший туризм",
+    "foreign_response": "^\\s*hiking\\s*$",
+    "ru_response": "^\\s*(пеший|пешеходный) туризм\\s*$",
+    "sound": "hiking",
+    "preview": "hiking"
+  },
+  {
+    "foreign_question": "horse riding",
+    "ru_question": "верховая езда",
+    "foreign_response": "^\\s*horse riding\\s*$",
+    "ru_response": "^\\s*верховая езда\\s*$",
+    "sound": "horse_riding",
+    "preview": "horse_riding"
+  },
+  {
     "foreign_question": "hunting",
     "ru_question": "охота",
     "foreign_response": "^\\s*hunt(ing)?\\s*$",
@@ -136,6 +224,30 @@
     "preview": "kayaking"
   },
   {
+    "foreign_question": "long jump",
+    "ru_question": "прыжок в длину",
+    "foreign_response": "^\\s*long jump\\s*$",
+    "ru_response": "^\\s*прыжок в длину\\s*$",
+    "sound": "long_jump",
+    "preview": "long_jump"
+  },
+  {
+    "foreign_question": "match",
+    "ru_question": "матч",
+    "foreign_response": "^\\s*match\\s*$",
+    "ru_response": "^\\s*(матч)\\s*$",
+    "sound": "match",
+    "preview": "match"
+  },
+  {
+    "foreign_question": "medal",
+    "ru_question": "медаль",
+    "foreign_response": "^\\s*medal\\s*$",
+    "ru_response": "^\\s*медаль\\s*$",
+    "sound": "medal",
+    "preview": "medal"
+  },
+  {
     "foreign_question": "mountain biking",
     "ru_question": "катание на горных велосипедах",
     "foreign_response": "^\\s*mountain biking\\s*$",
@@ -160,6 +272,86 @@
     "preview": "opponent"
   },
   {
+    "foreign_question": "player",
+    "ru_question": "игрок, плеер",
+    "foreign_response": "^\\s*player\\s*$",
+    "ru_response": "^\\s*(игрок)\\s*$",
+    "sound": "player",
+    "preview": "player"
+  },
+  {
+    "foreign_question": "point",
+    "ru_question": "точка, балл, пункт",
+    "foreign_response": "^\\s*point\\s*$",
+    "ru_response": "^\\s*(точка|балл|пункт)\\s*$",
+    "sound": "point",
+    "preview": "point"
+  },
+  {
+    "foreign_question": "race",
+    "ru_question": "гонка, гонки",
+    "foreign_response": "^\\s*race\\s*$",
+    "ru_response": "^\\s*(гонка|гонки)\\s*$",
+    "sound": "race",
+    "preview": "race"
+  },
+  {
+    "foreign_question": "record",
+    "ru_question": "рекорд",
+    "foreign_response": "^\\s*record\\s*$",
+    "ru_response": "^\\s*(запись|рекорд|записывать|регистрировать)\\s*$",
+    "sound": "record",
+    "preview": "record"
+  },
+  {
+    "foreign_question": "relay",
+    "ru_question": "эстафета, передавать",
+    "foreign_response": "^\\s*relay\\s*$",
+    "ru_response": "^\\s*(эстафета|передавать)\\s*$",
+    "sound": "relay",
+    "preview": "relay"
+  },
+  {
+    "foreign_question": "ridden a motorbike",
+    "ru_question": "езда на мотоцикле",
+    "foreign_response": "^\\s*ridden a motorbike\\s*$",
+    "ru_response": "^\\s*езда на мотоцикле\\s*$",
+    "sound": "ridden_a_motorbike",
+    "preview": "ridden_a_motorbike"
+  },
+  {
+    "foreign_question": "rollerblading",
+    "ru_question": "катание на роликовых коньках",
+    "foreign_response": "^\\s*rollerblading\\s*$",
+    "ru_response": "^\\s*(катание|езда) на (роликовых коньках|роликах)\\s*$",
+    "sound": "rollerblading",
+    "preview": "rollerblading"
+  },
+  {
+    "foreign_question": "rugby",
+    "ru_question": "регби",
+    "foreign_response": "^\\s*rugby\\s*$",
+    "ru_response": "^\\s*регби\\s*$",
+    "sound": "rugby",
+    "preview": "rugby"
+  },
+  {
+    "foreign_question": "score",
+    "ru_question": "счет, количество очков, забивать (гол)",
+    "foreign_response": "^\\s*score\\s*$",
+    "ru_response": "^\\s*(счет|количество очков|забивать( гол)?)\\s*$",
+    "sound": "score",
+    "preview": "score"
+  },
+  {
+    "foreign_question": "skating rink",
+    "ru_question": "каток",
+    "foreign_response": "^\\s*skating rink\\s*$",
+    "ru_response": "^\\s*каток\\s*$",
+    "sound": "skating_rink",
+    "preview": "skating_rink"
+  },
+  {
     "foreign_question": "skiing",
     "ru_question": "катание на лыжах",
     "foreign_response": "^\\s*skiing\\s*$",
@@ -176,12 +368,28 @@
     "preview": "sport"
   },
   {
+    "foreign_question": "sports stadium",
+    "ru_question": "стадион",
+    "foreign_response": "^\\s*sports stadium\\s*$",
+    "ru_response": "^\\s*стадион\\s*$",
+    "sound": "sports_stadium",
+    "preview": "sports_stadium"
+  },
+  {
     "foreign_question": "surfing",
     "ru_question": "серфинг",
     "foreign_response": "^\\s*surfing\\s*$",
     "ru_response": "^\\s*серфинг\\s*$",
     "sound": "surfing",
     "preview": "surfing"
+  },
+  {
+    "foreign_question": "table tennis",
+    "ru_question": "настольный теннис",
+    "foreign_response": "^\\s*table tennis\\s*$",
+    "ru_response": "^\\s*настольный теннис\\s*$",
+    "sound": "table_tennis",
+    "preview": "table_tennis"
   },
   {
     "foreign_question": "team",

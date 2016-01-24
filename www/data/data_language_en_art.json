@@ -1,5 +1,29 @@
 [
   {
+    "foreign_question": "art",
+    "ru_question": "искусство",
+    "foreign_response": "^\\s*art\\s*$",
+    "ru_response": "^\\s*искусство\\s*$",
+    "sound": "art",
+    "preview": "art"
+  },
+  {
+    "foreign_question": "ballet",
+    "ru_question": "балет",
+    "foreign_response": "^\\s*ballet\\s*$",
+    "ru_response": "^\\s*балет\\s*$",
+    "sound": "ballet",
+    "preview": "ballet"
+  },
+  {
+    "foreign_question": "band",
+    "ru_question": "группа, банда",
+    "foreign_response": "^\\s*band\\s*$",
+    "ru_response": "^\\s*(группа|банда)\\s*$",
+    "sound": "band",
+    "preview": "band"
+  },
+  {
     "foreign_question": "based on",
     "ru_question": "основан на, по мотивам",
     "foreign_response": "^\\s*based on\\s*$",
@@ -8,20 +32,28 @@
     "preview": "based_on"
   },
   {
-    "foreign_question": "shooting day",
-    "ru_question": "съемочный день",
-    "foreign_response": "^\\s*shooting day\\s*$",
-    "ru_response": "^\\s*съемочный день\\s*$",
-    "sound": "shooting_day",
-    "preview": "shooting_day"
+    "foreign_question": "character",
+    "ru_question": "персонаж, действующее лицо",
+    "foreign_response": "^\\s*character\\s*$",
+    "ru_response": "^\\s*(персонаж|действующее лицо)\\s*$",
+    "sound": "character",
+    "preview": "character"
   },
   {
-    "foreign_question": "scene",
-    "ru_question": "сцена",
-    "foreign_response": "^\\s*scene\\s*$",
-    "ru_response": "^\\s*сцена\\s*$",
-    "sound": "scene",
-    "preview": "scene"
+    "foreign_question": "cinema",
+    "ru_question": "кино",
+    "foreign_response": "^\\s*cinema\\s*$",
+    "ru_response": "^\\s*кино(театр)?\\s*$",
+    "sound": "cinema",
+    "preview": "cinema"
+  },
+  {
+    "foreign_question": "color",
+    "ru_question": "цвет",
+    "foreign_response": "^\\s*colou?r\\s*$",
+    "ru_response": "^\\s*цвет\\s*$",
+    "sound": "color",
+    "preview": "color"
   },
   {
     "foreign_question": "main role",
@@ -30,6 +62,46 @@
     "ru_response": "^\\s*главная роль\\s*$",
     "sound": "main_role",
     "preview": "main_role"
+  },
+  {
+    "foreign_question": "melody",
+    "ru_question": "мелодия",
+    "foreign_response": "^\\s*melody\\s*$",
+    "ru_response": "^\\s*мелодия\\s*$",
+    "sound": "melody",
+    "preview": "melody"
+  },
+  {
+    "foreign_question": "music",
+    "ru_question": "музыка",
+    "foreign_response": "^\\s*music\\s*$",
+    "ru_response": "^\\s*музыка\\s*$",
+    "sound": "music",
+    "preview": "music"
+  },
+  {
+    "foreign_question": "opera",
+    "ru_question": "опера",
+    "foreign_response": "^\\s*opera\\s*$",
+    "ru_response": "^\\s*опера\\s*$",
+    "sound": "opera",
+    "preview": "opera"
+  },
+  {
+    "foreign_question": "painting",
+    "ru_question": "живопись",
+    "foreign_response": "^\\s*painting\\s*$",
+    "ru_response": "^\\s*живопись\\s*$",
+    "sound": "painting",
+    "preview": "painting"
+  },
+  {
+    "foreign_question": "play",
+    "ru_question": "пьеса",
+    "foreign_response": "^\\s*play\\s*$",
+    "ru_response": "^\\s*пьеса\\s*$",
+    "sound": "play",
+    "preview": "play"
   },
   {
     "foreign_question": "part",
@@ -72,6 +144,14 @@
     "preview": "role"
   },
   {
+    "foreign_question": "scene",
+    "ru_question": "сцена",
+    "foreign_response": "^\\s*scene\\s*$",
+    "ru_response": "^\\s*сцена\\s*$",
+    "sound": "scene",
+    "preview": "scene"
+  },
+  {
     "foreign_question": "screen version",
     "ru_question": "экранизация",
     "foreign_response": "^\\s*screen version\\s*$",
@@ -80,12 +160,36 @@
     "preview": "screen_version"
   },
   {
+    "foreign_question": "script",
+    "ru_question": "сценарий",
+    "foreign_response": "^\\s*script\\s*$",
+    "ru_response": "^\\s*сценарий\\s*$",
+    "sound": "script",
+    "preview": "script"
+  },
+  {
+    "foreign_question": "shooting day",
+    "ru_question": "съемочный день",
+    "foreign_response": "^\\s*shooting day\\s*$",
+    "ru_response": "^\\s*съемочный день\\s*$",
+    "sound": "shooting_day",
+    "preview": "shooting_day"
+  },
+  {
     "foreign_question": "song",
     "ru_question": "песня",
     "foreign_response": "^\\s*song\\s*$",
     "ru_response": "^\\s*песня\\s*$",
     "sound": "song",
     "preview": "song"
+  },
+  {
+    "foreign_question": "sound",
+    "ru_question": "звук",
+    "foreign_response": "^\\s*sound\\s*$",
+    "ru_response": "^\\s*(звук|звучать)\\s*$",
+    "sound": "sound",
+    "preview": "sound"
   },
   {
     "foreign_question": "star",
@@ -127,4 +231,12 @@
     "sound": "take_pictures",
     "preview": "take_pictures"
   },
+  {
+    "foreign_question": "theater",
+    "ru_question": "театр",
+    "foreign_response": "^\\s*theater\\s*$",
+    "ru_response": "^\\s*театр\\s*$",
+    "sound": "theater",
+    "preview": "theater"
+  }
 ]

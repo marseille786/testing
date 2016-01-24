@@ -1,0 +1,210 @@
+[
+  {
+    "foreign_question": "age",
+    "ru_question": "возраст, век, эпоха",
+    "foreign_response": "^\\s*age\\s*$",
+    "ru_response": "^\\s*(возраст|век|эпоха)\\s*$",
+    "sound": "age",
+    "preview": "age"
+  },
+  {
+    "foreign_question": "anxiety",
+    "ru_question": "тревога",
+    "foreign_response": "^\\s*anxiety\\s*$",
+    "ru_response": "^\\s*тревога\\s*$",
+    "sound": "anxiety",
+    "preview": "anxiety"
+  },
+  {
+    "foreign_question": "baby",
+    "ru_question": "малыш (синоним 'kid')",
+    "foreign_response": "^\\s*baby\\s*$",
+    "ru_response": "^\\s*малыш\\s*$",
+    "sound": "baby",
+    "preview": "baby"
+  },
+  {
+    "foreign_question": "confusion",
+    "ru_question": "растерянность",
+    "foreign_response": "^\\s*confusion\\s*$",
+    "ru_response": "^\\s*растерянность\\s*$",
+    "sound": "confusion",
+    "preview": "confusion"
+  },
+  {
+    "foreign_question": "curiosity",
+    "ru_question": "любопытство",
+    "foreign_response": "^\\s*curiosity\\s*$",
+    "ru_response": "^\\s*любопытство\\s*$",
+    "sound": "curiosity",
+    "preview": "curiosity"
+  },
+  {
+    "foreign_question": "disorder",
+    "ru_question": "расстройство, беспорядок",
+    "foreign_response": "^\\s*disorder\\s*$",
+    "ru_response": "^\\s*(расстройство|беспорядок)\\s*$",
+    "sound": "disorder",
+    "preview": "disorder"
+  },
+  {
+    "foreign_question": "disappointment",
+    "ru_question": "разочарование, досада",
+    "foreign_response": "^\\s*disappointment\\s*$",
+    "ru_response": "^\\s*(разочарование|досада)\\s*$",
+    "sound": "disappointment",
+    "preview": "disappointment"
+  },
+  {
+    "foreign_question": "excitement",
+    "ru_question": "восторг, волнение",
+    "foreign_response": "^\\s*excitement\\s*$",
+    "ru_response": "^\\s*(восторг|волнение|возбуждение)\\s*$",
+    "sound": "excitement",
+    "preview": "excitement"
+  },
+  {
+    "foreign_question": "flatmate",
+    "ru_question": "сосед по квартире, сожитель",
+    "foreign_response": "^\\s*flatmate\\s*$",
+    "ru_response": "^\\s*(сосед по квартире|сожитель)\\s*$",
+    "sound": "flatmate",
+    "preview": "flatmate"
+  },
+  {
+    "foreign_question": "foreigner",
+    "ru_question": "иностранец",
+    "foreign_response": "^\\s*foreigner\\s*$",
+    "ru_response": "^\\s*иностранец\\s*$",
+    "sound": "foreigner",
+    "preview": "foreigner"
+  },
+  {
+    "foreign_question": "group",
+    "ru_question": "группа",
+    "foreign_response": "^\\s*group\\s*$",
+    "ru_response": "^\\s*группа\\s*$",
+    "sound": "group",
+    "preview": "group"
+  },
+  {
+    "foreign_question": "guest",
+    "ru_question": "гость",
+    "foreign_response": "^\\s*guest\\s*$",
+    "ru_response": "^\\s*гость\\s*$",
+    "sound": "guest",
+    "preview": "guest"
+  },
+  {
+    "foreign_question": "hope",
+    "ru_question": "надеяться, надежда",
+    "foreign_response": "^\\s*hope\\s*$",
+    "ru_response": "^\\s*(надеяться|надежда)\\s*$",
+    "sound": "hope",
+    "preview": "hope"
+  },
+  {
+    "foreign_question": "imagination",
+    "ru_question": "воображение, фантазия",
+    "foreign_response": "^\\s*imagination\\s*$",
+    "ru_response": "^\\s*(воображение|фантазия)\\s*$",
+    "sound": "imagination",
+    "preview": "imagination"
+  },
+  {
+    "foreign_question": "jealousy",
+    "ru_question": "ревность, зависть",
+    "foreign_response": "^\\s*jealousy\\s*$",
+    "ru_response": "^\\s*(ревность|зависть)\\s*$",
+    "sound": "jealousy",
+    "preview": "jealousy"
+  },
+  {
+    "foreign_question": "kid",
+    "ru_question": "малыш (синоним 'baby')",
+    "foreign_response": "^\\s*kid\\s*$",
+    "ru_response": "^\\s*малыш\\s*$",
+    "sound": "kid",
+    "preview": "kid"
+  },
+  {
+    "foreign_question": "life",
+    "ru_question": "жизнь",
+    "foreign_response": "^\\s*life\\s*$",
+    "ru_response": "^\\s*жизнь\\s*$",
+    "sound": "life",
+    "preview": "life"
+  },
+  {
+    "foreign_question": "mood",
+    "ru_question": "настроение",
+    "foreign_response": "^\\s*mood\\s*$",
+    "ru_response": "^\\s*настроение\\s*$",
+    "sound": "mood",
+    "preview": "mood"
+  },
+  {
+    "foreign_question": "person",
+    "ru_question": "человек, личность, персона",
+    "foreign_response": "^\\s*person\\s*$",
+    "ru_response": "^\\s*(человек|личность|персона)\\s*$",
+    "sound": "person",
+    "preview": "person"
+  },
+  {
+    "foreign_question": "pride",
+    "ru_question": "гордость",
+    "foreign_response": "^\\s*pride\\s*$",
+    "ru_response": "^\\s*гордость\\s*$",
+    "sound": "pride",
+    "preview": "pride"
+  },
+  {
+    "foreign_question": "relationship",
+    "ru_question": "отношение",
+    "foreign_response": "^\\s*relationship\\s*$",
+    "ru_response": "^\\s*отношение\\s*$",
+    "sound": "relationship",
+    "preview": "relationship"
+  },
+  {
+    "foreign_question": "smell",
+    "ru_question": "пахнуть, нюхать, запах, обоняние",
+    "foreign_response": "^\\s*smell\\s*$",
+    "ru_response": "^\\s*(запах|обоняние)\\s*$",
+    "sound": "smell",
+    "preview": "smell"
+  },
+  {
+    "foreign_question": "talent",
+    "ru_question": "талант",
+    "foreign_response": "^\\s*talent\\s*$",
+    "ru_response": "^\\s*талант\\s*$",
+    "sound": "talent",
+    "preview": "talent"
+  },
+  {
+    "foreign_question": "teenager",
+    "ru_question": "подросток",
+    "foreign_response": "^\\s*teenager\\s*$",
+    "ru_response": "^\\s*подросток\\s*$",
+    "sound": "teenager",
+    "preview": "teenager"
+  },
+  {
+    "foreign_question": "tradition",
+    "ru_question": "традиция",
+    "foreign_response": "^\\s*tradition\\s*$",
+    "ru_response": "^\\s*традици[яи]\\s*$",
+    "sound": "tradition",
+    "preview": "tradition"
+  },
+  {
+    "foreign_question": "whim",
+    "ru_question": "каприз",
+    "foreign_response": "^\\s*whim\\s*$",
+    "ru_response": "^\\s*каприз\\s*$",
+    "sound": "whim",
+    "preview": "whim"
+  }
+]

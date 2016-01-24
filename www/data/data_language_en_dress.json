@@ -1,19 +1,171 @@
 [
   {
-    "foreign_question": "top",
-    "ru_question": "топик, блузка",
-    "foreign_response": "^\\s*top\\s*$",
-    "ru_response": "^\\s*(топ(ик)?|блузк?а)\\s*$",
-    "sound": "top",
-    "preview": ""
+    "foreign_question": "belt",
+    "ru_question": "ремень",
+    "foreign_response": "^\\s*belt\\s*$",
+    "ru_response": "^\\s*ремень\\s*$",
+    "sound": "belt",
+    "preview": "belt"
   },
   {
-    "foreign_question": "trousers",
-    "ru_question": "брюки, штаны",
-    "foreign_response": "^\\s*trousers\\s*$",
-    "ru_response": "^\\s*(брюки|штаны)\\s*$",
-    "sound": "trousers",
-    "preview": ""
+    "foreign_question": "blouse",
+    "ru_question": "блузка",
+    "foreign_response": "^\\s*blouse\\s*$",
+    "ru_response": "^\\s*блузк?а\\s*$",
+    "sound": "blouse",
+    "preview": "blouse"
+  },
+  {
+    "foreign_question": "boots",
+    "ru_question": "сапоги",
+    "foreign_response": "^\\s*boots\\s*$",
+    "ru_response": "^\\s*сапоги\\s*$",
+    "sound": "boots",
+    "preview": "boots"
+  },
+  {
+    "foreign_question": "bow-tie",
+    "ru_question": "галстук-бабочка",
+    "foreign_response": "^\\s*bow[- ]tie\\s*$",
+    "ru_response": "^\\s*(галстук-)?бабочка\\s*$",
+    "sound": "bow-tie",
+    "preview": "bow-tie"
+  },
+  {
+    "foreign_question": "buyer",
+    "ru_question": "покупатель",
+    "foreign_response": "^\\s*buyer\\s*$",
+    "ru_response": "^\\s*покупатель\\s*$",
+    "sound": "buyer",
+    "preview": "buyer"
+  },
+  {
+    "foreign_question": "cart",
+    "ru_question": "наличные",
+    "foreign_response": "^\\s*cart\\s*$",
+    "ru_response": "^\\s*тележка\\s*$",
+    "sound": "cart",
+    "preview": "cart"
+  },
+  {
+    "foreign_question": "cash",
+    "ru_question": "наличные",
+    "foreign_response": "^\\s*cash\\s*$",
+    "ru_response": "^\\s*наличные\\s*$",
+    "sound": "cash",
+    "preview": "cash"
+  },
+  {
+    "foreign_question": "cash desk",
+    "ru_question": "касса",
+    "foreign_response": "^\\s*cash desk\\s*$",
+    "ru_response": "^\\s*касса\\s*$",
+    "sound": "cash_desk",
+    "preview": "cash_desk"
+  },
+  {
+    "foreign_question": "cashier",
+    "ru_question": "кассир",
+    "foreign_response": "^\\s*cashier\\s*$",
+    "ru_response": "^\\s*кассир\\s*$",
+    "sound": "cashier",
+    "preview": "cashier"
+  },
+  {
+    "foreign_question": "check",
+    "ru_question": "чек",
+    "foreign_response": "^\\s*check\\s*$",
+    "ru_response": "^\\s*чек\\s*$",
+    "sound": "check",
+    "preview": "check"
+  },
+  {
+    "foreign_question": "clothes",
+    "ru_question": "одежда",
+    "foreign_response": "^\\s*clothes\\s*$",
+    "ru_response": "^\\s*одежда\\s*$",
+    "sound": "clothes",
+    "preview": "clothes"
+  },
+  {
+    "foreign_question": "coat",
+    "ru_question": "пальто",
+    "foreign_response": "^\\s*coat\\s*$",
+    "ru_response": "^\\s*пальто\\s*$",
+    "sound": "coat",
+    "preview": "coat"
+  },
+  {
+    "foreign_question": "department store",
+    "ru_question": "универмаг, супермаркет (синоним supermarket)",
+    "foreign_response": "^\\s*department store\\s*$",
+    "ru_response": "^\\s*(универмаг|супермаркет)\\s*$",
+    "sound": "department_store",
+    "preview": "department_store"
+  },
+  {
+    "foreign_question": "discount",
+    "ru_question": "скидка",
+    "foreign_response": "^\\s*discount\\s*$",
+    "ru_response": "^\\s*(скидка|дисконт)\\s*$",
+    "sound": "discount",
+    "preview": "discount"
+  },
+  {
+    "foreign_question": "dress",
+    "ru_question": "платье",
+    "foreign_response": "^\\s*dress\\s*$",
+    "ru_response": "^\\s*платье\\s*$",
+    "sound": "dress",
+    "preview": "dress"
+  },
+  {
+    "foreign_question": "earrings",
+    "ru_question": "серьги",
+    "foreign_response": "^\\s*earrings\\s*$",
+    "ru_response": "^\\s*серьги\\s*$",
+    "sound": "earrings",
+    "preview": "earrings"
+  },
+  {
+    "foreign_question": "extra large",
+    "ru_question": "очень большой (размер одежды)",
+    "foreign_response": "^\\s*extra large\\s*$",
+    "ru_response": "^\\s*очень большой\\s*$",
+    "sound": "extra_large",
+    "preview": "extra_large"
+  },
+  {
+    "foreign_question": "fitting room",
+    "ru_question": "примерочная",
+    "foreign_response": "^\\s*fitting room\\s*$",
+    "ru_response": "^\\s*примерочная\\s*$",
+    "sound": "fitting_room",
+    "preview": "fitting_room"
+  },
+  {
+    "foreign_question": "gloves",
+    "ru_question": "перчатки",
+    "foreign_response": "^\\s*gloves\\s*$",
+    "ru_response": "^\\s*перчатки\\s*$",
+    "sound": "gloves",
+    "preview": "gloves"
+  },
+  {
+    "foreign_question": "go shopping",
+    "ru_question": "идти за покупками, делать покупки",
+    "foreign_response": "^\\s*go shopping\\s*$",
+    "ru_response": "^\\s*(идти за покупками|делать покупки)\\s*$",
+    "sound": "go_shopping",
+    "preview": "go_shopping"
+  },
+  {
+    "foreign_question": "goods",
+    "ru_question": "товар, товары",
+    "foreign_response": "^\\s*goods\\s*$",
+    "ru_response": "^\\s*товары?\\s*$",
+    "sound": "goods",
+    "preview": "goods"
   },
   {
     "foreign_question": "hat",
@@ -21,7 +173,71 @@
     "foreign_response": "^\\s*hat\\s*$",
     "ru_response": "^\\s*(головной убор|шапка|шляпк?а)\\s*$",
     "sound": "hat",
-    "preview": ""
+    "preview": "hat"
+  },
+  {
+    "foreign_question": "How much is it?",
+    "ru_question": "Сколько это стоит?",
+    "foreign_response": "^\\s*How much is it\\?\\s*$",
+    "ru_response": "^\\s*Сколько это стоит\\?\\s*$",
+    "sound": "how_much_is_it-",
+    "preview": "how_much_is_it-"
+  },
+  {
+    "foreign_question": "in cash",
+    "ru_question": "купюрами",
+    "foreign_response": "^\\s*in cash\\s*$",
+    "ru_response": "^\\s*(купюрами|при деньгах)\\s*$",
+    "sound": "in_cash",
+    "preview": "in_cash"
+  },
+  {
+    "foreign_question": "jacket",
+    "ru_question": "куртка",
+    "foreign_response": "^\\s*jacket\\s*$",
+    "ru_response": "^\\s*куртка\\s*$",
+    "sound": "jacket",
+    "preview": "jacket"
+  },
+  {
+    "foreign_question": "large",
+    "ru_question": "большой, крупный (размер одежды)",
+    "foreign_response": "^\\s*large\\s*$",
+    "ru_response": "^\\s*(большой|крупный)\\s*$",
+    "sound": "large",
+    "preview": "large"
+  },
+  {
+    "foreign_question": "market",
+    "ru_question": "рынок",
+    "foreign_response": "^\\s*market\\s*$",
+    "ru_response": "^\\s*рынок\\s*$",
+    "sound": "market",
+    "preview": "market"
+  },
+  {
+    "foreign_question": "merchant",
+    "ru_question": "торговец, купец",
+    "foreign_response": "^\\s*merchant\\s*$",
+    "ru_response": "^\\s*(торговец|купец)\\s*$",
+    "sound": "merchant",
+    "preview": "merchant"
+  },
+  {
+    "foreign_question": "necklace",
+    "ru_question": "ожерелье, колье",
+    "foreign_response": "^\\s*necklace\\s*$",
+    "ru_response": "^\\s*(ожерелье|колье)\\s*$",
+    "sound": "necklace",
+    "preview": "necklace"
+  },
+  {
+    "foreign_question": "on sale",
+    "ru_question": "в продаже",
+    "foreign_response": "^\\s*on sale\\s*$",
+    "ru_response": "^\\s*в продаже\\s*$",
+    "sound": "on_sale",
+    "preview": "on_sale"
   },
   {
     "foreign_question": "price",
@@ -32,11 +248,211 @@
     "preview": "price"
   },
   {
+    "foreign_question": "purchase",
+    "ru_question": "покупка",
+    "foreign_response": "^\\s*purchase\\s*$",
+    "ru_response": "^\\s*покупка\\s*$",
+    "sound": "purchase",
+    "preview": "purchase"
+  },
+  {
+    "foreign_question": "sandals",
+    "ru_question": "сандалии, босоножки",
+    "foreign_response": "^\\s*sandals\\s*$",
+    "ru_response": "^\\s*(сандалии|босоножки)\\s*$",
+    "sound": "sandals",
+    "preview": "sandals"
+  },
+  {
+    "foreign_question": "scarf",
+    "ru_question": "шарф",
+    "foreign_response": "^\\s*scarf\\s*$",
+    "ru_response": "^\\s*шарф\\s*$",
+    "sound": "scarf",
+    "preview": "scarf"
+  },
+  {
+    "foreign_question": "seller",
+    "ru_question": "продавец (синоним shop assistant)",
+    "foreign_response": "^\\s*seller\\s*$",
+    "ru_response": "^\\s*продавец\\s*$",
+    "sound": "seller",
+    "preview": "seller"
+  },
+  {
+    "foreign_question": "shirt",
+    "ru_question": "рубашка",
+    "foreign_response": "^\\s*shirt\\s*$",
+    "ru_response": "^\\s*рубашка\\s*$",
+    "sound": "shirt",
+    "preview": "shirt"
+  },
+  {
+    "foreign_question": "shoes",
+    "ru_question": "туфли, обувь",
+    "foreign_response": "^\\s*shoes\\s*$",
+    "ru_response": "^\\s*(туфли|обувь)\\s*$",
+    "sound": "shoes",
+    "preview": "shoes"
+  },
+  {
+    "foreign_question": "shop",
+    "ru_question": "магазин",
+    "foreign_response": "^\\s*shop\\s*$",
+    "ru_response": "^\\s*магазин\\s*$",
+    "sound": "shop",
+    "preview": "shop"
+  },
+  {
+    "foreign_question": "shop assistant",
+    "ru_question": "продавец (синоним seller)",
+    "foreign_response": "^\\s*shop assistant\\s*$",
+    "ru_response": "^\\s*продавец\\s*$",
+    "sound": "shop_assistant",
+    "preview": "shop_assistant"
+  },
+  {
     "foreign_question": "silk",
     "ru_question": "шелк",
     "foreign_response": "^\\s*silk\\s*$",
     "ru_response": "^\\s*шелк\\s*$",
     "sound": "silk",
     "preview": "silk"
+  },
+  {
+    "foreign_question": "size",
+    "ru_question": "размер",
+    "foreign_response": "^\\s*size\\s*$",
+    "ru_response": "^\\s*размер\\s*$",
+    "sound": "size",
+    "preview": "size"
+  },
+  {
+    "foreign_question": "skirt",
+    "ru_question": "юбка",
+    "foreign_response": "^\\s*skirt\\s*$",
+    "ru_response": "^\\s*юбка\\s*$",
+    "sound": "skirt",
+    "preview": "skirt"
+  },
+  {
+    "foreign_question": "small",
+    "ru_question": "небольшой, маленький (размер)",
+    "foreign_response": "^\\s*small\\s*$",
+    "ru_response": "^\\s*(небольшой|маленький)\\s*$",
+    "sound": "small",
+    "preview": "small"
+  },
+  {
+    "foreign_question": "sneakers",
+    "ru_question": "кроссовки (синоним trainers)",
+    "foreign_response": "^\\s*sneakers\\s*$",
+    "ru_response": "^\\s*кроссовки\\s*$",
+    "sound": "sneakers",
+    "preview": "sneakers"
+  },
+  {
+    "foreign_question": "socks",
+    "ru_question": "носки",
+    "foreign_response": "^\\s*socks\\s*$",
+    "ru_response": "^\\s*носки\\s*$",
+    "sound": "socks",
+    "preview": "socks"
+  },
+  {
+    "foreign_question": "suit",
+    "ru_question": "костюм",
+    "foreign_response": "^\\s*suit\\s*$",
+    "ru_response": "^\\s*костюм\\s*$",
+    "sound": "suit",
+    "preview": "suit"
+  },
+  {
+    "foreign_question": "supermarket",
+    "ru_question": "супермаркет, универмаг (синоним department store)",
+    "foreign_response": "^\\s*supermarket\\s*$",
+    "ru_response": "^\\s*(супермаркет|универмаг)\\s*$",
+    "sound": "supermarket",
+    "preview": "supermarket"
+  },
+  {
+    "foreign_question": "sweater",
+    "ru_question": "свитер",
+    "foreign_response": "^\\s*sweater\\s*$",
+    "ru_response": "^\\s*свитер\\s*$",
+    "sound": "sweater",
+    "preview": "sweater"
+  },
+  {
+    "foreign_question": "T-shirt",
+    "ru_question": "футболка",
+    "foreign_response": "^\\s*T\\-shirt\\s*$",
+    "ru_response": "^\\s*футболка\\s*$",
+    "sound": "t-shirt",
+    "preview": "t-shirt"
+  },
+  {
+    "foreign_question": "tie (n)",
+    "ru_question": "галстук",
+    "foreign_response": "^\\s*tie\\s*$",
+    "ru_response": "^\\s*(галстук|завязывать)\\s*$",
+    "sound": "tie",
+    "preview": "tie"
+  },
+  {
+    "foreign_question": "top",
+    "ru_question": "топик, блузка",
+    "foreign_response": "^\\s*top\\s*$",
+    "ru_response": "^\\s*(топ(ик)?|блузк?а)\\s*$",
+    "sound": "top",
+    "preview": "top_dress"
+  },
+  {
+    "foreign_question": "trackersuit",
+    "ru_question": "теплый спортивный костюм",
+    "foreign_response": "^\\s*trackersuit\\s*$",
+    "ru_response": "^\\s*(теплый )?спортивный костюм\\s*$",
+    "sound": "trackersuit",
+    "preview": "trackersuit"
+  },
+  {
+    "foreign_question": "trade",
+    "ru_question": "торговля, сделка",
+    "foreign_response": "^\\s*trade\\s*$",
+    "ru_response": "^\\s*(торговля|сделка|торговать|торговый)\\s*$",
+    "sound": "trade",
+    "preview": "trade"
+  },
+  {
+    "foreign_question": "trainers",
+    "ru_question": "кроссовки (синоним sneakers), тренер",
+    "foreign_response": "^\\s*trainers\\s*$",
+    "ru_response": "^\\s*(кроссовки|тренер|инструктор)\\s*$",
+    "sound": "trainers",
+    "preview": "trainers"
+  },
+  {
+    "foreign_question": "trousers",
+    "ru_question": "брюки, штаны",
+    "foreign_response": "^\\s*trousers\\s*$",
+    "ru_response": "^\\s*(брюки|штаны)\\s*$",
+    "sound": "trousers",
+    "preview": "trousers"
+  },
+  {
+    "foreign_question": "What size are you?",
+    "ru_question": "Какой у вас размер одежды?",
+    "foreign_response": "^\\s*What size are you\\?\\s*$",
+    "ru_response": "^\\s*Какой (у вас|у тебя|ваш|твой) размер( одежды)?\\?\\s*$",
+    "sound": "what_size_are_you-",
+    "preview": "what_size_are_you-"
+  },
+  {
+    "foreign_question": "wool",
+    "ru_question": "шерсть",
+    "foreign_response": "^\\s*wool\\s*$",
+    "ru_response": "^\\s*шерсть\\s*$",
+    "sound": "wool",
+    "preview": "wool"
   }
 ]
