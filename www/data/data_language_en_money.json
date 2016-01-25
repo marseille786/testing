@@ -32,6 +32,14 @@
     "preview": "dollar"
   },
   {
+    "foreign_question": "exchange",
+    "ru_question": "обмен",
+    "foreign_response": "^\\s*exchange\\s*$",
+    "ru_response": "^\\s*обмен\\s*$",
+    "sound": "exchange",
+    "preview": "exchange"
+  },
+  {
     "foreign_question": "gold",
     "ru_question": "золото",
     "foreign_response": "^\\s*gold\\s*$",

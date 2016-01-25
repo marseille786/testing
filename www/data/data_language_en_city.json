@@ -80,6 +80,14 @@
     "preview": "castle"
   },
   {
+    "foreign_question": "cathedral",
+    "ru_question": "кафедральный собор, собор",
+    "foreign_response": "^\\s*cathedral\\s*$",
+    "ru_response": "^\\s*(кафедральный )?собор\\s*$",
+    "sound": "cathedral",
+    "preview": "cathedral"
+  },
+  {
     "foreign_question": "centre",
     "ru_question": "центр",
     "foreign_response": "^\\s*cent(re|er)\\s*$",
@@ -94,6 +102,14 @@
     "ru_response": "^\\s*аптека\\s*$",
     "sound": "chemist's",
     "preview": "chemist's"
+  },
+  {
+    "foreign_question": "church",
+    "ru_question": "церковь",
+    "foreign_response": "^\\s*church\\s*$",
+    "ru_response": "^\\s*церковь\\s*$",
+    "sound": "church",
+    "preview": "church"
   },
   {
     "foreign_question": "cinema",

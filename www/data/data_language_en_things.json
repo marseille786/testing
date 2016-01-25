@@ -328,6 +328,14 @@
     "preview": "scissors"
   },
   {
+    "foreign_question": "sign",
+    "ru_question": "надпись",
+    "foreign_response": "^\\s*sign\\s*$",
+    "ru_response": "^\\s*надпись\\s*$",
+    "sound": "sign",
+    "preview": "sign"
+  },
+  {
     "foreign_question": "smartphone",
     "ru_question": "смартфон",
     "foreign_response": "^\\s*smartphone\\s*$",

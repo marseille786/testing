@@ -8,6 +8,14 @@
     "preview": "advice"
   },
   {
+    "foreign_question": "announcement",
+    "ru_question": "объявление",
+    "foreign_response": "^\\s*announcement\\s*$",
+    "ru_response": "^\\s*объявление\\s*$",
+    "sound": "announcement",
+    "preview": "announcement"
+  },
+  {
     "foreign_question": "automatization",
     "ru_question": "автоматизация",
     "foreign_response": "^\\s*automatization\\s*$",
@@ -110,6 +118,14 @@
     "ru_response": "^\\s*стройка\\s*$",
     "sound": "construction_site",
     "preview": "construction_site"
+  },
+  {
+    "foreign_question": "contradiction",
+    "ru_question": "противоречие",
+    "foreign_response": "^\\s*contradiction\\s*$",
+    "ru_response": "^\\s*противоречие\\s*$",
+    "sound": "contradiction",
+    "preview": "contradiction"
   },
   {
     "foreign_question": "day off",
@@ -238,6 +254,14 @@
     "ru_response": "^\\s*интервью\\s*$",
     "sound": "interview",
     "preview": "interview"
+  },
+  {
+    "foreign_question": "item",
+    "ru_question": "предмет, изделие",
+    "foreign_response": "^\\s*item\\s*$",
+    "ru_response": "^\\s*(предмет|изделие)\\s*$",
+    "sound": "item",
+    "preview": "item"
   },
   {
     "foreign_question": "job",
@@ -446,6 +470,14 @@
     "ru_response": "^\\s*программа\\s*$",
     "sound": "program",
     "preview": "program"
+  },
+  {
+    "foreign_question": "project",
+    "ru_question": "проект",
+    "foreign_response": "^\\s*project\\s*$",
+    "ru_response": "^\\s*проект\\s*$",
+    "sound": "project",
+    "preview": "project"
   },
   {
     "foreign_question": "public relations (PR)",

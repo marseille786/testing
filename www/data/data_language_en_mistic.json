@@ -1,5 +1,29 @@
 [
   {
+    "foreign_question": "cathedral",
+    "ru_question": "кафедральный собор, собор",
+    "foreign_response": "^\\s*cathedral\\s*$",
+    "ru_response": "^\\s*(кафедральный )?собор\\s*$",
+    "sound": "cathedral",
+    "preview": "cathedral"
+  },
+  {
+    "foreign_question": "church",
+    "ru_question": "церковь",
+    "foreign_response": "^\\s*church\\s*$",
+    "ru_response": "^\\s*церковь\\s*$",
+    "sound": "church",
+    "preview": "church"
+  },
+  {
+    "foreign_question": "icon",
+    "ru_question": "икона",
+    "foreign_response": "^\\s*icon\\s*$",
+    "ru_response": "^\\s*икона\\s*$",
+    "sound": "icon",
+    "preview": "icon"
+  },
+  {
     "foreign_question": "order",
     "ru_question": "орден (монашеский)",
     "foreign_response": "^\\s*order\\s*$",
@@ -14,5 +38,29 @@
     "ru_response": "^\\s*дух\\s*$",
     "sound": "spirit",
     "preview": "spirit"
+  },
+  {
+    "foreign_question": "The Bible",
+    "ru_question": "Библия",
+    "foreign_response": "^\\s*(The )?Bible\\s*$",
+    "ru_response": "^\\s*Библия\\s*$",
+    "sound": "the_bible",
+    "preview": "the_bible"
+  },
+  {
+    "foreign_question": "Trinity",
+    "ru_question": "Троица",
+    "foreign_response": "^\\s*Trinity\\s*$",
+    "ru_response": "^\\s*Троица\\s*$",
+    "sound": "trinity",
+    "preview": "trinity"
+  }
+  {
+    "foreign_question": "Virgin Mary",
+    "ru_question": "Божья матерь, Богородица",
+    "foreign_response": "^\\s*Virgin Mary\\s*$",
+    "ru_response": "^\\s*(Божья матерь|Богородица|Матерь Божья)\\s*$",
+    "sound": "virgin_mary",
+    "preview": "virgin_mary"
   }
 ]

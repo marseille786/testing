@@ -240,6 +240,14 @@
     "preview": "cucumber"
   },
   {
+    "foreign_question": "cuisine",
+    "ru_question": "кухня (напр. национальная)",
+    "foreign_response": "^\\s*cuisine\\s*$",
+    "ru_response": "^\\s*кухня\\s*$",
+    "sound": "cuisine",
+    "preview": "cuisine"
+  },
+  {
     "foreign_question": "dairy products",
     "ru_question": "молочная продукция",
     "foreign_response": "^\\s*dairy( products)?\\s*$",

@@ -1,7 +1,7 @@
 [
   {
     "foreign_question": "afraid of",
-    "ru_question": "бояться (чего-то)",
+    "ru_question": "бояться (чего-то) (синоним scared)",
     "foreign_response": "^\\s*afraid( of)?\\s*$",
     "ru_response": "^\\s*(бояться|быть испуганным|быть в страхе)\\s*$",
     "sound": "afraid_of",
@@ -144,6 +144,14 @@
     "preview": "clever"
   },
   {
+    "foreign_question": "close",
+    "ru_question": "близкий (синоним near)",
+    "foreign_response": "^\\s*close\\s*$",
+    "ru_response": "^\\s*близкий\\s*$",
+    "sound": "close",
+    "preview": "close"
+  },
+  {
     "foreign_question": "cold",
     "ru_question": "холодный",
     "foreign_response": "^\\s*cold\\s*$",
@@ -158,6 +166,14 @@
     "ru_response": "^\\s*(смущенный|сконфуженн?ый)\\s*$",
     "sound": "confused",
     "preview": "confused"
+  },
+  {
+    "foreign_question": "contemporary",
+    "ru_question": "современный (синоним modern)",
+    "foreign_response": "^\\s*contemporary\\s*$",
+    "ru_response": "^\\s*современный\\s*$",
+    "sound": "contemporary",
+    "preview": "contemporary"
   },
   {
     "foreign_question": "convenient",
@@ -272,6 +288,14 @@
     "preview": "embarassed"
   },
   {
+    "foreign_question": "emotional",
+    "ru_question": "эмоциональный",
+    "foreign_response": "^\\s*emotional\\s*$",
+    "ru_response": "^\\s*эмоциональный\\s*$",
+    "sound": "emotional",
+    "preview": "emotional"
+  },
+  {
     "foreign_question": "excited",
     "ru_question": "восторженный",
     "foreign_response": "^\\s*excited\\s*$",
@@ -353,7 +377,7 @@
   },
   {
     "foreign_question": "farther",
-    "ru_question": "далекий, дальний",
+    "ru_question": "более далекий, более дальний",
     "foreign_response": "^\\s*farther\\s*$",
     "ru_response": "^\\s*(более далекий|более дальний)\\s*$",
     "sound": "farther",
@@ -361,7 +385,7 @@
   },
   {
     "foreign_question": "farthest",
-    "ru_question": "далекий, дальний",
+    "ru_question": "самый далекий, самый дальний",
     "foreign_response": "^\\s*farthest\\s*$",
     "ru_response": "^\\s*(самый далекий|самый дальний)\\s*$",
     "sound": "farthest",
@@ -432,6 +456,14 @@
     "preview": "good"
   },
   {
+    "foreign_question": "grateful",
+    "ru_question": "благодарный (синоним thankful)",
+    "foreign_response": "^\\s*grateful\\s*$",
+    "ru_response": "^\\s*благодарный\\s*$",
+    "sound": "grateful",
+    "preview": "grateful"
+  },
+  {
     "foreign_question": "happy",
     "ru_question": "счастливый, счастливая",
     "foreign_response": "^\\s*happy\\s*$",
@@ -441,7 +473,7 @@
   },
   {
     "foreign_question": "hard",
-    "ru_question": "тяжелый, жесткий",
+    "ru_question": "тяжелый, жесткий (синоним heavy)",
     "foreign_response": "^\\s*hard\\s*$",
     "ru_response": "^\\s*(тяжелый|жесткий)\\s*$",
     "sound": "hard",
@@ -510,6 +542,14 @@
     "ru_response": "^\\s*голодный\\s*$",
     "sound": "hungry",
     "preview": "hungry"
+  },
+  {
+    "foreign_question": "ill",
+    "ru_question": "больной",
+    "foreign_response": "^\\s*ill\\s*$",
+    "ru_response": "^\\s*больной\\s*$",
+    "sound": "ill",
+    "preview": "ill"
   },
   {
     "foreign_question": "important",
@@ -629,7 +669,7 @@
     "foreign_response": "^\\s*little\\s*$",
     "ru_response": "^\\s*маленький\\s*$",
     "sound": "little",
-    "preview": "little"
+    "preview": "little_age"
   },
   {
     "foreign_question": "local",
@@ -654,14 +694,6 @@
     "ru_response": "^\\s*мужской\\s*$",
     "sound": "male",
     "preview": "male"
-  },
-  {
-    "foreign_question": "many",
-    "ru_question": "многий",
-    "foreign_response": "^\\s*many\\s*$",
-    "ru_response": "^\\s*многий\\s*$",
-    "sound": "many",
-    "preview": "many"
   },
   {
     "foreign_question": "married",
@@ -694,6 +726,14 @@
     "ru_response": "^\\s*(мобильный|передвижной)\\s*$",
     "sound": "mobile",
     "preview": "mobile"
+  },
+  {
+    "foreign_question": "modern",
+    "ru_question": "современный (синоним contemporary)",
+    "foreign_response": "^\\s*modern\\s*$",
+    "ru_response": "^\\s*современный\\s*$",
+    "sound": "modern",
+    "preview": "modern"
   },
   {
     "foreign_question": "more",
@@ -737,7 +777,7 @@
   },
   {
     "foreign_question": "near",
-    "ru_question": "близкий",
+    "ru_question": "близкий (синоним close)",
     "foreign_response": "^\\s*near\\s*$",
     "ru_response": "^\\s*близкий\\s*$",
     "sound": "near",
@@ -881,7 +921,7 @@
   },
   {
     "foreign_question": "scared",
-    "ru_question": "испуганный",
+    "ru_question": "испуганный (синоним afraid)",
     "foreign_response": "^\\s*scared\\s*$",
     "ru_response": "^\\s*(испуганный|напуганный)\\s*$",
     "sound": "scared",
@@ -952,12 +992,12 @@
     "preview": "single"
   },
   {
-    "foreign_question": "slaw",
+    "foreign_question": "slow",
     "ru_question": "медленный",
-    "foreign_response": "^\\s*slaw\\s*$",
+    "foreign_response": "^\\s*slow\\s*$",
     "ru_response": "^\\s*медленный\\s*$",
-    "sound": "slaw",
-    "preview": "slaw"
+    "sound": "slow",
+    "preview": "slow"
   },
   {
     "foreign_question": "slim",
@@ -1024,6 +1064,14 @@
     "preview": "tall"
   },
   {
+    "foreign_question": "thankful",
+    "ru_question": "благодарный (синоним grateful)",
+    "foreign_response": "^\\s*thankful\\s*$",
+    "ru_response": "^\\s*благодарный\\s*$",
+    "sound": "thankful",
+    "preview": "thankful"
+  },
+  {
     "foreign_question": "thin",
     "ru_question": "худой, тонкий (синоним slim)",
     "foreign_response": "^\\s*thin\\s*$",
@@ -1062,6 +1110,14 @@
     "ru_response": "^\\s*незабываемый\\s*$",
     "sound": "unforgettable",
     "preview": "unforgettable"
+  },
+  {
+    "foreign_question": "unique",
+    "ru_question": "уникальный",
+    "foreign_response": "^\\s*unique\\s*$",
+    "ru_response": "^\\s*уникальный\\s*$",
+    "sound": "unique",
+    "preview": "unique"
   },
   {
     "foreign_question": "upset (adj)",

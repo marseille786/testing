@@ -56,6 +56,14 @@
     "preview": "bless_you"
   },
   {
+    "foreign_question": "bullshit",
+    "ru_question": "отстой, чушь",
+    "foreign_response": "^\\s*bullshit\\s*$",
+    "ru_response": "^\\s*(отстой|чушь|глупость)\\s*$",
+    "sound": "bullshit",
+    "preview": "bullshit"
+  },
+  {
     "foreign_question": "bye",
     "ru_question": "пока, до свидания (универсальное сокращенный вариант)",
     "foreign_response": "^\\s*bye\\s*$",
@@ -192,10 +200,10 @@
     "preview": "greetings"
   },
   {
-    "foreign_question": "Guess what?",
+    "foreign_question": "Guess what",
     "ru_question": "Угадай, что?",
     "foreign_response": "^\\s*Guess what\\?\\s*$",
-    "ru_response": "^\\s*Угадай\\,? что\\?\\s*$",
+    "ru_response": "^\\s*Угадай\\,? что\\s*$",
     "sound": "guess_what-",
     "preview": "guess_what-"
   },
@@ -550,6 +558,14 @@
     "ru_response": "^\\s*пожалуйста\\s*$",
     "sound": "welcome",
     "preview": "welcome_please"
+  },
+  {
+    "foreign_question": "the differents between",
+    "ru_question": "разница между",
+    "foreign_response": "^\\s*the differents between\\s*$",
+    "ru_response": "^\\s*разница между\\s*$",
+    "sound": "the_differents_between",
+    "preview": "the_differents_between"
   },
   {
     "foreign_question": "welcome (приглашение)",

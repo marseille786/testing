@@ -473,7 +473,7 @@
     "ru_response": "^\\s*много( чего-то)?\\s*$",
     "sound": "a_lot_of",
     "preview": "a_lot_of"
-  }
+  },
   // наречия места
   {
     "foreign_question": "above",
@@ -1063,6 +1063,14 @@
     "preview": "as"
   },
   {
+    "foreign_question": "as beautiful as",
+    "ru_question": "такая же красивая как",
+    "foreign_response": "^\\s*as beautiful as\\s*$",
+    "ru_response": "^\\s*так(ой|ая) же красив(ый|ая) как\\s*$",
+    "sound": "as beautiful as",
+    "preview": "as beautiful as"
+  },
+  {
     "foreign_question": "badly",
     "ru_question": "плохо",
     "foreign_response": "^\\s*badly\\s*$",
@@ -1103,6 +1111,14 @@
     "preview": "hard"
   },
   {
+    "foreign_question": "in fashion",
+    "ru_question": "в моде, модно",
+    "foreign_response": "^\\s*in fashion\\s*$",
+    "ru_response": "^\\s*(в моде|модно)\\s*$",
+    "sound": "in_fashion",
+    "preview": "in_fashion"
+  },
+  {
     "foreign_question": "in touch",
     "ru_question": "на связи",
     "foreign_response": "^\\s*in touch\\s*$",
@@ -1141,6 +1157,14 @@
     "ru_response": "^\\s*на выходных\\s*$",
     "sound": "on_holiday",
     "preview": "on_holiday"
+  },
+  {
+    "foreign_question": "out of fashion",
+    "ru_question": "не модно, не в моде",
+    "foreign_response": "^\\s*out of fashion\\s*$",
+    "ru_response": "^\\s*(не модно|не в моде|вышло из моды|вышедшее из моды)\\s*$",
+    "sound": "out_of_fashion",
+    "preview": "out_of_fashion"
   },
   {
     "foreign_question": "past",

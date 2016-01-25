@@ -8,6 +8,14 @@
     "preview": "age"
   },
   {
+    "foreign_question": "anger",
+    "ru_question": "злость",
+    "foreign_response": "^\\s*anger\\s*$",
+    "ru_response": "^\\s*злость\\s*$",
+    "sound": "anger",
+    "preview": "anger"
+  },
+  {
     "foreign_question": "anxiety",
     "ru_question": "тревога",
     "foreign_response": "^\\s*anxiety\\s*$",
@@ -22,6 +30,14 @@
     "ru_response": "^\\s*малыш\\s*$",
     "sound": "baby",
     "preview": "baby"
+  },
+  {
+    "foreign_question": "caprice",
+    "ru_question": "каприз, прихоть (синоним whim)",
+    "foreign_response": "^\\s*caprice\\s*$",
+    "ru_response": "^\\s*(каприз|прихоть)\\s*$",
+    "sound": "caprice",
+    "preview": "caprice"
   },
   {
     "foreign_question": "confusion",
@@ -54,6 +70,14 @@
     "ru_response": "^\\s*(разочарование|досада)\\s*$",
     "sound": "disappointment",
     "preview": "disappointment"
+  },
+  {
+    "foreign_question": "environment",
+    "ru_question": "окружающая среда, окружение",
+    "foreign_response": "^\\s*environment\\s*$",
+    "ru_response": "^\\s*(окружающая среда|окружение)\\s*$",
+    "sound": "environment",
+    "preview": "environment"
   },
   {
     "foreign_question": "excitement",
@@ -144,6 +168,14 @@
     "preview": "mood"
   },
   {
+    "foreign_question": "perception",
+    "ru_question": "восприятие",
+    "foreign_response": "^\\s*perception\\s*$",
+    "ru_response": "^\\s*восприятие\\s*$",
+    "sound": "perception",
+    "preview": "perception"
+  },
+  {
     "foreign_question": "person",
     "ru_question": "человек, личность, персона",
     "foreign_response": "^\\s*person\\s*$",
@@ -201,9 +233,9 @@
   },
   {
     "foreign_question": "whim",
-    "ru_question": "каприз",
+    "ru_question": "каприз, прихоть (синоним caprice)",
     "foreign_response": "^\\s*whim\\s*$",
-    "ru_response": "^\\s*каприз\\s*$",
+    "ru_response": "^\\s*(каприз|прихоть)\\s*$",
     "sound": "whim",
     "preview": "whim"
   }

@@ -1,9 +1,9 @@
 [
   {
     "foreign_question": "age",
-    "ru_question": "век, эпоха",
+    "ru_question": "эпоха",
     "foreign_response": "^\\s*age\\s*$",
-    "ru_response": "^\\s*(век|эпоха)\\s*$",
+    "ru_response": "^\\s*(эпоха|период)\\s*$",
     "sound": "age",
     "preview": "age"
   },
@@ -78,6 +78,14 @@
     "ru_response": "^\\s*в то время\\s*$",
     "sound": "at_the_time",
     "preview": "at_the_time"
+  },
+  {
+    "foreign_question": "century",
+    "ru_question": "век",
+    "foreign_response": "^\\s*century\\s*$",
+    "ru_response": "^\\s*век\\s*$",
+    "sound": "century",
+    "preview": "century"
   },
   {
     "foreign_question": "for five years",
@@ -206,6 +214,14 @@
     "ru_response": "^\\s*минуточку\\s*$",
     "sound": "just_a_minute",
     "preview": "just_a_minute"
+  },
+  {
+    "foreign_question": "millennium",
+    "ru_question": "тысячелетие",
+    "foreign_response": "^\\s*millennium\\s*$",
+    "ru_response": "^\\s*тысячелетие\\s*$",
+    "sound": "millennium",
+    "preview": "millennium"
   },
   {
     "foreign_question": "on Monday",

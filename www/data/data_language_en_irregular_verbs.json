@@ -145,9 +145,9 @@
 	},
 	{
 		"foreign_question": "feed, fed, fed",
-		"ru_question": "кормить",
+		"ru_question": "кормить, питаться",
 		"foreign_response": "^\\s*feed[, ]+fed[, ]+fed\\s*$",
-		"ru_response": "^\\s*кормить\\s*$",
+		"ru_response": "^\\s*(кормить|питаться)\\s*$",
 	  	"sound": "feed_fed_fed",
 	  	"preview": "feed"
 	},

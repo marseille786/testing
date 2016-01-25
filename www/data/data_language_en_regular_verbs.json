@@ -1,4 +1,12 @@
 [
+  {
+    "foreign_question": "absorb",
+    "ru_question": "впитывать",
+    "foreign_response": "^\\s*absorb\\s*$",
+    "ru_response": "^\\s*впитывать\\s*$",
+      "sound": "absorb",
+      "preview": "absorb"
+  },
 	{
 		"foreign_question": "accompany",
 		"ru_question": "сопровождать",
@@ -111,6 +119,14 @@
     "sound": "borrow",
     "preview": "borrow"
   },
+  {
+    "foreign_question": "bullshit",
+    "ru_question": "нести чушь",
+    "foreign_response": "^\\s*bullshit\\s*$",
+    "ru_response": "^\\s*(нести|говорить) (чушь|глупост[ьи])\\s*$",
+      "sound": "bullshit",
+      "preview": "bullshit"
+  },
 	{
 		"foreign_question": "call",
 		"ru_question": "звонить",
@@ -183,6 +199,14 @@
     "sound": "connect",
     "preview": "connect"
   },
+  {
+    "foreign_question": "contradict",
+    "ru_question": "противоречить",
+    "foreign_response": "^\\s*contradict\\s*$",
+    "ru_response": "^\\s*(противоречить|возражать)\\s*$",
+    "sound": "contradict",
+    "preview": "contradict"
+  },
 	{
 		"foreign_question": "cook",
 		"ru_question": "готовить еду",
@@ -205,7 +229,7 @@
     "foreign_response": "^\\s*court\\s*$",
     "ru_response": "^\\s*ухаживать\\s*$",
     "sound": "court",
-    "preview": "court"
+    "preview": "court__v"
   },
 	{
 		"foreign_question": "cover",
@@ -261,7 +285,7 @@
 		"foreign_response": "^\\s*desert\\s*$",
 		"ru_response": "^\\s*дезертировать\\s*$",
 		"sound": "desert",
-		"preview": "desert"
+		"preview": "desert__v"
 	},
   {
     "foreign_question": "destroy",
@@ -529,9 +553,9 @@
   },
   {
     "foreign_question": "include",
-    "ru_question": "подключать, включать (в состав)",
+    "ru_question": "подключать, включать (в состав), включать в себя",
     "foreign_response": "^\\s*include\\s*$",
-    "ru_response": "^\\s*(подключать|включать)\\s*$",
+    "ru_response": "^\\s*(подключать|включать( в себя)?)\\s*$",
     "sound": "include",
     "preview": "include"
   },
@@ -561,7 +585,7 @@
 	},
   {
     "foreign_question": "kill",
-    "ru_question": "убивать, убийство",
+    "ru_question": "убивать",
     "foreign_response": "^\\s*kill\\s*$",
     "ru_response": "^\\s*(уби(ва)?ть|убийство)\\s*$",
     "sound": "kill",
@@ -606,6 +630,14 @@
     "ru_response": "^\\s*(учиться|учить)\\s*$",
     "sound": "learn",
     "preview": "learn"
+  },
+  {
+    "foreign_question": "locate",
+    "ru_question": "разместить, находиться",
+    "foreign_response": "^\\s*locate\\s*$",
+    "ru_response": "^\\s*(разместить|находиться|размещаться|располагаться|прибывать)\\s*$",
+      "sound": "locate",
+      "preview": "locate"
   },
 	{
 		"foreign_question": "look",
@@ -734,6 +766,14 @@
     "ru_response": "^\\s*(выполнять|представлять)\\s*$",
       "sound": "perform",
       "preview": "perform"
+  },
+  {
+    "foreign_question": "perceive",
+    "ru_question": "воспринимать",
+    "foreign_response": "^\\s*perceive\\s*$",
+    "ru_response": "^\\s*воспринимать\\s*$",
+      "sound": "perceive",
+      "preview": "perceive"
   },
 	{
 		"foreign_question": "plant",

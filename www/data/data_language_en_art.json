@@ -145,7 +145,7 @@
   },
   {
     "foreign_question": "scene",
-    "ru_question": "сцена",
+    "ru_question": "сцена (в фильме)",
     "foreign_response": "^\\s*scene\\s*$",
     "ru_response": "^\\s*сцена\\s*$",
     "sound": "scene",
@@ -190,6 +190,22 @@
     "ru_response": "^\\s*(звук|звучать)\\s*$",
     "sound": "sound",
     "preview": "sound"
+  },
+  {
+    "foreign_question": "spectator",
+    "ru_question": "зритель",
+    "foreign_response": "^\\s*spectator\\s*$",
+    "ru_response": "^\\s*зритель\\s*$",
+    "sound": "spectator",
+    "preview": "spectator"
+  },
+  {
+    "foreign_question": "stage",
+    "ru_question": "сцена (площадка)",
+    "foreign_response": "^\\s*stage\\s*$",
+    "ru_response": "^\\s*сцена\\s*$",
+    "sound": "stage",
+    "preview": "stage"
   },
   {
     "foreign_question": "star",

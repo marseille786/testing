@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Bootstrap 101 Template</title>
+
+<!-- Bootstrap -->
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="css/style.css" rel="stylesheet">
+
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+</head>
+<body>
+    <!-- <audio id="sound">
+        <source src="" type='audio/mpeg; codecs="mp3"'>
+    </audio> -->
+    <div class="container">
+
+        <div class="row">
+    <div class="col-md-12">
+        <ul class="nav nav-tabs">
+            <li><a href="/">Иностранный</a></li>
+            <li><a href="page_js.html">Программирование</a></li>
+            <li class="active"><a href="page_html.html">Верстка</a></li>
+        </ul>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <ul class="nav nav-pills">
+            <li><a href="/">JavaScript</a></li>
+        </ul>
+        <h1>Верстка</h1>
+    </div>
+</div>
+<!-- <div class="row">
+    <div class="col-md-12">
+        <p>Язык ввода:
+            <label for="lang-ru">Русский</label> <input type="radio" id="lang-ru" name="language" value="ru" checked="checked">
+            <label for="lang-en">English</label> <input type="radio" id="lang-en" name="language" value="en">
+        </p>
+    </div>
+</div> -->
+<div class="row">
+    <div class="col-md-6">
+    	<div class="row">
+    		<div class="col-md-10">
+    		    <select name="selectEnTrust" id="selectTheme" class="form-control">
+                    <option value="data_programming_flex">Flex</option>
+    		    </select>
+    		</div>
+    		
+    		<div class="col-md-2">
+    		    <button type="button" id="startCheck" class="btn btn-primary">Пуск</button>
+    		</div>
+		</div>
+		<div class="row">
+    		<div class="col-md-10">
+    		    <div class="alert alert-success positive">Правильный ответ!</div>
+    		    <div class="alert alert-danger negative">Ошибка</div>
+    		</div>
+    		<div class="col-md-2">
+    		    <div id="result" class="alert alert-info">0%</div>
+    		</div>
+    	</div>
+    </div>
+    <div class="col-md-6">
+    	<!-- <div class="blockPreview">
+            <img id="previewQuestion" src="" alt="">
+        </div> -->
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-6">
+        <textarea type="text" rows="5" id="question" class="form-control" disabled></textarea>
+    </div>
+    <div class="col-md-6">
+        <textarea type="text" rows="5" autocomplete="off" id="answer" class="form-control"></textarea>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-2">
+        <button type="button" id="enterValue" class="btn btn-primary">Ввод</button>
+    </div>
+    <div class="col-md-10">
+        <div class="alert alert-info">Осталось: <span id="balance"></span></div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-2">
+        <button type="button" id="help" class="btn btn-default">Подсказка</button>
+    </div>
+    <div class="col-md-10">
+        <!-- <input type="text" id="fieldHelp" class="form-control" disabled> -->
+        <textarea type="text" rows="5" id="fieldHelp" class="form-control" disabled></textarea>
+    </div>
+</div>
+    </div>
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="js/jquery-1.11.1.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="js/bootstrap.min.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html>
