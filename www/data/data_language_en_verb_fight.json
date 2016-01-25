@@ -1,0 +1,11 @@
+// Глаголы борьбы
+[
+  {
+    "foreign_question": "beat",
+    "ru_question": "бить (синоним hit)",
+    "foreign_response": "^\\s*beat\\s*$",
+    "ru_response": "^\\s*(бить|удар)\\s*$",
+    "sound": "beat",
+    "preview": "beat"
+  },
+]

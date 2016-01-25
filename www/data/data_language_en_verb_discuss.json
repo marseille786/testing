@@ -1,0 +1,83 @@
+// Глаголы общения
+[
+	{
+		"foreign_question": "advise",
+		"ru_question": "советовать",
+		"foreign_response": "^\\s*advise\\s*$",
+		"ru_response": "^\\s*советовать\\s*$",
+	  	"sound": "advise",
+	  	"preview": "advise"
+	},
+	{
+		"foreign_question": "announce",
+		"ru_question": "объявлять",
+		"foreign_response": "^\\s*announce\\s*$",
+		"ru_response": "^\\s*объявлять\\s*$",
+	  	"sound": "announce",
+	  	"preview": "announce"
+	},
+	{
+		"foreign_question": "answer",
+		"ru_question": "отвечать (синоним reply)",
+		"foreign_response": "^\\s*answer\\s*$",
+		"ru_response": "^\\s*отвечать\\s*$",
+	  	"sound": "answer",
+	  	"preview": "answer"
+	},
+	{
+		"foreign_question": "apologize for",
+		"ru_question": "просить прощения за (что-то)(признание ответственности)",
+		"foreign_response": "^\\s*apologize for\\s*$",
+		"ru_response": "^\\s*(просить прощения|приносить извинения|извиняться) за\\s*$",
+	  	"sound": "apologize_for",
+	  	"preview": "apologize_for"
+	},
+	{
+		"foreign_question": "ask",
+		"ru_question": "спрашивать, просить",
+		"foreign_response": "^\\s*ask\\s*$",
+		"ru_response": "^\\s*(спрашивать|просить)\\s*$",
+	  	"sound": "ask",
+	  	"preview": "ask"
+	},
+  {
+    "foreign_question": "borrow",
+    "ru_question": "брать в долг, одалживать",
+    "foreign_response": "^\\s*borrow\\s*$",
+    "ru_response": "^\\s*(брать в долг|одалживать)\\s*$",
+    "sound": "borrow",
+    "preview": "borrow"
+  },
+  {
+    "foreign_question": "bullshit",
+    "ru_question": "нести чушь",
+    "foreign_response": "^\\s*bullshit\\s*$",
+    "ru_response": "^\\s*(нести|говорить) (чушь|глупост[ьи])\\s*$",
+      "sound": "bullshit",
+      "preview": "bullshit"
+  },
+	{
+		"foreign_question": "call",
+		"ru_question": "звонить",
+		"foreign_response": "^\\s*call\\s*$",
+		"ru_response": "^\\s*звонить\\s*$",
+	  	"sound": "call",
+	  	"preview": "call"
+	},
+	{
+		"foreign_question": "check",
+		"ru_question": "проверять",
+		"foreign_response": "^\\s*check\\s*$",
+		"ru_response": "^\\s*проверять\\s*$",
+	  	"sound": "check",
+	  	"preview": "check"
+	},
+	{
+		"foreign_question": "reply",
+		"ru_question": "отвечать (синоним answer)",
+		"foreign_response": "^\\s*reply\\s*$",
+		"ru_response": "^\\s*отвечать\\s*$",
+	  	"sound": "reply",
+	  	"preview": "reply"
+	},
+]

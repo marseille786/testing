@@ -1,0 +1,19 @@
+// Глаголы движения
+[
+	{
+		"foreign_question": "accompany",
+		"ru_question": "сопровождать",
+		"foreign_response": "^\\s*accompany\\s*$",
+		"ru_response": "^\\s*сопровождать\\s*$",
+	  	"sound": "accompany",
+	  	"preview": "accompany"
+	},
+  {
+    "foreign_question": "arrive",
+    "ru_question": "прибывать, приезжать",
+    "foreign_response": "^\\s*arrive\\s*$",
+    "ru_response": "^\\s*(прибы(ва)?ть|прие(зж|х)ать)\\s*$",
+    "sound": "arrive",
+    "preview": "arrive"
+  },
+]

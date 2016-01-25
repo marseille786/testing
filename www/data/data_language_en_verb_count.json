@@ -1,0 +1,27 @@
+// Глаголы наличия и количества
+[
+  {
+    "foreign_question": "add",
+    "ru_question": "добавлять",
+    "foreign_response": "^\\s*add\\s*$",
+    "ru_response": "^\\s*(добавлять|добавить|прибавлять)\\s*$",
+    "sound": "add",
+    "preview": "add"
+  },
+	{
+		"foreign_question": "attend",
+		"ru_question": "посещать, присутствовать",
+		"foreign_response": "^\\s*attend\\s*$",
+		"ru_response": "^\\s*(посещать|присутствовать)\\s*$",
+	  	"sound": "attend",
+	  	"preview": "attend"
+	},
+	{
+		"foreign_question": "change",
+		"ru_question": "менять, переодеваться",
+		"foreign_response": "^\\s*change\\s*$",
+		"ru_response": "^\\s*((из)?менять|переодевать(ся)?)\\s*$",
+	  	"sound": "change",
+	  	"preview": "change"
+	},
+]

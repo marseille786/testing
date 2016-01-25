@@ -1,0 +1,11 @@
+// Глаголы бытовые
+[
+  {
+    "foreign_question": "carry",
+    "ru_question": "нести (в руках)",
+    "foreign_response": "^\\s*carry\\s*$",
+    "ru_response": "^\\s*(нести|носить)\\s*$",
+    "sound": "carry",
+    "preview": "carry"
+  },
+]

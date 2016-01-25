@@ -1,0 +1,11 @@
+// Глаголы восприятия и мышления
+[
+  {
+    "foreign_question": "add",
+    "ru_question": "прибавлять",
+    "foreign_response": "^\\s*add\\s*$",
+    "ru_response": "^\\s*(добавлять|добавить|прибавлять)\\s*$",
+    "sound": "add",
+    "preview": "add"
+  },
+]

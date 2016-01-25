@@ -1,0 +1,19 @@
+// Глаголы стадий
+[
+	{
+		"foreign_question": "appear",
+		"ru_question": "появляться (напр. появилась луна)",
+		"foreign_response": "^\\s*appear\\s*$",
+		"ru_response": "^\\s*появляться\\s*$",
+	  	"sound": "appear",
+	  	"preview": "appear"
+	},
+  {
+    "foreign_question": "award",
+    "ru_question": "награждать, присуждать",
+    "foreign_response": "^\\s*award\\s*$",
+    "ru_response": "^\\s*(награда|премия|награждать|присуждать)\\s*$",
+    "sound": "award",
+    "preview": "award"
+  },
+]

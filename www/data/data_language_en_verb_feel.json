@@ -1,0 +1,19 @@
+// Глаголы чувств
+[
+	{
+		"foreign_question": "believe",
+		"ru_question": "верить",
+		"foreign_response": "^\\s*believe\\s*$",
+		"ru_response": "^\\s*верить\\s*$",
+	  	"sound": "believe",
+	  	"preview": "believe"
+	},
+	{
+		"foreign_question": "bless",
+		"ru_question": "благословлять",
+		"foreign_response": "^\\s*bless\\s*$",
+		"ru_response": "^\\s*(благословлять|благословить)\\s*$",
+	  	"sound": "bless",
+	  	"preview": "bless"
+	},
+]

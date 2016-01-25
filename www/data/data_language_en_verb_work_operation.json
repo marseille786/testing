@@ -1,0 +1,19 @@
+// Глаголы рабочих операций
+[
+  {
+    "foreign_question": "absorb",
+    "ru_question": "впитывать",
+    "foreign_response": "^\\s*absorb\\s*$",
+    "ru_response": "^\\s*впитывать\\s*$",
+      "sound": "absorb",
+      "preview": "absorb"
+  },
+  {
+    "foreign_question": "clean",
+    "ru_question": "чистить",
+    "foreign_response": "^\\s*clean\\s*$",
+    "ru_response": "^\\s*чистить\\s*$",
+    "sound": "clean",
+    "preview": "clean"
+  },
+]
