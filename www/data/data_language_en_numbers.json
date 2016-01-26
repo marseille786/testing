@@ -325,7 +325,7 @@
     "foreign_response": "^\\s*second\\s*$",
     "ru_response": "^\\s*(2(-?й)?|второй)\\s*$",
     "sound": "second",
-    "preview": "second"
+    "preview": "second__num"
   },
   {
     "foreign_question": "third",
@@ -474,7 +474,7 @@
   {
     "foreign_question": "hundredth",
     "ru_question": "100-й",
-    "foreign_response": "^\\s*hundredth\\s*$",
+    "foreign_response": "^\\s*(one )?hundredth\\s*$",
     "ru_response": "^\\s*(100(-?й)?|сотый)\\s*$",
     "sound": "hundredth",
     "preview": "hundredth"

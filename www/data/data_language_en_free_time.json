@@ -126,5 +126,13 @@
     "ru_response": "^\\s*театр\\s*$",
     "sound": "theater",
     "preview": "theater"
+  },
+  {
+    "foreign_question": "walk",
+    "ru_question": "прогулка",
+    "foreign_response": "^\\s*walk\\s*$",
+    "ru_response": "^\\s*прогулка\\s*$",
+    "sound": "walk",
+    "preview": ""
   }
 ]

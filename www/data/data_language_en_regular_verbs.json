@@ -42,7 +42,7 @@
 	{
 		"foreign_question": "apologize for",
 		"ru_question": "просить прощения за (что-то)(признание ответственности)",
-		"foreign_response": "^\\s*apologize for\\s*$",
+		"foreign_response": "^\\s*apologize( for)?\\s*$",
 		"ru_response": "^\\s*(просить прощения|приносить извинения|извиняться) за\\s*$",
 	  	"sound": "apologize_for",
 	  	"preview": "apologize_for"
@@ -118,6 +118,14 @@
     "ru_response": "^\\s*(брать в долг|одалживать)\\s*$",
     "sound": "borrow",
     "preview": "borrow"
+  },
+  {
+    "foreign_question": "breathe",
+    "ru_question": "дышать",
+    "foreign_response": "^\\s*breathe\\s*$",
+    "ru_response": "^\\s*дышать\\s*$",
+    "sound": "breathe",
+    "preview": "breathe"
   },
   {
     "foreign_question": "bullshit",
@@ -832,6 +840,22 @@
     "preview": "protect"
   },
   {
+    "foreign_question": "pull",
+    "ru_question": "тянуть",
+    "foreign_response": "^\\s*pull\\s*$",
+    "ru_response": "^\\s*тянуть\\s*$",
+    "sound": "pull",
+    "preview": "pull"
+  },
+  {
+    "foreign_question": "push",
+    "ru_question": "толкать",
+    "foreign_response": "^\\s*push\\s*$",
+    "ru_response": "^\\s*толкать\\s*$",
+    "sound": "push",
+    "preview": "push"
+  },
+  {
     "foreign_question": "rearrange",
     "ru_question": "перестанавливать, перестановка",
     "foreign_response": "^\\s*rearrange\\s*$",
@@ -919,13 +943,21 @@
       "sound": "relax",
       "preview": "relax"
   },
+  {
+    "foreign_question": "revenge",
+    "ru_question": "мстить",
+    "foreign_response": "^\\s*revenge\\s*$",
+    "ru_response": "^\\s*мстить\\s*$",
+      "sound": "revenge",
+      "preview": "revenge"
+  },
 	{
-		"foreign_question": "revenge",
-		"ru_question": "мстить",
-		"foreign_response": "^\\s*revenge\\s*$",
-		"ru_response": "^\\s*мстить\\s*$",
-	  	"sound": "revenge",
-	  	"preview": "revenge"
+		"foreign_question": "robe",
+		"ru_question": "грабить, воровать",
+		"foreign_response": "^\\s*robe\\s*$",
+		"ru_response": "^\\s*(грабить|воровать)\\s*$",
+	  	"sound": "robe",
+	  	"preview": "robe"
 	},
   {
     "foreign_question": "ruin",

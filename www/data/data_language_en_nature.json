@@ -8,12 +8,28 @@
     "preview": "animal"
   },
   {
+    "foreign_question": "ashes",
+    "ru_question": "пепел",
+    "foreign_response": "^\\s*ashes\\s*$",
+    "ru_response": "^\\s*пепел\\s*$",
+    "sound": "ashes",
+    "preview": "ashes"
+  },
+  {
     "foreign_question": "beach",
     "ru_question": "пляж",
     "foreign_response": "^\\s*beach\\s*$",
     "ru_response": "^\\s*пляж\\s*$",
     "sound": "beach",
     "preview": "beach"
+  },
+  {
+    "foreign_question": "beam",
+    "ru_question": "луч (синоним ray)",
+    "foreign_response": "^\\s*beam\\s*$",
+    "ru_response": "^\\s*луч\\s*$",
+    "sound": "beam",
+    "preview": "beam"
   },
   {
     "foreign_question": "bird",
@@ -40,6 +56,14 @@
     "preview": "cloud"
   },
   {
+    "foreign_question": "coast",
+    "ru_question": "побережье (синоним shore)",
+    "foreign_response": "^\\s*coast\\s*$",
+    "ru_response": "^\\s*(побережье|берег)\\s*$",
+    "sound": "coast",
+    "preview": "coast"
+  },
+  {
     "foreign_question": "cold",
     "ru_question": "холод",
     "foreign_response": "^\\s*cold\\s*$",
@@ -56,12 +80,28 @@
     "preview": "degree"
   },
   {
+    "foreign_question": "desert",
+    "ru_question": "пустыня",
+    "foreign_response": "^\\s*desert\\s*$",
+    "ru_response": "^\\s*пустыня\\s*$",
+    "sound": "desert",
+    "preview": "desert"
+  },
+  {
     "foreign_question": "earth",
     "ru_question": "земля",
     "foreign_response": "^\\s*earth\\s*$",
     "ru_response": "^\\s*земля\\s*$",
     "sound": "earth",
     "preview": "earth"
+  },
+  {
+    "foreign_question": "eruption",
+    "ru_question": "извержение вулкана",
+    "foreign_response": "^\\s*eruption\\s*$",
+    "ru_response": "^\\s*извержение вулкана\\s*$",
+    "sound": "eruption",
+    "preview": "eruption"
   },
   {
     "foreign_question": "field",
@@ -104,6 +144,14 @@
     "preview": "garden"
   },
   {
+    "foreign_question": "glacier",
+    "ru_question": "ледник",
+    "foreign_response": "^\\s*glacier\\s*$",
+    "ru_response": "^\\s*ледник\\s*$",
+    "sound": "glacier",
+    "preview": "glacier"
+  },
+  {
     "foreign_question": "grass",
     "ru_question": "трава",
     "foreign_response": "^\\s*grass\\s*$",
@@ -136,6 +184,14 @@
     "preview": "ice"
   },
   {
+    "foreign_question": "island",
+    "ru_question": "остров",
+    "foreign_response": "^\\s*island\\s*$",
+    "ru_response": "^\\s*остров\\s*$",
+    "sound": "island",
+    "preview": "island"
+  },
+  {
     "foreign_question": "it will be cold",
     "ru_question": "будет холодно",
     "foreign_response": "^\\s*it will be cold\\s*$",
@@ -160,10 +216,18 @@
     "preview": "it_will_be_hot"
   },
   {
+    "foreign_question": "it is dark",
+    "ru_question": "сейчас темно",
+    "foreign_response": "^\\s*it(\\'| i)s dark\\s*$",
+    "ru_response": "^\\s*(сейчас )?темно\\s*$",
+    "sound": "it_is_dark",
+    "preview": "it_is_dark"
+  },
+  {
     "foreign_question": "it is sunny",
     "ru_question": "сейчас солнечно",
     "foreign_response": "^\\s*it(\\'| i)s sunny\\s*$",
-    "ru_response": "^\\s*сейчас солнечно\\s*$",
+    "ru_response": "^\\s*(сейчас )?солнечно\\s*$",
     "sound": "it_is_sunny",
     "preview": "it_is_sunny"
   },
@@ -171,7 +235,7 @@
     "foreign_question": "it is raining",
     "ru_question": "сейчас дождливо",
     "foreign_response": "^\\s*it(\\'| i)s raining\\s*$",
-    "ru_response": "^\\s*(сейчас дождливо|дождит)\\s*$",
+    "ru_response": "^\\s*((сейчас )?дождливо|дождит)\\s*$",
     "sound": "it_is_raining",
     "preview": "it_is_raining"
   },
@@ -179,9 +243,25 @@
     "foreign_question": "it is foggy",
     "ru_question": "сейчас туманно",
     "foreign_response": "^\\s*it(\\'| i)s foggy\\s*$",
-    "ru_response": "^\\s*сейчас туманно\\s*$",
+    "ru_response": "^\\s*(сейчас )?туман(но)?\\s*$",
     "sound": "it_is_foggy",
     "preview": "it_is_foggy"
+  },
+  {
+    "foreign_question": "it is frost",
+    "ru_question": "сейчас морозно",
+    "foreign_response": "^\\s*it(\\'| i)s frost\\s*$",
+    "ru_response": "^\\s*(сейчас )?мороз(но)?\\s*$",
+    "sound": "it_is_frost",
+    "preview": "it_is_frost"
+  },
+  {
+    "foreign_question": "it is stuffy",
+    "ru_question": "сейчас душно",
+    "foreign_response": "^\\s*it(\\'| i)s stuffy\\s*$",
+    "ru_response": "^\\s*(сейчас )?(душно|духота)\\s*$",
+    "sound": "it_is_stuffy",
+    "preview": "it_is_stuffy"
   },
   {
     "foreign_question": "it was cloudy",
@@ -216,6 +296,22 @@
     "preview": "lake"
   },
   {
+    "foreign_question": "lava",
+    "ru_question": "лава",
+    "foreign_response": "^\\s*lava\\s*$",
+    "ru_response": "^\\s*лава\\s*$",
+    "sound": "lava",
+    "preview": "lava"
+  },
+  {
+    "foreign_question": "leaf",
+    "ru_question": "лист",
+    "foreign_response": "^\\s*leaf\\s*$",
+    "ru_response": "^\\s*лист(ок)?\\s*$",
+    "sound": "leaf",
+    "preview": "leaf"
+  },
+  {
     "foreign_question": "moon",
     "ru_question": "луна",
     "foreign_response": "^\\s*moon\\s*$",
@@ -232,12 +328,36 @@
     "preview": "mountain"
   },
   {
+    "foreign_question": "mountain range",
+    "ru_question": "горный хребет",
+    "foreign_response": "^\\s*mountain range\\s*$",
+    "ru_response": "^\\s*(горный (хребет|массив)|горная (цепь|гряда))\\s*$",
+    "sound": "mountain_range",
+    "preview": "mountain_range"
+  },
+  {
+    "foreign_question": "national park",
+    "ru_question": "национальный парк",
+    "foreign_response": "^\\s*national park\\s*$",
+    "ru_response": "^\\s*национальный парк\\s*$",
+    "sound": "national_park",
+    "preview": "national_park"
+  },
+  {
     "foreign_question": "nature",
     "ru_question": "природа",
     "foreign_response": "^\\s*nature\\s*$",
     "ru_response": "^\\s*природа\\s*$",
     "sound": "nature",
     "preview": "nature"
+  },
+  {
+    "foreign_question": "off the coast",
+    "ru_question": "от побережья",
+    "foreign_response": "^\\s*off the coast\\s*$",
+    "ru_response": "^\\s*от (побережья|берега)\\s*$",
+    "sound": "off_the_coast",
+    "preview": "off_the_coast"
   },
   {
     "foreign_question": "ocean",
@@ -264,12 +384,28 @@
     "preview": "rainbow"
   },
   {
+    "foreign_question": "ray",
+    "ru_question": "луч (синоним beam)",
+    "foreign_response": "^\\s*ray\\s*$",
+    "ru_response": "^\\s*луч\\s*$",
+    "sound": "ray",
+    "preview": "ray"
+  },
+  {
     "foreign_question": "river",
     "ru_question": "река",
     "foreign_response": "^\\s*river\\s*$",
     "ru_response": "^\\s*река\\s*$",
     "sound": "river",
     "preview": "river"
+  },
+  {
+    "foreign_question": "safari",
+    "ru_question": "сафари",
+    "foreign_response": "^\\s*safari\\s*$",
+    "ru_response": "^\\s*сафари\\s*$",
+    "sound": "safari",
+    "preview": "safari"
   },
   {
     "foreign_question": "sea",
@@ -283,7 +419,7 @@
     "foreign_question": "shore",
     "ru_question": "берег моря",
     "foreign_response": "^\\s*shore\\s*$",
-    "ru_response": "^\\s*берег( моря)?\\s*$",
+    "ru_response": "^\\s*(берег|побережье)( моря)?\\s*$",
     "sound": "shore",
     "preview": "shore"
   },
@@ -304,6 +440,14 @@
     "preview": "snow"
   },
   {
+    "foreign_question": "spruce",
+    "ru_question": "ель, хвойное дерево",
+    "foreign_response": "^\\s*spruce\\s*$",
+    "ru_response": "^\\s*(ель|елка|хвойное дерево)\\s*$",
+    "sound": "spruce",
+    "preview": "spruce"
+  },
+  {
     "foreign_question": "storm",
     "ru_question": "гроза",
     "foreign_response": "^\\s*storm\\s*$",
@@ -320,6 +464,14 @@
     "preview": "sun"
   },
   {
+    "foreign_question": "tide",
+    "ru_question": "прилив, отлив",
+    "foreign_response": "^\\s*tide\\s*$",
+    "ru_response": "^\\s*(прилив|отлив)\\s*$",
+    "sound": "tide",
+    "preview": "tide"
+  },
+  {
     "foreign_question": "tree",
     "ru_question": "дерево",
     "foreign_response": "^\\s*tree\\s*$",
@@ -334,6 +486,38 @@
     "ru_response": "^\\s*природа\\s*$",
     "sound": "the_weather",
     "preview": "the_weather"
+  },
+  {
+    "foreign_question": "the wild",
+    "ru_question": "дикая природа",
+    "foreign_response": "^\\s*(the )?wild\\s*$",
+    "ru_response": "^\\s*дикая природа\\s*$",
+    "sound": "the_wild",
+    "preview": "the_wild"
+  },
+  {
+    "foreign_question": "trunk",
+    "ru_question": "ствол",
+    "foreign_response": "^\\s*trunk\\s*$",
+    "ru_response": "^\\s*ствол\\s*$",
+    "sound": "trunk",
+    "preview": "trunk__tree"
+  },
+  {
+    "foreign_question": "volcano",
+    "ru_question": "вулкан",
+    "foreign_response": "^\\s*volcano\\s*$",
+    "ru_response": "^\\s*вулкан\\s*$",
+    "sound": "volcano",
+    "preview": "volcano"
+  },
+  {
+    "foreign_question": "waterfall",
+    "ru_question": "водопад",
+    "foreign_response": "^\\s*waterfall\\s*$",
+    "ru_response": "^\\s*водопад\\s*$",
+    "sound": "waterfall",
+    "preview": "waterfall"
   },
   {
     "foreign_question": "wind",

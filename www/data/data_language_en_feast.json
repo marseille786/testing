@@ -8,6 +8,14 @@
     "preview": "amusement_park"
   },
   {
+    "foreign_question": "birthday",
+    "ru_question": "день рождения",
+    "foreign_response": "^\\s*birthday\\s*$",
+    "ru_response": "^\\s*день рождения\\s*$",
+    "sound": "birthday",
+    "preview": "birthday"
+  },
+  {
     "foreign_question": "feast",
     "ru_question": "праздник",
     "foreign_response": "^\\s*feast\\s*$",
@@ -22,6 +30,22 @@
     "ru_response": "^\\s*подарок\\s*$",
     "sound": "gift",
     "preview": "gift"
+  },
+  {
+    "foreign_question": "party time",
+    "ru_question": "вечеринка",
+    "foreign_response": "^\\s*party time\\s*$",
+    "ru_response": "^\\s*вечеринка\\s*$",
+    "sound": "party_time",
+    "preview": "party_time"
+  },
+  {
+    "foreign_question": "picnic",
+    "ru_question": "пикник",
+    "foreign_response": "^\\s*picnic\\s*$",
+    "ru_response": "^\\s*пикник\\s*$",
+    "sound": "picnic",
+    "preview": ""
   },
   {
     "foreign_question": "present",

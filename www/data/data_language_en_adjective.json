@@ -9,11 +9,19 @@
   },
   {
     "foreign_question": "ancient",
-    "ru_question": "древний, старинный",
+    "ru_question": "злой, сердитый",
     "foreign_response": "^\\s*ancient\\s*$",
-    "ru_response": "^\\s*(древний|старинный)\\s*$",
+    "ru_response": "^\\s*(злой, сердитый)\\s*$",
     "sound": "ancient",
     "preview": "ancient"
+  },
+  {
+    "foreign_question": "angry",
+    "ru_question": "древний, старинный",
+    "foreign_response": "^\\s*angry\\s*$",
+    "ru_response": "^\\s*(древний|старинный)\\s*$",
+    "sound": "angry",
+    "preview": "angry"
   },
   {
     "foreign_question": "anxious",
@@ -129,9 +137,9 @@
   },
   {
     "foreign_question": "chubby",
-    "ru_question": "круглолицый",
+    "ru_question": "упитанный, полный, рыхлый, толстый, круглолицый",
     "foreign_response": "^\\s*chubby\\s*$",
-    "ru_response": "^\\s*круглолицый\\s*$",
+    "ru_response": "^\\s*(упитанный|полный|рыхлый|толстый|круглолицый)\\s*$",
     "sound": "chubby",
     "preview": "chubby"
   },
@@ -182,6 +190,14 @@
     "ru_response": "^\\s*удобный\\s*$",
     "sound": "convenient",
     "preview": "convenient"
+  },
+  {
+    "foreign_question": "criminal",
+    "ru_question": "преступный",
+    "foreign_response": "^\\s*criminal\\s*$",
+    "ru_response": "^\\s*преступный\\s*$",
+    "sound": "criminal",
+    "preview": "criminal"
   },
   {
     "foreign_question": "curious",
@@ -422,6 +438,14 @@
     "ru_response": "^\\s*(иностранный|заграничный)\\s*$",
     "sound": "foreign",
     "preview": "foreign"
+  },
+  {
+    "foreign_question": "free",
+    "ru_question": "свободный",
+    "foreign_response": "^\\s*free\\s*$",
+    "ru_response": "^\\s*свободный\\s*$",
+    "sound": "free",
+    "preview": "free"
   },
   {
     "foreign_question": "friendly",
@@ -713,9 +737,9 @@
   },
   {
     "foreign_question": "miserable",
-    "ru_question": "несчастный",
+    "ru_question": "несчастный, бедненький",
     "foreign_response": "^\\s*miserable\\s*$",
-    "ru_response": "^\\s*несчастный\\s*$",
+    "ru_response": "^\\s*(несчастный|бедненький|бедный)\\s*$",
     "sound": "miserable",
     "preview": "miserable"
   },
@@ -753,19 +777,11 @@
   },
   {
     "foreign_question": "mysterious",
-    "ru_question": "загадочный, таинственный (синоним mystery)",
+    "ru_question": "загадочный, таинственный",
     "foreign_response": "^\\s*mysterious\\s*$",
     "ru_response": "^\\s*(загадочный|таинственный|детектив)\\s*$",
     "sound": "mysterious",
     "preview": "mysterious"
-  },
-  {
-    "foreign_question": "mystery",
-    "ru_question": "таинственный (синоним mysterious)",
-    "foreign_response": "^\\s*mystery\\s*$",
-    "ru_response": "^\\s*таинственный\\s*$",
-    "sound": "mystery",
-    "preview": "mystery"
   },
   {
     "foreign_question": "natural",
@@ -1038,6 +1054,14 @@
     "ru_response": "^\\s*странный\\s*$",
     "sound": "strange",
     "preview": "strange"
+  },
+  {
+    "foreign_question": "strong",
+    "ru_question": "сильный",
+    "foreign_response": "^\\s*strong\\s*$",
+    "ru_response": "^\\s*странный\\s*$",
+    "sound": "strong",
+    "preview": "strong"
   },
   {
     "foreign_question": "stupid",

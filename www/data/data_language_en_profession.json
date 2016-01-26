@@ -72,6 +72,14 @@
     "preview": "cosmetologist"
   },
   {
+    "foreign_question": "criminal",
+    "ru_question": "преступник",
+    "foreign_response": "^\\s*criminal\\s*$",
+    "ru_response": "^\\s*преступник\\s*$",
+    "sound": "criminal",
+    "preview": "criminal"
+  },
+  {
     "foreign_question": "dancer",
     "ru_question": "танцор",
     "foreign_response": "^\\s*dancer\\s*$",
@@ -434,10 +442,18 @@
   {
     "foreign_question": "theatre director",
     "ru_question": "театральный директор",
-    "foreign_response": "^\\s*theatre director\\s*$",
+    "foreign_response": "^\\s*theat(re|er) director\\s*$",
     "ru_response": "^\\s*театральный директор\\s*$",
     "sound": "theatre_director",
     "preview": "theatre_director"
+  },
+  {
+    "foreign_question": "thief",
+    "ru_question": "вор",
+    "foreign_response": "^\\s*thief\\s*$",
+    "ru_response": "^\\s*вор\\s*$",
+    "sound": "thief",
+    "preview": "thief"
   },
   {
     "foreign_question": "traveller",
@@ -454,7 +470,7 @@
     "ru_response": "^\\s*безработный\\s*$",
     "sound": "unemployed",
     "preview": "unemployed"
-  },,
+  },
   {
     "foreign_question": "waiter",
     "ru_question": "официант",
@@ -462,7 +478,7 @@
     "ru_response": "^\\s*официант\\s*$",
     "sound": "waiter",
     "preview": "waiter"
-  }
+  },
   {
     "foreign_question": "worker",
     "ru_question": "рабочий",

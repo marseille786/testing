@@ -136,6 +136,14 @@
     "preview": "city_centre"
   },
   {
+    "foreign_question": "crime",
+    "ru_question": "преступление",
+    "foreign_response": "^\\s*crime\\s*$",
+    "ru_response": "^\\s*преступление\\s*$",
+    "sound": "crime",
+    "preview": "crime"
+  },
+  {
     "foreign_question": "department store",
     "ru_question": "универмаг, супермаркет (синоним 'supermarket')",
     "foreign_response": "^\\s*department store\\s*$",
@@ -166,6 +174,14 @@
     "ru_response": "^\\s*ресторан быстрого питания\\s*$",
     "sound": "fast_food_restaurant",
     "preview": "fast_food_restaurant"
+  },
+  {
+    "foreign_question": "hold up",
+    "ru_question": "ограбление, грабеж, разбой (синоним robbery)",
+    "foreign_response": "^\\s*hold up\\s*$",
+    "ru_response": "^\\s*(ограбление|грабеж|разбой)\\s*$",
+    "sound": "hold_up",
+    "preview": "hold_up"
   },
   {
     "foreign_question": "hospital",
@@ -390,6 +406,14 @@
     "ru_response": "^\\s*дорога\\s*$",
     "sound": "road",
     "preview": "road"
+  },
+  {
+    "foreign_question": "robbery",
+    "ru_question": "ограбление, грабеж, разбой (синоним hold up)",
+    "foreign_response": "^\\s*robbery\\s*$",
+    "ru_response": "^\\s*(ограбление|грабеж|разбой)\\s*$",
+    "sound": "robbery",
+    "preview": "robbery"
   },
   {
     "foreign_question": "route",

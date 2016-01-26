@@ -32,6 +32,14 @@
     "preview": "baby"
   },
   {
+    "foreign_question": "breath",
+    "ru_question": "дыхание",
+    "foreign_response": "^\\s*breath\\s*$",
+    "ru_response": "^\\s*дыхание\\s*$",
+    "sound": "breath",
+    "preview": "breath"
+  },
+  {
     "foreign_question": "caprice",
     "ru_question": "каприз, прихоть (синоним whim)",
     "foreign_response": "^\\s*caprice\\s*$",
@@ -136,6 +144,14 @@
     "preview": "imagination"
   },
   {
+    "foreign_question": "impression",
+    "ru_question": "впечатление",
+    "foreign_response": "^\\s*impression\\s*$",
+    "ru_response": "^\\s*впечатление\\s*$",
+    "sound": "impression",
+    "preview": "impression"
+  },
+  {
     "foreign_question": "jealousy",
     "ru_question": "ревность, зависть",
     "foreign_response": "^\\s*jealousy\\s*$",
@@ -158,6 +174,14 @@
     "ru_response": "^\\s*жизнь\\s*$",
     "sound": "life",
     "preview": "life"
+  },
+  {
+    "foreign_question": "mentality",
+    "ru_question": "менталитет",
+    "foreign_response": "^\\s*mentality\\s*$",
+    "ru_response": "^\\s*менталитет\\s*$",
+    "sound": "mentality",
+    "preview": "mentality"
   },
   {
     "foreign_question": "mood",
@@ -201,7 +225,7 @@
   },
   {
     "foreign_question": "smell",
-    "ru_question": "пахнуть, нюхать, запах, обоняние",
+    "ru_question": "запах, обоняние",
     "foreign_response": "^\\s*smell\\s*$",
     "ru_response": "^\\s*(запах|обоняние)\\s*$",
     "sound": "smell",

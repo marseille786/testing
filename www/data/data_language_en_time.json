@@ -88,6 +88,14 @@
     "preview": "century"
   },
   {
+    "foreign_question": "by the evening",
+    "ru_question": "к вечеру",
+    "foreign_response": "^\\s*by the evening\\s*$",
+    "ru_response": "^\\s*к вечеру\\s*$",
+    "sound": "by_the_evening",
+    "preview": "by_the_evening"
+  },
+  {
     "foreign_question": "for five years",
     "ru_question": "на протяжении 5 лет",
     "foreign_response": "^\\s*for five years\\s*$",

@@ -1,5 +1,21 @@
 [
   {
+    "foreign_question": "breathe in",
+    "ru_question": "вдыхать",
+    "foreign_response": "^\\s*breathe in\\s*$",
+    "ru_response": "^\\s*вдыхать\\s*$",
+    "sound": "breathe_in",
+    "preview": "breathe_in"
+  },
+  {
+    "foreign_question": "breathe out",
+    "ru_question": "выдыхать",
+    "foreign_response": "^\\s*breathe out\\s*$",
+    "ru_response": "^\\s*выдыхать\\s*$",
+    "sound": "breathe_out",
+    "preview": "breathe_out"
+  },
+  {
     "foreign_question": "call back",
     "ru_question": "перезвонить",
     "foreign_response": "^\\s*call back\\s*$",
@@ -14,6 +30,14 @@
     "ru_response": "^\\s*отменить\\s*$",
     "sound": "call_off",
     "preview": "call_off"
+  },
+  {
+    "foreign_question": "catch breathe",
+    "ru_question": "отдышаться",
+    "foreign_response": "^\\s*catch breathe\\s*$",
+    "ru_response": "^\\s*отдышаться\\s*$",
+    "sound": "catch_breathe",
+    "preview": "catch_breathe"
   },
   {
     "foreign_question": "check in",
@@ -41,7 +65,7 @@
   },
   {
     "foreign_question": "come in",
-    "ru_question": "входить",
+    "ru_question": "входить (синоним go in)",
     "foreign_response": "^\\s*come in\\s*$",
     "ru_response": "^\\s*входить\\s*$",
     "sound": "come_in",
@@ -153,7 +177,7 @@
   },
   {
     "foreign_question": "go in",
-    "ru_question": "заходить, входить",
+    "ru_question": "заходить, входить (синоним come in)",
     "foreign_response": "^\\s*go in\\s*$",
     "ru_response": "^\\s*(заходить|входить)\\s*$",
     "sound": "go_in",
@@ -209,9 +233,9 @@
   },
   {
     "foreign_question": "have to",
-    "ru_question": "быть должным (синоним must, но мягче)",
+    "ru_question": "быть должным (синоним must, но мягче), приходится",
     "foreign_response": "^\\s*have to\\s*$",
-    "ru_response": "^\\s*быть должным\\s*$",
+    "ru_response": "^\\s*(быть должным|приходить?ся)\\s*$",
     "sound": "have_to",
     "preview": "have_to"
   },
@@ -433,7 +457,7 @@
   },
   {
     "foreign_question": "turn on",
-    "ru_question": "выключить",
+    "ru_question": "включить",
     "foreign_response": "^\\s*turn on\\s*$",
     "ru_response": "^\\s*(включить|включать)\\s*$",
     "sound": "turn_on",

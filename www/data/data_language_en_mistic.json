@@ -24,6 +24,14 @@
     "preview": "icon"
   },
   {
+    "foreign_question": "mystery",
+    "ru_question": "тайна",
+    "foreign_response": "^\\s*mystery\\s*$",
+    "ru_response": "^\\s*тайна\\s*$",
+    "sound": "mystery",
+    "preview": "mystery"
+  },
+  {
     "foreign_question": "order",
     "ru_question": "орден (монашеский)",
     "foreign_response": "^\\s*order\\s*$",
