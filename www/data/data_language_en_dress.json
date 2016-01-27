@@ -41,7 +41,7 @@
   },
   {
     "foreign_question": "cart",
-    "ru_question": "наличные",
+    "ru_question": "тележка",
     "foreign_response": "^\\s*cart\\s*$",
     "ru_response": "^\\s*тележка\\s*$",
     "sound": "cart",

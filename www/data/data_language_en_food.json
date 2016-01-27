@@ -232,6 +232,14 @@
     "preview": "corn"
   },
   {
+    "foreign_question": "crop",
+    "ru_question": "сельско-хозяйственная культура",
+    "foreign_response": "^\\s*crop\\s*$",
+    "ru_response": "^\\s*сельско-?хозяйственная культура\\s*$",
+    "sound": "crop",
+    "preview": "crop"
+  },
+  {
     "foreign_question": "cucumber",
     "ru_question": "огурец",
     "foreign_response": "^\\s*cucumber\\s*$",
@@ -725,7 +733,7 @@
     "foreign_response": "^\\s*water\\s*$",
     "ru_response": "^\\s*вода\\s*$",
     "sound": "water",
-    "preview": "water"
+    "preview": "water__food"
   },
   {
     "foreign_question": "watermelon",

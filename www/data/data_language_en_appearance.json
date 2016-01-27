@@ -13,7 +13,15 @@
     "foreign_response": "^\\s*average height\\s*$",
     "ru_response": "^\\s*средний рост\\s*$",
     "sound": "average_height",
-    "preview": ""
+    "preview": "average_height"
+  },
+  {
+    "foreign_question": "beard",
+    "ru_question": "борода",
+    "foreign_response": "^\\s*beard\\s*$",
+    "ru_response": "^\\s*борода\\s*$",
+    "sound": "beard",
+    "preview": "beard"
   },
   {
     "foreign_question": "black hair",
@@ -36,8 +44,8 @@
     "ru_question": "белые волосы",
     "foreign_response": "^\\s*blond hair\\s*$",
     "ru_response": "^\\s*белые волосы\\s*$",
-    "sound": "blond hair",
-    "preview": "blond hair"
+    "sound": "blond_hair",
+    "preview": "blond_hair"
   },
   {
     "foreign_question": "blonde",
@@ -85,7 +93,7 @@
     "foreign_response": "^\\s*ear\\s*$",
     "ru_response": "^\\s*ухо\\s*$",
     "sound": "ear",
-    "preview": ""
+    "preview": "ear"
   },
   {
     "foreign_question": "friend",
@@ -130,10 +138,18 @@
   {
     "foreign_question": "medium-length",
     "ru_question": "средняя длина",
-    "foreign_response": "^\\s*medium-length\\s*$",
+    "foreign_response": "^\\s*medium[- ]length\\s*$",
     "ru_response": "^\\s*средняя длина\\s*$",
     "sound": "medium-length",
     "preview": "medium-length"
+  },
+  {
+    "foreign_question": "muscle",
+    "ru_question": "мышца, мускул",
+    "foreign_response": "^\\s*muscle\\s*$",
+    "ru_response": "^\\s*(мышца|мускул)\\s*$",
+    "sound": "muscle",
+    "preview": "muscle"
   },
   {
     "foreign_question": "nose",
@@ -165,7 +181,7 @@
     "foreign_response": "^\\s*soft skin\\s*$",
     "ru_response": "^\\s*нежная кожа\\s*$",
     "sound": "soft_skin",
-    "preview": ""
+    "preview": "soft_skin"
   },
   {
     "foreign_question": "woman",
@@ -174,29 +190,5 @@
     "ru_response": "^\\s*женщина\\s*$",
     "sound": "woman",
     "preview": "woman"
-  },
-  {
-    "foreign_question": "beard",
-    "ru_question": "борода",
-    "foreign_response": "^\\s*beard\\s*$",
-    "ru_response": "^\\s*борода\\s*$",
-    "sound": "beard",
-    "preview": ""
-  },
-  {
-    "foreign_question": "muscle",
-    "ru_question": "мышца, мускул",
-    "foreign_response": "^\\s*muscle\\s*$",
-    "ru_response": "^\\s*(мышца|мускул)\\s*$",
-    "sound": "muscle",
-    "preview": ""
-  },
-  {
-    "foreign_question": "",
-    "ru_question": "",
-    "foreign_response": "^\\s*\\s*$",
-    "ru_response": "^\\s*\\s*$",
-    "sound": "",
-    "preview": ""
   }
 ]

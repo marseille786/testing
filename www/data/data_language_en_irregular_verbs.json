@@ -345,9 +345,9 @@
 	},
 	{
 		"foreign_question": "make, made, made",
-		"ru_question": "делать, производить",
+		"ru_question": "делать, производить, заставлять",
 		"foreign_response": "^\\s*make[, ]+made[, ]+made\\s*$",
-		"ru_response": "^\\s*(делать|производить)\\s*$",
+		"ru_response": "^\\s*(делать|производить|заставлять|заставить)\\s*$",
 	  	"sound": "make_made_made",
 	  	"preview": "make"
 	},

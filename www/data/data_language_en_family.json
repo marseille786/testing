@@ -117,7 +117,7 @@
     "foreign_response": "^\\s*girlfriend\\s*$",
     "ru_response": "^\\s*девушка, подруга\\s*$",
     "sound": "girlfriend",
-    "preview": ""
+    "preview": "girlfriend"
   },
   {
     "foreign_question": "granddaughter",
@@ -253,7 +253,7 @@
     "foreign_response": "^\\s*sister\\s*$",
     "ru_response": "^\\s*сестра\\s*$",
     "sound": "sister",
-    "preview": ""
+    "preview": "sister"
   },
   {
     "foreign_question": "society",

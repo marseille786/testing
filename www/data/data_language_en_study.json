@@ -45,7 +45,7 @@
     "foreign_response": "^\\s*Can I go out\\?\\s*$",
     "ru_response": "^\\s*Могу я выйти?\\s*$",
     "sound": "can_i_go_out-",
-    "preview": ""
+    "preview": "can_i_go_out-"
   },
   {
     "foreign_question": "Can you repeat that?",
@@ -206,14 +206,6 @@
     "ru_response": "^\\s*история\\s*$",
     "sound": "history",
     "preview": "history"
-  },
-  {
-    "foreign_question": "How do you say it in English?",
-    "ru_question": "Как сказать это по английски?",
-    "foreign_response": "^\\s*How do you say it in English\\?\\s*$",
-    "ru_response": "^\\s*Как сказать это (по английски|на английском( языке)?)?\\s*$",
-    "sound": "how_do_you_say_it_in_english-",
-    "preview": "how_do_you_say_it_in_english-"
   },
   {
     "foreign_question": "I don't know.",
@@ -510,14 +502,6 @@
     "ru_response": "^\\s*способ\\s*$",
     "sound": "way",
     "preview": "way"
-  },
-  {
-    "foreign_question": "What does this word mean?",
-    "ru_question": "Что значит это слово?",
-    "foreign_response": "^\\s*What does (this|that|the) word mean\\?\\s*$",
-    "ru_response": "^\\s*Что (значит|означает) это слово\\?\\s*$",
-    "sound": "what_does_this_word_mean-",
-    "preview": "what_does_this_word_mean-"
   },
   {
     "foreign_question": "word",

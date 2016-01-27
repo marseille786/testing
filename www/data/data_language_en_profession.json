@@ -145,6 +145,14 @@
     "preview": "engineer"
   },
   {
+    "foreign_question": "farmer",
+    "ru_question": "фермер",
+    "foreign_response": "^\\s*farmer\\s*$",
+    "ru_response": "^\\s*фермер\\s*$",
+    "sound": "farmer",
+    "preview": "farmer"
+  },
+  {
     "foreign_question": "film director",
     "ru_question": "кинорежиссер",
     "foreign_response": "^\\s*film director\\s*$",
@@ -159,6 +167,14 @@
     "ru_response": "^\\s*(пожарный|пожарник)\\s*$",
     "sound": "firefighter",
     "preview": "firefighter"
+  },
+  {
+    "foreign_question": "fisherman",
+    "ru_question": "рыбак",
+    "foreign_response": "^\\s*fisherman\\s*$",
+    "ru_response": "^\\s*рыбак\\s*$",
+    "sound": "fisherman",
+    "preview": "fisherman"
   },
   {
     "foreign_question": "freelancer",

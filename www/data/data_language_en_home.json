@@ -232,6 +232,14 @@
     "preview": "kitchen"
   },
   {
+    "foreign_question": "knife",
+    "ru_question": "нож",
+    "foreign_response": "^\\s*knife\\s*$",
+    "ru_response": "^\\s*нож\\s*$",
+    "sound": "knife",
+    "preview": "knife"
+  },
+  {
     "foreign_question": "lamp",
     "ru_question": "лампа",
     "foreign_response": "^\\s*lamp\\s*$",
@@ -262,6 +270,14 @@
     "ru_response": "^\\s*зеркало\\s*$",
     "sound": "mirror",
     "preview": "mirror"
+  },
+  {
+    "foreign_question": "nail",
+    "ru_question": "гвоздь",
+    "foreign_response": "^\\s*nail\\s*$",
+    "ru_response": "^\\s*гвоздь\\s*$",
+    "sound": "nail",
+    "preview": "nail"
   },
   {
     "foreign_question": "order",

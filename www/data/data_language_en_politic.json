@@ -38,5 +38,13 @@
     "ru_response": "^\\s*революция\\s*$",
     "sound": "revolution",
     "preview": "revolution"
+  },
+  {
+    "foreign_question": "state",
+    "ru_question": "государство",
+    "foreign_response": "^\\s*state\\s*$",
+    "ru_response": "^\\s*государство\\s*$",
+    "sound": "state",
+    "preview": "state"
   }
 ]

@@ -56,6 +56,14 @@
     "preview": "cruise"
   },
   {
+    "foreign_question": "destination",
+    "ru_question": "место назначения",
+    "foreign_response": "^\\s*destination\\s*$",
+    "ru_response": "^\\s*место назначения\\s*$",
+    "sound": "destination",
+    "preview": "destination"
+  },
+  {
     "foreign_question": "east",
     "ru_question": "восток",
     "foreign_response": "^\\s*east\\s*$",
@@ -86,6 +94,14 @@
     "ru_response": "^\\s*(пеший|пешеходный) туризм\\s*$",
     "sound": "hiking",
     "preview": "hiking"
+  },
+  {
+    "foreign_question": "holiday destination",
+    "ru_question": "место для отдыха, туристическое направление",
+    "foreign_response": "^\\s*holiday destination\\s*$",
+    "ru_response": "^\\s*(место для отдыха|туристическое направление)\\s*$",
+    "sound": "holiday_destination",
+    "preview": "holiday_destination"
   },
   {
     "foreign_question": "how long does it take to go from there to here?",

@@ -64,6 +64,14 @@
     "preview": "come_back"
   },
   {
+    "foreign_question": "come from",
+    "ru_question": "исходить, быть родом из (синоним go in)",
+    "foreign_response": "^\\s*come from\\s*$",
+    "ru_response": "^\\s*(исходить|быть родом из|родиться в|происходить из)\\s*$",
+    "sound": "come_from",
+    "preview": "come_from"
+  },
+  {
     "foreign_question": "come in",
     "ru_question": "входить (синоним go in)",
     "foreign_response": "^\\s*come in\\s*$",
@@ -166,6 +174,14 @@
     "ru_response": "^\\s*возвращаться\\s*$",
     "sound": "go_back",
     "preview": "go_back"
+  },
+  {
+    "foreign_question": "go bald",
+    "ru_question": "лысеть",
+    "foreign_response": "^\\s*go bald\\s*$",
+    "ru_response": "^\\s*лысеть\\s*$",
+    "sound": "go_bald",
+    "preview": "go_bald"
   },
   {
     "foreign_question": "go down",
@@ -374,6 +390,14 @@
     "ru_response": "^\\s*(сесть|садиться|оживиться)\\s*$",
     "sound": "sit_up",
     "preview": "sit_up"
+  },
+  {
+    "foreign_question": "speed up",
+    "ru_question": "разгоняться",
+    "foreign_response": "^\\s*speed up\\s*$",
+    "ru_response": "^\\s*разгоняться\\s*$",
+    "sound": "speed_up",
+    "preview": "speed_up"
   },
   {
     "foreign_question": "stand by",

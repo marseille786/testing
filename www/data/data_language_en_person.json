@@ -80,12 +80,36 @@
     "preview": "disappointment"
   },
   {
+    "foreign_question": "early ten",
+    "ru_question": "чуть за десять лет, немного старше 10 лет",
+    "foreign_response": "^\\s*early ten\\s*$",
+    "ru_response": "^\\s*(чуть за (десять|10)( лет)?|немного старше (10|десяти)( лет)?)\\s*$",
+    "sound": "early_ten",
+    "preview": "early_ten"
+  },
+  {
+    "foreign_question": "eld",
+    "ru_question": "старость",
+    "foreign_response": "^\\s*eld\\s*$",
+    "ru_response": "^\\s*старость\\s*$",
+    "sound": "eld",
+    "preview": "eld"
+  },
+  {
     "foreign_question": "environment",
     "ru_question": "окружающая среда, окружение",
     "foreign_response": "^\\s*environment\\s*$",
     "ru_response": "^\\s*(окружающая среда|окружение)\\s*$",
     "sound": "environment",
     "preview": "environment"
+  },
+  {
+    "foreign_question": "envy",
+    "ru_question": "зависть",
+    "foreign_response": "^\\s*envy\\s*$",
+    "ru_response": "^\\s*зависть\\s*$",
+    "sound": "envy",
+    "preview": "envy"
   },
   {
     "foreign_question": "excitement",
@@ -168,6 +192,14 @@
     "preview": "kid"
   },
   {
+    "foreign_question": "late ten",
+    "ru_question": "глубоко за 10 лет, далеко за 10 лет (о возрасте)",
+    "foreign_response": "^\\s*late ten\\s*$",
+    "ru_response": "^\\s*(глубоко за (10|десять)( лет)?|далеко за (10|десять)( лет)?)\\s*$",
+    "sound": "late_ten",
+    "preview": "late_ten"
+  },
+  {
     "foreign_question": "life",
     "ru_question": "жизнь",
     "foreign_response": "^\\s*life\\s*$",
@@ -184,12 +216,28 @@
     "preview": "mentality"
   },
   {
+    "foreign_question": "mid ten",
+    "ru_question": "после десяти лет, за десять лет (о возрасте, примерное среднее значение)",
+    "foreign_response": "^\\s*mid ten\\s*$",
+    "ru_response": "^\\s*(после (десяти|10)( лет)?|за (десять|10)( лет)?)\\s*$",
+    "sound": "mid_ten",
+    "preview": "mid_ten"
+  },
+  {
     "foreign_question": "mood",
     "ru_question": "настроение",
     "foreign_response": "^\\s*mood\\s*$",
     "ru_response": "^\\s*настроение\\s*$",
     "sound": "mood",
     "preview": "mood"
+  },
+  {
+    "foreign_question": "overweight",
+    "ru_question": "избыточный вес",
+    "foreign_response": "^\\s*overweight\\s*$",
+    "ru_response": "^\\s*(избыточный|лишний) вес\\s*$",
+    "sound": "overweight",
+    "preview": "overweight"
   },
   {
     "foreign_question": "perception",
@@ -232,6 +280,30 @@
     "preview": "smell"
   },
   {
+    "foreign_question": "soul",
+    "ru_question": "душа",
+    "foreign_response": "^\\s*soul\\s*$",
+    "ru_response": "^\\s*душа\\s*$",
+    "sound": "soul",
+    "preview": "soul"
+  },
+  {
+    "foreign_question": "state",
+    "ru_question": "состояние",
+    "foreign_response": "^\\s*state\\s*$",
+    "ru_response": "^\\s*состояние\\s*$",
+    "sound": "state",
+    "preview": "state"
+  },
+  {
+    "foreign_question": "stranger",
+    "ru_question": "чужой человек, незнакомец",
+    "foreign_response": "^\\s*stranger\\s*$",
+    "ru_response": "^\\s*(чужой( человек)?|незнакомец)\\s*$",
+    "sound": "stranger",
+    "preview": "stranger"
+  },
+  {
     "foreign_question": "talent",
     "ru_question": "талант",
     "foreign_response": "^\\s*talent\\s*$",
@@ -262,5 +334,13 @@
     "ru_response": "^\\s*(каприз|прихоть)\\s*$",
     "sound": "whim",
     "preview": "whim"
+  },
+  {
+    "foreign_question": "will",
+    "ru_question": "желание, завещание, воля",
+    "foreign_response": "^\\s*will\\s*$",
+    "ru_response": "^\\s*(желание|завещание|воля)\\s*$",
+    "sound": "will",
+    "preview": "will"
   }
 ]

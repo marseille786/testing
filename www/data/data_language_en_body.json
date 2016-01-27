@@ -13,7 +13,15 @@
     "foreign_response": "^\\s*arm\\s*$",
     "ru_response": "^\\s*рука\\s*$",
     "sound": "arm",
-    "preview": ""
+    "preview": "arm"
+  },
+  {
+    "foreign_question": "beard",
+    "ru_question": "борода",
+    "foreign_response": "^\\s*beard\\s*$",
+    "ru_response": "^\\s*борода\\s*$",
+    "sound": "beard",
+    "preview": "beard"
   },
   {
     "foreign_question": "body",
@@ -30,14 +38,6 @@
     "ru_response": "^\\s*ухо\\s*$",
     "sound": "ear",
     "preview": "ear"
-  },
-  {
-    "foreign_question": "excitement",
-    "ru_question": "восторг, волнение",
-    "foreign_response": "^\\s*excitement\\s*$",
-    "ru_response": "^\\s*(восторг|волнение|возбуждение)\\s*$",
-    "sound": "excitement",
-    "preview": "excitement"
   },
   {
     "foreign_question": "eye",
@@ -70,6 +70,14 @@
     "ru_response": "^\\s*(стопы|ступни|ноги)\\s*$",
     "sound": "feet",
     "preview": "feet"
+  },
+  {
+    "foreign_question": "full lips",
+    "ru_question": "пухлые губы",
+    "foreign_response": "^\\s*full lips\\s*$",
+    "ru_response": "^\\s*пухлые губы\\s*$",
+    "sound": "full_lips",
+    "preview": "full_lips"
   },
   {
     "foreign_question": "hair",
@@ -112,6 +120,14 @@
     "preview": "left"
   },
   {
+    "foreign_question": "medium build",
+    "ru_question": "среднее телосложение",
+    "foreign_response": "^\\s*medium build\\s*$",
+    "ru_response": "^\\s*среднее (тело)?сложение\\s*$",
+    "sound": "medium_build",
+    "preview": "medium_build"
+  },
+  {
     "foreign_question": "mind",
     "ru_question": "ум, разум, сознание",
     "foreign_response": "^\\s*mind\\s*$",
@@ -120,12 +136,28 @@
     "preview": "mind"
   },
   {
+    "foreign_question": "moustache",
+    "ru_question": "усы",
+    "foreign_response": "^\\s*moustache\\s*$",
+    "ru_response": "^\\s*усы\\s*$",
+    "sound": "moustache",
+    "preview": "moustache"
+  },
+  {
     "foreign_question": "mouth",
     "ru_question": "рот",
     "foreign_response": "^\\s*mouth\\s*$",
     "ru_response": "^\\s*рот\\s*$",
     "sound": "mouth",
     "preview": "mouth"
+  },
+  {
+    "foreign_question": "nail",
+    "ru_question": "ноготь",
+    "foreign_response": "^\\s*nail\\s*$",
+    "ru_response": "^\\s*ноготь\\s*$",
+    "sound": "nail",
+    "preview": "nail"
   },
   {
     "foreign_question": "nose",
@@ -182,5 +214,13 @@
     "ru_response": "^\\s*вес\\s*$",
     "sound": "weight",
     "preview": "weight"
+  },
+  {
+    "foreign_question": "wrinkle",
+    "ru_question": "морщина",
+    "foreign_response": "^\\s*wrinkle\\s*$",
+    "ru_response": "^\\s*морщина\\s*$",
+    "sound": "wrinkle",
+    "preview": "wrinkle"
   }
 ]

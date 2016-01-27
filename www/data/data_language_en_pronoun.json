@@ -267,5 +267,13 @@
     "ru_response": "^\\s*несколько\\s*$",
     "sound": "some",
     "preview": "some"
+  },
+  {
+    "foreign_question": "whatever (неопределенные местоимения)",
+    "ru_question": "независимо от того, что (неопределенные местоимения)",
+    "foreign_response": "^\\s*whatever\\s*$",
+    "ru_response": "^\\s*независимо от того,?( что)?\\s*$",
+    "sound": "whatever",
+    "preview": "whatever"
   }
 ]

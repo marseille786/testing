@@ -28,7 +28,7 @@
     "ru_question": "мыть посуду",
     "foreign_response": "^\\s*do the washing-up\\s*$",
     "ru_response": "^\\s*мыть посуду\\s*$",
-    "sound": "do_the_washing-up",
+    "sound": "do_the_washing[- ]up",
     "preview": "do_the_washing-up"
   },
   {
@@ -98,7 +98,7 @@
   {
     "foreign_question": "tea-time",
     "ru_question": "время пить чай",
-    "foreign_response": "^\\s*tea-time\\s*$",
+    "foreign_response": "^\\s*tea[- ]time\\s*$",
     "ru_response": "^\\s*время пить чай\\s*$",
     "sound": "tea-time",
     "preview": "tea-time"

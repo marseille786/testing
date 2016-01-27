@@ -128,6 +128,14 @@
     "preview": "india"
   },
   {
+    "foreign_question": "Iceland",
+    "ru_question": "Исландия",
+    "foreign_response": "^\\s*Iceland\\s*$",
+    "ru_response": "^\\s*Исландия\\s*$",
+    "sound": "iceland",
+    "preview": "iceland"
+  },
+  {
     "foreign_question": "Ireland",
     "ru_question": "Ирландия",
     "foreign_response": "^\\s*Ireland\\s*$",
@@ -214,6 +222,14 @@
     "ru_response": "^\\s*Испания\\s*$",
     "sound": "spain",
     "preview": "spain"
+  },
+  {
+    "foreign_question": "Thailand",
+    "ru_question": "Тайланд",
+    "foreign_response": "^\\s*Thailand\\s*$",
+    "ru_response": "^\\s*Тайланд\\s*$",
+    "sound": "thailand",
+    "preview": "thailand"
   },
   {
     "foreign_question": "Turkey",

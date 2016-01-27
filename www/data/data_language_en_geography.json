@@ -128,6 +128,14 @@
     "preview": "south"
   },
   {
+    "foreign_question": "state",
+    "ru_question": "государство",
+    "foreign_response": "^\\s*state\\s*$",
+    "ru_response": "^\\s*государство\\s*$",
+    "sound": "state",
+    "preview": "state"
+  },
+  {
     "foreign_question": "volcano",
     "ru_question": "вулкан",
     "foreign_response": "^\\s*volcano\\s*$",

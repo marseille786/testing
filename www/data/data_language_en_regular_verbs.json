@@ -135,13 +135,21 @@
       "sound": "bullshit",
       "preview": "bullshit"
   },
+  {
+    "foreign_question": "call",
+    "ru_question": "звонить",
+    "foreign_response": "^\\s*call\\s*$",
+    "ru_response": "^\\s*звонить\\s*$",
+      "sound": "call",
+      "preview": "call"
+  },
 	{
-		"foreign_question": "call",
-		"ru_question": "звонить",
-		"foreign_response": "^\\s*call\\s*$",
-		"ru_response": "^\\s*звонить\\s*$",
-	  	"sound": "call",
-	  	"preview": "call"
+		"foreign_question": "care for",
+		"ru_question": "заботиться о",
+		"foreign_response": "^\\s*care for\\s*$",
+		"ru_response": "^\\s*заботиться о\\s*$",
+	  	"sound": "care_for",
+	  	"preview": "care_for"
 	},
   {
     "foreign_question": "carry",
@@ -383,13 +391,21 @@
     "sound": "enjoy",
     "preview": "enjoy"
   },
+  {
+    "foreign_question": "enter",
+    "ru_question": "войти, входить",
+    "foreign_response": "^\\s*enter\\s*$",
+    "ru_response": "^\\s*(войти|входить)\\s*$",
+      "sound": "enter",
+      "preview": "enter"
+  },
 	{
-		"foreign_question": "enter",
-		"ru_question": "войти, входить",
-		"foreign_response": "^\\s*enter\\s*$",
-		"ru_response": "^\\s*(войти|входить)\\s*$",
-	  	"sound": "enter",
-	  	"preview": "enter"
+		"foreign_question": "envy",
+		"ru_question": "завидовать",
+		"foreign_response": "^\\s*envy\\s*$",
+		"ru_response": "^\\s*завидовать\\s*$",
+	  	"sound": "envy",
+	  	"preview": "envy"
 	},
   {
     "foreign_question": "erupt",
@@ -455,6 +471,14 @@
     "sound": "fail",
     "preview": "fail"
   },
+  {
+    "foreign_question": "fascinate",
+    "ru_question": "очаровывать",
+    "foreign_response": "^\\s*fascinate\\s*$",
+    "ru_response": "^\\s*очаровывать\\s*$",
+      "sound": "fascinate",
+      "preview": "fascinate"
+  },
 	{
 		"foreign_question": "finish",
 		"ru_question": "заканчивать",
@@ -471,14 +495,6 @@
 	  	"sound": "fit",
 	  	"preview": "fit"
 	},
-	{
-		"foreign_question": "follow",
-		"ru_question": "следовать",
-		"foreign_response": "^\\s*follow\\s*$",
-		"ru_response": "^\\s*следовать\\s*$",
-	  	"sound": "follow",
-	  	"preview": "follow"
-	},
   {
     "foreign_question": "fix",
     "ru_question": "исправлять",
@@ -487,6 +503,22 @@
     "sound": "fix",
     "preview": "fix"
   },
+  {
+    "foreign_question": "force",
+    "ru_question": "заставлять, принуждать",
+    "foreign_response": "^\\s*force\\s*$",
+    "ru_response": "^\\s*(заставлять|принуждать)\\s*$",
+      "sound": "force",
+      "preview": "force"
+  },
+	{
+		"foreign_question": "follow",
+		"ru_question": "следовать",
+		"foreign_response": "^\\s*follow\\s*$",
+		"ru_response": "^\\s*следовать\\s*$",
+	  	"sound": "follow",
+	  	"preview": "follow"
+	},
   {
     "foreign_question": "guess",
     "ru_question": "догадываться, угадывать",
@@ -1231,12 +1263,20 @@
 	  	"sound": "work",
 	  	"preview": "work"
 	},
+  {
+    "foreign_question": "worry",
+    "ru_question": "беспокоиться",
+    "foreign_response": "^\\s*worry\\s*$",
+    "ru_response": "^\\s*беспокоиться\\s*$",
+      "sound": "worry",
+      "preview": "worry"
+  },
 	{
-		"foreign_question": "worry",
-		"ru_question": "беспокоиться",
-		"foreign_response": "^\\s*worry\\s*$",
-		"ru_response": "^\\s*беспокоиться\\s*$",
-	  	"sound": "worry",
-	  	"preview": "worry"
+		"foreign_question": "wrinkle",
+		"ru_question": "морщить",
+		"foreign_response": "^\\s*wrinkle\\s*$",
+		"ru_response": "^\\s*(морщить|сморщивать)\\s*$",
+	  	"sound": "wrinkle",
+	  	"preview": "wrinkle"
 	}
 ]

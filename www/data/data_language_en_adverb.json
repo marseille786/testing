@@ -566,6 +566,14 @@
     "preview": "because"
   },
   {
+    "foreign_question": "because of",
+    "ru_question": "из-за (наречия меры)",
+    "foreign_response": "^\\s*because of\\s*$",
+    "ru_response": "^\\s*(из-за|по причине|в следстви[еи])\\s*$",
+    "sound": "because_of",
+    "preview": "because_of"
+  },
+  {
     "foreign_question": "certainly",
     "ru_question": "конечно, само собой (синоним of course, sure) (наречия меры)",
     "foreign_response": "^\\s*certainly\\s*$",

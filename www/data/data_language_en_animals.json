@@ -184,6 +184,14 @@
     "preview": "mouse"
   },
   {
+    "foreign_question": "nail",
+    "ru_question": "коготь",
+    "foreign_response": "^\\s*nail\\s*$",
+    "ru_response": "^\\s*коготь\\s*$",
+    "sound": "nail",
+    "preview": "nail"
+  },
+  {
     "foreign_question": "natural habitat",
     "ru_question": "естественная среда обитания",
     "foreign_response": "^\\s*natural habitat\\s*$",

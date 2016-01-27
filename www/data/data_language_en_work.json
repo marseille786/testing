@@ -16,6 +16,14 @@
     "preview": "announcement"
   },
   {
+    "foreign_question": "article",
+    "ru_question": "статья",
+    "foreign_response": "^\\s*article\\s*$",
+    "ru_response": "^\\s*статья\\s*$",
+    "sound": "article",
+    "preview": "article"
+  },
+  {
     "foreign_question": "automatization",
     "ru_question": "автоматизация",
     "foreign_response": "^\\s*automatization\\s*$",
@@ -217,9 +225,9 @@
   },
   {
     "foreign_question": "hard work",
-    "ru_question": "трудолюбие",
+    "ru_question": "тяжелая работа, усердная работа",
     "foreign_response": "^\\s*hard work\\s*$",
-    "ru_response": "^\\s*трудолюбие\\s*$",
+    "ru_response": "^\\s*(тяжелая|усердная) работа\\s*$",
     "sound": "hard_work",
     "preview": "hard_work"
   },

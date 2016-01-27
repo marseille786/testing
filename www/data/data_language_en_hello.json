@@ -324,8 +324,8 @@
     "ru_question": "пусть будет (как-то)",
     "foreign_response": "^\\s*let it be\\s*$",
     "ru_response": "^\\s*пусть будет( как-то| так)?\\s*$",
-    "sound": "let it be",
-    "preview": "let it be"
+    "sound": "let_it_be",
+    "preview": "let_it_be"
   },
   {
     "foreign_question": "Let me know.",

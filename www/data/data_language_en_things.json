@@ -192,6 +192,14 @@
     "preview": "kind_of"
   },
   {
+    "foreign_question": "knife",
+    "ru_question": "нож",
+    "foreign_response": "^\\s*knife\\s*$",
+    "ru_response": "^\\s*нож\\s*$",
+    "sound": "knife",
+    "preview": "knife"
+  },
+  {
     "foreign_question": "laptop",
     "ru_question": "ноутбук",
     "foreign_response": "^\\s*laptop\\s*$",
@@ -280,12 +288,12 @@
     "preview": "photo"
   },
   {
-    "foreign_question": "photoraphy",
+    "foreign_question": "photography",
     "ru_question": "фотография (синоним photo)",
-    "foreign_response": "^\\s*photoraphy\\s*$",
+    "foreign_response": "^\\s*photography\\s*$",
     "ru_response": "^\\s*фотография\\s*$",
-    "sound": "photoraphy",
-    "preview": "photoraphy"
+    "sound": "photography",
+    "preview": "photography"
   },
   {
     "foreign_question": "pipe smoking",
@@ -309,7 +317,7 @@
     "foreign_response": "^\\s*player\\s*$",
     "ru_response": "^\\s*плеер\\s*$",
     "sound": "player",
-    "preview": "player"
+    "preview": "player__thing"
   },
   {
     "foreign_question": "purse",
@@ -329,7 +337,7 @@
   },
   {
     "foreign_question": "sign",
-    "ru_question": "надпись",
+    "ru_question": "надпись (синоним label)",
     "foreign_response": "^\\s*sign\\s*$",
     "ru_response": "^\\s*надпись\\s*$",
     "sound": "sign",

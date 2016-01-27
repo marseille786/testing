@@ -155,9 +155,9 @@
   },
   {
     "foreign_question": "if",
-    "ru_question": "если",
+    "ru_question": "если (синоним whether)",
     "foreign_response": "^\\s*if\\s*$",
-    "ru_response": "^\\s*если\\s*$",
+    "ru_response": "^\\s*(если|ли)\\s*$",
     "sound": "if",
     "preview": "if"
   },
@@ -186,11 +186,27 @@
     "preview": "that"
   },
   {
+    "foreign_question": "though",
+    "ru_question": "однако",
+    "foreign_response": "^\\s*though\\s*$",
+    "ru_response": "^\\s*однако\\s*$",
+    "sound": "though",
+    "preview": "though"
+  },
+  {
     "foreign_question": "when",
     "ru_question": "когда",
     "foreign_response": "^\\s*when\\s*$",
     "ru_response": "^\\s*когда\\s*$",
     "sound": "when",
     "preview": "when"
+  },
+  {
+    "foreign_question": "whether",
+    "ru_question": "ли, будь то (синоним if)",
+    "foreign_response": "^\\s*whether\\s*$",
+    "ru_response": "^\\s*(ли|если|будь то)\\s*$",
+    "sound": "whether",
+    "preview": "whether"
   }
 ]

@@ -240,6 +240,14 @@
     "preview": "market"
   },
   {
+    "foreign_question": "mosque",
+    "ru_question": "мечеть",
+    "foreign_response": "^\\s*mosque\\s*$",
+    "ru_response": "^\\s*мечеть\\s*$",
+    "sound": "mosque",
+    "preview": "mosque"
+  },
+  {
     "foreign_question": "motorway",
     "ru_question": "автомагистраль, автострада, автотрасса",
     "foreign_response": "^\\s*motorway\\s*$",
@@ -518,6 +526,14 @@
     "ru_response": "^\\s*стоянка такси\\s*$",
     "sound": "taxi_rank",
     "preview": "taxi_rank"
+  },
+  {
+    "foreign_question": "temple",
+    "ru_question": "храм",
+    "foreign_response": "^\\s*temple\\s*$",
+    "ru_response": "^\\s*храм\\s*$",
+    "sound": "temple",
+    "preview": "temple"
   },
   {
     "foreign_question": "theater",

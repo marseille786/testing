@@ -1,0 +1,26 @@
+[
+  {
+    "foreign_question": "enough is enough",
+    "ru_question": "все равно",
+    "foreign_response": "^\\s*enough is enough\\s*$",
+    "ru_response": "^\\s*хватит\\,? значит хватит\\s*$",
+    "sound": "enough_is_enough",
+    "preview": "enough_is_enough"
+  },
+  {
+    "foreign_question": "It's all the same",
+    "ru_question": "все равно",
+    "foreign_response": "^\\s*(It|That)(\\'| i)s all the same\\s*$",
+    "ru_response": "^\\s*все равно\\s*$",
+    "sound": "it's_all_the_same",
+    "preview": "it's_all_the_same"
+  },
+  {
+    "foreign_question": "to have effect on",
+    "ru_question": "иметь влияние на",
+    "foreign_response": "^\\s*(to )?have (an )?effect on\\s*$",
+    "ru_response": "^\\s*иметь влияние на\\s*$",
+    "sound": "to_have_effect_on",
+    "preview": "to_have_effect_on"
+  }
+]

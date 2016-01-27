@@ -56,6 +56,14 @@
     "preview": "bad"
   },
   {
+    "foreign_question": "bald",
+    "ru_question": "лысый",
+    "foreign_response": "^\\s*bald\\s*$",
+    "ru_response": "^\\s*лысый\\s*$",
+    "sound": "bald",
+    "preview": "bald"
+  },
+  {
     "foreign_question": "be born",
     "ru_question": "родиться, быть рожденным",
     "foreign_response": "^\\s*(be )?born\\s*$",
@@ -192,6 +200,14 @@
     "preview": "convenient"
   },
   {
+    "foreign_question": "creative",
+    "ru_question": "креативный",
+    "foreign_response": "^\\s*creative\\s*$",
+    "ru_response": "^\\s*креативн(ый|ая|ое|ые)\\s*$",
+    "sound": "creative",
+    "preview": "creative"
+  },
+  {
     "foreign_question": "criminal",
     "ru_question": "преступный",
     "foreign_response": "^\\s*criminal\\s*$",
@@ -296,6 +312,22 @@
     "preview": "easy"
   },
   {
+    "foreign_question": "elder",
+    "ru_question": "старший",
+    "foreign_response": "^\\s*elder\\s*$",
+    "ru_response": "^\\s*старш(ий|ая|ые|ее)\\s*$",
+    "sound": "elder",
+    "preview": "elder"
+  },
+  {
+    "foreign_question": "elderly",
+    "ru_question": "пожилой",
+    "foreign_response": "^\\s*elderly\\s*$",
+    "ru_response": "^\\s*пожил(ой|ая|ое|ые)\\s*$",
+    "sound": "elderly",
+    "preview": "elderly"
+  },
+  {
     "foreign_question": "embarassed",
     "ru_question": "смущенный",
     "foreign_response": "^\\s*embarassed\\s*$",
@@ -310,6 +342,14 @@
     "ru_response": "^\\s*эмоциональный\\s*$",
     "sound": "emotional",
     "preview": "emotional"
+  },
+  {
+    "foreign_question": "energetic",
+    "ru_question": "энергичный",
+    "foreign_response": "^\\s*energetic\\s*$",
+    "ru_response": "^\\s*энергичн(ый|ая|ое|ые)\\s*$",
+    "sound": "energetic",
+    "preview": "energetic"
   },
   {
     "foreign_question": "excited",
@@ -406,6 +446,14 @@
     "ru_response": "^\\s*(самый далекий|самый дальний)\\s*$",
     "sound": "farthest",
     "preview": "farthest"
+  },
+  {
+    "foreign_question": "fascinating",
+    "ru_question": "очаровательный",
+    "foreign_response": "^\\s*fascinating\\s*$",
+    "ru_response": "^\\s*очаровательный\\s*$",
+    "sound": "fascinating",
+    "preview": "fascinating"
   },
   {
     "foreign_question": "fashionable",
@@ -723,9 +771,17 @@
     "foreign_question": "married",
     "ru_question": "женат, замужем",
     "foreign_response": "^\\s*married\\s*$",
-    "ru_response": "^\\s*женат, замуж(ем|яя)\\s*$",
+    "ru_response": "^\\s*(женат|замуж(ем|яя))\\s*$",
     "sound": "married",
     "preview": "married"
+  },
+  {
+    "foreign_question": "maternal",
+    "ru_question": "материнский, материнская",
+    "foreign_response": "^\\s*maternal\\s*$",
+    "ru_response": "^\\s*материнск(ий|ая|ое|ие)\\s*$",
+    "sound": "maternal",
+    "preview": "maternal"
   },
   {
     "foreign_question": "medium",
@@ -1040,6 +1096,14 @@
     "preview": "smart"
   },
   {
+    "foreign_question": "soft",
+    "ru_question": "мягкий, нежный (напр. кожа)",
+    "foreign_response": "^\\s*soft\\s*$",
+    "ru_response": "^\\s*(мягкий|нежный)\\s*$",
+    "sound": "soft",
+    "preview": "soft"
+  },
+  {
     "foreign_question": "special",
     "ru_question": "специальный, особенный",
     "foreign_response": "^\\s*special\\s*$",
@@ -1174,6 +1238,22 @@
     "ru_response": "^\\s*(слаб(ый|ая)|хил(ый|ая))\\s*$",
     "sound": "weak",
     "preview": "weak"
+  },
+  {
+    "foreign_question": "warm-hearted",
+    "ru_question": "участливый",
+    "foreign_response": "^\\s*warm-hearted\\s*$",
+    "ru_response": "^\\s*участливый\\s*$",
+    "sound": "warm-hearted",
+    "preview": "warm-hearted"
+  },
+  {
+    "foreign_question": "well known",
+    "ru_question": "общеизвестный",
+    "foreign_response": "^\\s*well known\\s*$",
+    "ru_response": "^\\s*(обще)?известный\\s*$",
+    "sound": "well_known",
+    "preview": "well_known"
   },
   {
     "foreign_question": "wild",

@@ -24,6 +24,14 @@
     "preview": "icon"
   },
   {
+    "foreign_question": "mosque",
+    "ru_question": "мечеть",
+    "foreign_response": "^\\s*mosque\\s*$",
+    "ru_response": "^\\s*мечеть\\s*$",
+    "sound": "mosque",
+    "preview": "mosque"
+  },
+  {
     "foreign_question": "mystery",
     "ru_question": "тайна",
     "foreign_response": "^\\s*mystery\\s*$",
@@ -46,6 +54,14 @@
     "ru_response": "^\\s*дух\\s*$",
     "sound": "spirit",
     "preview": "spirit"
+  },
+  {
+    "foreign_question": "temple",
+    "ru_question": "храм",
+    "foreign_response": "^\\s*temple\\s*$",
+    "ru_response": "^\\s*храм\\s*$",
+    "sound": "temple",
+    "preview": "temple"
   },
   {
     "foreign_question": "The Bible",
